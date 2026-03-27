@@ -1,14 +1,14 @@
 {
   "name": "ZabuluSports",
-  "author": "2026-03-27 21:20:03",
+  "author": "2026-03-27 21:30:36",
   "image": "https://i.postimg.cc/d3Zx14SS/goat.png",
   "url": "https://raw.githubusercontent.com/chemaforas/lista_ace/refs/heads/main/ZabuluS_IDS.w3u",
-  "info": "Actualizado automáticamente: 2026-03-27 21:20",
+  "info": "Actualizado automáticamente: 2026-03-27 21:30",
   "groups": [
     {
       "name": "Eventos",
       "image": "https://i.postimg.cc/C1743dSB/live-streaming.png",
-      "author": "2026-03-27 21:20:03",
+      "author": "2026-03-27 21:30:36",
       "groups": [
         {
           "name": "00:10 - Masters Miami1/4 de Final - F. Cerundolo Vs A. Zverev",
@@ -893,6 +893,27 @@
           ]
         },
         {
+          "name": "11:00 - Torneo de Alicante1/4 de FinalATP Challenger Tour - S. Ofner Vs M. Cecchinato",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "stations": [
+            {
+              "name": "LA 1 TVE 720P *",
+              "url": "acestream://02622fa2fab63847d88dc14fd9fa5c2fc35de8a8",
+              "image": "https://i.ibb.co/swhGnw4/La1.jpg"
+            },
+            {
+              "name": "LA 1 TVE **",
+              "url": "acestream://1fddc49dd11ae7bb16f2b94648a9b4f0efc80349",
+              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
+            },
+            {
+              "name": "LA 1",
+              "url": "acestream://dad5e0e0825cb3e410008f1c4252387b868e740c",
+              "image": "https://i.ibb.co/swhGnw4/La1.jpg"
+            }
+          ]
+        },
+        {
           "name": "11:30 - Fútbol - Flamengo Vs River",
           "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
           "stations": [
@@ -1418,6 +1439,27 @@
           "name": "13:00 - Torneo de Alicante - 1/4 de FinalATP Challenger Tour Vs HBO MAXRTVE Play",
           "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
           "stations": [
+            {
+              "name": "LA 1",
+              "url": "acestream://dad5e0e0825cb3e410008f1c4252387b868e740c",
+              "image": "https://i.ibb.co/swhGnw4/La1.jpg"
+            }
+          ]
+        },
+        {
+          "name": "13:00 - Torneo de Alicante1/4 de FinalATP Challenger Tour - P. Martinez Vs P. Carreño",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "stations": [
+            {
+              "name": "LA 1 TVE 720P *",
+              "url": "acestream://02622fa2fab63847d88dc14fd9fa5c2fc35de8a8",
+              "image": "https://i.ibb.co/swhGnw4/La1.jpg"
+            },
+            {
+              "name": "LA 1 TVE **",
+              "url": "acestream://1fddc49dd11ae7bb16f2b94648a9b4f0efc80349",
+              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
+            },
             {
               "name": "LA 1",
               "url": "acestream://dad5e0e0825cb3e410008f1c4252387b868e740c",
@@ -4024,6 +4066,22 @@
               "name": "MOVISTAR DEPORTES 4",
               "url": "acestream://8b5f9d967384afab226dd759e6e9dfaee9993869",
               "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+            }
+          ]
+        },
+        {
+          "name": "21:00 - EuroligaLiga Regular - Barça Basket Vs Crvena Zvezda MTS Belgrade",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "stations": [
+            {
+              "name": "M+ DEPORTES 1080P *",
+              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ DEPORTES 1080P **",
+              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             }
           ]
         },

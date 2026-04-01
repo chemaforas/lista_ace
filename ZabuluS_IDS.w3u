@@ -1,17 +1,132 @@
 {
   "name": "ZabuluSports",
-  "author": "2026-04-01 18:15:11",
+  "author": "2026-04-01 16:25:18",
   "image": "https://i.postimg.cc/d3Zx14SS/goat.png",
   "url": "https://raw.githubusercontent.com/chemaforas/lista_ace/refs/heads/main/ZabuluS_IDS.w3u",
-  "info": "Actualizado automáticamente: 2026-04-01 18:15",
+  "info": "Actualizado automáticamente: 2026-04-01 16:25",
   "groups": [
     {
       "name": "Eventos",
       "image": "https://i.postimg.cc/C1743dSB/live-streaming.png",
-      "author": "2026-04-01 18:15:11",
+      "author": "2026-04-01 16:25:18",
       "groups": [
         {
-          "name": "11:45 - Ciclismo - UCI World Tour Roeselare › Waregem (184,7 km)",
+          "name": "00:00 - Tenis - D. Yastremska Vs B. Bencic",
+          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/tenis.png",
+          "stations": [
+            {
+              "name": "TENNIS CHANNEL FHD",
+              "url": "acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            },
+            {
+              "name": "TENNIS CHANNEL HD",
+              "url": "acestream://3254851ab35da4a1f1a00911aa8f0da9b7ca5be7",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            },
+            {
+              "name": "TENNIS CHANNEL",
+              "url": "acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "01:30 - Tenis - K. Volynets Vs D. Shnaider",
+          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/tenis.png",
+          "stations": [
+            {
+              "name": "TENNIS CHANNEL FHD",
+              "url": "acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            },
+            {
+              "name": "TENNIS CHANNEL HD",
+              "url": "acestream://3254851ab35da4a1f1a00911aa8f0da9b7ca5be7",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            },
+            {
+              "name": "TENNIS CHANNEL",
+              "url": "acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "02:00 - Baloncesto - Houston Rockets Vs New York Knicks",
+          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/baloncesto.png",
+          "stations": [
+            {
+              "name": "ACB EVENTO 01 720p *",
+              "url": "acestream://8faa686a99697b99261346e479ead172b1d9d5d2",
+              "image": "https://i.postimg.cc/B613K9W3/logo1-16-171737.png"
+            },
+            {
+              "name": "ACB EVENTO 01 720p **",
+              "url": "acestream://23bee556c002d0726c1f0cac98a1901cff0a9239",
+              "image": ""
+            },
+            {
+              "name": "DAZN BALONCESTO FHD",
+              "url": "acestream://15fe785e2dc9d16a7b0a1c49a9ad5a7ab88ef2b7",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png"
+            },
+            {
+              "name": "ACB EVENTO 01 **",
+              "url": "acestream://53962d7fb865aff73b34a3afb2905cd492f60d75",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "name": "04:30 - Baloncesto - Los Angeles Lakers Vs Cleveland Cavaliers",
+          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/baloncesto.png",
+          "stations": [
+            {
+              "name": "ACB EVENTO 02 720p *",
+              "url": "acestream://d7e6b6bb1666740a21099fe6ceb0178a14f58e0c",
+              "image": "https://i.postimg.cc/B613K9W3/logo1-16-171737.png"
+            },
+            {
+              "name": "ACB EVENTO 02 **",
+              "url": "acestream://22b702984a0db43fd371c30e2df150b2336551cd",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "name": "11:00 - Fútbol - FC Barcelona Academy Vs Roma Academy",
+          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/futbol.png",
+          "stations": [
+            {
+              "name": "Esport3 1080p *",
+              "url": "acestream://21bc11d195f5753c396e390c215952d21541d04d",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3 1080p **",
+              "url": "acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3 720p *",
+              "url": "acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3 720p *",
+              "url": "acestream://ff03650163b9456d59ed5f262aa3ab2e19831e6d",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3 720p **",
+              "url": "acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "13:45 - Ciclismo - UCI World Tour Roeselare › Waregem (184,7 km)",
           "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/ciclismo.png",
           "stations": [
             {
@@ -57,8 +172,8 @@
           ]
         },
         {
-          "name": "12:00 - Snooker - Cuartos de final - Sesion 1",
-          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/snooker.png",
+          "name": "14:00 - Snooker - Cuartos de final - Sesion 1",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
           "stations": [
             {
               "name": "Eurosport 1 1080p *",
@@ -103,7 +218,7 @@
           ]
         },
         {
-          "name": "14:15 - Ciclismo - Carrera Femenina Waregem › Waregem (128,8 km)",
+          "name": "16:15 - Ciclismo - Carrera Femenina Waregem › Waregem (128,8 km)",
           "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/ciclismo.png",
           "stations": [
             {
@@ -149,7 +264,7 @@
           ]
         },
         {
-          "name": "15:00 - Tenis - 2a Ronda WTA 500",
+          "name": "17:00 - Tenis - 2a Ronda WTA 500",
           "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/tenis.png",
           "stations": [
             {
@@ -170,7 +285,7 @@
           ]
         },
         {
-          "name": "16:30 - Baloncesto - AEK BC Vs Joventut Badalona",
+          "name": "18:30 - Baloncesto - AEK BC Vs Joventut Badalona",
           "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/baloncesto.png",
           "stations": [
             {
@@ -231,7 +346,7 @@
           ]
         },
         {
-          "name": "17:00 - Fútbol - FC Andorra Vs Malaga",
+          "name": "19:00 - Fútbol - FC Andorra Vs Malaga",
           "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/futbol.png",
           "stations": [
             {
@@ -287,7 +402,7 @@
           ]
         },
         {
-          "name": "17:00 - Baloncesto - FC Bayern Basketball Vs Fenerbahce Istanbul",
+          "name": "19:00 - Baloncesto - FC Bayern Basketball Vs Fenerbahce Istanbul",
           "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/baloncesto.png",
           "stations": [
             {
@@ -333,8 +448,8 @@
           ]
         },
         {
-          "name": "17:30 - Hockey Hierba - SCHC Vs Club Egara",
-          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/hockey-hierba.png",
+          "name": "19:30 - Hockey Hierba - SCHC Vs Club Egara",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
           "stations": [
             {
               "name": "Esport3 1080p *",
@@ -364,7 +479,7 @@
           ]
         },
         {
-          "name": "18:00 - Fútbol - Huesca Vs Cultural Leonesa",
+          "name": "20:00 - Fútbol - Huesca Vs Cultural Leonesa",
           "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/futbol.png",
           "stations": [
             {
@@ -385,7 +500,7 @@
           ]
         },
         {
-          "name": "18:00 - Fútbol - Burgos CF Vs AD Ceuta",
+          "name": "20:00 - Fútbol - Burgos CF Vs AD Ceuta",
           "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/futbol.png",
           "stations": [
             {
@@ -396,8 +511,8 @@
           ]
         },
         {
-          "name": "18:00 - Snooker - Cuartos de final - Sesion 2",
-          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/snooker.png",
+          "name": "20:00 - Snooker - Cuartos de final - Sesion 2",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
           "stations": [
             {
               "name": "Eurosport 1 1080p *",
@@ -442,7 +557,7 @@
           ]
         },
         {
-          "name": "18:30 - Baloncesto - Unicaja Malaga Vs ALBA Berlin",
+          "name": "20:30 - Baloncesto - Unicaja Malaga Vs ALBA Berlin",
           "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/baloncesto.png",
           "stations": [
             {
@@ -478,7 +593,7 @@
           ]
         },
         {
-          "name": "18:30 - Baloncesto - Baskonia Vs Casademont Zaragoza",
+          "name": "20:30 - Baloncesto - Baskonia Vs Casademont Zaragoza",
           "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/baloncesto.png",
           "stations": [
             {
@@ -504,7 +619,7 @@
           ]
         },
         {
-          "name": "19:30 - Fútbol - Racing Santander Vs Sporting Gijon",
+          "name": "21:30 - Fútbol - Racing Santander Vs Sporting Gijon",
           "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/futbol.png",
           "stations": [
             {
@@ -560,8 +675,8 @@
           ]
         },
         {
-          "name": "20:00 - Curling - Suecia - Alemania",
-          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/curling.png",
+          "name": "22:00 - Curling - Suecia - Alemania",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
           "stations": [
             {
               "name": "Eurosport 2 1080p **",

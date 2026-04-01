@@ -1,33 +1,75 @@
 {
   "name": "ZabuluSports",
-  "author": "2026-04-01 18:51:23",
+  "author": "2026-04-01 16:56:52",
   "image": "https://i.postimg.cc/d3Zx14SS/goat.png",
   "url": "https://raw.githubusercontent.com/chemaforas/lista_ace/refs/heads/main/ZabuluS_IDS.w3u",
-  "info": "Actualizado automáticamente: 2026-04-01 18:51",
+  "info": "Actualizado automáticamente: 2026-04-01 16:56",
   "groups": [
     {
       "name": "Eventos",
       "image": "https://i.postimg.cc/C1743dSB/live-streaming.png",
-      "author": "2026-04-01 18:51:23",
+      "author": "2026-04-01 16:56:52",
       "groups": [
         {
-          "name": "02:00 - Baloncesto - Rockets Vs Knicks",
-          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "name": "00:00 - Tenis - D. Yastremska Vs B. Bencic",
+          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/tenis.png",
           "stations": [
             {
-              "name": "NBA EVENTOS 1New Era VI",
-              "url": "acestream://3cd63bd01b6443c715467730a489f1ece7c1a306",
-              "image": ""
+              "name": "TENNIS CHANNEL FHD",
+              "url": "acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
             },
             {
-              "name": "ACB EVENTO 01 720p *720p",
+              "name": "TENNIS CHANNEL HD",
+              "url": "acestream://3254851ab35da4a1f1a00911aa8f0da9b7ca5be7",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            },
+            {
+              "name": "TENNIS CHANNEL",
+              "url": "acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "01:30 - Tenis - K. Volynets Vs D. Shnaider",
+          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/tenis.png",
+          "stations": [
+            {
+              "name": "TENNIS CHANNEL FHD",
+              "url": "acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            },
+            {
+              "name": "TENNIS CHANNEL HD",
+              "url": "acestream://3254851ab35da4a1f1a00911aa8f0da9b7ca5be7",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            },
+            {
+              "name": "TENNIS CHANNEL",
+              "url": "acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "02:00 - Baloncesto - Houston Rockets Vs New York Knicks",
+          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/baloncesto.png",
+          "stations": [
+            {
+              "name": "ACB EVENTO 01 720p *",
               "url": "acestream://8faa686a99697b99261346e479ead172b1d9d5d2",
               "image": "https://i.postimg.cc/B613K9W3/logo1-16-171737.png"
             },
             {
-              "name": "ACB EVENTO 01 **",
-              "url": "acestream://0995b9b77ac6198dd92141369707fb99da09bdb2",
+              "name": "ACB EVENTO 01 720p **",
+              "url": "acestream://23bee556c002d0726c1f0cac98a1901cff0a9239",
               "image": ""
+            },
+            {
+              "name": "DAZN BALONCESTO FHD",
+              "url": "acestream://15fe785e2dc9d16a7b0a1c49a9ad5a7ab88ef2b7",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png"
             },
             {
               "name": "ACB EVENTO 01 **",
@@ -37,232 +79,644 @@
           ]
         },
         {
-          "name": "19:00 - Fútbol - Andorra Vs Malaga",
-          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "name": "04:30 - Baloncesto - Los Angeles Lakers Vs Cleveland Cavaliers",
+          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/baloncesto.png",
           "stations": [
             {
-              "name": "LaLiga TV Hypermotion 720p **720p",
-              "url": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+              "name": "ACB EVENTO 02 720p *",
+              "url": "acestream://d7e6b6bb1666740a21099fe6ceb0178a14f58e0c",
+              "image": "https://i.postimg.cc/B613K9W3/logo1-16-171737.png"
             },
             {
-              "name": "LaLiga TV Hypermotion 720p *720p",
-              "url": "acestream://1f75d92098580443857caa95a719103cb83781b0",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
-            },
-            {
-              "name": "LaLiga TV Hypermotion 3 1080p **1080p",
-              "url": "acestream://1fdb405a6942da0941266f24cdd1c71b11552f1f",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
-            },
-            {
-              "name": "LaLiga TV Hypermotion 2 720p *720p",
-              "url": "acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
-            },
-            {
-              "name": "LaLiga TV Hypermotion 2 1080p **1080p",
-              "url": "acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
-            },
-            {
-              "name": "LaLiga TV Hypermotion 1080p **1080p",
-              "url": "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
-            },
-            {
-              "name": "LaLiga TV Hypermotion 1080p *1080p",
-              "url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
-            },
-            {
-              "name": "HYPERMOTION FHD1080pNew Era VI",
-              "url": "acestream://58b1c4b8cb65d648505b035a04e879672fcd8e3f",
-              "image": ""
-            },
-            {
-              "name": "HYPERMOTION FHD1080pNew Era VI",
-              "url": "acestream://fc129b39c253b887563c3f0dce5fca7e699c3047",
+              "name": "ACB EVENTO 02 **",
+              "url": "acestream://22b702984a0db43fd371c30e2df150b2336551cd",
               "image": ""
             }
           ]
         },
         {
-          "name": "20:00 - Fútbol - Burgos Vs Ceuta",
+          "name": "11:00 - Fútbol - FC Barcelona Academy Vs Roma Academy",
+          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/futbol.png",
+          "stations": [
+            {
+              "name": "Esport3 1080p *",
+              "url": "acestream://21bc11d195f5753c396e390c215952d21541d04d",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3 1080p **",
+              "url": "acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3 720p *",
+              "url": "acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3 720p *",
+              "url": "acestream://ff03650163b9456d59ed5f262aa3ab2e19831e6d",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3 720p **",
+              "url": "acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "13:45 - Ciclismo - UCI World Tour Roeselare › Waregem (184,7 km)",
+          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/ciclismo.png",
+          "stations": [
+            {
+              "name": "Eurosport 2 1080p **",
+              "url": "acestream://24f940fef7e270b6b3ae5d9dc713a80c8345cfba",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2 720p **",
+              "url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2 FHD",
+              "url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc",
+              "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png"
+            },
+            {
+              "name": "EUROSPORT 2 HD",
+              "url": "acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2 HD",
+              "url": "acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2 HD",
+              "url": "acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2 *",
+              "url": "acestream://f5908690485ae2facecf3074446ba4315f07a193",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2 **",
+              "url": "acestream://d01d255aaaf2fb91c0a8c98a826b4bd4769d81c1",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            }
+          ]
+        },
+        {
+          "name": "14:00 - Snooker - Cuartos de final - Sesion 1",
           "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
           "stations": [
             {
-              "name": "LaLiga TV Hypermotion 720p **720p",
-              "url": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+              "name": "Eurosport 1 1080p *",
+              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "LaLiga TV Hypermotion 720p *720p",
-              "url": "acestream://1f75d92098580443857caa95a719103cb83781b0",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+              "name": "Eurosport 1 1080p **",
+              "url": "acestream://0db68ab752b50e6bb257eef22d102c1d29cd92ea",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "LaLiga TV Hypermotion 3 1080p **1080p",
-              "url": "acestream://1fdb405a6942da0941266f24cdd1c71b11552f1f",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+              "name": "Eurosport 1 720p **",
+              "url": "acestream://a7b42f9d65636d1b1d9316d3e91ebe12b192658c",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "LaLiga TV Hypermotion 2 720p *720p",
-              "url": "acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+              "name": "EUROSPORT 1 FHD",
+              "url": "acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "LaLiga TV Hypermotion 2 1080p **1080p",
-              "url": "acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+              "name": "EUROSPORT 1 FHD",
+              "url": "acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "LaLiga TV Hypermotion 1080p **1080p",
-              "url": "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+              "name": "Eurosport 1 HD",
+              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "LaLiga TV Hypermotion 1080p *1080p",
+              "name": "Eurosport 1 HD",
+              "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport",
+              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            }
+          ]
+        },
+        {
+          "name": "16:15 - Ciclismo - Carrera Femenina Waregem › Waregem (128,8 km)",
+          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/ciclismo.png",
+          "stations": [
+            {
+              "name": "Eurosport 2 1080p **",
+              "url": "acestream://24f940fef7e270b6b3ae5d9dc713a80c8345cfba",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2 720p **",
+              "url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2 FHD",
+              "url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc",
+              "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png"
+            },
+            {
+              "name": "EUROSPORT 2 HD",
+              "url": "acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2 HD",
+              "url": "acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2 HD",
+              "url": "acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2 *",
+              "url": "acestream://f5908690485ae2facecf3074446ba4315f07a193",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2 **",
+              "url": "acestream://d01d255aaaf2fb91c0a8c98a826b4bd4769d81c1",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            }
+          ]
+        },
+        {
+          "name": "17:00 - Tenis - 2a Ronda WTA 500",
+          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/tenis.png",
+          "stations": [
+            {
+              "name": "TENNIS CHANNEL FHD",
+              "url": "acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            },
+            {
+              "name": "TENNIS CHANNEL HD",
+              "url": "acestream://3254851ab35da4a1f1a00911aa8f0da9b7ca5be7",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            },
+            {
+              "name": "TENNIS CHANNEL",
+              "url": "acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "18:30 - Baloncesto - AEK BC Vs Joventut Badalona",
+          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/baloncesto.png",
+          "stations": [
+            {
+              "name": "Teledeporte 1080p *",
+              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
+              "image": "https://i.ibb.co/thh1tKH/TDP.jpg"
+            },
+            {
+              "name": "Teledeporte 1080p **",
+              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
+              "image": "https://i.ibb.co/thh1tKH/TDP.jpg"
+            },
+            {
+              "name": "Teledeporte 1080p **",
+              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
+              "image": "https://i.ibb.co/thh1tKH/TDP.jpg"
+            },
+            {
+              "name": "Teledeporte 720p **",
+              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "image": "https://i.ibb.co/thh1tKH/TDP.jpg"
+            },
+            {
+              "name": "TELEDEPORTE FHD",
+              "url": "acestream://2d997da301573c5aba78f969d0d37eb6107941b2",
+              "image": "https://i.ibb.co/thh1tKH/TDP.jpg"
+            },
+            {
+              "name": "TELEDEPORTE FHD",
+              "url": "acestream://7d910d9480e023608d1fe77eaf47c2ed34592155",
+              "image": "https://i.ibb.co/thh1tKH/TDP.jpg"
+            },
+            {
+              "name": "Esport3 1080p *",
+              "url": "acestream://21bc11d195f5753c396e390c215952d21541d04d",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3 1080p **",
+              "url": "acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3 720p *",
+              "url": "acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3 720p *",
+              "url": "acestream://ff03650163b9456d59ed5f262aa3ab2e19831e6d",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3 720p **",
+              "url": "acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "19:00 - Fútbol - FC Andorra Vs Malaga",
+          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/futbol.png",
+          "stations": [
+            {
+              "name": "LaLiga TV Hypermotion 1080p *",
               "url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f",
               "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
             },
             {
-              "name": "HYPERMOTION FHD1080pNew Era VI",
+              "name": "LaLiga TV Hypermotion 1080p **",
+              "url": "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "LaLiga TV Hypermotion 720p *",
+              "url": "acestream://1f75d92098580443857caa95a719103cb83781b0",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "LaLiga TV Hypermotion 720p **",
+              "url": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "HYPERMOTION FHD",
+              "url": "acestream://c457b5614df986a6e6a24ffd9547964820ca65fb",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "HYPERMOTION FHD",
               "url": "acestream://58b1c4b8cb65d648505b035a04e879672fcd8e3f",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "LALIGA HYPERMOTION",
+              "url": "acestream://fc129b39c253b887563c3f0dce5fca7e699c3047",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "SKY Sports LaLiga 1080p *",
+              "url": "acestream://d58f619d860d29cd47720055b9bb842199971da1",
               "image": ""
             },
             {
-              "name": "HYPERMOTION FHD1080pNew Era VI",
-              "url": "acestream://fc129b39c253b887563c3f0dce5fca7e699c3047",
+              "name": "SKY Sports LaLiga 1080p **",
+              "url": "acestream://e9975d38aaa4475ac0b1fa0faa541bbadd85a662",
               "image": ""
+            },
+            {
+              "name": "SKY Sports LaLiga SD **",
+              "url": "acestream://a9bddffdff085cdc18b34218d5dc1093b88e3c0a",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "name": "19:00 - Baloncesto - FC Bayern Basketball Vs Fenerbahce Istanbul",
+          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/baloncesto.png",
+          "stations": [
+            {
+              "name": "M+ Deportes 1080p **",
+              "url": "acestream://2d549bbcd898b09c4b736e6e3e83e8e8c19fcbda",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 1080p *",
+              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 1080p **",
+              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 720p *",
+              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 720p **",
+              "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES FHD",
+              "url": "acestream://332d8fdeb9c51385230b8c9448e047ccc4a6355d",
+              "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES FHD",
+              "url": "acestream://f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5",
+              "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+            },
+            {
+              "name": "M. Deportes HD",
+              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "19:30 - Hockey Hierba - SCHC Vs Club Egara",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "stations": [
+            {
+              "name": "Esport3 1080p *",
+              "url": "acestream://21bc11d195f5753c396e390c215952d21541d04d",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3 1080p **",
+              "url": "acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3 720p *",
+              "url": "acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3 720p *",
+              "url": "acestream://ff03650163b9456d59ed5f262aa3ab2e19831e6d",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3 720p **",
+              "url": "acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
             }
           ]
         },
         {
           "name": "20:00 - Fútbol - Huesca Vs Cultural Leonesa",
-          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/futbol.png",
           "stations": [
             {
-              "name": "LaLiga TV Hypermotion 720p **720p",
-              "url": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd",
+              "name": "LaLiga TV Hypermotion 2 1080p *",
+              "url": "acestream://a5b9d834ad92bfb80fe01bf89cc20bd68be199fb",
               "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
             },
             {
-              "name": "LaLiga TV Hypermotion 720p *720p",
-              "url": "acestream://1f75d92098580443857caa95a719103cb83781b0",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
-            },
-            {
-              "name": "LaLiga TV Hypermotion 3 1080p **1080p",
-              "url": "acestream://1fdb405a6942da0941266f24cdd1c71b11552f1f",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
-            },
-            {
-              "name": "LaLiga TV Hypermotion 2 720p *720p",
-              "url": "acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
-            },
-            {
-              "name": "LaLiga TV Hypermotion 2 1080p **1080p",
+              "name": "LaLiga TV Hypermotion 2 1080p **",
               "url": "acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8",
               "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
             },
             {
-              "name": "LaLiga TV Hypermotion 1080p **1080p",
-              "url": "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
+              "name": "LaLiga TV Hypermotion 2 720p *",
+              "url": "acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55",
               "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
-            },
-            {
-              "name": "LaLiga TV Hypermotion 1080p *1080p",
-              "url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
-            },
-            {
-              "name": "HYPERMOTION FHD1080pNew Era VI",
-              "url": "acestream://58b1c4b8cb65d648505b035a04e879672fcd8e3f",
-              "image": ""
-            },
-            {
-              "name": "HYPERMOTION FHD1080pNew Era VI",
-              "url": "acestream://fc129b39c253b887563c3f0dce5fca7e699c3047",
-              "image": ""
             }
           ]
         },
         {
-          "name": "20:30 - Baloncesto - Unicaja Vs Alba",
+          "name": "20:00 - Fútbol - Burgos CF Vs AD Ceuta",
+          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/futbol.png",
+          "stations": [
+            {
+              "name": "LaLiga TV Hypermotion 3 1080p **",
+              "url": "acestream://1fdb405a6942da0941266f24cdd1c71b11552f1f",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            }
+          ]
+        },
+        {
+          "name": "20:00 - Snooker - Cuartos de final - Sesion 2",
           "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
           "stations": [
             {
-              "name": "Teledeporte 720p **720p",
-              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "name": "Eurosport 1 1080p *",
+              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1 1080p **",
+              "url": "acestream://0db68ab752b50e6bb257eef22d102c1d29cd92ea",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1 720p **",
+              "url": "acestream://a7b42f9d65636d1b1d9316d3e91ebe12b192658c",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 1 FHD",
+              "url": "acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 1 FHD",
+              "url": "acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1 HD",
+              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1 HD",
+              "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport",
+              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            }
+          ]
+        },
+        {
+          "name": "20:30 - Baloncesto - Unicaja Malaga Vs ALBA Berlin",
+          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/baloncesto.png",
+          "stations": [
+            {
+              "name": "Teledeporte 1080p *",
+              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
               "image": "https://i.ibb.co/thh1tKH/TDP.jpg"
             },
             {
-              "name": "Teledeporte 1080p **1080p",
+              "name": "Teledeporte 1080p **",
               "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
               "image": "https://i.ibb.co/thh1tKH/TDP.jpg"
             },
             {
-              "name": "TELEDEPORTE FHD1080pNew Era VI",
+              "name": "Teledeporte 1080p **",
+              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
+              "image": "https://i.ibb.co/thh1tKH/TDP.jpg"
+            },
+            {
+              "name": "Teledeporte 720p **",
+              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "image": "https://i.ibb.co/thh1tKH/TDP.jpg"
+            },
+            {
+              "name": "TELEDEPORTE FHD",
               "url": "acestream://2d997da301573c5aba78f969d0d37eb6107941b2",
+              "image": "https://i.ibb.co/thh1tKH/TDP.jpg"
+            },
+            {
+              "name": "TELEDEPORTE FHD",
+              "url": "acestream://7d910d9480e023608d1fe77eaf47c2ed34592155",
+              "image": "https://i.ibb.co/thh1tKH/TDP.jpg"
+            }
+          ]
+        },
+        {
+          "name": "20:30 - Baloncesto - Baskonia Vs Casademont Zaragoza",
+          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/baloncesto.png",
+          "stations": [
+            {
+              "name": "ACB EVENTO 01 720p *",
+              "url": "acestream://8faa686a99697b99261346e479ead172b1d9d5d2",
+              "image": "https://i.postimg.cc/B613K9W3/logo1-16-171737.png"
+            },
+            {
+              "name": "ACB EVENTO 01 720p **",
+              "url": "acestream://23bee556c002d0726c1f0cac98a1901cff0a9239",
               "image": ""
             },
             {
-              "name": "TELEDEPORTE FHD1080pNew Era VI",
-              "url": "acestream://7d910d9480e023608d1fe77eaf47c2ed34592155",
+              "name": "DAZN BALONCESTO FHD",
+              "url": "acestream://15fe785e2dc9d16a7b0a1c49a9ad5a7ab88ef2b7",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png"
+            },
+            {
+              "name": "ACB EVENTO 01 **",
+              "url": "acestream://53962d7fb865aff73b34a3afb2905cd492f60d75",
               "image": ""
             }
           ]
         },
         {
           "name": "21:30 - Fútbol - Racing Santander Vs Sporting Gijon",
-          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/futbol.png",
           "stations": [
             {
-              "name": "LaLiga TV Hypermotion 720p **720p",
-              "url": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
-            },
-            {
-              "name": "LaLiga TV Hypermotion 720p *720p",
-              "url": "acestream://1f75d92098580443857caa95a719103cb83781b0",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
-            },
-            {
-              "name": "LaLiga TV Hypermotion 3 1080p **1080p",
-              "url": "acestream://1fdb405a6942da0941266f24cdd1c71b11552f1f",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
-            },
-            {
-              "name": "LaLiga TV Hypermotion 2 720p *720p",
-              "url": "acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
-            },
-            {
-              "name": "LaLiga TV Hypermotion 2 1080p **1080p",
-              "url": "acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
-            },
-            {
-              "name": "LaLiga TV Hypermotion 1080p **1080p",
-              "url": "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
-            },
-            {
-              "name": "LaLiga TV Hypermotion 1080p *1080p",
+              "name": "LaLiga TV Hypermotion 1080p *",
               "url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f",
               "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
             },
             {
-              "name": "HYPERMOTION FHD1080pNew Era VI",
+              "name": "LaLiga TV Hypermotion 1080p **",
+              "url": "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "LaLiga TV Hypermotion 720p *",
+              "url": "acestream://1f75d92098580443857caa95a719103cb83781b0",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "LaLiga TV Hypermotion 720p **",
+              "url": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "HYPERMOTION FHD",
+              "url": "acestream://c457b5614df986a6e6a24ffd9547964820ca65fb",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "HYPERMOTION FHD",
               "url": "acestream://58b1c4b8cb65d648505b035a04e879672fcd8e3f",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "LALIGA HYPERMOTION",
+              "url": "acestream://fc129b39c253b887563c3f0dce5fca7e699c3047",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "SKY Sports LaLiga 1080p *",
+              "url": "acestream://d58f619d860d29cd47720055b9bb842199971da1",
               "image": ""
             },
             {
-              "name": "HYPERMOTION FHD1080pNew Era VI",
-              "url": "acestream://fc129b39c253b887563c3f0dce5fca7e699c3047",
+              "name": "SKY Sports LaLiga 1080p **",
+              "url": "acestream://e9975d38aaa4475ac0b1fa0faa541bbadd85a662",
               "image": ""
+            },
+            {
+              "name": "SKY Sports LaLiga SD **",
+              "url": "acestream://a9bddffdff085cdc18b34218d5dc1093b88e3c0a",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "name": "22:00 - Curling - Suecia - Alemania",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "stations": [
+            {
+              "name": "Eurosport 2 1080p **",
+              "url": "acestream://24f940fef7e270b6b3ae5d9dc713a80c8345cfba",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2 720p **",
+              "url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2 FHD",
+              "url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc",
+              "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png"
+            },
+            {
+              "name": "EUROSPORT 2 HD",
+              "url": "acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2 HD",
+              "url": "acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2 HD",
+              "url": "acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2 *",
+              "url": "acestream://f5908690485ae2facecf3074446ba4315f07a193",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2 **",
+              "url": "acestream://d01d255aaaf2fb91c0a8c98a826b4bd4769d81c1",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             }
           ]
         }

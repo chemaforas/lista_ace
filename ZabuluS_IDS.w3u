@@ -1,15 +1,72 @@
 {
   "name": "ZabuluSports",
-  "author": "2026-04-02 02:07:31",
+  "author": "2026-04-02 02:18:00",
   "image": "https://i.postimg.cc/d3Zx14SS/goat.png",
   "url": "https://raw.githubusercontent.com/chemaforas/lista_ace/refs/heads/main/ZabuluS_IDS.w3u",
-  "info": "Actualizado automáticamente: 2026-04-02 02:07",
+  "info": "Actualizado automáticamente: 2026-04-02 02:18",
   "groups": [
     {
       "name": "Eventos",
       "image": "https://i.postimg.cc/C1743dSB/live-streaming.png",
-      "author": "2026-04-02 02:07:31",
+      "author": "2026-04-02 02:18:00",
       "groups": [
+        {
+          "name": "00:30 - Serie A Brasil - Internacional Vs São Paulo",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "stations": [
+            {
+              "name": "LIGA DE CAMPEONES",
+              "url": "acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc",
+              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "LIGA DE CAMPEONES",
+              "url": "acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a",
+              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "LIGA DE CAMPEONES",
+              "url": "acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0",
+              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "LIGA DE CAMPEONES",
+              "url": "acestream://afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f",
+              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "LIGA DE CAMPEONES",
+              "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
+              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "LIGA DE CAMPEONES 11",
+              "url": "acestream://6e12a5849a4edea248ed9c8689e58bd66fc9f8fa",
+              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "LIGA DE CAMPEONES 12",
+              "url": "acestream://130d37f9a68bd8f29f0d636dcde522a1e91d1cb7",
+              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "01:30 - NBALiga Regular - Miami Heat Vs Boston Celtics",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "stations": [
+            {
+              "name": "NBA EVENTOS 1",
+              "url": "acestream://3cd63bd01b6443c715467730a489f1ece7c1a306",
+              "image": ""
+            },
+            {
+              "name": "NBA TV",
+              "url": "acestream://b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd8073",
+              "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png"
+            }
+          ]
+        },
         {
           "name": "02:00 - Baloncesto - Golden State Warriors Vs San Antonio Spurs",
           "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/baloncesto.png",
@@ -57,6 +114,48 @@
             },
             {
               "name": "MOVISTAR GOLF HD",
+              "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
+              "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
+            }
+          ]
+        },
+        {
+          "name": "04:00 - NBALiga Regular - Golden State Warriors Vs San Antonio Spurs",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "stations": [
+            {
+              "name": "NBA EVENTOS 1",
+              "url": "acestream://3cd63bd01b6443c715467730a489f1ece7c1a306",
+              "image": ""
+            },
+            {
+              "name": "NBA TV",
+              "url": "acestream://b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd8073",
+              "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png"
+            }
+          ]
+        },
+        {
+          "name": "06:00 - International Series Japan - Jornada 1 Vs Movistar Golf (M67)",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "stations": [
+            {
+              "name": "M+ GOLF 720P *",
+              "url": "acestream://f60535a458b3c114283e2f433379144345beddd6",
+              "image": ""
+            },
+            {
+              "name": "MOVISTAR GOLF",
+              "url": "acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031",
+              "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
+            },
+            {
+              "name": "MOVISTAR GOLF",
+              "url": "acestream://9be118a64eb603b5eb62be6cf27631d3891b5174",
+              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
+            },
+            {
+              "name": "MOVISTAR GOLF",
               "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
               "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
             }
@@ -587,6 +686,58 @@
           ]
         },
         {
+          "name": "19:00 - LaLiga Hypermotion - UD Las Palmas Vs Granada CF",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "stations": [
+            {
+              "name": "LALIGA TV HYPERMOTION 720P *",
+              "url": "acestream://1f75d92098580443857caa95a719103cb83781b0",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "LALIGA TV HYPERMOTION 720P **",
+              "url": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "LALIGA TV HYPERMOTION 1080P *",
+              "url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "LALIGA TV HYPERMOTION 1080P **",
+              "url": "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "HYPERMOTION",
+              "url": "acestream://58b1c4b8cb65d648505b035a04e879672fcd8e3f",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "HYPERMOTION",
+              "url": "acestream://fc129b39c253b887563c3f0dce5fca7e699c3047",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            }
+          ]
+        },
+        {
+          "name": "19:00 - EuroligaLiga Regular - Hapoel Tel Aviv BC Vs Panathinaikos BC",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "stations": [
+            {
+              "name": "M+ DEPORTES 1080P *",
+              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ DEPORTES 1080P **",
+              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            }
+          ]
+        },
+        {
           "name": "19:30 - Fútbol - Leganes Vs Real Zaragoza",
           "image": "https://raw.githubusercontent.com/chemaforas/lista_ace/main/icons_png/futbol.png",
           "stations": [
@@ -659,6 +810,148 @@
               "name": "SKY Sports LaLiga SD **",
               "url": "acestream://a9bddffdff085cdc18b34218d5dc1093b88e3c0a",
               "image": ""
+            }
+          ]
+        },
+        {
+          "name": "20:00 - LaLiga Hypermotion - Real Sociedad B Vs Eibar",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "stations": [
+            {
+              "name": "LALIGA TV HYPERMOTION 3 1080P **",
+              "url": "acestream://1fdb405a6942da0941266f24cdd1c71b11552f1f",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            }
+          ]
+        },
+        {
+          "name": "20:00 - LaLiga Hypermotion - CD Castellon Vs UD Almeria",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "stations": [
+            {
+              "name": "LALIGA TV HYPERMOTION 2 720P *",
+              "url": "acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "LALIGA TV HYPERMOTION 2 1080P **",
+              "url": "acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            }
+          ]
+        },
+        {
+          "name": "20:00 - EuroligaLiga Regular - Crvena Zvezda MTS Belgrade Vs BC Partizan Beograd",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "stations": [
+            {
+              "name": "MOVISTAR DEPORTES 2",
+              "url": "acestream://edd06f11e1cef292a1d795e15207ef2f580e298c",
+              "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES 2",
+              "url": "acestream://6e212a916c83638268047dd2757c95b14f7d25a3",
+              "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES 2",
+              "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
+              "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+            }
+          ]
+        },
+        {
+          "name": "20:00 - EuroligaLiga Regular - Dubai Basketball Vs AS Monaco Basket",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "stations": [
+            {
+              "name": "MOVISTAR DEPORTES 3",
+              "url": "acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0",
+              "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+            }
+          ]
+        },
+        {
+          "name": "20:45 - EuroligaLiga Regular - Paris Basketball Vs AX Olimpia Milano",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "stations": [
+            {
+              "name": "MOVISTAR DEPORTES 5",
+              "url": "acestream://3230cdca852a10325222e3c546e499e31d547a90",
+              "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+            }
+          ]
+        },
+        {
+          "name": "21:00 - EuroligaLiga Regular - Maccabi Tel Aviv BC Vs Anadolu Efes Istanbul",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "stations": [
+            {
+              "name": "MOVISTAR DEPORTES 4",
+              "url": "acestream://58a4c880ab18486d914751db32a12760e74b75a4",
+              "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES 4",
+              "url": "acestream://3f97bafa133b10cfe5c62311e11501326d886a53",
+              "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES 4",
+              "url": "acestream://8b5f9d967384afab226dd759e6e9dfaee9993869",
+              "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+            }
+          ]
+        },
+        {
+          "name": "21:30 - LaLiga Hypermotion - Leganes Vs Real Zaragoza",
+          "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+          "stations": [
+            {
+              "name": "LALIGA TV HYPERMOTION 720P *",
+              "url": "acestream://1f75d92098580443857caa95a719103cb83781b0",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "LALIGA TV HYPERMOTION 720P **",
+              "url": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "LALIGA TV HYPERMOTION 1080P *",
+              "url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "LALIGA TV HYPERMOTION 1080P **",
+              "url": "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "HYPERMOTION",
+              "url": "acestream://58b1c4b8cb65d648505b035a04e879672fcd8e3f",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "HYPERMOTION",
+              "url": "acestream://fc129b39c253b887563c3f0dce5fca7e699c3047",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "GOL PLAY",
+              "url": "acestream://9fb99c40a2c45d5c5342b30626eb56140f980612",
+              "image": "https://i.postimg.cc/cCThLjpn/gol-play.png"
+            },
+            {
+              "name": "GOL PLAY",
+              "url": "acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a",
+              "image": "https://i.postimg.cc/cCThLjpn/gol-play.png"
+            },
+            {
+              "name": "GOL PLAY",
+              "url": "acestream://73094658f0a3ed523c0e188de67a7a690c0d4f93",
+              "image": "https://i.postimg.cc/cCThLjpn/gol-play.png"
             }
           ]
         },

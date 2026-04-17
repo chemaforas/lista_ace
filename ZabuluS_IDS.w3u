@@ -1,8 +1,8 @@
 {
   "name": "ZabuluSports",
-  "author": "Actualizado: 2026-04-17 08:15:45",
+  "author": "Actualizado: 2026-04-17 10:30:44",
   "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2Fd3Zx14SS%2Fgoat.png",
-  "info": "Actualizado automáticamente: 2026-04-17 08:15",
+  "info": "Actualizado automáticamente: 2026-04-17 10:30",
   "groups": [
     {
       "name": "Eventos",
@@ -4441,6 +4441,56 @@
       "info": "Canales en formato M3U (directos)",
       "stations": [
         {
+          "name": "BUNDESLIGA",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fan%2F3%2F3e%2FBundesliga-Logo-2010.png",
+          "url": "http://190.92.10.66:4000/play/a006/index.m3u8"
+        },
+        {
+          "name": "LA LIGA",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fassets.laliga.com%2Fassets%2Flogos%2FLL_RGB_h_color%2FLL_RGB_h_color.png",
+          "url": "http://190.92.10.66:4000/play/a001/index.m3u8"
+        },
+        {
+          "name": "DirecTV SPORT",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fwww.vhv.rs%2Fdpng%2Fd%2F399-3996331_directv-sports-latin-america-directv-sports-logo-png.png",
+          "url": "http://217.26.190.76:8888/play/a0co/index.m3u8"
+        },
+        {
+          "name": "DirecTV+",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fwww.vhv.rs%2Fdpng%2Fd%2F399-3996331_directv-sports-latin-america-directv-sports-logo-png.png",
+          "url": "http://217.26.190.76:8888/play/a0jb/index.m3u8"
+        },
+        {
+          "name": "ESPN",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1dg0RgP%2FESPN.png",
+          "url": "http://217.26.190.76:8888/play/a0ee/index.m3u8"
+        },
+        {
+          "name": "ESPN 4",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1dg0RgP%2FESPN.png",
+          "url": "http://217.26.190.76:8888/play/a0jy/index.m3u8"
+        },
+        {
+          "name": "ESPN 5HD",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1dg0RgP%2FESPN.png",
+          "url": "http://217.26.190.76:8888/play/a0kh/index.m3u8"
+        },
+        {
+          "name": "ESPN 6",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1dg0RgP%2FESPN.png",
+          "url": "http://217.26.190.76:8888/play/a0fa/index.m3u8"
+        },
+        {
+          "name": "ESPN 7",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1dg0RgP%2FESPN.png",
+          "url": "http://217.26.190.76:8888/play/a0g2/index.m3u8"
+        },
+        {
+          "name": "ESPN Premium",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FryfbqnHm%2FEspn-Premium.png",
+          "url": "http://217.26.190.76:8888/play/a0es/index.m3u8"
+        },
+        {
           "name": "Espn Premium",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FryfbqnHm%2FEspn-Premium.png",
           "url": "http://190.95.60.228:8500/play/a09v"
@@ -4806,39 +4856,14 @@
           "url": "http://200.12.41.194:8000/play/a089/index.m3u8"
         },
         {
-          "name": "BUNDESLIGA",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fan%2F3%2F3e%2FBundesliga-Logo-2010.png",
-          "url": "http://190.92.10.66:4000/play/a006/index.m3u8"
-        },
-        {
           "name": "ESPN DEPORTES USA",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1dg0RgP%2FESPN.png",
           "url": "http://190.92.10.66:4000/play/a003/index.m3u8"
         },
         {
-          "name": "LA LIGA",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fassets.laliga.com%2Fassets%2Flogos%2FLL_RGB_h_color%2FLL_RGB_h_color.png",
-          "url": "http://190.92.10.66:4000/play/a001/index.m3u8"
-        },
-        {
           "name": "TUDN USA HD",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fimages.seeklogo.com%2Flogo-png%2F36%2F1%2Ftudn-logo-png_seeklogo-368749.png",
           "url": "http://190.92.10.66:4000/play/a002/index.m3u8"
-        },
-        {
-          "name": "DirecTV SPORT",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fwww.vhv.rs%2Fdpng%2Fd%2F399-3996331_directv-sports-latin-america-directv-sports-logo-png.png",
-          "url": "http://217.26.190.76:8888/play/a0co/index.m3u8"
-        },
-        {
-          "name": "DirecTV+",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fwww.vhv.rs%2Fdpng%2Fd%2F399-3996331_directv-sports-latin-america-directv-sports-logo-png.png",
-          "url": "http://217.26.190.76:8888/play/a0jb/index.m3u8"
-        },
-        {
-          "name": "ESPN",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1dg0RgP%2FESPN.png",
-          "url": "http://217.26.190.76:8888/play/a0ee/index.m3u8"
         },
         {
           "name": "ESPN 2 HD",
@@ -4849,31 +4874,6 @@
           "name": "ESPN 3",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1dg0RgP%2FESPN.png",
           "url": "http://217.26.190.76:8888/play/a0k0/index.m3u8"
-        },
-        {
-          "name": "ESPN 4",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1dg0RgP%2FESPN.png",
-          "url": "http://217.26.190.76:8888/play/a0jy/index.m3u8"
-        },
-        {
-          "name": "ESPN 5HD",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1dg0RgP%2FESPN.png",
-          "url": "http://217.26.190.76:8888/play/a0kh/index.m3u8"
-        },
-        {
-          "name": "ESPN 6",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1dg0RgP%2FESPN.png",
-          "url": "http://217.26.190.76:8888/play/a0fa/index.m3u8"
-        },
-        {
-          "name": "ESPN 7",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1dg0RgP%2FESPN.png",
-          "url": "http://217.26.190.76:8888/play/a0g2/index.m3u8"
-        },
-        {
-          "name": "ESPN Premium",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FryfbqnHm%2FEspn-Premium.png",
-          "url": "http://217.26.190.76:8888/play/a0es/index.m3u8"
         },
         {
           "name": "UNIVISION MIAMI",

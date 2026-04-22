@@ -1,186 +1,405 @@
 {
   "name": "ZabuluSports",
-  "author": "Actualizado: 2026-04-21 20:45:28",
+  "author": "Actualizado: 2026-04-22 00:13:32",
   "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2Fd3Zx14SS%2Fgoat.png",
-  "info": "Actualizado automáticamente: 2026-04-21 20:45",
+  "info": "Actualizado automáticamente: 2026-04-22 00:13",
   "groups": [
     {
       "name": "Eventos",
       "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1743dSB%2Flive-streaming.png",
-      "info": "Eventos del día 21/04/2026",
+      "info": "Eventos del día 22/04/2026",
       "groups": [
         {
-          "name": "Zakharova - Osorio",
-          "info": "15:00 - Tenis - Madrid Master",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1743dSB%2Flive_streaming.png",
+          "name": "San Antonio Spurs - Portland Trail Blazers",
+          "info": "00:00 - Baloncesto - NBA: Playoffs",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2Fb5avuq1759233773.jpg",
           "stations": [
             {
-              "name": "MOVISTAR DEPORTES 3 HD",
-              "url": "acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FW3pV5642%2FLa-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+              "name": "ACB EVENTO 01 720p *",
+              "url": "acestream://8faa686a99697b99261346e479ead172b1d9d5d2",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FB613K9W3%2Flogo1-16-171737.png"
             },
             {
-              "name": "MOVISTAR DEPORTES 3 FHD",
-              "url": "acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FDynjPV8K%2FDeportes-por-Movistar-3-2022-logo.png"
+              "name": "ACB EVENTO 01 720p **",
+              "url": "acestream://23bee556c002d0726c1f0cac98a1901cff0a9239",
+              "image": ""
+            },
+            {
+              "name": "ACB EVENTO 01 **",
+              "url": "acestream://0995b9b77ac6198dd92141369707fb99da09bdb2",
+              "image": ""
+            },
+            {
+              "name": "ACB EVENTO 01 **",
+              "url": "acestream://53962d7fb865aff73b34a3afb2905cd492f60d75",
+              "image": ""
             }
           ]
         },
         {
-          "name": "Stearns - Boisson",
-          "info": "15:30 - Tenis - Madrid Master",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1743dSB%2Flive_streaming.png",
+          "name": "Temporada Primavera. 22/04/2026",
+          "info": "08:40 - Hípica - Hipódromo de San Sebastián",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fhipica.png",
           "stations": [
             {
-              "name": "MOVISTAR DEPORTES 2 HD",
-              "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FW3pV5642%2FLa-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+              "name": "M+ Deportes 1080p **",
+              "url": "acestream://2d549bbcd898b09c4b736e6e3e83e8e8c19fcbda",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "MOVISTAR DEPORTES 2 FHD",
-              "url": "acestream://edd06f11e1cef292a1d795e15207ef2f580e298c",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FW3pV5642%2FLa-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+              "name": "M+ Deportes 1080p *",
+              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "MOVISTAR DEPORTES 2 FHD",
-              "url": "acestream://6e212a916c83638268047dd2757c95b14f7d25a3",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FW3pV5642%2FLa-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+              "name": "M+ Deportes 1080p **",
+              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FMG3kQP9S%2FDeportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "LIGA DE CAMPEONES 3 FHD",
-              "url": "acestream://17b8bc4bf8e29547b0071c742e3d7da3bcbc484d",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FTY47pLc4%2FLiga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+              "name": "M+ Deportes 720p *",
+              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FMG3kQP9S%2FDeportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "LIGA DE CAMPEONES 3 FHD",
-              "url": "acestream://07976f79d17a439d7aff46cf0d4cfdf80311caf5",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FTY47pLc4%2FLiga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+              "name": "M+ Deportes 720p **",
+              "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FMG3kQP9S%2FDeportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "LIGA DE CAMPEONES 3 FHD",
-              "url": "acestream://66b373c0da20ac615996dbd1c340087f50a9a39e",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FTY47pLc4%2FLiga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+              "name": "MOVISTAR DEPORTES FHD",
+              "url": "acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             },
             {
-              "name": "LIGA DE CAMPEONES 3",
-              "url": "acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FTY47pLc4%2FLiga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+              "name": "MOVISTAR DEPORTES FHD",
+              "url": "acestream://332d8fdeb9c51385230b8c9448e047ccc4a6355d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES FHD",
+              "url": "acestream://f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES",
+              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+            },
+            {
+              "name": "M. Deportes HD",
+              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             }
           ]
         },
         {
-          "name": "Athletic Club - Osasuna",
-          "info": "17:00 - Fútbol - LaLiga EA SportsLaLiga",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2Fbp9sts1751450346.jpg",
+          "name": "Primera ronda - Dia 5",
+          "info": "09:00 - Snooker - Mundial",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fsnooker.png",
           "stations": [
             {
-              "name": "Sky Sports LaLiga HD",
-              "url": "acestream://2fab80a8445e31cb98169c0907600e1545ea8557",
-              "image": ""
+              "name": "Eurosport 1 1080p *",
+              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
             },
             {
-              "name": "M+ LaLiga 720p",
-              "url": "acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58",
-              "image": ""
+              "name": "Eurosport 1 1080p **",
+              "url": "acestream://0db68ab752b50e6bb257eef22d102c1d29cd92ea",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
             },
             {
-              "name": "M+ LaLiga 720p",
-              "url": "acestream://f863873de9f7b2996dde19a0657dd89835af3007",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FW3pV5642%2FLa-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+              "name": "Eurosport 1 720p **",
+              "url": "acestream://a7b42f9d65636d1b1d9316d3e91ebe12b192658c",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
             },
             {
-              "name": "M+ LaLiga 720p",
-              "url": "acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FW3pV5642%2FLa-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+              "name": "EUROSPORT 1 FHD",
+              "url": "acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
             },
             {
-              "name": "M+ LaLiga 1080p",
-              "url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947",
-              "image": ""
+              "name": "EUROSPORT 1 FHD",
+              "url": "acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
             },
             {
-              "name": "M+ LaLiga 1080p",
-              "url": "acestream://c9321006921967d6258df6945f1d598a5c0cbf1e",
-              "image": ""
+              "name": "Eurosport 1 HD",
+              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
             },
             {
-              "name": "M+ LaLiga 1080p",
-              "url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74",
-              "image": ""
+              "name": "Eurosport 1 HD",
+              "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
             },
             {
-              "name": "M+ LALIGA FHD",
-              "url": "acestream://b0260a1261eb3817c353ef0a6862747dee18cdda",
-              "image": ""
+              "name": "Eurosport",
+              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
+            }
+          ]
+        },
+        {
+          "name": "1a Ronda - ATP Masters 1000",
+          "info": "09:05 - Tenis - Masters Madrid",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
+            {
+              "name": "Teledeporte 1080p *",
+              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
             },
             {
-              "name": "M+ LALIGA FHD",
-              "url": "acestream://af468a318ad209b29a042a9080b519c6b40cec79",
-              "image": ""
+              "name": "Teledeporte 1080p **",
+              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             },
             {
-              "name": "M+ LALIGA FHD",
-              "url": "acestream://af458073c3096293a4dea9f369d4f308e7125bd6",
-              "image": ""
+              "name": "Teledeporte 1080p **",
+              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             },
             {
-              "name": "M+ LALIGA FHD",
-              "url": "acestream://b3bdd6ef7f795c4f321a3ce5cf4907338f462929",
-              "image": ""
+              "name": "Teledeporte 720p **",
+              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             },
             {
-              "name": "M+ LALIGA 4",
-              "url": "acestream://22178d72e0f255dedd7e56f9474fea879289a6f1",
-              "image": ""
+              "name": "TELEDEPORTE FHD",
+              "url": "acestream://2d997da301573c5aba78f969d0d37eb6107941b2",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
             },
             {
-              "name": "M+ LALIGA 3 FHD",
-              "url": "acestream://c9afaf4965ad627ea6983fec9f63e0c1e857028d",
-              "image": ""
+              "name": "TELEDEPORTE FHD",
+              "url": "acestream://7d910d9480e023608d1fe77eaf47c2ed34592155",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
+            }
+          ]
+        },
+        {
+          "name": "1a Ronda - WTA 1000",
+          "info": "09:05 - Tenis - WTA Madrid",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
+            {
+              "name": "Teledeporte 1080p *",
+              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
             },
             {
-              "name": "M+ LALIGA 3",
-              "url": "acestream://571ce113b9d600a145766443d7417eccab2e1846",
-              "image": ""
+              "name": "Teledeporte 1080p **",
+              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             },
             {
-              "name": "M+ LALIGA 2 FHD",
-              "url": "acestream://caa631e8850e3eb5e7c039063dd8a339ccef1176",
-              "image": ""
+              "name": "Teledeporte 1080p **",
+              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             },
             {
-              "name": "M+ LALIGA 2",
-              "url": "acestream://b8eb9c9868d487402569bba2d97a8af113d033fe",
-              "image": ""
+              "name": "Teledeporte 720p **",
+              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             },
             {
-              "name": "M+ LALIGA",
-              "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
-              "image": ""
+              "name": "TELEDEPORTE FHD",
+              "url": "acestream://2d997da301573c5aba78f969d0d37eb6107941b2",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
             },
             {
-              "name": "DAZN LaLiga 720p",
-              "url": "acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FHxsLWGGn%2Fdazn-laliga-new.png"
+              "name": "TELEDEPORTE FHD",
+              "url": "acestream://7d910d9480e023608d1fe77eaf47c2ed34592155",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
+            }
+          ]
+        },
+        {
+          "name": "Etapa 3 - Latsch › Arco (174,5 km)",
+          "info": "10:35 - Ciclismo - Tour de los Alpes",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
+          "stations": [
+            {
+              "name": "Eurosport 2 1080p **",
+              "url": "acestream://24f940fef7e270b6b3ae5d9dc713a80c8345cfba",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
             },
             {
-              "name": "DAZN LaLiga 1080p",
+              "name": "Eurosport 2 720p **",
+              "url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2 FHD",
+              "url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FyN6cFvWX%2FFight-new.png"
+            },
+            {
+              "name": "EUROSPORT 2 HD",
+              "url": "acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2 HD",
+              "url": "acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2 HD",
+              "url": "acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2 *",
+              "url": "acestream://f5908690485ae2facecf3074446ba4315f07a193",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2 **",
+              "url": "acestream://d01d255aaaf2fb91c0a8c98a826b4bd4769d81c1",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
+            }
+          ]
+        },
+        {
+          "name": "Liaoning Tieren FC - Dalian Yingbo",
+          "info": "11:35 - Fútbol - Liga China",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
+          "stations": [
+            {
+              "name": "GOL PLAY FHD",
+              "url": "acestream://9fb99c40a2c45d5c5342b30626eb56140f980612",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FcCThLjpn%2Fgol-play.png"
+            },
+            {
+              "name": "GOL PLAY FHD",
+              "url": "acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FcCThLjpn%2Fgol-play.png"
+            }
+          ]
+        },
+        {
+          "name": "UCI World Tour - Herstal › Huy (208,8 km)",
+          "info": "12:30 - Ciclismo - Flecha Valona",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
+          "stations": [
+            {
+              "name": "Eurosport 2 1080p **",
+              "url": "acestream://24f940fef7e270b6b3ae5d9dc713a80c8345cfba",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2 720p **",
+              "url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2 FHD",
+              "url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FyN6cFvWX%2FFight-new.png"
+            },
+            {
+              "name": "EUROSPORT 2 HD",
+              "url": "acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2 HD",
+              "url": "acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2 HD",
+              "url": "acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2 *",
+              "url": "acestream://f5908690485ae2facecf3074446ba4315f07a193",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2 **",
+              "url": "acestream://d01d255aaaf2fb91c0a8c98a826b4bd4769d81c1",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
+            }
+          ]
+        },
+        {
+          "name": "Carrera Femenina - Huy › Mur de Huy (148,2 km)",
+          "info": "14:45 - Ciclismo - Flecha Valona",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
+          "stations": [
+            {
+              "name": "Eurosport 2 1080p **",
+              "url": "acestream://24f940fef7e270b6b3ae5d9dc713a80c8345cfba",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2 720p **",
+              "url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2 FHD",
+              "url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FyN6cFvWX%2FFight-new.png"
+            },
+            {
+              "name": "EUROSPORT 2 HD",
+              "url": "acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2 HD",
+              "url": "acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2 HD",
+              "url": "acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2 *",
+              "url": "acestream://f5908690485ae2facecf3074446ba4315f07a193",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2 **",
+              "url": "acestream://d01d255aaaf2fb91c0a8c98a826b4bd4769d81c1",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
+            }
+          ]
+        },
+        {
+          "name": "Elche - At. Madrid",
+          "info": "17:00 - Fútbol - Primera",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
+          "stations": [
+            {
+              "name": "DAZN LaLiga 1080p **",
               "url": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FHxsLWGGn%2Fdazn-laliga-new.png"
             },
             {
-              "name": "DAZN LA LIGA 2 FHD",
-              "url": "acestream://635b61c1f240449163260cd914d10d886a54fee3",
+              "name": "DAZN LaLiga 1080p *",
+              "url": "acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FHxsLWGGn%2Fdazn-laliga-new.png"
             },
             {
-              "name": "DAZN LA LIGA 1 FHD",
-              "url": "acestream://d1596a3988b84a4d2711fd380eb8a53256ad74ae",
+              "name": "DAZN LaLiga 1080p **",
+              "url": "acestream://4955867fad3bc92e5b4c36045699fc277800fb18",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FHxsLWGGn%2Fdazn-laliga-new.png"
             },
             {
-              "name": "DAZN LA LIGA 1 FHD",
-              "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc",
+              "name": "DAZN LaLiga 720p *",
+              "url": "acestream://eb4975702ceadca7ed74f8707e17a9f55569dbb9",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FHxsLWGGn%2Fdazn-laliga-new.png"
+            },
+            {
+              "name": "DAZN LaLiga 720p **",
+              "url": "acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FHxsLWGGn%2Fdazn-laliga-new.png"
             },
             {
@@ -189,260 +408,251 @@
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FHxsLWGGn%2Fdazn-laliga-new.png"
             },
             {
-              "name": "DAZN LA LIGA 1",
-              "url": "acestream://8a25653a2f774f4ae1062d38a30dcd714d304a3a",
+              "name": "DAZN LA LIGA 1 FHD",
+              "url": "acestream://d1596a3988b84a4d2711fd380eb8a53256ad74ae",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FHxsLWGGn%2Fdazn-laliga-new.png"
+            },
+            {
+              "name": "DAZN LALIGA",
+              "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FHxsLWGGn%2Fdazn-laliga-new.png"
             },
             {
               "name": "DAZN LA LIGA 1",
               "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FHxsLWGGn%2Fdazn-laliga-new.png"
+            },
+            {
+              "name": "DAZN LaLiga",
+              "url": "acestream://99171f30c83bf7ab5df28b39607c91334cc60e4b",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FHxsLWGGn%2Fdazn-laliga-new.png"
+            },
+            {
+              "name": "DAZN LaLiga **",
+              "url": "acestream://9c75f1d190c518cfe0f236415b8dccc1f676ef3b",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FHxsLWGGn%2Fdazn-laliga-new.png"
+            },
+            {
+              "name": "SKY Sports LaLiga 1080p *",
+              "url": "acestream://d58f619d860d29cd47720055b9bb842199971da1",
+              "image": ""
+            },
+            {
+              "name": "SKY Sports LaLiga 1080p **",
+              "url": "acestream://e9975d38aaa4475ac0b1fa0faa541bbadd85a662",
+              "image": ""
+            },
+            {
+              "name": "SKY Sports LaLiga SD **",
+              "url": "acestream://a9bddffdff085cdc18b34218d5dc1093b88e3c0a",
+              "image": ""
             }
           ]
         },
         {
-          "name": "Mallorca - Valencia",
-          "info": "17:00 - Fútbol - LaLiga EA SportsLaLiga",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2Fwg9z7f1751450354.jpg",
+          "name": "Espanyol Femenino - FC Barcelona Femenino",
+          "info": "17:00 - Fútbol - Liga Fem.",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2Fycb2e31752000642.jpg",
           "stations": [
             {
-              "name": "M+ LaLiga 720p",
-              "url": "acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58",
-              "image": ""
+              "name": "DAZN 2 ** 1080",
+              "url": "acestream://f12038c7fe603ed93fa9475d60692dd95bb7b17f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
             },
             {
-              "name": "M+ LaLiga 720p",
-              "url": "acestream://f863873de9f7b2996dde19a0657dd89835af3007",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FW3pV5642%2FLa-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+              "name": "DAZN 2 1080p *",
+              "url": "acestream://01ce89b571b6c89bc19ccaafc913d483ac65c61d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
             },
             {
-              "name": "M+ LaLiga 720p",
-              "url": "acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FW3pV5642%2FLa-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+              "name": "DAZN 2 1080p **",
+              "url": "acestream://d60b8c154828cb990b7bb1570764b215bd979e74",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
             },
             {
-              "name": "M+ LaLiga 1080p",
-              "url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947",
-              "image": ""
+              "name": "DAZN 2 1080p **",
+              "url": "acestream://13a16a0630ae87bd97d6ba4165963c201c9a2e9c",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
             },
             {
-              "name": "M+ LaLiga 1080p",
-              "url": "acestream://c9321006921967d6258df6945f1d598a5c0cbf1e",
-              "image": ""
+              "name": "DAZN 2 FHD",
+              "url": "acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
             },
             {
-              "name": "M+ LaLiga 1080p",
-              "url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74",
-              "image": ""
+              "name": "DAZN 2 FHD",
+              "url": "acestream://fb2dd566824658eeab27aae19a01c09430f1a97d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
             },
             {
-              "name": "M+ LALIGA FHD",
-              "url": "acestream://b0260a1261eb3817c353ef0a6862747dee18cdda",
-              "image": ""
+              "name": "DAZN 2 BAR FHD",
+              "url": "acestream://2f9211669499f413dab1a490198afab2a9b4b57c",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FkGbPhRQw%2Fdazn1bar-new.png"
             },
             {
-              "name": "M+ LALIGA FHD",
-              "url": "acestream://af468a318ad209b29a042a9080b519c6b40cec79",
-              "image": ""
+              "name": "DAZN 2",
+              "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
             },
             {
-              "name": "M+ LALIGA FHD",
-              "url": "acestream://af458073c3096293a4dea9f369d4f308e7125bd6",
-              "image": ""
+              "name": "GOL PLAY FHD",
+              "url": "acestream://9fb99c40a2c45d5c5342b30626eb56140f980612",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FcCThLjpn%2Fgol-play.png"
             },
             {
-              "name": "M+ LALIGA FHD",
-              "url": "acestream://b3bdd6ef7f795c4f321a3ce5cf4907338f462929",
-              "image": ""
-            },
-            {
-              "name": "M+ LALIGA 4",
-              "url": "acestream://22178d72e0f255dedd7e56f9474fea879289a6f1",
-              "image": ""
-            },
-            {
-              "name": "M+ LALIGA 3 FHD",
-              "url": "acestream://c9afaf4965ad627ea6983fec9f63e0c1e857028d",
-              "image": ""
-            },
-            {
-              "name": "M+ LALIGA 3",
-              "url": "acestream://571ce113b9d600a145766443d7417eccab2e1846",
-              "image": ""
-            },
-            {
-              "name": "M+ LALIGA",
-              "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
-              "image": ""
-            },
-            {
-              "name": "DAZN F1 SD",
-              "url": "acestream://4bc6f4cb6697c1defc981c0afe1a4c3a62284aee",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1 HD",
-              "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1 FHD",
-              "url": "acestream://6422e8bc34282871634c81947be093c04ad1bb29",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1 FHD",
-              "url": "acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1 FHD",
-              "url": "acestream://515efd8115482bda8d92aa6df9a882a5e5797494",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1 FHD",
-              "url": "acestream://82b4f249788f93b8f9ce968803662d7cd4f1b8cc",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1 FHD",
-              "url": "acestream://d5cf2dfa4fb4165ce58bf9db815088c28fec7711",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1 FHD",
-              "url": "acestream://b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1 FHD",
-              "url": "acestream://724f9b252b11064e3f16220717fd52bd3a510b5f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1 4K",
-              "url": "acestream://c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
+              "name": "GOL PLAY FHD",
+              "url": "acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FcCThLjpn%2Fgol-play.png"
             }
           ]
         },
         {
-          "name": "Barcelona - Crvena Zvezda",
-          "info": "18:45 - Baloncesto - Euroleague",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2Frtjzab1767368409.jpg",
+          "name": "Besiktas JK Istanbul - JL Bourg",
+          "info": "17:00 - Baloncesto - Eurocup: Final",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fbaloncesto.png",
           "stations": [
             {
-              "name": "MOVISTAR VAMOS FHD",
-              "url": "acestream://3b2a8b41e7097c16b0468b42d7de0320886fa933",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FwBRc6GSG%2Fvamos.png"
+              "name": "M+ Deportes 6 1080p *",
+              "url": "acestream://e6cd9205e26b3b6680f607030c702e911272524a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FwMRp572F%2FDeportes-por-Movistar-5-2022-logo.png"
             },
             {
-              "name": "MOVISTAR VAMOS FHD",
-              "url": "acestream://2940120bf034db79a7f5849846ccea0255172eae",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FwBRc6GSG%2Fvamos.png"
+              "name": "M+ Deportes 6 1080p **",
+              "url": "acestream://765f6a743bcfde948418aaf0de6e66de6a9fbaa6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "MOVISTAR VAMOS FHD",
-              "url": "acestream://651d6be899d1fafa107a265a9dc00ff914c1b548",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FSxMNs0m0%2Flogo3-1-112224.png"
+              "name": "MOVISTAR DEPORTES 6 FHD",
+              "url": "acestream://e4124b2143ed75e5ce902bed61be08cc5e5c3c03",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             },
             {
-              "name": "MOVISTAR VAMOS",
-              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FSxMNs0m0%2Flogo3-1-112224.png"
-            },
-            {
-              "name": "MOVISTAR DEPORTES 4 HD",
-              "url": "acestream://8b5f9d967384afab226dd759e6e9dfaee9993869",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FW3pV5642%2FLa-Liga-TV-por-Movistar-Plus-2023-Logo.png"
-            },
-            {
-              "name": "MOVISTAR DEPORTES 4 FHD",
-              "url": "acestream://58a4c880ab18486d914751db32a12760e74b75a4",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FW3pV5642%2FLa-Liga-TV-por-Movistar-Plus-2023-Logo.png"
-            },
-            {
-              "name": "MOVISTAR DEPORTES 4 FHD",
-              "url": "acestream://3f97bafa133b10cfe5c62311e11501326d886a53",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FbN2ykFF8%2FDeportes-por-Movistar-4-2022-logo.png"
-            },
-            {
-              "name": "M+ Vamos 720p",
-              "url": "acestream://0e5d8c9724fa9163f49096b70484e315251eb785",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FwBRc6GSG%2Fvamos.png"
-            },
-            {
-              "name": "M+ Vamos 1080p",
-              "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FwBRc6GSG%2Fvamos.png"
-            },
-            {
-              "name": "M+ VAMOS 3 1080p",
-              "url": "acestream://a9299052e9a16e5e2924e1fdd00b877c374f9e96",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FwBRc6GSG%2Fvamos.png"
-            },
-            {
-              "name": "M+ VAMOS 2 720p",
-              "url": "acestream://4ee16a7f854219fa2974ef1468e6b2f8574189dd",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FwBRc6GSG%2Fvamos.png"
-            },
-            {
-              "name": "M+ VAMOS 2 720p",
-              "url": "acestream://f51674b1dd1ab5a668fa97a0f13a490632f0d7ca",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FwBRc6GSG%2Fvamos.png"
-            },
-            {
-              "name": "M+ VAMOS 2 1080p",
-              "url": "acestream://0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FwBRc6GSG%2Fvamos.png"
-            },
-            {
-              "name": "M+ VAMOS 2 1080p",
-              "url": "acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FwBRc6GSG%2Fvamos.png"
-            },
-            {
-              "name": "LIGA DE CAMPEONES 6 FHD",
-              "url": "acestream://976983697790ab8a07b764b08843529d38bc6444",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FCLNbrz5x%2FLiga-de-Campeones-6-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "LIGA DE CAMPEONES 5 FHD",
-              "url": "acestream://cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FmrqY3JD3%2FLiga-de-Campeones-5-por-Movistar-Plus-2022-logo.png"
+              "name": "MOVISTAR DEPORTES 6 HD",
+              "url": "acestream://8f982a0d6e3196c12d0034142b65008321150f7c",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             }
           ]
         },
         {
-          "name": "Inter - Como 1907",
-          "info": "19:00 - Fútbol - Italian Cup",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1743dSB%2Flive_streaming.png",
+          "name": "Real Sociedad - Getafe",
+          "info": "18:00 - Fútbol - Primera",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2Fgez1tz1751450358.jpg",
           "stations": [
             {
-              "name": "ELEVEN DAZN 1 HD",
-              "url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00",
+              "name": "DAZN LaLiga 2 1080p *",
+              "url": "acestream://b63fcadc2390455d8a328f6c16b8b0a9adec21a3",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FHxsLWGGn%2Fdazn-laliga-new.png"
+            },
+            {
+              "name": "DAZN LaLiga 2 1080p **",
+              "url": "acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FHxsLWGGn%2Fdazn-laliga-new.png"
+            },
+            {
+              "name": "DAZN LaLiga 2 720p *",
+              "url": "acestream://a70a1605f69c8379e04094df96922a42adfbb431",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FHxsLWGGn%2Fdazn-laliga-new.png"
+            },
+            {
+              "name": "DAZN LaLiga 2 720p **",
+              "url": "acestream://c976c7b37964322752db562b4ad65515509c8d36",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FHxsLWGGn%2Fdazn-laliga-new.png"
+            },
+            {
+              "name": "DAZN LA LIGA 2 FHD",
+              "url": "acestream://635b61c1f240449163260cd914d10d886a54fee3",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Ftv-logo%2Ftv-logos%2Frefs%2Fheads%2Fmain%2Fcountries%2Fspain%2Fdazn-laliga-es.png"
+            }
+          ]
+        },
+        {
+          "name": "Movistar Estudiantes - Melilla Sport Capital",
+          "info": "18:00 - Baloncesto - 1ª FEB: Liga Regular",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2Fh87u5g1765741564.jpg",
+          "stations": [
+            {
+              "name": "M+ Deportes 1080p **",
+              "url": "acestream://2d549bbcd898b09c4b736e6e3e83e8e8c19fcbda",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes 1080p *",
+              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes 1080p **",
+              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FMG3kQP9S%2FDeportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 720p *",
+              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FMG3kQP9S%2FDeportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 720p **",
+              "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FMG3kQP9S%2FDeportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES FHD",
+              "url": "acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES FHD",
+              "url": "acestream://332d8fdeb9c51385230b8c9448e047ccc4a6355d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES FHD",
+              "url": "acestream://f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES",
+              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+            },
+            {
+              "name": "M. Deportes HD",
+              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            }
+          ]
+        },
+        {
+          "name": "Bayer Leverkusen - FC Bayern",
+          "info": "18:45 - Fútbol - Copa de Alemania: Semifinales",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
+          "stations": [
+            {
+              "name": "GOL PLAY FHD",
+              "url": "acestream://9fb99c40a2c45d5c5342b30626eb56140f980612",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FcCThLjpn%2Fgol-play.png"
+            },
+            {
+              "name": "GOL PLAY FHD",
+              "url": "acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FcCThLjpn%2Fgol-play.png"
+            }
+          ]
+        },
+        {
+          "name": "Burnley - Manchester City",
+          "info": "19:00 - Fútbol - Premier",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2Fudayp61750320960.jpg",
+          "stations": [
+            {
+              "name": "DAZN 1 1080p *",
+              "url": "acestream://dddff67edfa7061f643ec5ae0be110169850363d",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
             },
             {
-              "name": "ELEVEN DAZN 1",
-              "url": "acestream://969e14989a98c62518a7640741dbf15d90212d1a",
+              "name": "DAZN 1 720p *",
+              "url": "acestream://a116ce3ff95c41c60e987e2b1aa247007f707884",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            },
-            {
-              "name": "ELEVEN DAZN 1",
-              "url": "acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            },
-            {
-              "name": "ELEVEN DAZN 1",
-              "url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FJnytndG2%2Feleven-sport-1.png"
             },
             {
               "name": "DAZN 1 FHD",
@@ -462,248 +672,198 @@
             {
               "name": "DAZN 1 BAR FHD",
               "url": "acestream://1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FkGbPhRQw%2Fdazn1bar-new.png"
-            },
-            {
-              "name": "DAZN 1",
-              "url": "acestream://9afc89481b721ce6c326c85e47148676077b8e62",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            },
-            {
-              "name": "DAZN 1",
-              "url": "acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            },
-            {
-              "name": "DAZN 1",
-              "url": "acestream://0560234787945a17522e284c4c22bb4df29f33b0",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
             },
             {
               "name": "DAZN 1",
               "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            }
-          ]
-        },
-        {
-          "name": "Brighton - Chelsea",
-          "info": "19:00 - Fútbol - Premier League",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2Fcnofe41750320963.jpg",
-          "stations": [
-            {
-              "name": "ELEVEN DAZN 2 HD",
-              "url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FQtP9JZ2D%2Feleven-sport-2.png"
             },
             {
-              "name": "ELEVEN DAZN 2",
-              "url": "acestream://27573fb01690fd55b25c07ae2180ee44b1ad8a7c",
+              "name": "DAZN 1 **",
+              "url": "acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
             },
             {
-              "name": "ELEVEN DAZN 2",
-              "url": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            },
-            {
-              "name": "DAZN 2 FHD",
-              "url": "acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            },
-            {
-              "name": "DAZN 2 FHD",
-              "url": "acestream://fb2dd566824658eeab27aae19a01c09430f1a97d",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            },
-            {
-              "name": "DAZN 2 BAR FHD",
-              "url": "acestream://2f9211669499f413dab1a490198afab2a9b4b57c",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FkGbPhRQw%2Fdazn1bar-new.png"
-            },
-            {
-              "name": "DAZN 2 1080p",
-              "url": "acestream://d60b8c154828cb990b7bb1570764b215bd979e74",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            },
-            {
-              "name": "DAZN 2",
-              "url": "acestream://c93a0d4914713db942fbb210bac467b0224c63a6",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            },
-            {
-              "name": "DAZN 2",
-              "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516",
+              "name": "DAZN 1 **",
+              "url": "acestream://9afc89481b721ce6c326c85e47148676077b8e62",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
             }
           ]
         },
         {
-          "name": "Girona - Real Betis",
-          "info": "19:30 - Fútbol - LaLiga EA SportsLaLiga",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2Fcm7ttn1751450350.jpg",
+          "name": "Bournemouth - Leeds Utd",
+          "info": "19:00 - Fútbol - Premier",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2Fudayp61750320960.jpg",
           "stations": [
             {
-              "name": "M+ LaLiga 720p",
-              "url": "acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58",
-              "image": ""
+              "name": "DAZN 3 1080p *",
+              "url": "acestream://908bc5e7ae52afc06e40793b6db749dba11a1780",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
             },
             {
-              "name": "M+ LaLiga 720p",
-              "url": "acestream://f863873de9f7b2996dde19a0657dd89835af3007",
+              "name": "DAZN 3 FHD",
+              "url": "acestream://d641cd0fca0f467b3130754a091e2f4d22e68eb1",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "DAZN 3 FHD",
+              "url": "acestream://8a86cd6152154a25ad4b76523160552a40313b28",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "DAZN 3",
+              "url": "acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "DAZN 3 **",
+              "url": "acestream://e1ccce973c71547a8acda770885cb1c30a9cf3e1",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "Atalanta - Lazio",
+          "info": "19:00 - Fútbol - Coppa Italia: Semifinales",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
+          "stations": [
+            {
+              "name": "DAZN 4 1080p *",
+              "url": "acestream://d669c6cee7173a1c8994075f7050a6526655b1dc",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "DAZN 4 FHD",
+              "url": "acestream://7e27e46c25d4308d16098d9dc67fcd8736e8c1f0",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "DAZN 4 FHD",
+              "url": "acestream://c015d37d1ead8155b1e7b97e743a1fe9850f0af5",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "DAZN 4",
+              "url": "acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "DAZN 4 **",
+              "url": "acestream://9ced16b2055c99bf89c26e678e315e1b01d3734c",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "FC Barcelona - Celta",
+          "info": "19:30 - Fútbol - Primera",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2Fq2h4u21751450348.jpg",
+          "stations": [
+            {
+              "name": "M+ LaLiga 1080p *",
+              "url": "acestream://0febfb5cac3384f487d55c559bbfc877db2d0357",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FW3pV5642%2FLa-Liga-TV-por-Movistar-Plus-2023-Logo.png"
             },
             {
-              "name": "M+ LaLiga 720p",
+              "name": "M+ LaLiga 1080p **",
+              "url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FyfV1Q8n%2Fliga.png"
+            },
+            {
+              "name": "M+ LaLiga 1080p **",
+              "url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FyfV1Q8n%2Fliga.png"
+            },
+            {
+              "name": "M+ LaLiga 1080p **",
+              "url": "acestream://c9321006921967d6258df6945f1d598a5c0cbf1e",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FyfV1Q8n%2Fliga.png"
+            },
+            {
+              "name": "M+ LaLiga 720p *",
               "url": "acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FW3pV5642%2FLa-Liga-TV-por-Movistar-Plus-2023-Logo.png"
             },
             {
-              "name": "M+ LaLiga 1080p",
-              "url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947",
-              "image": ""
+              "name": "M+ LaLiga 720p *",
+              "url": "acestream://f863873de9f7b2996dde19a0657dd89835af3007",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FW3pV5642%2FLa-Liga-TV-por-Movistar-Plus-2023-Logo.png"
             },
             {
-              "name": "M+ LaLiga 1080p",
-              "url": "acestream://c9321006921967d6258df6945f1d598a5c0cbf1e",
-              "image": ""
-            },
-            {
-              "name": "M+ LaLiga 1080p",
-              "url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74",
-              "image": ""
+              "name": "M+ LaLiga 720p **",
+              "url": "acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FyfV1Q8n%2Fliga.png"
             },
             {
               "name": "M+ LALIGA FHD",
               "url": "acestream://b0260a1261eb3817c353ef0a6862747dee18cdda",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FyfV1Q8n%2Fliga.png"
             },
             {
               "name": "M+ LALIGA FHD",
               "url": "acestream://af468a318ad209b29a042a9080b519c6b40cec79",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FyfV1Q8n%2Fliga.png"
             },
             {
               "name": "M+ LALIGA FHD",
               "url": "acestream://af458073c3096293a4dea9f369d4f308e7125bd6",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FyfV1Q8n%2Fliga.png"
             },
             {
-              "name": "M+ LALIGA FHD",
+              "name": "MOVISTAR LALIGA",
               "url": "acestream://b3bdd6ef7f795c4f321a3ce5cf4907338f462929",
-              "image": ""
-            },
-            {
-              "name": "M+ LALIGA 4",
-              "url": "acestream://22178d72e0f255dedd7e56f9474fea879289a6f1",
-              "image": ""
-            },
-            {
-              "name": "M+ LALIGA 3 FHD",
-              "url": "acestream://c9afaf4965ad627ea6983fec9f63e0c1e857028d",
-              "image": ""
-            },
-            {
-              "name": "M+ LALIGA 3",
-              "url": "acestream://571ce113b9d600a145766443d7417eccab2e1846",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FW3pV5642%2FLa-Liga-TV-por-Movistar-Plus-2023-Logo.png"
             },
             {
               "name": "M+ LALIGA",
               "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FyfV1Q8n%2Fliga.png"
+            },
+            {
+              "name": "M+ LaLiga 2 1080p **",
+              "url": "acestream://51b363b1c4d42724e05240ad068ad219df8042ec",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FyfV1Q8n%2Fliga.png"
+            },
+            {
+              "name": "M+ LaLiga 2 720p **",
+              "url": "acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FyfV1Q8n%2Fliga.png"
+            },
+            {
+              "name": "M+ LALIGA 2 FHD",
+              "url": "acestream://caa631e8850e3eb5e7c039063dd8a339ccef1176",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FyfV1Q8n%2Fliga.png"
+            },
+            {
+              "name": "M+ LALIGA 2",
+              "url": "acestream://b8eb9c9868d487402569bba2d97a8af113d033fe",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FyfV1Q8n%2Fliga.png"
+            },
+            {
+              "name": "M+ LaLiga 2 *",
+              "url": "acestream://b45cfe568e106a7df65c950805d6f123c989ce84",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FW3pV5642%2FLa-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+            },
+            {
+              "name": "M+ LaLiga 2 *",
+              "url": "acestream://2c01306506e268ba726f5c30222923b6168a5404",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FW3pV5642%2FLa-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+            },
+            {
+              "name": "SKY Sports LaLiga 1080p *",
+              "url": "acestream://d58f619d860d29cd47720055b9bb842199971da1",
               "image": ""
             },
             {
-              "name": "MOVISTAR PLUS FHD",
-              "url": "acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FYqJpfzfk%2Flogo1-16-175117.png"
+              "name": "SKY Sports LaLiga 1080p **",
+              "url": "acestream://e9975d38aaa4475ac0b1fa0faa541bbadd85a662",
+              "image": ""
             },
             {
-              "name": "MOVISTAR PLUS FHD",
-              "url": "acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FYqJpfzfk%2Flogo1-16-175117.png"
-            },
-            {
-              "name": "MOVISTAR PLUS FHD",
-              "url": "acestream://c1b7f54af0de256d1ac0fcac4c130e62660089f4",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FYqJpfzfk%2Flogo1-16-175117.png"
-            },
-            {
-              "name": "MOVISTAR PLUS 1080p",
-              "url": "acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FYqJpfzfk%2Flogo1-16-175117.png"
-            },
-            {
-              "name": "DAZN F1 SD",
-              "url": "acestream://4bc6f4cb6697c1defc981c0afe1a4c3a62284aee",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1 HD",
-              "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1 FHD",
-              "url": "acestream://6422e8bc34282871634c81947be093c04ad1bb29",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1 FHD",
-              "url": "acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1 FHD",
-              "url": "acestream://515efd8115482bda8d92aa6df9a882a5e5797494",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1 FHD",
-              "url": "acestream://82b4f249788f93b8f9ce968803662d7cd4f1b8cc",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1 FHD",
-              "url": "acestream://d5cf2dfa4fb4165ce58bf9db815088c28fec7711",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1 FHD",
-              "url": "acestream://b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1 FHD",
-              "url": "acestream://724f9b252b11064e3f16220717fd52bd3a510b5f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1 4K",
-              "url": "acestream://c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F6Q926FwQ%2Flogo1-17-101423-removebg-preview.png"
-            }
-          ]
-        },
-        {
-          "name": "Real Madrid - Alaves",
-          "info": "19:30 - Fútbol - LaLiga EA SportsLaLiga",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2F9crdzj1751450357.jpg",
-          "stations": [
-            {
-              "name": "DAZN LaLiga 720p",
-              "url": "acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FHxsLWGGn%2Fdazn-laliga-new.png"
-            },
-            {
-              "name": "DAZN LaLiga 1080p",
-              "url": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FHxsLWGGn%2Fdazn-laliga-new.png"
+              "name": "SKY Sports LaLiga SD **",
+              "url": "acestream://a9bddffdff085cdc18b34218d5dc1093b88e3c0a",
+              "image": ""
             }
           ]
         }
@@ -722,7 +882,7 @@
               "name": "DAZN 1 (720)",
               "info": "[7884]",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png",
-              "url": "acestream://a116ce3ff95c41c60e987e2b1aa247007f707884"
+              "url": "acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8"
             },
             {
               "name": "DAZN 1 (1080)",
@@ -788,7 +948,7 @@
               "name": "DAZN 3 ",
               "info": "[a1780]",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png",
-              "url": "acestream://908bc5e7ae52afc06e40793b6db749dba11a1780"
+              "url": "acestream://1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187"
             },
             {
               "name": "DAZN 3 FHD",
@@ -806,7 +966,7 @@
               "name": "DAZN 4 ",
               "info": "[5b1dc]",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png",
-              "url": "acestream://d669c6cee7173a1c8994075f7050a6526655b1dc"
+              "url": "acestream://2f9211669499f413dab1a490198afab2a9b4b57c"
             },
             {
               "name": "DAZN 4 FHD",
@@ -830,7 +990,7 @@
               "name": "EuroSport (1080)",
               "info": "[4cfe9]",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png",
-              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9"
+              "url": "acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6"
             },
             {
               "name": "EuroSport (FHD)",
@@ -1154,7 +1314,7 @@
               "name": "M. Liga de Campeones 1 (1080)",
               "info": "[86920]",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FTY47pLc4%2FLiga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-              "url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920"
+              "url": "acestream://6e12a5849a4edea248ed9c8689e58bd66fc9f8fa"
             },
             {
               "name": "M. Liga de Campeones 1 (720)",
@@ -1263,6 +1423,11 @@
               "info": "56c9",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FzGjZ74WJ%2FLiga-de-Campeones-8-por-Movistar-Plus-2022-logo.png",
               "url": "acestream://97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9"
+            },
+            {
+              "name": "LIGA DE CAMPEONES 17 SD",
+              "url": "acestream://a15a132ffe7867a2b61b49617df39a8309cce27c",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fdavidmuma%2Fpicons_dobleM%2Fmaster%2Ficon%2FM%252B%2520Liga%2520de%2520Campeones%252018.png"
             }
           ]
         },
@@ -1383,6 +1548,36 @@
               "info": "[2524a]",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FwMRp572F%2FDeportes-por-Movistar-5-2022-logo.png",
               "url": "acestream://e6cd9205e26b3b6680f607030c702e911272524a"
+            },
+            {
+              "name": "FOX PREMIUM UFC",
+              "url": "acestream://ade70f2c51cca519a4d8de1bb181af6e8532e1e1",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.blogs.es%2F61a41c%2Ffox-sports-premium-230322-1200x675-1%2F450_1000.jpg"
+            },
+            {
+              "name": "GOL PLAY FHD",
+              "url": "acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fassets.laliga.com%2Fassets%2F2023%2F07%2F13%2Fmedium%2F60e1502d7d6098162828bb002e98bdb4.png"
+            },
+            {
+              "name": "SKY SPORTS ARENA",
+              "url": "acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Ftvprofil.com%2Fimg%2Fkanali-logo%2FSky_Sports_Arena_GB_logo.png%3F1734015005"
+            },
+            {
+              "name": "SKY SPORTS CRICKET",
+              "url": "acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fdavidmuma%2Fpicons_dobleM%2Frefs%2Fheads%2Fmaster%2Ficon%2FSky%2520Sport%2520Cricket.png"
+            },
+            {
+              "name": "SKY SPORTS MAIN EVENT",
+              "url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Ftvprofil.com%2Fimg%2Fkanali-logo%2FSky_Sports_Main_Event_GB_logo.png%3F1734014539"
+            },
+            {
+              "name": "TELEDEPORTE FHD",
+              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
             }
           ]
         },
@@ -1658,7 +1853,7 @@
               "name": "ESTRENOS (FHD)",
               "info": "1d38",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FrwqxzDCJ%2Flogo1-17-10114-removebg-preview.png",
-              "url": "acestream://b71478c824f787a6a696139db0d053de6fdd1d38"
+              "url": "acestream://fe6dead974cebbb7626458a763ff0e2150dffbe0"
             },
             {
               "name": "SERIES (FHD)",
@@ -1682,7 +1877,7 @@
               "name": "CINE ESPAÑOL (FHD)",
               "info": "8bd07",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FrwqxzDCJ%2Flogo1-17-10114-removebg-preview.png",
-              "url": "acestream://168ad4a958aa6daa26adeee9700ed0312618bd07"
+              "url": "acestream://f4e37b63fb042d90528585741a39851af543deca"
             },
             {
               "name": "VACACIONES (FHD)",
@@ -1772,13 +1967,48 @@
               "name": "PESCA Y CAZA (FHD)",
               "info": "e10f",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FrwqxzDCJ%2Flogo1-17-10114-removebg-preview.png",
-              "url": "acestream://6f28b1b9eb9f4047a6179b300e65b03c8316e10f"
+              "url": "acestream://8b9e46eb3a9b4ef23b7d3d86c73a0851580f8caa"
             },
             {
               "name": "ONE TORO (FHD)",
               "info": "43c0",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FrwqxzDCJ%2Flogo1-17-10114-removebg-preview.png",
               "url": "acestream://1fd3dbb7d39de875ac70059d70c8768d4a2e43c0"
+            },
+            {
+              "name": "DARK HD",
+              "url": "acestream://fd7e013b1827db32af3665d1ef5da7fc0cc6ae5d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FDARK.png%3Fraw%3Dtrue"
+            },
+            {
+              "name": "MOVISTAR DOCUMENTALES FHD",
+              "url": "acestream://60a59a6259b6d4cb5b826e1847cd0af0a7ecc1ce",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fdavidmuma%2Fpicons_dobleM%2Frefs%2Fheads%2Fmaster%2Ficon%2FM%252B%2520Documentales%2520HD.png"
+            },
+            {
+              "name": "MOVISTAR HITS FHD",
+              "url": "acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fdavidmuma%2Fpicons_dobleM%2Frefs%2Fheads%2Fmaster%2Ficon%2FM%252B%2520Hits.png"
+            },
+            {
+              "name": "ONETORO FHD",
+              "url": "acestream://536c879d8a914e43141d778b3567fa017c9f5eeb",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fdavidmuma%2Fpicons_dobleM%2Frefs%2Fheads%2Fmaster%2Ficon%2FOnetoro.png"
+            },
+            {
+              "name": "TVG EUROPA HD",
+              "url": "acestream://d48b299bbcd811cfd14159224bf5012a305021c1",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fdavidmuma%2Fpicons_dobleM%2Frefs%2Fheads%2Fmaster%2Ficon%2FTVG%2520Europa%2520HD.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES FHD",
+              "url": "acestream://8f982a0d6e3196c12d0034142b65008321150f7c",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+            },
+            {
+              "name": "MOVISTAR VAMOS FHD",
+              "url": "acestream://a9299052e9a16e5e2924e1fdd00b877c374f9e96",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
             }
           ]
         },
@@ -1814,7 +2044,7 @@
               "name": "Tennis Channel",
               "info": "[23ac]",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F3wysQdFn%2FTennis-Channel-4.jpg",
-              "url": "acestream://039fae21c9e7e5214d3d898cba80863e37e623ac"
+              "url": "acestream://1b348443efc7f0cf4cdf349ac35bbe5d41be6220"
             }
           ]
         },
@@ -1832,13 +2062,123 @@
               "name": "Sport Tv 2 [1080p]",
               "info": "2ace",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F7Y2f3cP1%2FSport-TV-2-logo.png",
-              "url": "acestream://396d82ca6f5445abcd32e6b609d67e332ee12ace"
+              "url": "acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867"
             },
             {
               "name": "Sport Tv 3 [1080p]",
               "info": "0eb9",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FW3y1rmQf%2FSport-TV-3-logo.png",
               "url": "acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9"
+            },
+            {
+              "name": "beIN SPORTS HD 2",
+              "url": "acestream://47c1b3a68d03bd190fed521d144ad08fa0f195f3",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fdavidmuma%2Fpicons_dobleM%2Fmaster%2Ficon%2FbeIN%2520SPORTS%25202.png"
+            },
+            {
+              "name": "Canal de Tenis HD",
+              "url": "acestream://039fae21c9e7e5214d3d898cba80863e37e623ac",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F237%2F1008%2Fpng-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png"
+            },
+            {
+              "name": "CANAL+ Sport 2 HD",
+              "url": "acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F4%2F40%2FCanal%252B_Sport_2_PL.png"
+            },
+            {
+              "name": "Eurosport360 HD 1",
+              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
+            },
+            {
+              "name": "Extreme Sports",
+              "url": "acestream://73ff07648e367efebd94636047b07625f664a082",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fwww.google.com%2Furl%3Fsa%3Di%26url%3Dhttps%253A%252F%252Fen.wikipedia.org%252Fwiki%252FExtreme_Sports_Channel%26psig%3DAOvVaw1Ua7HgfWUuJAE5xYavchZx%26ust%3D1760088190650000%26source%3Dimages%26cd%3Dvfe%26opi%3D89978449%26ved%3D0CBUQjRxqFwoTCIi9w83llpADFQAAAAAdAAAAABAL"
+            },
+            {
+              "name": "Fast&Funbox HD",
+              "url": "acestream://c811cde690d467a2e45d3c263c4f0960a3933d18",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Ftvprogviewer.ru%2Fimages%2Fthumbs%2F0000415_fast-funbox-hd_220.png"
+            },
+            {
+              "name": "FightBox HD",
+              "url": "acestream://49b734a5a3365674480089264be00ae28fabb640",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F441%2F186%2Fpng-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text-thumbnail.png"
+            },
+            {
+              "name": "FOX Sports 1 HD",
+              "url": "acestream://cba8d369eac629b577750edb90370cd1c5fb03b7",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FFOX%2520SPORTS.png%3Fraw%3Dtrue"
+            },
+            {
+              "name": "M-1 Global",
+              "url": "acestream://a7e4499c869037073c97deb47a50d1e7090b1c04",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FFOX%2520SPORTS.png%3Fraw%3Dtrue"
+            },
+            {
+              "name": "M. Deportes HD",
+              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "nSport+",
+              "url": "acestream://5f595b1bbade5e7c915d99f90645f4c30d4ba540",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FFOX%2520SPORTS.png%3Fraw%3Dtrue"
+            },
+            {
+              "name": "ORF SPORT+ HD",
+              "url": "acestream://0dfa37340ca0300a41f7a78bd3a0f024c3296974",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FFOX%2520SPORTS.png%3Fraw%3Dtrue"
+            },
+            {
+              "name": "Polsat Sport",
+              "url": "acestream://3147c586346aee00c005d1caa55204d38678c95f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FFOX%2520SPORTS.png%3Fraw%3Dtrue"
+            },
+            {
+              "name": "Sky Sport 1 HD",
+              "url": "acestream://07cab7f4a1a4ecc0ed35bea52346f1b79b1016a8",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Ftr%2F8%2F82%2FS_Sport_logo.jpg"
+            },
+            {
+              "name": "SkySP PL",
+              "url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Ftr%2F8%2F82%2FS_Sport_logo.jpg"
+            },
+            {
+              "name": "SPORT1",
+              "url": "acestream://1950633a3723cb52b17c764125decc04445bd5ff",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Ftr%2F8%2F82%2FS_Sport_logo.jpg"
+            },
+            {
+              "name": "SPORT1+",
+              "url": "acestream://e61b6538df35e5016635dfa2b3073f5b82ee4c2b",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Ftr%2F8%2F82%2FS_Sport_logo.jpg"
+            },
+            {
+              "name": "Sport Digital",
+              "url": "acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Ftr%2F8%2F82%2FS_Sport_logo.jpg"
+            },
+            {
+              "name": "Sport Klub",
+              "url": "acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Ftr%2F8%2F82%2FS_Sport_logo.jpg"
+            },
+            {
+              "name": "SuperTennis HD",
+              "url": "acestream://b58dbf92765976b308695f62dea94b00b40730ee",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Ftr%2F8%2F82%2FS_Sport_logo.jpg"
+            },
+            {
+              "name": "UFC HD",
+              "url": "acestream://d2374e2375a4275738e0dbed2f47d0114ad1cb64",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Ftr%2F8%2F82%2FS_Sport_logo.jpg"
+            },
+            {
+              "name": "Ziggo Sport",
+              "url": "acestream://fcd7621df513f600652b4813d5d8fd1daed60058",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Ftr%2F8%2F82%2FS_Sport_logo.jpg"
             }
           ]
         },
@@ -2282,6 +2622,315 @@
               "info": "ed95",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FSKjPkzTN%2FLogo-NBA.png",
               "url": "acestream://e72d03fb9694164317260f684470be9ab781ed95"
+            }
+          ]
+        },
+        {
+          "name": "1RFEF",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2Fd%2Fdf%2FLogo_Primera_RFEF_2021.png%2Frevision%2Flatest%3Fcb%3D20230620215900%26path-prefix%3Des",
+          "stations": [
+            {
+              "name": "Canal 1",
+              "url": "acestream://8677d339ecddd75165c0015025f598b6215974cf",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2Fd%2Fdf%2FLogo_Primera_RFEF_2021.png%2Frevision%2Flatest%3Fcb%3D20230620215900%26path-prefix%3Des"
+            },
+            {
+              "name": "PRIMERA FEDERACIÓN FHD",
+              "url": "acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2Fd%2Fdf%2FLogo_Primera_RFEF_2021.png%2Frevision%2Flatest%3Fcb%3D20230620215900%26path-prefix%3Des"
+            }
+          ]
+        },
+        {
+          "name": "EVENTOS",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FLh13t8zX%2Flogo-eventos.png",
+          "stations": [
+            {
+              "name": "DAZN EVENTOS 2",
+              "url": "acestream://8bdeb6055da0be3bd1e1977dbf3640408f7d0267",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FKz0GXSX%2Fdazn2.png"
+            }
+          ]
+        },
+        {
+          "name": "FORMULA 1",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2Ndmtbp%2Ff1.png",
+          "stations": [
+            {
+              "name": "DAZN F1 4K",
+              "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2Ndmtbp%2Ff1.png"
+            }
+          ]
+        },
+        {
+          "name": "FUTBOL INT",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F8nvKsJwL%2Flogo-futbol-internacional.png",
+          "stations": [
+            {
+              "name": "BEIN SPORTS 1",
+              "url": "acestream://ac033bf7bf6eb4efa5ca3f8070742093eab47685",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fdavidmuma%2Fpicons_dobleM%2Fmaster%2Ficon%2FbeIN%2520SPORTS%25201.png"
+            },
+            {
+              "name": "BT Sport 1 [UK]",
+              "url": "acestream://5f966c123759de46dff29c379266b7a403452033",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fdavidmuma%2Fpicons_dobleM%2Fmaster%2Ficon%2FTNT%2520Sports%25201.png"
+            },
+            {
+              "name": "ELEVEN DAZN 1",
+              "url": "acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fdavidmuma%2Fpicons_dobleM%2Fmaster%2Ficon%2FDAZN%25201.png"
+            },
+            {
+              "name": "ESPN2 [US]",
+              "url": "acestream://4b4907de51ec11087d4bed5876f2a0c68264f442",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fdavidmuma%2Fpicons_dobleM%2Fmaster%2Ficon%2FESPN%25202.png"
+            },
+            {
+              "name": "ESPN ARGENTINA",
+              "url": "acestream://4bf4431b4815f07c1b3749f5a10f905ba566cd47",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fdavidmuma%2Fpicons_dobleM%2Fmaster%2Ficon%2FESPN.png"
+            },
+            {
+              "name": "PREMIER SPORTS 1",
+              "url": "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F10xGrD4%2FPremier1.png"
+            },
+            {
+              "name": "SKY SPORTS FOOTBALL",
+              "url": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Ftvprofil.com%2Fimg%2Fkanali-logo%2FSky_Sports_Football_GB_logo.png%3F1734015024"
+            },
+            {
+              "name": "ZIGGO SPORT",
+              "url": "acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0e%2FZiggo_Sport_logo.svg%2F1200px-Ziggo_Sport_logo.svg.png"
+            }
+          ]
+        },
+        {
+          "name": "HYPERMOTION",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd9%2FLaLiga_Hypermotion_2023_Vertical_Logo.svg%2F2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png",
+          "stations": [
+            {
+              "name": "HYPERMOTION FHD",
+              "url": "acestream://a5b9d834ad92bfb80fe01bf89cc20bd68be199fb",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCBdGc9f%2Fhypermotion1.png"
+            }
+          ]
+        },
+        {
+          "name": "LA LIGA",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fsp6dD8h2%2Flaliga-logo.png",
+          "stations": [
+            {
+              "name": "DAZN LA LIGA 1",
+              "url": "acestream://635b61c1f240449163260cd914d10d886a54fee3",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Ftv-logo%2Ftv-logos%2Frefs%2Fheads%2Fmain%2Fcountries%2Fspain%2Fdazn-laliga-es.png"
+            },
+            {
+              "name": "M+ LALIGA FHD",
+              "url": "acestream://22178d72e0f255dedd7e56f9474fea879289a6f1",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FyfV1Q8n%2Fliga.png"
+            }
+          ]
+        },
+        {
+          "name": "MOTOR",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FtTrS7848%2Flogo-motor.png",
+          "stations": [
+            {
+              "name": "CANAL MOTOR",
+              "url": "acestream://22b250ce7a16dce785b2e1ee6d4e13bdfa7354cc",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fwww.cxtv.com.br%2Fimg%2FTvs%2FLogo%2Fwebp-l%2F3ee9eef4eb12ec1b3e26049e79a43606.webp"
+            },
+            {
+              "name": "MOTORS TV HD",
+              "url": "acestream://a6044ffdb11c0349253f35386c23e994c28cf997",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fwww.mxgp.com%2Fsites%2Fdefault%2Ffiles%2Fnews%2Fimage%2Flogo%2520Motors%2520TV.jpg"
+            },
+            {
+              "name": "MOTORVISION",
+              "url": "acestream://825a5b77c23a5f96df6fd096d5391f7de2653fcf",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fdavidmuma%2Fpicons_dobleM%2Fmaster%2Ficon%2FMotorvision%2520TV.png"
+            },
+            {
+              "name": "RALLY TV FHD",
+              "url": "acestream://651dd1e689a9a7d3b0695191dcf44b4d6e7541eb",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg%26s"
+            }
+          ]
+        },
+        {
+          "name": "TDT",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fj9xn42jB%2Flogo-tdt.png",
+          "stations": [
+            {
+              "name": "ARAGON TV HD",
+              "url": "acestream://ba4597903f099695e7d6bcc5938f91cb0798006b",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FArag%25C3%25B3n%2520TV%2520Internacional.png%3Fraw%3Dtrue"
+            },
+            {
+              "name": "CUATRO FHD",
+              "url": "acestream://8d66979e705a8b532b9243bbc0862c0f1c734ef0",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FC3yh66tp%2Fcuatro.png"
+            },
+            {
+              "name": "LA 1 FHD",
+              "url": "acestream://9934906503661142f97a044ae1509a294057c2ed",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FVf2GT70%2Fla1.png"
+            },
+            {
+              "name": "LA SEXTA FHD",
+              "url": "acestream://44828a7580cd99fcb36245c327889c47f34b457f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FSX1jhBzy%2Flasexta.png"
+            }
+          ]
+        },
+        {
+          "name": "OTROS",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FzVNFsy0F%2Flogo-otros.png",
+          "stations": [
+            {
+              "name": "Accion",
+              "url": "acestream://f3a6d058791f0818a3301f9d5eeb60cfb54d905d",
+              "image": ""
+            },
+            {
+              "name": "Auto Motor und Sport Channel",
+              "url": "acestream://a211931dace9e4d8975a036b60836fac753e33de",
+              "image": ""
+            },
+            {
+              "name": "CALCIO EVENTOS FHD",
+              "url": "acestream://1e045b7e16a5c2c3e5a8c0c0176efa26b63d7955",
+              "image": ""
+            },
+            {
+              "name": "Calle 13",
+              "url": "acestream://296007b6a8c2ea9ceb7d6528f5e5e109c3142fa0",
+              "image": ""
+            },
+            {
+              "name": "Canal+ action",
+              "url": "acestream://108b33a44b6ab295f6301d0a2c433a1ef330d5a4",
+              "image": ""
+            },
+            {
+              "name": "Canal+ Sport 3 PL",
+              "url": "acestream://b3f2b59e44fe70f45dca643107f88b6fcff80672",
+              "image": ""
+            },
+            {
+              "name": "DAZN MOTOGP",
+              "url": "acestream://18b03739d660f0066364343e226e437bf2555d56",
+              "image": ""
+            },
+            {
+              "name": "DAZN Serie A FHDp *",
+              "url": "acestream://0284cadccea27a42a3072ba373b2dd908bf63fc3",
+              "image": ""
+            },
+            {
+              "name": "Disney Junior *",
+              "url": "acestream://a722bc25dfa16d1112fde83cb79501b9756586d1",
+              "image": ""
+            },
+            {
+              "name": "Estrenos",
+              "url": "acestream://007a97a0aff68eb9a76f7fb9d9643b1532ab0803",
+              "image": ""
+            },
+            {
+              "name": "Film+ HD",
+              "url": "acestream://ec7aeef5723f654ee705a192bdcf4eff2fc7c311",
+              "image": ""
+            },
+            {
+              "name": "FUTBOL FEMENINO FHD",
+              "url": "acestream://6c8e46efd9b3df9ab94f4c6a891d70e3c1e8ef30",
+              "image": ""
+            },
+            {
+              "name": "Magenta Sport 1 HD",
+              "url": "acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6",
+              "image": ""
+            },
+            {
+              "name": "Movistar+",
+              "url": "acestream://fa931cbc87dc9d66fdd30a9644e054b403960056",
+              "image": ""
+            },
+            {
+              "name": "Nickelodeon",
+              "url": "acestream://3f2b6ac892758f5f3574f649ba9c486b341ca20e",
+              "image": ""
+            },
+            {
+              "name": "noa4 Hamburg FHD",
+              "url": "acestream://d6914c08d198edcfbac7562e3db75303bd8fde48",
+              "image": ""
+            },
+            {
+              "name": "Orange TV",
+              "url": "acestream://cfb04bd3d4ca8d661eee02ed734ac767d04a00f6",
+              "image": ""
+            },
+            {
+              "name": "Pluto TV Auto Motor Sport",
+              "url": "acestream://93780e4164ed775a9a7cd67c44716de58463fa0a",
+              "image": ""
+            },
+            {
+              "name": "RTL+ SPORT EVENT 1",
+              "url": "acestream://e6cce13cb4005ec3c7d77db47865385927a7ab7e",
+              "image": ""
+            },
+            {
+              "name": "Setanta Live 1",
+              "url": "acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c",
+              "image": ""
+            },
+            {
+              "name": "Sky Sports LaLiga HD",
+              "url": "acestream://2fab80a8445e31cb98169c0907600e1545ea8557",
+              "image": ""
+            },
+            {
+              "name": "SuperTennis HD",
+              "url": "acestream://7a57543cb6061648dc44c5d4321bd100bc8a47ca",
+              "image": ""
+            },
+            {
+              "name": "VIASAT SPORT HD",
+              "url": "acestream://dec96c86080c26ddf667ea90adfb513a40007a0b",
+              "image": ""
+            },
+            {
+              "name": "Бокс ТВ",
+              "url": "acestream://fce354f24fe26ca527e2c38b14eb7b0c81f756dd",
+              "image": ""
+            },
+            {
+              "name": "Конный мир HD",
+              "url": "acestream://99f0646986e9266836dd79047dedecb04e243857",
+              "image": ""
+            },
+            {
+              "name": "КХЛ HD",
+              "url": "acestream://aa6c193b9de1e6b6277e3075299fdeea925e2dc0",
+              "image": ""
+            },
+            {
+              "name": "Матч! Боец",
+              "url": "acestream://ee5cd7316e917f156bf8d176a11da98fe403b0b2",
+              "image": ""
+            },
+            {
+              "name": "Старт",
+              "url": "acestream://4b129146077c1e357e4ab341448b9fb629f939dc",
+              "image": ""
             }
           ]
         }

@@ -1,41 +1,14 @@
 {
   "name": "ZabuluSports",
-  "author": "Actualizado: 2026-05-05 12:05:16",
+  "author": "Actualizado: 2026-05-05 14:25:55",
   "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2Fd3Zx14SS%2Fgoat.png",
-  "info": "Actualizado automáticamente: 2026-05-05 12:05",
+  "info": "Actualizado automáticamente: 2026-05-05 14:25",
   "groups": [
     {
       "name": "Eventos",
       "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1743dSB%2Flive-streaming.png",
       "info": "Eventos del día 05/05/2026",
       "groups": [
-        {
-          "name": "New York Knicks - Philadelphia 76ers",
-          "info": "00:00 - Baloncesto - NBA: Playoffs Semifinal Conferencia",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2Fomfufr1759233767.jpg",
-          "stations": [
-            {
-              "name": "ACB EVENTO 01 720p *",
-              "url": "acestream://8faa686a99697b99261346e479ead172b1d9d5d2",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FB613K9W3%2Flogo1-16-171737.png"
-            },
-            {
-              "name": "ACB EVENTO 01 720p **",
-              "url": "acestream://23bee556c002d0726c1f0cac98a1901cff0a9239",
-              "image": ""
-            },
-            {
-              "name": "ACB EVENTO 01 **",
-              "url": "acestream://0995b9b77ac6198dd92141369707fb99da09bdb2",
-              "image": ""
-            },
-            {
-              "name": "ACB EVENTO 01 **",
-              "url": "acestream://53962d7fb865aff73b34a3afb2905cd492f60d75",
-              "image": ""
-            }
-          ]
-        },
         {
           "name": "Fase de grupos Barcelona SC - Boca Juniors",
           "info": "00:00 - Copa Libertadores",
@@ -168,6 +141,16 @@
               "name": "GOL PLAY FHD",
               "url": "acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FcCThLjpn%2Fgol-play.png"
+            },
+            {
+              "name": "GOL TV 1080P *",
+              "url": "acestream://9bc65384425e92f3a28f977508db3df62d037300",
+              "image": ""
+            },
+            {
+              "name": "GOL TV 1080P **",
+              "url": "acestream://42d3724b275c8029cef0b4d9ce4c59add5cd3ec1",
+              "image": ""
             }
           ]
         },
@@ -197,7 +180,7 @@
         },
         {
           "name": "Etapa 3 - Padron › A Coruña (121 km)",
-          "info": "13:30 - Ciclismo - La Vuelta Fem",
+          "info": "13:30 - Ciclismo - La Vuelta Fem: La Vuelta Femenina",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
             {
@@ -283,11 +266,6 @@
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             },
             {
-              "name": "TELEDEPORTE 1080P **",
-              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
               "name": "TELEDEPORTE",
               "url": "acestream://2d997da301573c5aba78f969d0d37eb6107941b2",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
@@ -320,11 +298,6 @@
             {
               "name": "EUROSPORT 1",
               "url": "acestream://547ab7146a86d6119c9332c011669544720124e3",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
-            },
-            {
-              "name": "EUROSPORT 1",
-              "url": "acestream://e541a954465df29ccce4d829529d983ffb2803d4",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FGptKzZBr%2FEurosport-1-symbol.png"
             },
             {
@@ -392,7 +365,7 @@
             {
               "name": "WTA Roma - 1ª Ronda A. Li - S. Zhang",
               "url": "acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F3wysQdFn%2FTennis-Channel-4.jpg"
+              "image": ""
             }
           ]
         },
@@ -470,6 +443,11 @@
               "name": "M. Deportes HD",
               "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ VAMOS 1080P **",
+              "url": "acestream://476b6f6583517bd75c15c4663bf45fab7c8da9cf",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
             }
           ]
         },
@@ -556,39 +534,14 @@
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             },
             {
-              "name": "Euroliga - Playoffs AS Monaco Basket - Olympiacos Piraeus",
-              "url": "acestream://2d549bbcd898b09c4b736e6e3e83e8e8c19fcbda",
-              "image": ""
-            },
-            {
-              "name": "Euroliga - Playoffs AS Monaco Basket - Olympiacos Piraeus",
+              "name": "M+ DEPORTES 1080P *",
               "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "Euroliga - Playoffs AS Monaco Basket - Olympiacos Piraeus",
+              "name": "M+ DEPORTES 1080P **",
               "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FMG3kQP9S%2FDeportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Euroliga - Playoffs AS Monaco Basket - Olympiacos Piraeus",
-              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FMG3kQP9S%2FDeportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Euroliga - Playoffs AS Monaco Basket - Olympiacos Piraeus",
-              "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FMG3kQP9S%2FDeportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Euroliga - Playoffs AS Monaco Basket - Olympiacos Piraeus",
-              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
-              "image": ""
-            },
-            {
-              "name": "Euroliga - Playoffs AS Monaco Basket - Olympiacos Piraeus",
-              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             }
           ]
         },
@@ -605,7 +558,7 @@
             {
               "name": "M+ Vamos 1080p **",
               "url": "acestream://476b6f6583517bd75c15c4663bf45fab7c8da9cf",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FwBRc6GSG%2Fvamos.png"
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
             },
             {
               "name": "M+ Vamos 720p *",
@@ -784,7 +737,7 @@
             {
               "name": "Copa Sudamericana - Fase de grupos Deportivo Riestra - Grêmio",
               "url": "acestream://476b6f6583517bd75c15c4663bf45fab7c8da9cf",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
             },
             {
               "name": "Copa Sudamericana - Fase de grupos Deportivo Riestra - Grêmio",
@@ -804,7 +757,7 @@
             {
               "name": "Copa Sudamericana - Fase de grupos Deportivo Riestra - Grêmio",
               "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
+              "image": ""
             },
             {
               "name": "Copa Sudamericana - Fase de grupos Deportivo Riestra - Grêmio",
@@ -1978,8 +1931,13 @@
             },
             {
               "name": "MOVISTAR ACCION",
-              "url": "acestream://f3a6d058791f0818a3301f9d5eeb60cfb54d905d",
+              "url": "acestream://cdaf3337bfa80a7d92d673c6ccfec23d3aa92b3c",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FM%2B%2520Acci%25C3%25B3n%2520HD.png%3Fraw%3Dtrue"
+            },
+            {
+              "name": "MOVISTAR COMEDIA HD",
+              "url": "acestream://28e3a4ee2f3d9876435c534a49e34e1a4ced0f12",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Ftv-logo%2Ftv-logos%2Frefs%2Fheads%2Fmain%2Fcountries%2Fspain%2Fcomedia-por-movistar-plus-es.png"
             },
             {
               "name": "MOVISTAR DOCUMENTALES FHD",
@@ -1998,7 +1956,7 @@
             },
             {
               "name": "ONETORO FHD",
-              "url": "acestream://889db6c87a28fd5b3092333b63bcdddf05d26216",
+              "url": "acestream://536c879d8a914e43141d778b3567fa017c9f5eeb",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fdavidmuma%2Fpicons_dobleM%2Frefs%2Fheads%2Fmaster%2Ficon%2FOnetoro.png"
             },
             {
@@ -2013,7 +1971,7 @@
             },
             {
               "name": "MOVISTAR VAMOS FHD",
-              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
+              "url": "acestream://476b6f6583517bd75c15c4663bf45fab7c8da9cf",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
             }
           ]
@@ -2050,7 +2008,7 @@
               "name": "Tennis Channel",
               "info": "[23ac]",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F3wysQdFn%2FTennis-Channel-4.jpg",
-              "url": "acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf"
+              "url": "acestream://1b348443efc7f0cf4cdf349ac35bbe5d41be6220"
             }
           ]
         },
@@ -2675,7 +2633,7 @@
           "stations": [
             {
               "name": "BEIN SPORTS 1",
-              "url": "acestream://fb9eddffee2aa3950301d940b8ada8b71ee6d15c",
+              "url": "acestream://33aa6331066d7796fcab74bed23206f16bded398",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fdavidmuma%2Fpicons_dobleM%2Fmaster%2Ficon%2FbeIN%2520SPORTS%25201.png"
             },
             {
@@ -2704,7 +2662,7 @@
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Ftvprofil.com%2Fimg%2Fkanali-logo%2FSky_Sports_Football_GB_logo.png%3F1734015024"
             },
             {
-              "name": "ZIGGO SPORT 2",
+              "name": "ZIGGO SPORT",
               "url": "acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0e%2FZiggo_Sport_logo.svg%2F1200px-Ziggo_Sport_logo.svg.png"
             }
@@ -2716,7 +2674,7 @@
           "stations": [
             {
               "name": "HYPERMOTION FHD",
-              "url": "acestream://1fdb405a6942da0941266f24cdd1c71b11552f1f",
+              "url": "acestream://fc129b39c253b887563c3f0dce5fca7e699c3047",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCBdGc9f%2Fhypermotion1.png"
             }
           ]
@@ -2743,12 +2701,12 @@
           "stations": [
             {
               "name": "CANAL MOTOR",
-              "url": "acestream://35e17cc84abc5e393b5acd688536a9681105f2d5",
+              "url": "acestream://22b250ce7a16dce785b2e1ee6d4e13bdfa7354cc",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fwww.cxtv.com.br%2Fimg%2FTvs%2FLogo%2Fwebp-l%2F3ee9eef4eb12ec1b3e26049e79a43606.webp"
             },
             {
               "name": "MOTORS TV HD",
-              "url": "acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98",
+              "url": "acestream://a6044ffdb11c0349253f35386c23e994c28cf997",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fwww.mxgp.com%2Fsites%2Fdefault%2Ffiles%2Fnews%2Fimage%2Flogo%2520Motors%2520TV.jpg"
             },
             {
@@ -2794,6 +2752,31 @@
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FzVNFsy0F%2Flogo-otros.png",
           "stations": [
             {
+              "name": "Auto Motor und Sport Channel",
+              "url": "acestream://a211931dace9e4d8975a036b60836fac753e33de",
+              "image": ""
+            },
+            {
+              "name": "beIN Movies Turk",
+              "url": "acestream://cd243637855e2c5b2ce926f86032dfc430c79ebb",
+              "image": ""
+            },
+            {
+              "name": "BeinSport",
+              "url": "acestream://b918f8cff91b646c1eee196be6efa7d2f6180d49",
+              "image": ""
+            },
+            {
+              "name": "Canal+ action",
+              "url": "acestream://108b33a44b6ab295f6301d0a2c433a1ef330d5a4",
+              "image": ""
+            },
+            {
+              "name": "Canal+ Sport 3 PL",
+              "url": "acestream://b3f2b59e44fe70f45dca643107f88b6fcff80672",
+              "image": ""
+            },
+            {
               "name": "DAZN MOTOGP",
               "url": "acestream://18b03739d660f0066364343e226e437bf2555d56",
               "image": ""
@@ -2804,13 +2787,78 @@
               "image": ""
             },
             {
+              "name": "Film+ HD",
+              "url": "acestream://ec7aeef5723f654ee705a192bdcf4eff2fc7c311",
+              "image": ""
+            },
+            {
+              "name": "Gol TV FHDp *",
+              "url": "acestream://42d3724b275c8029cef0b4d9ce4c59add5cd3ec1",
+              "image": ""
+            },
+            {
+              "name": "M+ CINE ESPAnOL HD Spain",
+              "url": "acestream://812151e00822387172fb695f526415c45ad8cd1b",
+              "image": ""
+            },
+            {
+              "name": "M+ Documentales HD Spain",
+              "url": "acestream://fcfe83e9b75169730fedf7375127c0190443972e",
+              "image": ""
+            },
+            {
+              "name": "M+ DRAMA HD Spain",
+              "url": "acestream://acc20f3739d9eccd0539f0c62519f35b8750a245",
+              "image": ""
+            },
+            {
+              "name": "M+ Hits HD Spain",
+              "url": "acestream://e10ef7d45baba0ec10a1f237042dc633df947826",
+              "image": ""
+            },
+            {
+              "name": "M+ Indie HD Spain",
+              "url": "acestream://060f90e77ec1f3478ef81b58569c0158b7851af5",
+              "image": ""
+            },
+            {
+              "name": "M+ Romance HD Spain",
+              "url": "acestream://3e38995391f980d060508c93ab1783cc4d7c42b6",
+              "image": ""
+            },
+            {
+              "name": "M+ Terror HD Spain",
+              "url": "acestream://17ad42b190bd0327984ea7efee661564a61bfc5b",
+              "image": ""
+            },
+            {
+              "name": "M+ Wéstern HD Spain",
+              "url": "acestream://07473038aa16ed164f5989234fafd303eecf67dc",
+              "image": ""
+            },
+            {
               "name": "Magenta Sport 1 HD",
               "url": "acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6",
               "image": ""
             },
             {
+              "name": "NBA League Pass FHDp *",
+              "url": "acestream://d35611fb35a812b81f9f5832f01bf39a2d3176d0",
+              "image": ""
+            },
+            {
+              "name": "noa4 Hamburg FHD",
+              "url": "acestream://d6914c08d198edcfbac7562e3db75303bd8fde48",
+              "image": ""
+            },
+            {
+              "name": "Orange TV",
+              "url": "acestream://cfb04bd3d4ca8d661eee02ed734ac767d04a00f6",
+              "image": ""
+            },
+            {
               "name": "Pluto TV Auto Motor Sport",
-              "url": "acestream://ffa09e597804001f634dd1829f031823411a2595",
+              "url": "acestream://93780e4164ed775a9a7cd67c44716de58463fa0a",
               "image": ""
             },
             {
@@ -2826,6 +2874,11 @@
             {
               "name": "Sky Sports LaLiga HD",
               "url": "acestream://2fab80a8445e31cb98169c0907600e1545ea8557",
+              "image": ""
+            },
+            {
+              "name": "SuperTennis HD",
+              "url": "acestream://7a57543cb6061648dc44c5d4321bd100bc8a47ca",
               "image": ""
             },
             {

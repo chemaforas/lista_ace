@@ -1808,6 +1808,18 @@
         "nombre_canal": "TELEDEPORTE FHD",
         "url": "acestream://2d997da301573c5aba78f969d0d37eb6107941b2",
         "imagen_idiom": "https://i.ibb.co/fb9dbDW/tdp.png"
+      },
+      {
+        "tipo": "acestream",
+        "nombre_canal": "DAZN 1",
+        "url": "acestream://0560234787945a17522e284c4c22bb4df29f33b0",
+        "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/r0n4ja1657045509.png"
+      },
+      {
+        "tipo": "acestream",
+        "nombre_canal": "LA 1",
+        "url": "acestream://dad5e0e0825cb3e410008f1c4252387b868e740c",
+        "imagen_idiom": "https://i.ibb.co/swhGnw4/La1.jpg"
       }
     ]
   },
@@ -1889,6 +1901,12 @@
         "nombre_canal": "M+ Liga de Campeones",
         "url": "acestream://a3197f5fa9d42f199d5bbe5a5c47ec4cfbf248cb",
         "imagen_idiom": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+      },
+      {
+        "tipo": "acestream",
+        "nombre_canal": "M+ VAMOS 1080P **",
+        "url": "acestream://476b6f6583517bd75c15c4663bf45fab7c8da9cf",
+        "imagen_idiom": "https://i.postimg.cc/wBRc6GSG/vamos.png"
       }
     ]
   },
@@ -2153,6 +2171,51 @@
     ]
   },
   {
+    "id": 734,
+    "nombre": "Oklahoma C. Thunder Vs Los Angeles Lakers",
+    "categoria": "Baloncesto | NBA: Playoffs Semifinal Conferencia",
+    "fecha_hora": "2026-05-07T00:30:00",
+    "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/6zhugy1759234741.jpg",
+    "detalles": [
+      {
+        "tipo": "acestream",
+        "nombre_canal": "ACB EVENTO 01 720p *",
+        "url": "acestream://8faa686a99697b99261346e479ead172b1d9d5d2",
+        "imagen_idiom": "https://i.postimg.cc/B613K9W3/logo1-16-171737.png"
+      },
+      {
+        "tipo": "acestream",
+        "nombre_canal": "ACB EVENTO 01 720p **",
+        "url": "acestream://23bee556c002d0726c1f0cac98a1901cff0a9239",
+        "imagen_idiom": ""
+      },
+      {
+        "tipo": "acestream",
+        "nombre_canal": "ACB EVENTO 01 **",
+        "url": "acestream://0995b9b77ac6198dd92141369707fb99da09bdb2",
+        "imagen_idiom": ""
+      },
+      {
+        "tipo": "acestream",
+        "nombre_canal": "ACB EVENTO 01 **",
+        "url": "acestream://53962d7fb865aff73b34a3afb2905cd492f60d75",
+        "imagen_idiom": ""
+      },
+      {
+        "tipo": "acestream",
+        "nombre_canal": "NBA LEAGUE PASS 1080P *",
+        "url": "acestream://cd724cf4db6c687dfcdc580ee481cb374ae6bf58",
+        "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/NBA_League_Pass.png"
+      },
+      {
+        "tipo": "acestream",
+        "nombre_canal": "NBA LEAGUE PASS 1080P **",
+        "url": "acestream://d35611fb35a812b81f9f5832f01bf39a2d3176d0",
+        "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/NBA_League_Pass.png"
+      }
+    ]
+  },
+  {
     "id": 766,
     "nombre": "Philadelphia Phillies vs Oakland Athletics",
     "categoria": "Baseball - MLB",
@@ -2355,39 +2418,6 @@
         "url": "https://dlstreams.com/stream/stream-22.php",
         "imagen_idiom": "",
         "url_m3u8": "https://chevy.soyspace.cyou/proxy/nfs/premium22/mono.css"
-      }
-    ]
-  },
-  {
-    "id": 734,
-    "nombre": "Oklahoma C. Thunder Vs Los Angeles Lakers",
-    "categoria": "Baloncesto | NBA: Playoffs Semifinal Conferencia",
-    "fecha_hora": "2026-05-07T00:30:00",
-    "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/6zhugy1759234741.jpg",
-    "detalles": [
-      {
-        "tipo": "acestream",
-        "nombre_canal": "ACB EVENTO 01 720p *",
-        "url": "acestream://8faa686a99697b99261346e479ead172b1d9d5d2",
-        "imagen_idiom": "https://i.postimg.cc/B613K9W3/logo1-16-171737.png"
-      },
-      {
-        "tipo": "acestream",
-        "nombre_canal": "ACB EVENTO 01 720p **",
-        "url": "acestream://23bee556c002d0726c1f0cac98a1901cff0a9239",
-        "imagen_idiom": ""
-      },
-      {
-        "tipo": "acestream",
-        "nombre_canal": "ACB EVENTO 01 **",
-        "url": "acestream://0995b9b77ac6198dd92141369707fb99da09bdb2",
-        "imagen_idiom": ""
-      },
-      {
-        "tipo": "acestream",
-        "nombre_canal": "ACB EVENTO 01 **",
-        "url": "acestream://53962d7fb865aff73b34a3afb2905cd492f60d75",
-        "imagen_idiom": ""
       }
     ]
   },

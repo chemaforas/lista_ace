@@ -1,8 +1,8 @@
 {
   "name": "ZabuluSports",
-  "author": "Actualizado: 2026-05-08 10:39:33",
+  "author": "Actualizado: 2026-05-08 11:24:41",
   "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2Fd3Zx14SS%2Fgoat.png",
-  "info": "Actualizado automáticamente: 2026-05-08 10:39",
+  "info": "Actualizado automáticamente: 2026-05-08 11:24",
   "groups": [
     {
       "name": "Eventos",
@@ -46,6 +46,11 @@
             },
             {
               "name": "M+ VAMOS 2 1080p",
+              "url": "acestream://0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FwBRc6GSG%2Fvamos.png"
+            },
+            {
+              "name": "M+ VAMOS 2 1080p",
               "url": "acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
             },
@@ -53,28 +58,6 @@
               "name": "LIGA DE CAMPEONES 5 FHD",
               "url": "acestream://cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FmrqY3JD3%2FLiga-de-Campeones-5-por-Movistar-Plus-2022-logo.png"
-            }
-          ]
-        },
-        {
-          "name": "SS4 › SS10",
-          "info": "06:35 - Automovilismo - WRC Rally: Rally de Portugal",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
-          "stations": [
-            {
-              "name": "RALLY TV FHD",
-              "url": "acestream://651dd1e689a9a7d3b0695191dcf44b4d6e7541eb",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg%26s"
-            },
-            {
-              "name": "RALLY TV **",
-              "url": "acestream://12404b00d2787995d639ccf71a80da5d39d153f9",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg%26s"
-            },
-            {
-              "name": "RALLY TV **",
-              "url": "acestream://b6ca8e022947548af61d76660b6b6f799a778d31",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg%26s"
             }
           ]
         },
@@ -163,8 +146,18 @@
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FZKTPyNjD%2Flogo2-28-91831.png"
             },
             {
-              "name": "DAZN MOTOGP 720P **",
-              "url": "acestream://129c707eb4854171d178a566f36d90b7f2b5e624",
+              "name": "DAZN MOTOGP 1080P *",
+              "url": "acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FZKTPyNjD%2Flogo2-28-91831.png"
+            },
+            {
+              "name": "DAZN MOTOGP 1080P **",
+              "url": "acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FZKTPyNjD%2Flogo2-28-91831.png"
+            },
+            {
+              "name": "DAZN MOTOGP 1080P **",
+              "url": "acestream://342ca6975a4884d81f9fec5c4085a47060bd2028",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FZKTPyNjD%2Flogo2-28-91831.png"
             },
             {
@@ -175,6 +168,11 @@
             {
               "name": "DAZN MOTOGP",
               "url": "acestream://18b03739d660f0066364343e226e437bf2555d56",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FZKTPyNjD%2Flogo2-28-91831.png"
+            },
+            {
+              "name": "DAZN MOTOGP SDP",
+              "url": "acestream://129c707eb4854171d178a566f36d90b7f2b5e624",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FZKTPyNjD%2Flogo2-28-91831.png"
             }
           ]
@@ -270,6 +268,23 @@
               "name": "TENNIS CHANNEL",
               "url": "acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2F3wysQdFn%2FTennis-Channel-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "A. De Miñaur - M. Arnaldi",
+          "info": "09:00 - Masters Roma2ª Ronda - 2ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1743dSB%2Flive_streaming.png",
+          "stations": [
+            {
+              "name": "M+ DEPORTES 1080P *",
+              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ DEPORTES 1080P **",
+              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FMG3kQP9S%2FDeportes-por-Movistar-Plus-2022-logo.png"
             }
           ]
         },
@@ -452,6 +467,23 @@
           ]
         },
         {
+          "name": "JL. Struff - J. Lehecka",
+          "info": "10:30 - Masters Roma2ª Ronda - 2ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1743dSB%2Flive_streaming.png",
+          "stations": [
+            {
+              "name": "M+ DEPORTES 1080P *",
+              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ DEPORTES 1080P **",
+              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FMG3kQP9S%2FDeportes-por-Movistar-Plus-2022-logo.png"
+            }
+          ]
+        },
+        {
           "name": "D. Altmaier - A. Zverev",
           "info": "11:00 - Tenis - Masters Roma: 2ª Ronda",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
@@ -585,6 +617,11 @@
               "image": ""
             },
             {
+              "name": "M+ GOLF 1080P **",
+              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
+              "image": ""
+            },
+            {
               "name": "MOVISTAR GOLF",
               "url": "acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2Fyx9c39GB%2Flogo1-17-10417-removebg-preview.png"
@@ -598,6 +635,23 @@
               "name": "MOVISTAR GOLF",
               "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2Fyx9c39GB%2Flogo1-17-10417-removebg-preview.png"
+            }
+          ]
+        },
+        {
+          "name": "A. Tabilo - F. Cerundolo",
+          "info": "12:00 - Masters Roma2ª Ronda - 2ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1743dSB%2Flive_streaming.png",
+          "stations": [
+            {
+              "name": "M+ DEPORTES 1080P *",
+              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ DEPORTES 1080P **",
+              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FMG3kQP9S%2FDeportes-por-Movistar-Plus-2022-logo.png"
             }
           ]
         },
@@ -828,6 +882,11 @@
             },
             {
               "name": "M+ VAMOS 2 1080p",
+              "url": "acestream://0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FwBRc6GSG%2Fvamos.png"
+            },
+            {
+              "name": "M+ VAMOS 2 1080p",
               "url": "acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
             },
@@ -849,8 +908,18 @@
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FZKTPyNjD%2Flogo2-28-91831.png"
             },
             {
-              "name": "DAZN MOTOGP 720P **",
-              "url": "acestream://129c707eb4854171d178a566f36d90b7f2b5e624",
+              "name": "DAZN MOTOGP 1080P *",
+              "url": "acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FZKTPyNjD%2Flogo2-28-91831.png"
+            },
+            {
+              "name": "DAZN MOTOGP 1080P **",
+              "url": "acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FZKTPyNjD%2Flogo2-28-91831.png"
+            },
+            {
+              "name": "DAZN MOTOGP 1080P **",
+              "url": "acestream://342ca6975a4884d81f9fec5c4085a47060bd2028",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FZKTPyNjD%2Flogo2-28-91831.png"
             },
             {
@@ -861,6 +930,11 @@
             {
               "name": "DAZN MOTOGP",
               "url": "acestream://18b03739d660f0066364343e226e437bf2555d56",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FZKTPyNjD%2Flogo2-28-91831.png"
+            },
+            {
+              "name": "DAZN MOTOGP SDP",
+              "url": "acestream://129c707eb4854171d178a566f36d90b7f2b5e624",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FZKTPyNjD%2Flogo2-28-91831.png"
             }
           ]
@@ -896,13 +970,13 @@
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FbN2ykFF8%2FDeportes-por-Movistar-4-2022-logo.png"
             },
             {
-              "name": "M+ DEPORTES 4 **",
-              "url": "acestream://590a1f4546e3a0d5d419b62b8177b44d6ce0339f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+              "name": "MOVISTAR DEPORTES 4",
+              "url": "acestream://58a4c880ab18486d914751db32a12760e74b75a4",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             },
             {
               "name": "MOVISTAR DEPORTES 4",
-              "url": "acestream://58a4c880ab18486d914751db32a12760e74b75a4",
+              "url": "acestream://590a1f4546e3a0d5d419b62b8177b44d6ce0339f",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             },
             {
@@ -1087,6 +1161,23 @@
               "name": "MOVISTAR DEPORTES 2 HD",
               "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+            }
+          ]
+        },
+        {
+          "name": "T. Paul - A. Vukic",
+          "info": "13:30 - Masters Roma2ª Ronda - 2ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1743dSB%2Flive_streaming.png",
+          "stations": [
+            {
+              "name": "M+ DEPORTES 1080P *",
+              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ DEPORTES 1080P **",
+              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FMG3kQP9S%2FDeportes-por-Movistar-Plus-2022-logo.png"
             }
           ]
         },
@@ -1334,6 +1425,11 @@
             },
             {
               "name": "M+ VAMOS 2 1080p",
+              "url": "acestream://0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FwBRc6GSG%2Fvamos.png"
+            },
+            {
+              "name": "M+ VAMOS 2 1080p",
               "url": "acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
             },
@@ -1375,13 +1471,13 @@
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FbN2ykFF8%2FDeportes-por-Movistar-4-2022-logo.png"
             },
             {
-              "name": "M+ DEPORTES 4 **",
-              "url": "acestream://590a1f4546e3a0d5d419b62b8177b44d6ce0339f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+              "name": "MOVISTAR DEPORTES 4",
+              "url": "acestream://58a4c880ab18486d914751db32a12760e74b75a4",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             },
             {
               "name": "MOVISTAR DEPORTES 4",
-              "url": "acestream://58a4c880ab18486d914751db32a12760e74b75a4",
+              "url": "acestream://590a1f4546e3a0d5d419b62b8177b44d6ce0339f",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             },
             {
@@ -1504,13 +1600,23 @@
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FyY9bDhLr%2FLiga-de-Campeones-3-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "M+ Liga de Campeones 1080p",
-              "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9",
+              "name": "M+ Liga de Campeones 3 1080p",
+              "url": "acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FTY47pLc4%2FLiga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Liga de Campeones 2 1080p",
+              "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FWbdGh9zM%2FLiga-de-Campeones-2-por-Movistar-Plus-2022-logo.png"
             },
             {
               "name": "M+ Liga de Campeones 1080p",
               "url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FTY47pLc4%2FLiga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Liga de Campeones 1080p",
+              "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FTY47pLc4%2FLiga-de-Campeones-por-Movistar-Plus-2022-logo.png"
             },
             {
@@ -1592,6 +1698,23 @@
               "name": "LIGA DE CAMPEONES",
               "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FTY47pLc4%2FLiga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "Y. Hanfmann - L. Darderi",
+          "info": "15:30 - Masters Roma2ª Ronda - 2ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FC1743dSB%2Flive_streaming.png",
+          "stations": [
+            {
+              "name": "M+ DEPORTES 1080P *",
+              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ DEPORTES 1080P **",
+              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FMG3kQP9S%2FDeportes-por-Movistar-Plus-2022-logo.png"
             }
           ]
         },
@@ -1714,6 +1837,11 @@
             {
               "name": "M+ GOLF 1080P *",
               "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
+              "image": ""
+            },
+            {
+              "name": "M+ GOLF 1080P **",
+              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
               "image": ""
             },
             {
@@ -1867,13 +1995,13 @@
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FbN2ykFF8%2FDeportes-por-Movistar-4-2022-logo.png"
             },
             {
-              "name": "M+ DEPORTES 4 **",
-              "url": "acestream://590a1f4546e3a0d5d419b62b8177b44d6ce0339f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+              "name": "MOVISTAR DEPORTES 4",
+              "url": "acestream://58a4c880ab18486d914751db32a12760e74b75a4",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             },
             {
               "name": "MOVISTAR DEPORTES 4",
-              "url": "acestream://58a4c880ab18486d914751db32a12760e74b75a4",
+              "url": "acestream://590a1f4546e3a0d5d419b62b8177b44d6ce0339f",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             },
             {
@@ -1983,7 +2111,7 @@
         {
           "name": "Panathinaikos BC - Valencia Basket",
           "info": "18:15 - Baloncesto - Euroliga: Playoffs",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fbaloncesto.png",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2F6emtjx1767368093.jpg",
           "stations": [
             {
               "name": "MOVISTAR PLUS 1080p *",
@@ -2060,7 +2188,7 @@
         {
           "name": "Cadiz CF - Deportivo",
           "info": "18:30 - Fútbol - Segunda",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2Fa0cqhn1755421473.jpg",
           "stations": [
             {
               "name": "LaLiga TV Hypermotion 1080p *",
@@ -2117,7 +2245,7 @@
         {
           "name": "Borussia Dortmund - Eintracht Frankfurt",
           "info": "18:30 - Fútbol - Bundesliga",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2Fgyxpjb1754041980.jpg",
           "stations": [
             {
               "name": "M+ Liga de Campeones 3 1080p **",
@@ -2199,7 +2327,7 @@
         {
           "name": "Lech Poznan - Arka Gdynia",
           "info": "18:30 - Fútbol - Liga Polaca",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2Foz7byq1750344070.jpg",
           "stations": [
             {
               "name": "GOL PLAY FHD",
@@ -2405,13 +2533,23 @@
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FyY9bDhLr%2FLiga-de-Campeones-3-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "M+ Liga de Campeones 1080p",
-              "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9",
+              "name": "M+ Liga de Campeones 3 1080p",
+              "url": "acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FTY47pLc4%2FLiga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Liga de Campeones 2 1080p",
+              "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FWbdGh9zM%2FLiga-de-Campeones-2-por-Movistar-Plus-2022-logo.png"
             },
             {
               "name": "M+ Liga de Campeones 1080p",
               "url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FTY47pLc4%2FLiga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Liga de Campeones 1080p",
+              "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FTY47pLc4%2FLiga-de-Campeones-por-Movistar-Plus-2022-logo.png"
             },
             {
@@ -2538,7 +2676,7 @@
         {
           "name": "Torino - Sassuolo",
           "info": "18:45 - Fútbol - Serie A",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2Frsv7h31755935132.jpg",
           "stations": [
             {
               "name": "DAZN Serie A 1080p *",
@@ -2580,7 +2718,7 @@
         {
           "name": "Levante - Osasuna",
           "info": "19:00 - Fútbol - Primera",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2Fr2hwkq1751450382.jpg",
           "stations": [
             {
               "name": "DAZN LaLiga 1080p *",
@@ -2667,7 +2805,7 @@
         {
           "name": "Baloncesto Fuenlabrada - Movistar Estudiantes",
           "info": "19:00 - Baloncesto - 1ª FEB: Liga Regular",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fbaloncesto.png",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2F801kpg1765741598.jpg",
           "stations": [
             {
               "name": "M+ Deportes 5 1080p *",
@@ -2776,13 +2914,13 @@
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FbN2ykFF8%2FDeportes-por-Movistar-4-2022-logo.png"
             },
             {
-              "name": "M+ DEPORTES 4 **",
-              "url": "acestream://590a1f4546e3a0d5d419b62b8177b44d6ce0339f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+              "name": "MOVISTAR DEPORTES 4",
+              "url": "acestream://58a4c880ab18486d914751db32a12760e74b75a4",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             },
             {
               "name": "MOVISTAR DEPORTES 4",
-              "url": "acestream://58a4c880ab18486d914751db32a12760e74b75a4",
+              "url": "acestream://590a1f4546e3a0d5d419b62b8177b44d6ce0339f",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             },
             {
@@ -2954,6 +3092,11 @@
               "name": "MOVISTAR DEPORTES 4 FHD",
               "url": "acestream://58a4c880ab18486d914751db32a12760e74b75a4",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES 4",
+              "url": "acestream://590a1f4546e3a0d5d419b62b8177b44d6ce0339f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             }
           ]
         },
@@ -2973,13 +3116,13 @@
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FbN2ykFF8%2FDeportes-por-Movistar-4-2022-logo.png"
             },
             {
-              "name": "M+ DEPORTES 4 **",
-              "url": "acestream://590a1f4546e3a0d5d419b62b8177b44d6ce0339f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+              "name": "MOVISTAR DEPORTES 4",
+              "url": "acestream://58a4c880ab18486d914751db32a12760e74b75a4",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             },
             {
               "name": "MOVISTAR DEPORTES 4",
-              "url": "acestream://58a4c880ab18486d914751db32a12760e74b75a4",
+              "url": "acestream://590a1f4546e3a0d5d419b62b8177b44d6ce0339f",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             },
             {
@@ -3044,6 +3187,11 @@
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FwMRp572F%2FDeportes-por-Movistar-5-2022-logo.png"
             },
             {
+              "name": "M+ DEPORTES 5 **",
+              "url": "acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
               "name": "MOVISTAR DEPORTES 5",
               "url": "acestream://5913205fb6d6d162a50222709aab6129eb7cf916",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FwMRp572F%2FDeportes-por-Movistar-5-2022-logo.png"
@@ -3064,6 +3212,11 @@
               "name": "M+ VAMOS 1080P **",
               "url": "acestream://476b6f6583517bd75c15c4663bf45fab7c8da9cf",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FwBRc6GSG%2Fvamos.png"
+            },
+            {
+              "name": "M+ LIGA DE CAMPEONES 2 1080P **",
+              "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.postimg.cc%2FWbdGh9zM%2FLiga-de-Campeones-2-por-Movistar-Plus-2022-logo.png"
             },
             {
               "name": "LIGA DE CAMPEONES 2",

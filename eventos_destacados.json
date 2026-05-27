@@ -1,7 +1,7 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "api_key": "MY6xMtwWcKopY8MZhkPgOgB8nzJJx9SyimCgLQqAISE"
+    "api_key": "TNmUqlaCtTc7IZmklnJQJP630rr_VCyCj8HjQt3t4LI"
   },
   "eventos": [
     {
@@ -472,6 +472,41 @@
           "url_embed": "https://dlhd.pk/watch.php?id=928"
         },
         {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN",
+          "url": "https://tvtvhd.com/canales.php?stream=espn",
+          "imagen_idiom": "",
+          "url_embed": "https://tvtvhd.com/canales.php?stream=espn"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN AR",
+          "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+          "imagen_idiom": "",
+          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=espn"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN AR",
+          "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+          "imagen_idiom": "",
+          "url_embed": "https://tvtvhd.com/vivo/canales.php?stream=espn"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "Fox Sports",
+          "url": "https://tvtvhd.com/canales.php?stream=foxsports\n",
+          "imagen_idiom": "",
+          "url_embed": "https://tvtvhd.com/canales.php?stream=foxsports\n"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN 4 MX",
+          "url": "https://tvtvhd.com/canales.php?stream=espn4mx",
+          "imagen_idiom": "",
+          "url_embed": "https://tvtvhd.com/canales.php?stream=espn4mx"
+        },
+        {
           "tipo": "dlhd",
           "nombre_canal": "Telefe Argentina",
           "url": "https://dlhd.pk/stream/stream-12.php",
@@ -540,6 +575,20 @@
           "url": "https://dlhd.pk/stream/stream-143.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=143"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "Telefe",
+          "url": "https://tvtvhd.com/canales.php?stream=telefe",
+          "imagen_idiom": "",
+          "url_embed": "https://tvtvhd.com/canales.php?stream=telefe"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "BeIN Sports Ñ",
+          "url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
+          "imagen_idiom": "",
+          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes"
         }
       ]
     },

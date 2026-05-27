@@ -1,14 +1,26 @@
 {
   "name": "ZabuluSports",
-  "author": "Actualizado: 2026-05-27 07:06:28",
+  "author": "Actualizado: 2026-05-27 09:44:54",
   "image": "https://i.postimg.cc/d3Zx14SS/goat.png",
-  "info": "Actualizado automáticamente: 2026-05-27 07:06",
+  "info": "Actualizado automáticamente: 2026-05-27 09:44",
   "groups": [
     {
       "name": "Eventos",
       "image": "https://i.postimg.cc/C1743dSB/live-streaming.png",
       "info": "Eventos del día 27/05/2026",
       "groups": [
+        {
+          "name": "K. Khachanov - M. Trungelliti",
+          "info": "09:00 - Tenis - Roland Garros: 2ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
+            {
+              "name": "M+ Deportes 7",
+              "url": "acestream://9b38816906198580dbeb35b68673e1d060668e05",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            }
+          ]
+        },
         {
           "name": "A. Davidovich - TA. Tirante",
           "info": "09:00 - Tenis - Roland Garros: 2ª Ronda",
@@ -43,18 +55,6 @@
               "name": "Eurosport 2",
               "url": "acestream://f5908690485ae2facecf3074446ba4315f07a193",
               "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            }
-          ]
-        },
-        {
-          "name": "A. De Miñaur - A. Blockx",
-          "info": "09:00 - Tenis - Roland Garros: 2ª Ronda",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
-          "stations": [
-            {
-              "name": "M+ Deportes 7",
-              "url": "acestream://9b38816906198580dbeb35b68673e1d060668e05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             }
           ]
         },
@@ -716,33 +716,6 @@
               "name": "ACB EVENTO 01",
               "url": "acestream://53962d7fb865aff73b34a3afb2905cd492f60d75",
               "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Millonarios - O'Higgins",
-          "info": "22:00 - Fútbol - Copa Sudamericana: Fase de grupos",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
-          "stations": [
-            {
-              "name": "M+ Vamos",
-              "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
-              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
-            },
-            {
-              "name": "M+ Vamos",
-              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
-              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
-            },
-            {
-              "name": "M+ Vamos",
-              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
-              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
-            },
-            {
-              "name": "MOVISTAR VAMOS",
-              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
             }
           ]
         }
@@ -1856,12 +1829,12 @@
             },
             {
               "name": "MOVISTAR ACCION",
-              "url": "acestream://cdaf3337bfa80a7d92d673c6ccfec23d3aa92b3c",
+              "url": "acestream://f3a6d058791f0818a3301f9d5eeb60cfb54d905d",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FM%2B%2520Acci%25C3%25B3n%2520HD.png%3Fraw%3Dtrue"
             },
             {
               "name": "MOVISTAR COMEDIA",
-              "url": "acestream://28e3a4ee2f3d9876435c534a49e34e1a4ced0f12",
+              "url": "acestream://e8cd9088fee41413df360e4539c9e7184a63ffcb",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Ftv-logo%2Ftv-logos%2Frefs%2Fheads%2Fmain%2Fcountries%2Fspain%2Fcomedia-por-movistar-plus-es.png"
             },
             {
@@ -1933,7 +1906,7 @@
               "name": "Tennis Channel",
               "info": "[23ac]",
               "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg",
-              "url": "acestream://1b348443efc7f0cf4cdf349ac35bbe5d41be6220"
+              "url": "acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf"
             }
           ]
         },
@@ -2558,7 +2531,7 @@
           "stations": [
             {
               "name": "BEIN SPORTS 1",
-              "url": "acestream://33aa6331066d7796fcab74bed23206f16bded398",
+              "url": "acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fdavidmuma%2Fpicons_dobleM%2Fmaster%2Ficon%2FbeIN%2520SPORTS%25201.png"
             },
             {
@@ -2587,7 +2560,7 @@
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Ftvprofil.com%2Fimg%2Fkanali-logo%2FSky_Sports_Football_GB_logo.png%3F1734015024"
             },
             {
-              "name": "ZIGGO SPORT",
+              "name": "ZIGGO SPORT 2",
               "url": "acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0e%2FZiggo_Sport_logo.svg%2F1200px-Ziggo_Sport_logo.svg.png"
             }
@@ -2626,12 +2599,12 @@
           "stations": [
             {
               "name": "CANAL MOTOR",
-              "url": "acestream://22b250ce7a16dce785b2e1ee6d4e13bdfa7354cc",
+              "url": "acestream://35e17cc84abc5e393b5acd688536a9681105f2d5",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fwww.cxtv.com.br%2Fimg%2FTvs%2FLogo%2Fwebp-l%2F3ee9eef4eb12ec1b3e26049e79a43606.webp"
             },
             {
               "name": "MOTORS TV",
-              "url": "acestream://a6044ffdb11c0349253f35386c23e994c28cf997",
+              "url": "acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fwww.mxgp.com%2Fsites%2Fdefault%2Ffiles%2Fnews%2Fimage%2Flogo%2520Motors%2520TV.jpg"
             },
             {
@@ -2677,23 +2650,8 @@
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FzVNFsy0F%2Flogo-otros.png",
           "stations": [
             {
-              "name": "Auto Motor und Sport Channel",
-              "url": "acestream://a211931dace9e4d8975a036b60836fac753e33de",
-              "image": ""
-            },
-            {
-              "name": "beIN Movies Turk",
-              "url": "acestream://cd243637855e2c5b2ce926f86032dfc430c79ebb",
-              "image": ""
-            },
-            {
               "name": "CALCIO EVENTOS",
               "url": "acestream://1e045b7e16a5c2c3e5a8c0c0176efa26b63d7955",
-              "image": ""
-            },
-            {
-              "name": "Canal+ action",
-              "url": "acestream://108b33a44b6ab295f6301d0a2c433a1ef330d5a4",
               "image": ""
             },
             {
@@ -2707,68 +2665,13 @@
               "image": ""
             },
             {
-              "name": "Film+",
-              "url": "acestream://ec7aeef5723f654ee705a192bdcf4eff2fc7c311",
-              "image": ""
-            },
-            {
-              "name": "M+ CINE ESPAnOL Spain",
-              "url": "acestream://812151e00822387172fb695f526415c45ad8cd1b",
-              "image": ""
-            },
-            {
-              "name": "M+ Documentales Spain",
-              "url": "acestream://fcfe83e9b75169730fedf7375127c0190443972e",
-              "image": ""
-            },
-            {
-              "name": "M+ DRAMA Spain",
-              "url": "acestream://acc20f3739d9eccd0539f0c62519f35b8750a245",
-              "image": ""
-            },
-            {
-              "name": "M+ Hits Spain",
-              "url": "acestream://e10ef7d45baba0ec10a1f237042dc633df947826",
-              "image": ""
-            },
-            {
-              "name": "M+ Indie Spain",
-              "url": "acestream://060f90e77ec1f3478ef81b58569c0158b7851af5",
-              "image": ""
-            },
-            {
-              "name": "M+ Romance Spain",
-              "url": "acestream://3e38995391f980d060508c93ab1783cc4d7c42b6",
-              "image": ""
-            },
-            {
-              "name": "M+ Terror Spain",
-              "url": "acestream://17ad42b190bd0327984ea7efee661564a61bfc5b",
-              "image": ""
-            },
-            {
-              "name": "M+ Wéstern Spain",
-              "url": "acestream://07473038aa16ed164f5989234fafd303eecf67dc",
-              "image": ""
-            },
-            {
               "name": "Magenta Sport 1",
               "url": "acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6",
               "image": ""
             },
             {
-              "name": "noa4 Hamburg",
-              "url": "acestream://d6914c08d198edcfbac7562e3db75303bd8fde48",
-              "image": ""
-            },
-            {
-              "name": "Orange TV",
-              "url": "acestream://cfb04bd3d4ca8d661eee02ed734ac767d04a00f6",
-              "image": ""
-            },
-            {
               "name": "Pluto TV Auto Motor Sport",
-              "url": "acestream://93780e4164ed775a9a7cd67c44716de58463fa0a",
+              "url": "acestream://ffa09e597804001f634dd1829f031823411a2595",
               "image": ""
             },
             {
@@ -2784,11 +2687,6 @@
             {
               "name": "Sky Sports LaLiga",
               "url": "acestream://2fab80a8445e31cb98169c0907600e1545ea8557",
-              "image": ""
-            },
-            {
-              "name": "SuperTennis",
-              "url": "acestream://7a57543cb6061648dc44c5d4321bd100bc8a47ca",
               "image": ""
             },
             {
@@ -3286,91 +3184,91 @@
           "name": "TOP Barça",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fimages-0.rakuten.tv%2Fstorage%2Fglobal-live-channel%2Ftranslation%2Fartwork%2Fff403089-1c81-41d3-bb18-b817b1f01721.jpeg",
           "number": "327",
-          "url": "https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8?ads_amagi_channel=941&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6347&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=287b9342-3d61-4b9b-ad59-8b32831e5f94&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+          "url": "https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8",
           "epgId": "top-barca-es"
         },
         {
           "name": "FIFA+",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fimages-2.rakuten.tv%2Fstorage%2Fglobal-live-channel%2Ftranslation%2Fartwork%2Fe37664a3-8cb2-4f78-b683-8ed89d108924.jpeg",
           "number": "328",
-          "url": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6128&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=8c3d104d-e725-4193-8fc5-75f0779aa0f2&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1780",
+          "url": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8",
           "epgId": "fifa-plus-es-new"
         },
         {
           "name": "LaLiga Inside",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fimages-2.rakuten.tv%2Fstorage%2Fglobal-live-channel%2Ftranslation%2Fartwork%2F99ae16ca-3e5a-4f96-8924-46d2c034f959.jpeg",
           "number": "330",
-          "url": "https://daiconnect.com/live/hls/tvup/rk-ligainside/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5966&ads_rtv_content_language=spa&ads_streaming_id=7dff8be3-caa9-40e6-996c-3320d29a7018&ads_tcs_channel_id=227&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+          "url": "https://daiconnect.com/live/hls/tvup/rk-ligainside/.m3u8",
           "epgId": "laliga-inside"
         },
         {
           "name": "FUEL TV",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fimages-2.rakuten.tv%2Fstorage%2Fglobal-live-channel%2Ftranslation%2Fartwork%2Fd7755b9a-5d95-4d1c-8615-d061c709ea2d.jpeg",
           "number": "336",
-          "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8?ads_amagi_channel=847&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4802&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=c1b10c9e-a7d7-4a25-b8ce-36f8ae22b97f&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+          "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
           "epgId": "fuel-tv-new"
         },
         {
           "name": "World Billiards TV",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fimages-3.rakuten.tv%2Fstorage%2Fglobal-live-channel%2Ftranslation%2Fartwork%2F80af06f2-a12e-4406-bd13-b932fd69fffe.png",
           "number": "338",
-          "url": "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3722&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=a9089c0d-04fc-4e91-ad33-02486505dea8&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=967",
+          "url": "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8",
           "epgId": "billiards-tv"
         },
         {
           "name": "Hard Knocks Fighting Championship",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fimages-1.rakuten.tv%2Fstorage%2Fglobal-live-channel%2Ftranslation%2Fartwork%2F13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398.jpeg",
           "number": "339",
-          "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=HardKnocks&ads.csid=zeus_eu_hardknocks_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=359&ads.rakuten_streaming_id=f575bf22-512a-426b-abff-28ec89706ede&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883037&ads.xumo_contentId=212&ads.xumo_contentName=HardKnocks&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=212&ads.xumo_providerName=HardKnocks&ads.xumo_streamId=88883037",
+          "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8",
           "epgId": "hard-knocks-fighting-championship"
         },
         {
           "name": "GLORY Kickboxing",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fimages-2.rakuten.tv%2Fstorage%2Fglobal-live-channel%2Ftranslation%2Fartwork%2F0a96318f-fb4e-444c-950b-91f0524ca77c.jpeg",
           "number": "341",
-          "url": "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4843&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=171437ce-1c52-43b4-8e0e-762f327ae1cf&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1360",
+          "url": "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8",
           "epgId": "glory-kickboxing"
         },
         {
           "name": "USGA",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fimages-2.rakuten.tv%2Fstorage%2Fglobal-live-channel%2Ftranslation%2Fartwork%2F32f1ce41-3762-4fed-8871-b14acc14277d-usga-1622457489.jpeg",
           "number": "345",
-          "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=USGA&ads.csid=zeus_eu_usga_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3273&ads.rakuten_streaming_id=f7fd875d-45ad-40c9-bbe4-e8290776199a&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883058&ads.xumo_contentId=1829&ads.xumo_contentName=USGA&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1829&ads.xumo_providerName=USGA&ads.xumo_streamId=88883058",
+          "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8",
           "epgId": "usga"
         },
         {
           "name": "Surf Channel",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fimages-1.rakuten.tv%2Fstorage%2Fglobal-live-channel%2Ftranslation%2Fartwork%2Fee7406e0-5a2a-49dc-9722-f3888314566c-surf-channel-1631785285.jpeg",
           "number": "351",
-          "url": "https://fdd0a769b16845d981dce6fd9c9f6195.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_SurfChannel/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3740&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=41d4d29b-febc-41b8-b8cb-20e8a343dc36&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=969",
+          "url": "https://fdd0a769b16845d981dce6fd9c9f6195.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_SurfChannel/playlist.m3u8",
           "epgId": "surf-channel"
         },
         {
           "name": "Motorsport.tv",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fimages-1.rakuten.tv%2Fstorage%2Fglobal-live-channel%2Ftranslation%2Fartwork%2Fd1e02c44-7aa4-443e-aa8d-e5bd1389b9a3.jpeg",
           "number": "364",
-          "url": "https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4668&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=d5e3ed2d-30f6-4c8b-9284-c53c7bb429ae&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1370",
+          "url": "https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8",
           "epgId": "motorsport-tv-en"
         },
         {
           "name": "MAVTV Motorsports Network",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fimages-2.rakuten.tv%2Fstorage%2Fglobal-live-channel%2Ftranslation%2Fartwork%2F87aa040f-78e1-44f4-89bd-3afb3991db9f.jpeg",
           "number": "365",
-          "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8?ads_amagi_channel=872&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5458&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=ccfaa6fb-44f7-45cd-ac22-8becbce92921&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor",
+          "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8",
           "epgId": "mavtv-motorsports-network-new"
         },
         {
           "name": "Red Bull TV",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fimages-3.rakuten.tv%2Fstorage%2Fglobal-live-channel%2Ftranslation%2Fartwork%2Fafe53397-ce7d-4788-93b3-dfbff54d309a.png",
           "number": "369",
-          "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5931&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=fe72bd60-bc06-45d6-8ff7-53d7f5064c39&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1723",
+          "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
           "epgId": "red-bull-tv-en"
         },
         {
           "name": "MOTORVISION.TV",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fimages-2.rakuten.tv%2Fstorage%2Fglobal-live-channel%2Ftranslation%2Fartwork%2F1c0727dc-17ab-4c8b-b6d9-3b300fb3f458.png",
           "number": "370",
-          "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/mv_es.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB2&ads._fw_content_genre=automotive&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=MotorvisionSpanish&ads.csid=zeus_es_motorvision_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4193&ads.rakuten_streaming_id=79bef465-644e-4bdb-bebf-b13f844bf51e&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883004&ads.xumo_contentId=3791&ads.xumo_contentName=MotorvisionSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3791&ads.xumo_providerName=MotorvisionSpanish&ads.xumo_streamId=88883004",
+          "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/mv_es.m3u8",
           "epgId": "motorvision-tv-spanish"
         }
       ]

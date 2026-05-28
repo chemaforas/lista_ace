@@ -1,7 +1,7 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "api_key": "2jSQRq7qfGoxsctjr7Lzngqg_eFfbzE0IECMMtcmncM"
+    "api_key": "QazsNpQkpko1_WMgP8WznMvSpOiH3LqPbBcgY1RwshI"
   },
   "eventos": [
     {
@@ -13,73 +13,37 @@
       "detalles": [
         {
           "tipo": "m3u8_varios",
-          "nombre_canal": "BeIN Sports EXTRA Español",
-          "url": "https://tvtvhd.com/canales.php?stream=beinsport_xtra_espanol",
-          "imagen_idiom": "",
-          "url_embed": "https://tvtvhd.com/canales.php?stream=beinsport_xtra_espanol"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "nombre": "Cerro Porteño Vs Sporting Cristal",
-      "categoria": "Copa Libertadores",
-      "fecha_hora": "2026-05-28T22:00:00",
-      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/l4yqbp1774811292.jpg",
-      "detalles": [
+          "nombre_canal": "ESPN 2",
+          "url": "https://tvtvhd.com/canales.php?stream=espn2",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/canales.php?stream=espn2"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN 2",
+          "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=espn2"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN 2",
+          "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "Fox Sports 3",
+          "url": "https://tvtvhd.com/canales.php?stream=foxsports3",
+          "imagen_idiom": "https://i.postimg.cc/15jNWQjC/foxsport-AR.png",
+          "url_embed": "https://tvtvhd.com/canales.php?stream=foxsports3"
+        },
         {
           "tipo": "m3u8_varios",
           "nombre_canal": "BeIN Sports EXTRA Español",
           "url": "https://tvtvhd.com/canales.php?stream=beinsport_xtra_espanol",
-          "imagen_idiom": "",
-          "url_embed": "https://tvtvhd.com/canales.php?stream=beinsport_xtra_espanol"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "nombre": "Cerro Porteño Vs Sporting Cristal",
-      "categoria": "Copa Libertadores",
-      "fecha_hora": "2026-05-28T22:00:00",
-      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/l4yqbp1774811292.jpg",
-      "detalles": [
-        {
-          "tipo": "m3u8_varios",
-          "nombre_canal": "BeIN Sports EXTRA Español",
-          "url": "https://tvtvhd.com/canales.php?stream=beinsport_xtra_espanol",
-          "imagen_idiom": "",
-          "url_embed": "https://tvtvhd.com/canales.php?stream=beinsport_xtra_espanol"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "nombre": "Cerro Porteño Vs Sporting Cristal",
-      "categoria": "Copa Libertadores",
-      "fecha_hora": "2026-05-28T22:00:00",
-      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/l4yqbp1774811292.jpg",
-      "detalles": [
-        {
-          "tipo": "m3u8_varios",
-          "nombre_canal": "BeIN Sports EXTRA Español",
-          "url": "https://tvtvhd.com/canales.php?stream=beinsport_xtra_espanol",
-          "imagen_idiom": "",
-          "url_embed": "https://tvtvhd.com/canales.php?stream=beinsport_xtra_espanol"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "nombre": "Cerro Porteño Vs Sporting Cristal",
-      "categoria": "Copa Libertadores",
-      "fecha_hora": "2026-05-28T22:00:00",
-      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/l4yqbp1774811292.jpg",
-      "detalles": [
-        {
-          "tipo": "m3u8_varios",
-          "nombre_canal": "BeIN Sports EXTRA Español",
-          "url": "https://tvtvhd.com/canales.php?stream=beinsport_xtra_espanol",
-          "imagen_idiom": "",
+          "imagen_idiom": "https://i.postimg.cc/G24P1wvc/Be-IN-Sports.png",
           "url_embed": "https://tvtvhd.com/canales.php?stream=beinsport_xtra_espanol"
         }
       ]
@@ -93,73 +57,37 @@
       "detalles": [
         {
           "tipo": "m3u8_varios",
-          "nombre_canal": "BeIN Sports Ñ",
-          "url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
-          "imagen_idiom": "",
-          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes"
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "nombre": "Palmeiras Vs Junior",
-      "categoria": "Copa Libertadores",
-      "fecha_hora": "2026-05-28T22:00:00",
-      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/m908cf1774811282.jpg",
-      "detalles": [
+          "nombre_canal": "ESPN",
+          "url": "https://tvtvhd.com/canales.php?stream=espn",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/canales.php?stream=espn"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN AR",
+          "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=espn"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN AR",
+          "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/vivo/canales.php?stream=espn"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "Fox Sports 2",
+          "url": "https://tvtvhd.com/canales.php?stream=foxsports2",
+          "imagen_idiom": "https://i.postimg.cc/15jNWQjC/foxsport-AR.png",
+          "url_embed": "https://tvtvhd.com/canales.php?stream=foxsports2"
+        },
         {
           "tipo": "m3u8_varios",
           "nombre_canal": "BeIN Sports Ñ",
           "url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
-          "imagen_idiom": "",
-          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes"
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "nombre": "Palmeiras Vs Junior",
-      "categoria": "Copa Libertadores",
-      "fecha_hora": "2026-05-28T22:00:00",
-      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/m908cf1774811282.jpg",
-      "detalles": [
-        {
-          "tipo": "m3u8_varios",
-          "nombre_canal": "BeIN Sports Ñ",
-          "url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
-          "imagen_idiom": "",
-          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes"
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "nombre": "Palmeiras Vs Junior",
-      "categoria": "Copa Libertadores",
-      "fecha_hora": "2026-05-28T22:00:00",
-      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/m908cf1774811282.jpg",
-      "detalles": [
-        {
-          "tipo": "m3u8_varios",
-          "nombre_canal": "BeIN Sports Ñ",
-          "url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
-          "imagen_idiom": "",
-          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes"
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "nombre": "Palmeiras Vs Junior",
-      "categoria": "Copa Libertadores",
-      "fecha_hora": "2026-05-28T22:00:00",
-      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/m908cf1774811282.jpg",
-      "detalles": [
-        {
-          "tipo": "m3u8_varios",
-          "nombre_canal": "BeIN Sports Ñ",
-          "url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
-          "imagen_idiom": "",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/jauxo81665925311.png",
           "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes"
         }
       ]

@@ -1,98 +1,110 @@
 {
   "name": "ZabuluSports",
-  "author": "Actualizado: 2026-05-28 11:41:44",
+  "author": "Actualizado: 2026-05-29 07:12:37",
   "image": "https://i.postimg.cc/d3Zx14SS/goat.png",
-  "info": "Actualizado automáticamente: 2026-05-28 11:41",
+  "info": "Actualizado automáticamente: 2026-05-29 07:12",
   "groups": [
     {
       "name": "Eventos",
       "image": "https://i.postimg.cc/C1743dSB/live-streaming.png",
-      "info": "Eventos del día 28/05/2026",
+      "info": "Eventos del día 29/05/2026",
       "groups": [
         {
-          "name": "LIV Golf -  Jornada 2",
-          "info": "04:00",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgVt4bNf%2Fgolf.png",
+          "name": "Jornada 2",
+          "info": "04:00 - Golf - LIV Golf",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fgolf.png",
           "stations": [
             {
-              "name": "LIV Golf - Jornada 2",
+              "name": "M+ Golf",
               "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
               "image": ""
             },
             {
-              "name": "LIV Golf - Jornada 2",
+              "name": "M+ Golf",
               "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
               "image": ""
             },
             {
-              "name": "LIV Golf - Jornada 2",
+              "name": "M+ Golf",
               "url": "acestream://f60535a458b3c114283e2f433379144345beddd6",
               "image": ""
             },
             {
-              "name": "LIV Golf - Jornada 2",
+              "name": "MOVISTAR GOLF",
               "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
               "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
             }
           ]
         },
         {
-          "name": "1/4 de final femenino - FIP Platinum",
-          "info": "08:00 - Pádel - Albania Open",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fpadel.png",
+          "name": "Solo libre F",
+          "info": "07:55 - Natación sincronizada - Copa del mundo de natación artística - Pontevedra",
+          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
           "stations": [
             {
-              "name": "M+ Deportes",
-              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+              "name": "Teledeporte",
+              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
             },
             {
-              "name": "M+ Deportes",
-              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+              "name": "Teledeporte",
+              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             },
             {
-              "name": "M+ Deportes",
-              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+              "name": "Teledeporte",
+              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             },
             {
-              "name": "M+ Deportes",
-              "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "MOVISTAR DEPORTES",
-              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
-            },
-            {
-              "name": "M. Deportes",
-              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+              "name": "Teledeporte",
+              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             }
           ]
         },
         {
-          "name": "A.D. Vallejo - M. Kouame",
-          "info": "09:00 - Tenis - Roland Garros: 2ª Ronda",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "name": "Libres 1",
+          "info": "08:45 - Motociclismo - MotoGP: G.P. Italia (Mugello)",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fmotociclismo.png",
           "stations": [
             {
-              "name": "M+ Deportes 7",
-              "url": "acestream://9b38816906198580dbeb35b68673e1d060668e05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+              "name": "Dazn MotoGP",
+              "url": "acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
             },
+            {
+              "name": "Dazn MotoGP",
+              "url": "acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
+            },
+            {
+              "name": "Dazn MotoGP",
+              "url": "acestream://342ca6975a4884d81f9fec5c4085a47060bd2028",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
+            },
+            {
+              "name": "Dazn MotoGP",
+              "url": "acestream://ac33342ccf7d40d46174229085461d95000b9137",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
+            },
+            {
+              "name": "Dazn MotoGP",
+              "url": "acestream://129c707eb4854171d178a566f36d90b7f2b5e624",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
+            },
+            {
+              "name": "DAZN MOTOGP",
+              "url": "acestream://18b03739d660f0066364343e226e437bf2555d56",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
+            }
+          ]
+        },
+        {
+          "name": "TA. Tirante - P. Carreño",
+          "info": "09:00 - Tenis - Roland Garros: 3ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
             {
               "name": "Eurosport 2",
               "url": "acestream://c6180a86440004748e2abe34d6f31eed8a218a3a",
@@ -126,14 +138,26 @@
           ]
         },
         {
-          "name": "D. Vekic - N. Osaka",
-          "info": "09:00 - Tenis - Roland Garros WTA: 2ª Ronda",
+          "name": "N. Borges - A. Rublev",
+          "info": "09:00 - Tenis - Roland Garros: 3ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
+            {
+              "name": "M+ Deportes 7",
+              "url": "acestream://9b38816906198580dbeb35b68673e1d060668e05",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            }
+          ]
+        },
+        {
+          "name": "M. Kostyuk - V. Golubic",
+          "info": "09:00 - Tenis - Roland Garros WTA: 3ª Ronda",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
               "name": "M+ Deportes 8",
               "url": "acestream://abe6834b6e2509d2ff5b5b04f7ecb1db6e81083a",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
               "name": "M+ Deportes 8",
@@ -143,25 +167,8 @@
           ]
         },
         {
-          "name": "2a Ronda D. Vekic - N. Osaka",
-          "info": "09:00 - Roland Garros WTA",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "Roland Garros WTA - 2ª Ronda D. Vekic - N. Osaka",
-              "url": "acestream://abe6834b6e2509d2ff5b5b04f7ecb1db6e81083a",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
-            },
-            {
-              "name": "Roland Garros WTA - 2ª Ronda D. Vekic - N. Osaka",
-              "url": "acestream://f5c100695175ba52099664ddb4c5fc4ae0ebe99a",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "J. Sinner - JM. Cerundolo",
-          "info": "10:00 - Tenis - Roland Garros: 2ª Ronda",
+          "name": "M. Linette - I. Swiatek",
+          "info": "10:00 - Tenis - Roland Garros WTA: 3ª Ronda",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
@@ -207,114 +214,20 @@
           ]
         },
         {
-          "name": "1/4 de final masculino - FIP Platinum",
-          "info": "10:00 - Pádel - Albania Open",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fpadel.png",
-          "stations": [
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "MOVISTAR DEPORTES",
-              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
-            },
-            {
-              "name": "M. Deportes",
-              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes 2",
-              "url": "acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes 2",
-              "url": "acestream://890901fa742b19d8808cf49f19db2d3016437c56",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes 2",
-              "url": "acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes 2",
-              "url": "acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Deportes 2",
-              "url": "acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Deportes 2",
-              "url": "acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes 2",
-              "url": "acestream://6b15368775693c33c49fab02e7900c1976a5da90",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "MOVISTAR DEPORTES 2",
-              "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
-            }
-          ]
-        },
-        {
-          "name": "F. Cerundolo - H. Gaston",
-          "info": "10:30 - Tenis - Roland Garros: 2ª Ronda",
+          "name": "A. Michelsen - R. Jodar",
+          "info": "10:30 - Tenis - Roland Garros: 3ª Ronda",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
               "name": "M+ Deportes 8",
               "url": "acestream://abe6834b6e2509d2ff5b5b04f7ecb1db6e81083a",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
               "name": "M+ Deportes 8",
               "url": "acestream://f5c100695175ba52099664ddb4c5fc4ae0ebe99a",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            }
-          ]
-        },
-        {
-          "name": "M. Landaluce - V. Kopriva",
-          "info": "10:30 - Tenis - Roland Garros: 2ª Ronda",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
-          "stations": [
+            },
             {
               "name": "Eurosport 2",
               "url": "acestream://c6180a86440004748e2abe34d6f31eed8a218a3a",
@@ -348,8 +261,35 @@
           ]
         },
         {
-          "name": "J. Grabher - A. Anisimova",
-          "info": "11:00 - Tenis - Roland Garros WTA: 2ª Ronda",
+          "name": "Duo tecnico mixto",
+          "info": "10:55 - Natación sincronizada - Copa del mundo de natación artística - Pontevedra",
+          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
+          "stations": [
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            }
+          ]
+        },
+        {
+          "name": "J. Teichmann - K. Muchova",
+          "info": "11:00 - Tenis - Roland Garros WTA: 3ª Ronda",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
@@ -360,7 +300,7 @@
           ]
         },
         {
-          "name": "Jornada 1",
+          "name": "Jornada 2",
           "info": "11:00 - Golf - Austrian Open",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fgolf.png",
           "stations": [
@@ -387,74 +327,75 @@
           ]
         },
         {
-          "name": "2a Ronda J. Grabher - A. Anisimova",
-          "info": "11:00 - Roland Garros WTA",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
+          "name": "Semifinal Femenina - FIP Platinum",
+          "info": "11:00 - Pádel - Albania Open",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fpadel.png",
           "stations": [
             {
-              "name": "Roland Garros WTA - 2ª Ronda J. Grabher - A. Anisimova",
-              "url": "acestream://9b38816906198580dbeb35b68673e1d060668e05",
-              "image": ""
+              "name": "M+ Vamos",
+              "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
+            },
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "MOVISTAR VAMOS",
+              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES",
+              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+            },
+            {
+              "name": "M. Deportes",
+              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             }
           ]
         },
         {
-          "name": "Austrian Open -  Jornada 1",
-          "info": "11:00",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgVt4bNf%2Fgolf.png",
-          "stations": [
-            {
-              "name": "Austrian Open - Jornada 1",
-              "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
-              "image": ""
-            },
-            {
-              "name": "Austrian Open - Jornada 1",
-              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
-              "image": ""
-            },
-            {
-              "name": "Austrian Open - Jornada 1",
-              "url": "acestream://f60535a458b3c114283e2f433379144345beddd6",
-              "image": ""
-            },
-            {
-              "name": "Austrian Open - Jornada 1",
-              "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
-              "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
-            }
-          ]
-        },
-        {
-          "name": "Belgica - España",
-          "info": "11:30 - Fútbol - Europeo Sub-17: Fase de grupos",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
-          "stations": [
-            {
-              "name": "Teledeporte",
-              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            }
-          ]
-        },
-        {
-          "name": "A. Li - D. Parry",
-          "info": "12:00 - Tenis - Roland Garros WTA: 2ª Ronda",
+          "name": "M. Andreeva - M. Bouzkova",
+          "info": "11:30 - Tenis - Roland Garros WTA: 3ª Ronda",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
@@ -500,7 +441,19 @@
           ]
         },
         {
-          "name": "Etapa 18",
+          "name": "Liaoning Tieren FC - Shanghai Port",
+          "info": "11:35 - Fútbol - Liga China",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
+          "stations": [
+            {
+              "name": "Gol TV",
+              "url": "acestream://9bc65384425e92f3a28f977508db3df62d037300",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "name": "Etapa 19 - Feltre › Alleghe (Piani di Pezzè) (151 km)",
           "info": "12:00 - Ciclismo - Giro de Italia",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
@@ -537,132 +490,25 @@
           ]
         },
         {
-          "name": "1/4 de final femenino - FIP Platinum",
-          "info": "12:00 - Pádel - Albania Open",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fpadel.png",
+          "name": "A. De Miñaur - J. Mensik",
+          "info": "12:30 - Tenis - Roland Garros: 3ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
-              "name": "M+ Deportes",
-              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
+              "name": "M+ Deportes 8",
+              "url": "acestream://abe6834b6e2509d2ff5b5b04f7ecb1db6e81083a",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "M+ Deportes",
-              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
+              "name": "M+ Deportes 8",
+              "url": "acestream://f5c100695175ba52099664ddb4c5fc4ae0ebe99a",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "MOVISTAR DEPORTES",
-              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
-            },
-            {
-              "name": "M. Deportes",
-              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes 2",
-              "url": "acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes 2",
-              "url": "acestream://890901fa742b19d8808cf49f19db2d3016437c56",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes 2",
-              "url": "acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes 2",
-              "url": "acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Deportes 2",
-              "url": "acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Deportes 2",
-              "url": "acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes 2",
-              "url": "acestream://6b15368775693c33c49fab02e7900c1976a5da90",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "MOVISTAR DEPORTES 2",
-              "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             }
           ]
         },
         {
-          "name": "Giro de Italia -  Etapa 18",
-          "info": "12:00",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fnsw23YC%2Fcycling.png",
-          "stations": [
-            {
-              "name": "Giro de Italia - Etapa 18",
-              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
-              "image": ""
-            },
-            {
-              "name": "Giro de Italia - Etapa 18",
-              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": ""
-            },
-            {
-              "name": "Giro de Italia - Etapa 18",
-              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": ""
-            },
-            {
-              "name": "Giro de Italia - Etapa 18",
-              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
-              "image": ""
-            },
-            {
-              "name": "Giro de Italia - Etapa 18",
-              "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
-              "image": ""
-            },
-            {
-              "name": "Giro de Italia - Etapa 18",
-              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
-            }
-          ]
-        },
-        {
-          "name": "C. Gauff - M. Sherif",
-          "info": "12:30 - Tenis - Roland Garros WTA: 2ª Ronda",
+          "name": "E. Svitolina - T. Korpatsch",
+          "info": "12:30 - Tenis - Roland Garros WTA: 3ª Ronda",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
@@ -703,7 +549,111 @@
           ]
         },
         {
-          "name": "Etapa 18 - Fai della Paganella › Pieve di Soligo (167km)",
+          "name": "Libres",
+          "info": "13:00 - Motociclismo - MotoGP: G.P. Italia (Mugello)",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fmotociclismo.png",
+          "stations": [
+            {
+              "name": "Dazn MotoGP",
+              "url": "acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
+            },
+            {
+              "name": "Dazn MotoGP",
+              "url": "acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
+            },
+            {
+              "name": "Dazn MotoGP",
+              "url": "acestream://342ca6975a4884d81f9fec5c4085a47060bd2028",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
+            },
+            {
+              "name": "Dazn MotoGP",
+              "url": "acestream://ac33342ccf7d40d46174229085461d95000b9137",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
+            },
+            {
+              "name": "Dazn MotoGP",
+              "url": "acestream://129c707eb4854171d178a566f36d90b7f2b5e624",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
+            },
+            {
+              "name": "DAZN MOTOGP",
+              "url": "acestream://18b03739d660f0066364343e226e437bf2555d56",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
+            }
+          ]
+        },
+        {
+          "name": "Semifinal Femenina - FIP Platinum",
+          "info": "13:00 - Pádel - Albania Open",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fpadel.png",
+          "stations": [
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
+            },
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "MOVISTAR VAMOS",
+              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES",
+              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+            },
+            {
+              "name": "M. Deportes",
+              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            }
+          ]
+        },
+        {
+          "name": "Etapa 19 - Feltre › Alleghe (Piani di Pezzè) (151 km)",
           "info": "13:15 - Ciclismo - Giro de Italia",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
@@ -740,8 +690,8 @@
           ]
         },
         {
-          "name": "A. Sabalenka - E. Jacquemot",
-          "info": "13:30 - Tenis - Roland Garros WTA: 2ª Ronda",
+          "name": "J. Fonseca - N. Djokovic",
+          "info": "13:30 - Tenis - Roland Garros: 3ª Ronda",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
@@ -787,25 +737,8 @@
           ]
         },
         {
-          "name": "F. Auger-Aliassime - RA. Burruchaga",
-          "info": "14:00 - Tenis - Roland Garros: 2ª Ronda",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
-          "stations": [
-            {
-              "name": "M+ Deportes 8",
-              "url": "acestream://abe6834b6e2509d2ff5b5b04f7ecb1db6e81083a",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes 8",
-              "url": "acestream://f5c100695175ba52099664ddb4c5fc4ae0ebe99a",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            }
-          ]
-        },
-        {
-          "name": "R. Collignon - B. Shelton",
-          "info": "14:00 - Tenis - Roland Garros: 2ª Ronda",
+          "name": "C. Ruud - T. Paul",
+          "info": "14:00 - Tenis - Roland Garros: 3ª Ronda",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
@@ -846,41 +779,14 @@
           ]
         },
         {
-          "name": "1/4 de final femenino - FIP Platinum",
-          "info": "14:00 - Pádel - Albania Open",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fpadel.png",
-          "stations": [
-            {
-              "name": "M+ Vamos",
-              "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
-              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
-            },
-            {
-              "name": "M+ Vamos",
-              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
-            },
-            {
-              "name": "M+ Vamos",
-              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
-              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
-            },
-            {
-              "name": "MOVISTAR VAMOS",
-              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
-            }
-          ]
-        },
-        {
-          "name": "V. Mboko - K. Siniakova",
-          "info": "16:00 - Tenis - Roland Garros WTA: 2ª Ronda",
+          "name": "P. Stearns - B. Bencic",
+          "info": "14:30 - Tenis - Roland Garros WTA: 3ª Ronda",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
               "name": "M+ Deportes 8",
               "url": "acestream://abe6834b6e2509d2ff5b5b04f7ecb1db6e81083a",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
               "name": "M+ Deportes 8",
@@ -890,8 +796,8 @@
           ]
         },
         {
-          "name": "1/4 de final masculino - FIP Platinum",
-          "info": "16:00 - Pádel - Albania Open",
+          "name": "Semifinal Masculina - FIP Platinum",
+          "info": "15:00 - Pádel - Albania Open",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fpadel.png",
           "stations": [
             {
@@ -913,12 +819,123 @@
               "name": "MOVISTAR VAMOS",
               "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES",
+              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+            },
+            {
+              "name": "M. Deportes",
+              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             }
           ]
         },
         {
-          "name": "1/4 de final masculino - FIP Platinum",
-          "info": "18:00 - Pádel - Albania Open",
+          "name": "Tecnico equipos",
+          "info": "15:25 - Natación sincronizada - Copa del mundo de natación artística - Pontevedra",
+          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
+          "stations": [
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            }
+          ]
+        },
+        {
+          "name": "BAXI Manresa - Real Madrid Baloncesto",
+          "info": "16:00 - Baloncesto - ACB: Liga Regular",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fbaloncesto.png",
+          "stations": [
+            {
+              "name": "ACB EVENTO 01",
+              "url": "acestream://8faa686a99697b99261346e479ead172b1d9d5d2",
+              "image": "https://i.postimg.cc/B613K9W3/logo1-16-171737.png"
+            },
+            {
+              "name": "ACB EVENTO 01",
+              "url": "acestream://23bee556c002d0726c1f0cac98a1901cff0a9239",
+              "image": ""
+            },
+            {
+              "name": "ACB EVENTO 01",
+              "url": "acestream://0995b9b77ac6198dd92141369707fb99da09bdb2",
+              "image": ""
+            },
+            {
+              "name": "ACB EVENTO 01",
+              "url": "acestream://53962d7fb865aff73b34a3afb2905cd492f60d75",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "name": "San Pablo Burgos - Coviran Granada",
+          "info": "16:00 - Baloncesto - ACB: Liga Regular",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fbaloncesto.png",
+          "stations": [
+            {
+              "name": "ACB EVENTO 02",
+              "url": "acestream://d7e6b6bb1666740a21099fe6ceb0178a14f58e0c",
+              "image": "https://i.postimg.cc/B613K9W3/logo1-16-171737.png"
+            },
+            {
+              "name": "ACB EVENTO 02",
+              "url": "acestream://22b702984a0db43fd371c30e2df150b2336551cd",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "name": "Semifinal Masculina - FIP Platinum",
+          "info": "17:00 - Pádel - Albania Open",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fpadel.png",
           "stations": [
             {
@@ -964,8 +981,8 @@
           ]
         },
         {
-          "name": "A. Rinderknech - M. Berrettini",
-          "info": "18:15 - Tenis - Roland Garros: 2ª Ronda",
+          "name": "Q. Halys - A. Zverev",
+          "info": "18:15 - Tenis - Roland Garros: 3ª Ronda",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
@@ -1011,51 +1028,216 @@
           ]
         },
         {
-          "name": "Fase de grupos Cerro Porteño - Sporting Cristal",
-          "info": "22:00 - Copa Libertadores",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2vhFM7h%2Fsoccer-ball-variant.png",
+          "name": "La Laguna Tenerife - Bilbao Basket",
+          "info": "18:30 - Baloncesto - ACB: Liga Regular",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fbaloncesto.png",
           "stations": [
             {
-              "name": "Copa Libertadores - Fase de grupos Cerro Porteño - Sporting Cristal",
+              "name": "ACB EVENTO 01",
+              "url": "acestream://8faa686a99697b99261346e479ead172b1d9d5d2",
+              "image": "https://i.postimg.cc/B613K9W3/logo1-16-171737.png"
+            },
+            {
+              "name": "ACB EVENTO 01",
+              "url": "acestream://23bee556c002d0726c1f0cac98a1901cff0a9239",
+              "image": ""
+            },
+            {
+              "name": "ACB EVENTO 01",
+              "url": "acestream://0995b9b77ac6198dd92141369707fb99da09bdb2",
+              "image": ""
+            },
+            {
+              "name": "ACB EVENTO 01",
+              "url": "acestream://53962d7fb865aff73b34a3afb2905cd492f60d75",
+              "image": ""
+            },
+            {
+              "name": "M+ Vamos",
               "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
               "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
             },
             {
-              "name": "Copa Libertadores - Fase de grupos Cerro Porteño - Sporting Cristal",
+              "name": "M+ Vamos",
               "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
             },
             {
-              "name": "Copa Libertadores - Fase de grupos Cerro Porteño - Sporting Cristal",
+              "name": "M+ Vamos",
               "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
-              "image": ""
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
             },
             {
-              "name": "Copa Libertadores - Fase de grupos Cerro Porteño - Sporting Cristal",
+              "name": "MOVISTAR VAMOS",
               "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
+            }
+          ]
+        },
+        {
+          "name": "Baskonia - Unicaja Malaga",
+          "info": "18:30 - Baloncesto - ACB: Liga Regular",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fbaloncesto.png",
+          "stations": [
+            {
+              "name": "MOVISTAR PLUS",
+              "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
+              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
+            },
+            {
+              "name": "MOVISTAR PLUS",
+              "url": "acestream://fa931cbc87dc9d66fdd30a9644e054b403960056",
+              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
+            },
+            {
+              "name": "MOVISTAR +",
+              "url": "acestream://c1b7f54af0de256d1ac0fcac4c130e62660089f4",
+              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
+            },
+            {
+              "name": "ACB EVENTO 03",
+              "url": "acestream://02ec118ee4586d96df9115ffc486be9a499d00d9",
               "image": ""
             }
           ]
         },
         {
-          "name": "WRC Rally - Rally de Japon SS1 › SS6",
-          "info": "23:03",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FFwVCsyW%2Fsport-car.png",
+          "name": "Basquet Girona - Joventut Badalona",
+          "info": "18:30 - Baloncesto - ACB: Liga Regular",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fbaloncesto.png",
           "stations": [
             {
-              "name": "WRC Rally - Rally de Japón SS1 › SS6",
+              "name": "ACB EVENTO 02",
+              "url": "acestream://d7e6b6bb1666740a21099fe6ceb0178a14f58e0c",
+              "image": "https://i.postimg.cc/B613K9W3/logo1-16-171737.png"
+            },
+            {
+              "name": "ACB EVENTO 02",
+              "url": "acestream://22b702984a0db43fd371c30e2df150b2336551cd",
+              "image": ""
+            },
+            {
+              "name": "Esport3",
+              "url": "acestream://21bc11d195f5753c396e390c215952d21541d04d",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3",
+              "url": "acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3",
+              "url": "acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3",
+              "url": "acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "RM Castilla - Sabadell",
+          "info": "19:00 - Fútbol - 1RFEF: Semifinales Playoffs Ascenso",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
+          "stations": [
+            {
+              "name": "RFEF TV",
+              "url": "acestream://7b742628b9f7e82902bdbc1ff92eba1988875cfc",
+              "image": ""
+            },
+            {
+              "name": "RFEF TV",
+              "url": "acestream://3fbc1b7dc316f19b77e7f7cfc775a0af67adcc7f",
+              "image": ""
+            },
+            {
+              "name": "RFEF TV",
+              "url": "acestream://177796041773be99b489dd3ce86144f243e7355f",
+              "image": ""
+            },
+            {
+              "name": "RFEF TV",
+              "url": "acestream://854ff9c607101791346111cd2366a392c3b8c351",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "name": "Barça FS - Viña Albali Valdepeñas",
+          "info": "19:00 - Fútbol Sala - 1RFEF Futsal: Playoff 1/4 Final",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol-sala.png",
+          "stations": [
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Cerro Porteño - Sporting Cristal",
+          "info": "22:00 - Fútbol - Copa Libertadores: Fase de grupos",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
+          "stations": [
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
+            },
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "MOVISTAR VAMOS",
+              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
+            }
+          ]
+        },
+        {
+          "name": "SS1 › SS6",
+          "info": "23:03 - Automovilismo - WRC Rally: Rally de Japón",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
+          "stations": [
+            {
+              "name": "RALLY TV",
               "url": "acestream://64eb19dccf5e60f121a4c1f7c69489af6b1c9ca9",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg%26s"
             },
             {
-              "name": "WRC Rally - Rally de Japón SS1 › SS6",
+              "name": "RALLY TV",
               "url": "acestream://12404b00d2787995d639ccf71a80da5d39d153f9",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg%26s"
             },
             {
-              "name": "WRC Rally - Rally de Japón SS1 › SS6",
+              "name": "RALLY TV",
               "url": "acestream://b6ca8e022947548af61d76660b6b6f799a778d31",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg%26s"
             }
           ]
         }
@@ -1742,6 +1924,11 @@
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fassets.laliga.com%2Fassets%2F2023%2F07%2F13%2Fmedium%2F60e1502d7d6098162828bb002e98bdb4.png"
             },
             {
+              "name": "REAL MADRID TV",
+              "url": "acestream://44ea3d00ee2abfd5d89792a32851d7af61f16f0a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FEsport%25203.png%3Fraw%3Dtrue"
+            },
+            {
               "name": "SKY SPORTS ARENA",
               "url": "acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Ftvprofil.com%2Fimg%2Fkanali-logo%2FSky_Sports_Arena_GB_logo.png%3F1734015005"
@@ -2169,12 +2356,12 @@
             },
             {
               "name": "MOVISTAR ACCION",
-              "url": "acestream://f3a6d058791f0818a3301f9d5eeb60cfb54d905d",
+              "url": "acestream://cdaf3337bfa80a7d92d673c6ccfec23d3aa92b3c",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FM%2B%2520Acci%25C3%25B3n%2520HD.png%3Fraw%3Dtrue"
             },
             {
               "name": "MOVISTAR COMEDIA",
-              "url": "acestream://e8cd9088fee41413df360e4539c9e7184a63ffcb",
+              "url": "acestream://28e3a4ee2f3d9876435c534a49e34e1a4ced0f12",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Ftv-logo%2Ftv-logos%2Frefs%2Fheads%2Fmain%2Fcountries%2Fspain%2Fcomedia-por-movistar-plus-es.png"
             },
             {
@@ -2204,7 +2391,7 @@
             },
             {
               "name": "MOVISTAR DEPORTES",
-              "url": "acestream://abe6834b6e2509d2ff5b5b04f7ecb1db6e81083a",
+              "url": "acestream://8f982a0d6e3196c12d0034142b65008321150f7c",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             },
             {
@@ -2246,7 +2433,7 @@
               "name": "Tennis Channel",
               "info": "[23ac]",
               "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg",
-              "url": "acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf"
+              "url": "acestream://1b348443efc7f0cf4cdf349ac35bbe5d41be6220"
             }
           ]
         },
@@ -2871,7 +3058,7 @@
           "stations": [
             {
               "name": "BEIN SPORTS 1",
-              "url": "acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8",
+              "url": "acestream://33aa6331066d7796fcab74bed23206f16bded398",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fdavidmuma%2Fpicons_dobleM%2Fmaster%2Ficon%2FbeIN%2520SPORTS%25201.png"
             },
             {
@@ -2900,7 +3087,7 @@
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Ftvprofil.com%2Fimg%2Fkanali-logo%2FSky_Sports_Football_GB_logo.png%3F1734015024"
             },
             {
-              "name": "ZIGGO SPORT 2",
+              "name": "ZIGGO SPORT",
               "url": "acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0e%2FZiggo_Sport_logo.svg%2F1200px-Ziggo_Sport_logo.svg.png"
             }
@@ -2912,7 +3099,7 @@
           "stations": [
             {
               "name": "HYPERMOTION",
-              "url": "acestream://fc129b39c253b887563c3f0dce5fca7e699c3047",
+              "url": "acestream://e63fbcafbfc9bcb7e1cffa1d2eea97cc77f7a198",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCBdGc9f%2Fhypermotion1.png"
             }
           ]
@@ -2939,12 +3126,12 @@
           "stations": [
             {
               "name": "CANAL MOTOR",
-              "url": "acestream://35e17cc84abc5e393b5acd688536a9681105f2d5",
+              "url": "acestream://22b250ce7a16dce785b2e1ee6d4e13bdfa7354cc",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fwww.cxtv.com.br%2Fimg%2FTvs%2FLogo%2Fwebp-l%2F3ee9eef4eb12ec1b3e26049e79a43606.webp"
             },
             {
               "name": "MOTORS TV",
-              "url": "acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98",
+              "url": "acestream://a6044ffdb11c0349253f35386c23e994c28cf997",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fwww.mxgp.com%2Fsites%2Fdefault%2Ffiles%2Fnews%2Fimage%2Flogo%2520Motors%2520TV.jpg"
             },
             {
@@ -2954,7 +3141,7 @@
             },
             {
               "name": "RALLY TV",
-              "url": "acestream://651dd1e689a9a7d3b0695191dcf44b4d6e7541eb",
+              "url": "acestream://12404b00d2787995d639ccf71a80da5d39d153f9",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg%26s"
             }
           ]
@@ -2982,6 +3169,11 @@
               "name": "LA 2",
               "url": "acestream://9934906503661142f97a044ae1509a294057c2ed",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYFzzqWw5%2Fla2.png"
+            },
+            {
+              "name": "TELECINCO",
+              "url": "acestream://3d376333ee90d6db3d413fc5764ef635882076f5",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F81wJ3GH%2Ftelecinco.png"
             }
           ]
         },
@@ -2990,23 +3182,93 @@
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FzVNFsy0F%2Flogo-otros.png",
           "stations": [
             {
+              "name": "24H TV SDp",
+              "url": "acestream://16598735f228c6dff542125d0e308150b50fc715",
+              "image": ""
+            },
+            {
+              "name": "Auto Motor und Sport Channel",
+              "url": "acestream://a211931dace9e4d8975a036b60836fac753e33de",
+              "image": ""
+            },
+            {
+              "name": "beIN Movies Turk",
+              "url": "acestream://cd243637855e2c5b2ce926f86032dfc430c79ebb",
+              "image": ""
+            },
+            {
               "name": "CALCIO EVENTOS",
               "url": "acestream://1e045b7e16a5c2c3e5a8c0c0176efa26b63d7955",
               "image": ""
             },
             {
-              "name": "DAZN MOTOGP",
-              "url": "acestream://18b03739d660f0066364343e226e437bf2555d56",
+              "name": "Canal+ action",
+              "url": "acestream://108b33a44b6ab295f6301d0a2c433a1ef330d5a4",
               "image": ""
             },
             {
-              "name": "Esport3 SDp",
-              "url": "acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3",
+              "name": "DAZN MOTOGP",
+              "url": "acestream://129c707eb4854171d178a566f36d90b7f2b5e624",
+              "image": ""
+            },
+            {
+              "name": "Direct Sport+ FHDp",
+              "url": "acestream://abfb5236dee14625fe1b19ee27f3a89fb6767dcb",
+              "image": ""
+            },
+            {
+              "name": "Film+",
+              "url": "acestream://ec7aeef5723f654ee705a192bdcf4eff2fc7c311",
               "image": ""
             },
             {
               "name": "M+ Baloncesto 2 FHDp",
-              "url": "acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0",
+              "url": "acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1",
+              "image": ""
+            },
+            {
+              "name": "M+ CINE ESPAnOL Spain",
+              "url": "acestream://812151e00822387172fb695f526415c45ad8cd1b",
+              "image": ""
+            },
+            {
+              "name": "M+ Documentales Spain",
+              "url": "acestream://fcfe83e9b75169730fedf7375127c0190443972e",
+              "image": ""
+            },
+            {
+              "name": "M+ DRAMA Spain",
+              "url": "acestream://acc20f3739d9eccd0539f0c62519f35b8750a245",
+              "image": ""
+            },
+            {
+              "name": "M+ Golf FHDp",
+              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
+              "image": ""
+            },
+            {
+              "name": "M+ Hits Spain",
+              "url": "acestream://e10ef7d45baba0ec10a1f237042dc633df947826",
+              "image": ""
+            },
+            {
+              "name": "M+ Indie Spain",
+              "url": "acestream://060f90e77ec1f3478ef81b58569c0158b7851af5",
+              "image": ""
+            },
+            {
+              "name": "M+ Romance Spain",
+              "url": "acestream://3e38995391f980d060508c93ab1783cc4d7c42b6",
+              "image": ""
+            },
+            {
+              "name": "M+ Terror Spain",
+              "url": "acestream://17ad42b190bd0327984ea7efee661564a61bfc5b",
+              "image": ""
+            },
+            {
+              "name": "M+ Wéstern Spain",
+              "url": "acestream://07473038aa16ed164f5989234fafd303eecf67dc",
               "image": ""
             },
             {
@@ -3015,8 +3277,18 @@
               "image": ""
             },
             {
+              "name": "noa4 Hamburg",
+              "url": "acestream://d6914c08d198edcfbac7562e3db75303bd8fde48",
+              "image": ""
+            },
+            {
+              "name": "Orange TV",
+              "url": "acestream://cfb04bd3d4ca8d661eee02ed734ac767d04a00f6",
+              "image": ""
+            },
+            {
               "name": "Pluto TV Auto Motor Sport",
-              "url": "acestream://ffa09e597804001f634dd1829f031823411a2595",
+              "url": "acestream://93780e4164ed775a9a7cd67c44716de58463fa0a",
               "image": ""
             },
             {
@@ -3032,6 +3304,11 @@
             {
               "name": "Sky Sports LaLiga",
               "url": "acestream://2fab80a8445e31cb98169c0907600e1545ea8557",
+              "image": ""
+            },
+            {
+              "name": "SuperTennis",
+              "url": "acestream://7a57543cb6061648dc44c5d4321bd100bc8a47ca",
               "image": ""
             },
             {
@@ -3074,16 +3351,6 @@
       "info": "Canales en formato M3U (directos)",
       "stations": [
         {
-          "name": "BUNDESLIGA",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fan%2F3%2F3e%2FBundesliga-Logo-2010.png",
-          "url": "http://190.92.10.66:4000/play/a006/index.m3u8"
-        },
-        {
-          "name": "LA LIGA",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fassets.laliga.com%2Fassets%2Flogos%2FLL_RGB_h_color%2FLL_RGB_h_color.png",
-          "url": "http://190.92.10.66:4000/play/a001/index.m3u8"
-        },
-        {
           "name": "DirecTV SPORT",
           "image": "https://i.postimg.cc/kg7pPGGv/DSports.png",
           "url": "http://217.26.190.76:8888/play/a0co/index.m3u8"
@@ -3097,11 +3364,6 @@
           "name": "ESPN 4",
           "image": "https://i.postimg.cc/DyWqTfsG/ESPN-4.png",
           "url": "http://217.26.190.76:8888/play/a0jy/index.m3u8"
-        },
-        {
-          "name": "ESPN 5HD",
-          "image": "https://i.postimg.cc/xTHShHsq/ESPN-2.png",
-          "url": "http://217.26.190.76:8888/play/a0kh/index.m3u8"
         },
         {
           "name": "ESPN 6",
@@ -3484,9 +3746,19 @@
           "url": "http://200.12.41.194:8000/play/a089/index.m3u8"
         },
         {
+          "name": "BUNDESLIGA",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fan%2F3%2F3e%2FBundesliga-Logo-2010.png",
+          "url": "http://190.92.10.66:4000/play/a006/index.m3u8"
+        },
+        {
           "name": "ESPN DEPORTES USA",
           "image": "https://i.postimg.cc/C1dg0RgP/ESPN.png",
           "url": "http://190.92.10.66:4000/play/a003/index.m3u8"
+        },
+        {
+          "name": "LA LIGA",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fassets.laliga.com%2Fassets%2Flogos%2FLL_RGB_h_color%2FLL_RGB_h_color.png",
+          "url": "http://190.92.10.66:4000/play/a001/index.m3u8"
         },
         {
           "name": "TUDN USA HD",
@@ -3507,6 +3779,11 @@
           "name": "ESPN 3",
           "image": "https://i.postimg.cc/x813HKcX/ESPN-3.png",
           "url": "http://217.26.190.76:8888/play/a0k0/index.m3u8"
+        },
+        {
+          "name": "ESPN 5HD",
+          "image": "https://i.postimg.cc/xTHShHsq/ESPN-2.png",
+          "url": "http://217.26.190.76:8888/play/a0kh/index.m3u8"
         },
         {
           "name": "UNIVISION MIAMI",

@@ -1,7 +1,7 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "last_update": "2026-05-30T08:06:16Z"
+    "last_update": "2026-05-30T08:37:08Z"
   },
   "eventos": [
     {
@@ -11,6 +11,27 @@
       "fecha_hora": "2026-05-30T16:00:00",
       "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/68f48e1778654752.jpg",
       "detalles": [
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN",
+          "url": "https://tvtvhd.com/canales.php?stream=espn",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/canales.php?stream=espn"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN AR",
+          "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=espn"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN AR",
+          "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/vivo/canales.php?stream=espn"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "Fox Sports Argentina",
@@ -1610,6 +1631,117 @@
       ]
     },
     {
+      "id": 78,
+      "nombre": "ADT vs Cusco",
+      "categoria": "Football - Peru - Primera Division",
+      "fecha_hora": "2026-05-30T16:00:00",
+      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/skqa9u1771925218.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Liga 1 Max Peru",
+          "url": "https://dlhd.pk/stream/stream-11.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=11"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "Liga1MAX",
+          "url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
+          "imagen_idiom": "https://i.postimg.cc/Nfsh8dt7/L1MAX-LOGo.png",
+          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "Liga1Max",
+          "url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
+          "imagen_idiom": "https://i.postimg.cc/Nfsh8dt7/L1MAX-LOGo.png",
+          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "Liga1Max",
+          "url": "https://tvtvhd.com/vivo/canales.php?stream=liga1max",
+          "imagen_idiom": "https://i.postimg.cc/Nfsh8dt7/L1MAX-LOGo.png",
+          "url_embed": "https://tvtvhd.com/vivo/canales.php?stream=liga1max"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "nombre": "Deportivo Garcilaso vs Juan Pablo II College",
+      "categoria": "Football - Peru - Primera Division",
+      "fecha_hora": "2026-05-30T20:00:00",
+      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/96u3ih1771925220.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Liga 1 Max Peru",
+          "url": "https://dlhd.pk/stream/stream-11.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=11"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "Liga1MAX",
+          "url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
+          "imagen_idiom": "https://i.postimg.cc/Nfsh8dt7/L1MAX-LOGo.png",
+          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "Liga1Max",
+          "url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
+          "imagen_idiom": "https://i.postimg.cc/Nfsh8dt7/L1MAX-LOGo.png",
+          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "Liga1Max",
+          "url": "https://tvtvhd.com/vivo/canales.php?stream=liga1max",
+          "imagen_idiom": "https://i.postimg.cc/Nfsh8dt7/L1MAX-LOGo.png",
+          "url_embed": "https://tvtvhd.com/vivo/canales.php?stream=liga1max"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "nombre": "Sport Boys vs Comerciantes Unidos",
+      "categoria": "Football - Peru - Primera Division",
+      "fecha_hora": "2026-05-30T22:30:00",
+      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/fmsx3s1771925225.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Liga 1 Max Peru",
+          "url": "https://dlhd.pk/stream/stream-11.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=11"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "Liga1MAX",
+          "url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
+          "imagen_idiom": "https://i.postimg.cc/Nfsh8dt7/L1MAX-LOGo.png",
+          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "Liga1Max",
+          "url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
+          "imagen_idiom": "https://i.postimg.cc/Nfsh8dt7/L1MAX-LOGo.png",
+          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "Liga1Max",
+          "url": "https://tvtvhd.com/vivo/canales.php?stream=liga1max",
+          "imagen_idiom": "https://i.postimg.cc/Nfsh8dt7/L1MAX-LOGo.png",
+          "url_embed": "https://tvtvhd.com/vivo/canales.php?stream=liga1max"
+        }
+      ]
+    },
+    {
       "id": 231,
       "nombre": "Dmitry Bivol vs Michael Eifert",
       "categoria": "Boxing - Boxing",
@@ -2608,22 +2740,6 @@
       ]
     },
     {
-      "id": 78,
-      "nombre": "ADT vs Cusco",
-      "categoria": "Football - Peru - Primera Division",
-      "fecha_hora": "2026-05-30T16:00:00",
-      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/skqa9u1771925218.jpg",
-      "detalles": [
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Liga 1 Max Peru",
-          "url": "https://dlhd.pk/stream/stream-11.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=11"
-        }
-      ]
-    },
-    {
       "id": 83,
       "nombre": "Avai vs Criciuma",
       "categoria": "Football - Brazil - Serie B",
@@ -2652,38 +2768,6 @@
           "url": "https://dlhd.pk/stream/stream-12.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=12"
-        }
-      ]
-    },
-    {
-      "id": 87,
-      "nombre": "Deportivo Garcilaso vs Juan Pablo II College",
-      "categoria": "Football - Peru - Primera Division",
-      "fecha_hora": "2026-05-30T20:00:00",
-      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/96u3ih1771925220.jpg",
-      "detalles": [
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Liga 1 Max Peru",
-          "url": "https://dlhd.pk/stream/stream-11.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=11"
-        }
-      ]
-    },
-    {
-      "id": 92,
-      "nombre": "Sport Boys vs Comerciantes Unidos",
-      "categoria": "Football - Peru - Primera Division",
-      "fecha_hora": "2026-05-30T22:30:00",
-      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/fmsx3s1771925225.jpg",
-      "detalles": [
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Liga 1 Max Peru",
-          "url": "https://dlhd.pk/stream/stream-11.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=11"
         }
       ]
     },

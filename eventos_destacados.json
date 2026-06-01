@@ -1,7 +1,7 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "last_update": "2026-06-01T13:24:35Z"
+    "last_update": "2026-06-01T13:55:11Z"
   },
   "eventos": [
     {
@@ -580,6 +580,27 @@
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/nrnh7b1774693038.jpg",
       "detalles": [
         {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN",
+          "url": "https://tvtvhd.com/canales.php?stream=espn",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/canales.php?stream=espn"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN AR",
+          "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=espn"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN AR",
+          "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/vivo/canales.php?stream=espn"
+        },
+        {
           "tipo": "dlhd",
           "nombre_canal": "Sport TV1 Portugal",
           "url": "https://dlhd.pk/stream/stream-49.php",
@@ -957,6 +978,36 @@
       ]
     },
     {
+      "id": 151,
+      "nombre": "Austria Vs Tunez",
+      "categoria": "Amistoso",
+      "fecha_hora": "2026-06-01T17:00:00",
+      "url_flag": "https://api.ppv.to/assets/thumb/995ecc9a00256ddae5d2d6a54fc56343-thumbnail.jpg",
+      "detalles": [
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN",
+          "url": "https://tvtvhd.com/canales.php?stream=espn",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/canales.php?stream=espn"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN AR",
+          "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=espn"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN AR",
+          "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/vivo/canales.php?stream=espn"
+        }
+      ]
+    },
+    {
       "id": 63,
       "nombre": "St. Louis Cardinals vs Texas Rangers",
       "categoria": "Baseball (MLB) - MLB",
@@ -976,6 +1027,29 @@
           "url": "https://dlhd.pk/stream/stream-5042.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=5042"
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "nombre": "Eslovaquia Vs Malta",
+      "categoria": "Amistoso",
+      "fecha_hora": "2026-06-01T16:00:00",
+      "url_flag": "https://api.ppv.to/assets/thumb/ce305fd45c1a209f92cc77148f012ab6-thumbnail.jpg",
+      "detalles": [
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "Disney+",
+          "url": "https://tvtvhd.com/canales.php?stream=disney2",
+          "imagen_idiom": "",
+          "url_embed": "https://tvtvhd.com/canales.php?stream=disney2"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "DISNEY2",
+          "url": "https://la14hd.com/vivo/canales.php?stream=disney2",
+          "imagen_idiom": "https://flagcdn.com/es.svg",
+          "url_embed": "https://la14hd.com/vivo/canales.php?stream=disney2"
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "last_update": "2026-06-02T12:12:51Z"
+    "last_update": "2026-06-02T12:43:09Z"
   },
   "eventos": [
     {
@@ -52,6 +52,20 @@
           "url": "https://dlhd.pk/stream/stream-758.php",
           "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_2_US.png",
           "url_embed": "https://dlhd.pk/watch.php?id=758"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN",
+          "url": "https://la14hd.com/vivo/canales.php?stream=espn",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://la14hd.com/vivo/canales.php?stream=espn"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "FOXSPORTS2USA",
+          "url": "https://la14hd.com/vivo/canales.php?stream=foxsports2_usa",
+          "imagen_idiom": "",
+          "url_embed": "https://la14hd.com/vivo/canales.php?stream=foxsports2_usa"
         },
         {
           "tipo": "dlhd",
@@ -395,6 +409,13 @@
           "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
           "imagen_idiom": "https://i.postimg.cc/NFfc0Df7/Logo-Sport-TV.png",
           "url_embed": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "DISNEY3",
+          "url": "https://la14hd.com/vivo/canales.php?stream=disney3",
+          "imagen_idiom": "https://flagcdn.com/es.svg",
+          "url_embed": "https://la14hd.com/vivo/canales.php?stream=disney3"
         }
       ]
     },
@@ -980,6 +1001,13 @@
           "url": "https://tvtvhd.com/canales.php?stream=disney1",
           "imagen_idiom": "",
           "url_embed": "https://tvtvhd.com/canales.php?stream=disney1"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "DISNEY2",
+          "url": "https://la14hd.com/vivo/canales.php?stream=disney2",
+          "imagen_idiom": "https://flagcdn.com/es.svg",
+          "url_embed": "https://la14hd.com/vivo/canales.php?stream=disney2"
         }
       ]
     },
@@ -1038,6 +1066,13 @@
           "url": "https://dlhd.pk/stream/stream-85.php",
           "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
           "url_embed": "https://dlhd.pk/watch.php?id=85"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN3",
+          "url": "https://la14hd.com/vivo/canales.php?stream=espn3",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://la14hd.com/vivo/canales.php?stream=espn3"
         },
         {
           "tipo": "dlhd",
@@ -1871,6 +1906,50 @@
       ]
     },
     {
+      "id": 111,
+      "nombre": "Croacia Vs Belgica",
+      "categoria": "Amistoso",
+      "fecha_hora": "2026-06-02T16:00:00",
+      "url_flag": "https://api.ppv.to/assets/thumb/800632b50a64ed4fb45965bc0db0934b-thumbnail.jpg",
+      "detalles": [
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN",
+          "url": "https://tvtvhd.com/canales.php?stream=espn",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/canales.php?stream=espn"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN AR",
+          "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=espn"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN AR",
+          "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/vivo/canales.php?stream=espn"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN",
+          "url": "https://la14hd.com/vivo/canales.php?stream=espn",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://la14hd.com/vivo/canales.php?stream=espn"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "DISNEY1",
+          "url": "https://la14hd.com/vivo/canales.php?stream=disney1",
+          "imagen_idiom": "https://flagcdn.com/es.svg",
+          "url_embed": "https://la14hd.com/vivo/canales.php?stream=disney1"
+        }
+      ]
+    },
+    {
       "id": 130,
       "nombre": "Canada - Uzbekistan",
       "categoria": "Amistoso",
@@ -2054,36 +2133,6 @@
           "url": "https://dlhd.pk/stream/stream-134.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=134"
-        }
-      ]
-    },
-    {
-      "id": 111,
-      "nombre": "Croacia Vs Belgica",
-      "categoria": "Amistoso",
-      "fecha_hora": "2026-06-02T16:00:00",
-      "url_flag": "https://api.ppv.to/assets/thumb/800632b50a64ed4fb45965bc0db0934b-thumbnail.jpg",
-      "detalles": [
-        {
-          "tipo": "m3u8_varios",
-          "nombre_canal": "ESPN",
-          "url": "https://tvtvhd.com/canales.php?stream=espn",
-          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
-          "url_embed": "https://tvtvhd.com/canales.php?stream=espn"
-        },
-        {
-          "tipo": "m3u8_varios",
-          "nombre_canal": "ESPN AR",
-          "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
-          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
-          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=espn"
-        },
-        {
-          "tipo": "m3u8_varios",
-          "nombre_canal": "ESPN AR",
-          "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
-          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
-          "url_embed": "https://tvtvhd.com/vivo/canales.php?stream=espn"
         }
       ]
     }

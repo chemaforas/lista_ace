@@ -1,7 +1,7 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "last_update": "2026-06-03T12:14:20Z"
+    "last_update": "2026-06-03T12:44:38Z"
   },
   "eventos": [
     {
@@ -900,6 +900,106 @@
       ]
     },
     {
+      "id": 112,
+      "nombre": "Minnesota Twins vs Chicago White Sox",
+      "categoria": "Baseball - MLB",
+      "fecha_hora": "2026-06-03T17:40:00",
+      "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/oxdlkr1780299545.jpg",
+      "detalles": [
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN 5",
+          "url": "https://tvtvhd.com/canales.php?stream=espn5",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/canales.php?stream=espn5"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN 5",
+          "url": "https://tvtvhd.com/vivo/canal.php?stream=espn5",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=espn5"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN 5",
+          "url": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/vivo/canales.php?stream=espn5"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Fox Sports 3 Argentina",
+          "url": "https://dlhd.pk/stream/stream-789.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=789"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Fox Sports 3 Argentina",
+          "url": "https://dlhd.pk/stream/stream-789.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=789"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN5",
+          "url": "https://la14hd.com/vivo/canales.php?stream=espn5",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://la14hd.com/vivo/canales.php?stream=espn5"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB league pass",
+          "url": "https://dlhd.pk/stream/stream-12.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=12"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Chicago Sports Network",
+          "url": "https://dlhd.pk/stream/stream-776.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=776"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-5039.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5039"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB league pass",
+          "url": "https://dlhd.pk/stream/stream-12.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=12"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Chicago Sports Network",
+          "url": "https://dlhd.pk/stream/stream-776.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=776"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-5039.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5039"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": " - Futbol",
+          "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn5tv.html",
+          "imagen_idiom": "",
+          "url_embed": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn5tv.html"
+        }
+      ]
+    },
+    {
       "id": 1,
       "nombre": "Carolina Hurricanes Vs Vegas Golden Knights",
       "categoria": "Hockey Hielo | NHL: Stanley Cup Final",
@@ -1147,92 +1247,6 @@
           "nombre_canal": "NHL - Stanley Cup Final Carolina Hurricanes - Vegas Golden Knights",
           "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
           "imagen_idiom": "https://i.ibb.co/q95fBKV/deportes.png"
-        }
-      ]
-    },
-    {
-      "id": 112,
-      "nombre": "Minnesota Twins vs Chicago White Sox",
-      "categoria": "Baseball - MLB",
-      "fecha_hora": "2026-06-03T17:40:00",
-      "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/oxdlkr1780299545.jpg",
-      "detalles": [
-        {
-          "tipo": "m3u8_varios",
-          "nombre_canal": "ESPN 5",
-          "url": "https://tvtvhd.com/canales.php?stream=espn5",
-          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
-          "url_embed": "https://tvtvhd.com/canales.php?stream=espn5"
-        },
-        {
-          "tipo": "m3u8_varios",
-          "nombre_canal": "ESPN 5",
-          "url": "https://tvtvhd.com/vivo/canal.php?stream=espn5",
-          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
-          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=espn5"
-        },
-        {
-          "tipo": "m3u8_varios",
-          "nombre_canal": "ESPN 5",
-          "url": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
-          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
-          "url_embed": "https://tvtvhd.com/vivo/canales.php?stream=espn5"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Fox Sports 3 Argentina",
-          "url": "https://dlhd.pk/stream/stream-789.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=789"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Fox Sports 3 Argentina",
-          "url": "https://dlhd.pk/stream/stream-789.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=789"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "MLB league pass",
-          "url": "https://dlhd.pk/stream/stream-12.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=12"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Chicago Sports Network",
-          "url": "https://dlhd.pk/stream/stream-776.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=776"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Backup Stream",
-          "url": "https://dlhd.pk/stream/stream-5039.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=5039"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "MLB league pass",
-          "url": "https://dlhd.pk/stream/stream-12.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=12"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Chicago Sports Network",
-          "url": "https://dlhd.pk/stream/stream-776.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=776"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Backup Stream",
-          "url": "https://dlhd.pk/stream/stream-5039.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=5039"
         }
       ]
     },

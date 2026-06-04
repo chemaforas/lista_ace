@@ -1,7 +1,7 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "last_update": "2026-06-04T12:12:41Z"
+    "last_update": "2026-06-04T12:42:59Z"
   },
   "eventos": [
     {
@@ -1533,6 +1533,29 @@
           "url": "https://dlhd.pk/stream/stream-76.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=76"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "nombre": "Eslovenia Vs Chipre",
+      "categoria": "Amistoso",
+      "fecha_hora": "2026-06-04T16:00:00",
+      "url_flag": "https://api.ppv.to/assets/thumb/5cbd66032e6ed49d3cc84a4bd6e9634b-thumbnail.jpg",
+      "detalles": [
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "Disney+",
+          "url": "https://tvtvhd.com/canales.php?stream=espn",
+          "imagen_idiom": "",
+          "url_embed": "https://tvtvhd.com/canales.php?stream=espn"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "DISNEY2",
+          "url": "https://la14hd.com/vivo/canales.php?stream=disney2",
+          "imagen_idiom": "https://flagcdn.com/es.svg",
+          "url_embed": "https://la14hd.com/vivo/canales.php?stream=disney2"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "last_update": "2026-06-09T08:35:55Z"
+    "last_update": "2026-06-09T09:07:07Z"
   },
   "eventos": [
     {
@@ -350,6 +350,13 @@
           "url": "https://dlhd.pk/stream/stream-3026.php",
           "imagen_idiom": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
           "url_embed": "https://dlhd.pk/watch.php?id=3026"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "LaLiga TV Hypermotion",
+          "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
+          "imagen_idiom": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url_embed": "https://tvtvhd.com/canales.php?stream=hypermotion1"
         }
       ]
     },
@@ -415,6 +422,85 @@
           "url": "https://dlhd.pk/stream/stream-3042.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=3042"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "Sportv BR",
+          "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
+          "imagen_idiom": "https://i.postimg.cc/NFfc0Df7/Logo-Sport-TV.png",
+          "url_embed": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "nombre": "Chicago Sky W vs Atlanta Dream W",
+      "categoria": "WNBA - WNBA",
+      "fecha_hora": "2026-06-09T23:00:00",
+      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/t2chnq1651998447.jpg",
+      "detalles": [
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN 3",
+          "url": "https://tvtvhd.com/canales.php?stream=espn3",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/canales.php?stream=espn3"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN 3",
+          "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=espn3"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN 3",
+          "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/vivo/canales.php?stream=espn3"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN USA",
+          "url": "https://dlhd.pk/stream/stream-3009.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/n9lgac1660762960.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3009"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN 3 NL",
+          "url": "https://dlhd.pk/stream/stream-888.php",
+          "imagen_idiom": "https://i.postimg.cc/x813HKcX/ESPN-3.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=888"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN USA",
+          "url": "https://dlhd.pk/stream/stream-44.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/n9lgac1660762960.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=44"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN2 BR",
+          "url": "https://dlhd.pk/stream/stream-82.php",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=82"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TSN2",
+          "url": "https://dlhd.pk/stream/stream-112.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=112"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-5037.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5037"
         }
       ]
     },
@@ -466,57 +552,6 @@
           "url": "https://dlhd.pk/stream/stream-5034.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=5034"
-        }
-      ]
-    },
-    {
-      "id": 136,
-      "nombre": "Chicago Sky W vs Atlanta Dream W",
-      "categoria": "WNBA - WNBA",
-      "fecha_hora": "2026-06-09T23:00:00",
-      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/t2chnq1651998447.jpg",
-      "detalles": [
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "ESPN USA",
-          "url": "https://dlhd.pk/stream/stream-3009.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/n9lgac1660762960.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=3009"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "ESPN 3 NL",
-          "url": "https://dlhd.pk/stream/stream-888.php",
-          "imagen_idiom": "https://i.postimg.cc/x813HKcX/ESPN-3.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=888"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "ESPN USA",
-          "url": "https://dlhd.pk/stream/stream-44.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/n9lgac1660762960.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=44"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "ESPN2 BR",
-          "url": "https://dlhd.pk/stream/stream-82.php",
-          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=82"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TSN2",
-          "url": "https://dlhd.pk/stream/stream-112.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=112"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Backup Stream",
-          "url": "https://dlhd.pk/stream/stream-5037.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=5037"
         }
       ]
     },
@@ -598,6 +633,36 @@
           "url": "https://dlhd.pk/stream/stream-5038.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=5038"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "nombre": "Nautico vs Fortaleza",
+      "categoria": "All Football Events - Brazil - Serie B",
+      "fecha_hora": "2026-06-09T22:00:00",
+      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/4ccmz91772179775.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Premiere BR",
+          "url": "https://dlhd.pk/stream/stream-166.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=166"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "SporTV BR",
+          "url": "https://dlhd.pk/stream/stream-78.php",
+          "imagen_idiom": "https://i.postimg.cc/NFfc0Df7/Logo-Sport-TV.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=78"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "Sportv BR",
+          "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
+          "imagen_idiom": "https://i.postimg.cc/NFfc0Df7/Logo-Sport-TV.png",
+          "url_embed": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
         }
       ]
     },
@@ -812,6 +877,36 @@
       ]
     },
     {
+      "id": 158,
+      "nombre": "San Diego Padres Vs Cincinnati Reds",
+      "categoria": "MLB",
+      "fecha_hora": "2026-06-11T01:30:00",
+      "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/1wjotn1780299611.jpg",
+      "detalles": [
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN 3",
+          "url": "https://tvtvhd.com/canales.php?stream=espn3",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/canales.php?stream=espn3"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN 3",
+          "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/vivo/canal.php?stream=espn3"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "ESPN 3",
+          "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
+          "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://tvtvhd.com/vivo/canales.php?stream=espn3"
+        }
+      ]
+    },
+    {
       "id": 18,
       "nombre": "Kyrgyzstan vs Palestine",
       "categoria": "All Football Events - Friendly",
@@ -831,29 +926,6 @@
           "url": "https://dlhd.pk/stream/stream-3065.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=3065"
-        }
-      ]
-    },
-    {
-      "id": 34,
-      "nombre": "Nautico vs Fortaleza",
-      "categoria": "All Football Events - Brazil - Serie B",
-      "fecha_hora": "2026-06-09T22:00:00",
-      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/4ccmz91772179775.jpg",
-      "detalles": [
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Premiere BR",
-          "url": "https://dlhd.pk/stream/stream-166.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=166"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "SporTV BR",
-          "url": "https://dlhd.pk/stream/stream-78.php",
-          "imagen_idiom": "https://i.postimg.cc/NFfc0Df7/Logo-Sport-TV.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=78"
         }
       ]
     },

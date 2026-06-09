@@ -1,7 +1,7 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "last_update": "2026-06-09T13:43:08Z"
+    "last_update": "2026-06-09T14:13:25Z"
   },
   "eventos": [
     {
@@ -429,6 +429,92 @@
           "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
           "imagen_idiom": "https://i.postimg.cc/NFfc0Df7/Logo-Sport-TV.png",
           "url_embed": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "DISNEY1",
+          "url": "https://la18hd.com/vivo/canales.php?stream=disney1",
+          "imagen_idiom": "https://flagcdn.com/es.svg",
+          "url_embed": "https://la18hd.com/vivo/canales.php?stream=disney1"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "SPORTV",
+          "url": "https://la18hd.com/vivo/canales.php?stream=sportv",
+          "imagen_idiom": "https://i.postimg.cc/NFfc0Df7/Logo-Sport-TV.png",
+          "url_embed": "https://la18hd.com/vivo/canales.php?stream=sportv"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "nombre": "Belarus vs Burkina Faso",
+      "categoria": "All Football Events - Friendly",
+      "fecha_hora": "2026-06-09T16:30:00",
+      "url_flag": "https://api.ppv.to/assets/thumb/ed3016afb009ae267aef552481876b15-thumbnail.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Fox Soccer Plus",
+          "url": "https://dlhd.pk/stream/stream-3083.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/FOX_Soccer_Plus.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3083"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Fox Soccer Plus",
+          "url": "https://dlhd.pk/stream/stream-756.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/FOX_Soccer_Plus.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=756"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sport 4 NZ",
+          "url": "https://dlhd.pk/stream/stream-591.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/3aho1v1642606988.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=591"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Digi Sport 3 Romania",
+          "url": "https://dlhd.pk/stream/stream-402.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/utuqys1454953276.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=402"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Prima Sport 4 Romania",
+          "url": "https://dlhd.pk/stream/stream-586.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=586"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports MENA English 1",
+          "url": "https://dlhd.pk/stream/stream-61.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=61"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport Klub 8 Croatia",
+          "url": "https://dlhd.pk/stream/stream-153.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=153"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "Disney+",
+          "url": "https://tvtvhd.com/canales.php?stream=espn",
+          "imagen_idiom": "",
+          "url_embed": "https://tvtvhd.com/canales.php?stream=espn"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "DISNEY5",
+          "url": "https://la18hd.com/vivo/canales.php?stream=disney5",
+          "imagen_idiom": "https://flagcdn.com/es.svg",
+          "url_embed": "https://la18hd.com/vivo/canales.php?stream=disney5"
         }
       ]
     },
@@ -1144,6 +1230,29 @@
           "url": "https://dlhd.pk/stream/stream-5048.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=5048"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "nombre": "Hungria Vs Kazajstan",
+      "categoria": "Amistoso",
+      "fecha_hora": "2026-06-09T17:00:00",
+      "url_flag": "https://api.ppv.to/assets/thumb/d595ca195b8e323cc053a189f32545be-thumbnail.jpg",
+      "detalles": [
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "Sportv BR",
+          "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
+          "imagen_idiom": "https://i.postimg.cc/NFfc0Df7/Logo-Sport-TV.png",
+          "url_embed": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "DISNEY6",
+          "url": "https://la14hd.com/vivo/canales.php?stream=disney6",
+          "imagen_idiom": "https://flagcdn.com/es.svg",
+          "url_embed": "https://la14hd.com/vivo/canales.php?stream=disney6"
         }
       ]
     },

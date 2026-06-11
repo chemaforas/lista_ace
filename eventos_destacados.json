@@ -1,7 +1,7 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "last_update": "2026-06-11T14:12:21Z"
+    "last_update": "2026-06-11T14:21:32Z"
   },
   "eventos": [
     {
@@ -286,6 +286,22 @@
           "url": "https://dlhd.pk/stream/stream-5045.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=5045"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "nombre": "Utah United vs Flatirons Rush",
+      "categoria": "USL League Two - USL League Two",
+      "fecha_hora": "2026-06-11T23:00:00",
+      "url_flag": "https://www.thesportsdb.com/images/no_fanart.png",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN+ USA",
+          "url": "https://dlhd.pk/stream/stream-59.php",
+          "imagen_idiom": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=59"
         }
       ]
     }

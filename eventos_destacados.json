@@ -1,7 +1,7 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "last_update": "2026-06-12T13:13:46Z"
+    "last_update": "2026-06-12T13:44:05Z"
   },
   "eventos": [
     {
@@ -1714,6 +1714,41 @@
           "url": "https://tvtvhd.com/canales.php?stream=telemundo",
           "imagen_idiom": "https://i.postimg.cc/VkSJ40XJ/TELEMUNDO.png",
           "url_embed": "https://tvtvhd.com/canales.php?stream=telemundo"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "DISNEY1",
+          "url": "https://la18hd.com/vivo/canales.php?stream=disney1",
+          "imagen_idiom": "https://flagcdn.com/es.svg",
+          "url_embed": "https://la18hd.com/vivo/canales.php?stream=disney1"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "DSPORTS",
+          "url": "https://la18hd.com/vivo/canales.php?stream=dsports",
+          "imagen_idiom": "https://i.postimg.cc/kg7pPGGv/DSports.png",
+          "url_embed": "https://la18hd.com/vivo/canales.php?stream=dsports"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "VTVPLUS",
+          "url": "https://la18hd.com/vivo/canales.php?stream=vtvplus",
+          "imagen_idiom": "https://flagcdn.com/es.svg",
+          "url_embed": "https://la18hd.com/vivo/canales.php?stream=vtvplus"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "AMERICATV",
+          "url": "https://la18hd.com/vivo/canales.php?stream=americatv",
+          "imagen_idiom": "https://flagcdn.com/es.svg",
+          "url_embed": "https://la18hd.com/vivo/canales.php?stream=americatv"
+        },
+        {
+          "tipo": "m3u8_varios",
+          "nombre_canal": "WINSPORTS",
+          "url": "https://la18hd.com/vivo/canales.php?stream=winsports",
+          "imagen_idiom": "https://flagcdn.com/es.svg",
+          "url_embed": "https://la18hd.com/vivo/canales.php?stream=winsports"
         }
       ]
     },

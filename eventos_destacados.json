@@ -1,11 +1,11 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "last_update": "2026-06-15T22:30:09Z"
+    "last_update": "2026-06-15T22:33:46Z"
   },
   "eventos": [
     {
-      "id": 101,
+      "id": 14,
       "nombre": "Francia vs Senegal",
       "categoria": "Football | FIFA World Cup 2026: Group stage",
       "fecha_hora": "2026-06-16T19:00:00",
@@ -51,39 +51,12 @@
           "tipo": "acestream",
           "nombre_canal": "La 1 TVE 4K",
           "url": "acestream://23c952c5b375715db822f2783803c6e28fab0e34",
-          "imagen_idiom": "https://i.ibb.co/Vf2GT70/la1.png"
+          "imagen_idiom": ""
         },
         {
           "tipo": "acestream",
           "nombre_canal": "La 1 TVE 4K",
           "url": "acestream://da38a21a9509be8c03b0fdb539cb1485843330c3",
-          "imagen_idiom": "https://i.ibb.co/Vf2GT70/la1.png"
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "nombre": "Group stage Iran - New Zealand",
-      "categoria": "FIFA World Cup 2026",
-      "fecha_hora": "2026-06-16T01:00:00",
-      "url_flag": "https://api.ppv.to/assets/thumb/3916a55e20c6915086e96f879150a543-thumbnail.jpg",
-      "detalles": [
-        {
-          "tipo": "acestream",
-          "nombre_canal": "FIFA Copa Mundial 2026 - Fase de grupos Irán - Nueva Zelanda",
-          "url": "acestream://b2bf586e7ddc31352f120c9274c1441dea3f5418",
-          "imagen_idiom": ""
-        },
-        {
-          "tipo": "acestream",
-          "nombre_canal": "FIFA Copa Mundial 2026 - Fase de grupos Irán - Nueva Zelanda",
-          "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
-          "imagen_idiom": ""
-        },
-        {
-          "tipo": "acestream",
-          "nombre_canal": "FIFA Copa Mundial 2026 - Fase de grupos Irán - Nueva Zelanda",
-          "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
           "imagen_idiom": ""
         }
       ]

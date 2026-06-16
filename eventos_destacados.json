@@ -1,21 +1,21 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "last_update": "2026-06-16T09:35:55Z"
+    "last_update": "2026-06-16T11:14:33Z"
   },
   "eventos": [
     {
-      "id": 14,
+      "id": 13,
       "nombre": "Francia vs Senegal",
       "categoria": "Football | FIFA World Cup 2026: Group stage",
       "fecha_hora": "2026-06-16T19:00:00",
-      "url_flag": "https://api.ppv.to/assets/thumb/5212770f3bc7f48643dbdf2a1dceabae-thumbnail.jpg",
+      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/73gvui1775058331.jpg",
       "detalles": [
         {
           "tipo": "acestream",
           "nombre_canal": "DAZN FIFA 1",
           "url": "acestream://b2bf586e7ddc31352f120c9274c1441dea3f5418",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/bzfvpa1657045556.png"
+          "imagen_idiom": ""
         },
         {
           "tipo": "acestream",
@@ -62,29 +62,29 @@
       ]
     },
     {
-      "id": 2,
-      "nombre": "Iran Vs New Zealand",
-      "categoria": "Football | FIFA World Cup 2026: Group stage",
+      "id": 30,
+      "nombre": "Group stage Iran - New Zealand",
+      "categoria": "FIFA World Cup 2026",
       "fecha_hora": "2026-06-17T01:00:00",
       "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/y5bjck1781599999.jpg",
       "detalles": [
         {
           "tipo": "acestream",
-          "nombre_canal": "DAZN FIFA 1",
+          "nombre_canal": "FIFA Copa Mundial 2026 - Fase de grupos Irán - Nueva Zelanda",
           "url": "acestream://b2bf586e7ddc31352f120c9274c1441dea3f5418",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/bzfvpa1657045556.png"
+          "imagen_idiom": ""
         },
         {
           "tipo": "acestream",
-          "nombre_canal": "Dazn Mundial 1",
+          "nombre_canal": "FIFA Copa Mundial 2026 - Fase de grupos Irán - Nueva Zelanda",
           "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
-          "imagen_idiom": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png"
+          "imagen_idiom": ""
         },
         {
           "tipo": "acestream",
-          "nombre_canal": "Dazn Mundial 1",
+          "nombre_canal": "FIFA Copa Mundial 2026 - Fase de grupos Irán - Nueva Zelanda",
           "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
-          "imagen_idiom": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png"
+          "imagen_idiom": ""
         }
       ]
     }

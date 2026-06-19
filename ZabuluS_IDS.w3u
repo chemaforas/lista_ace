@@ -1,18 +1,18 @@
 {
   "name": "ZabuluSports",
-  "author": "Actualizado: 2026-06-18 11:21:04",
+  "author": "Actualizado: 2026-06-19 07:14:19",
   "image": "https://i.postimg.cc/d3Zx14SS/goat.png",
-  "info": "Actualizado automáticamente: 2026-06-18 11:21",
+  "info": "Actualizado automáticamente: 2026-06-19 07:14",
   "groups": [
     {
       "name": "Eventos",
       "image": "https://i.postimg.cc/C1743dSB/live-streaming.png",
-      "info": "Eventos del día 18/06/2026",
+      "info": "Eventos del día 19/06/2026",
       "groups": [
         {
-          "name": "Uzbekistan - Colombia",
-          "info": "02:00 - Fútbol - FIFA Copa Mundial 2026: Fase de grupos",
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/s0getc1775058334.jpg",
+          "name": "Mexico - South Korea",
+          "info": "01:00 - Fútbol - FIFA Copa Mundial 2026: Fase de grupos",
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/r0l9hp1775058336.jpg",
           "stations": [
             {
               "name": "DAZN FIFA 1",
@@ -32,8 +32,45 @@
           ]
         },
         {
-          "name": "Stage 2 - Locarno › Locarno (105.6 km)",
-          "info": "08:05 - Ciclismo - Tour de Suiza Femenino",
+          "name": "Free 1",
+          "info": "08:45 - Motociclismo - MotoGP: G.P. República Checa (Brno)",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fmotociclismo.png",
+          "stations": [
+            {
+              "name": "Dazn MotoGP",
+              "url": "acestream://342ca6975a4884d81f9fec5c4085a47060bd2028",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
+            },
+            {
+              "name": "Dazn MotoGP",
+              "url": "acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
+            },
+            {
+              "name": "Dazn MotoGP",
+              "url": "acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
+            },
+            {
+              "name": "Dazn MotoGP",
+              "url": "acestream://129c707eb4854171d178a566f36d90b7f2b5e624",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
+            },
+            {
+              "name": "Dazn MotoGP",
+              "url": "acestream://ac33342ccf7d40d46174229085461d95000b9137",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
+            },
+            {
+              "name": "DAZN MOTOGP",
+              "url": "acestream://18b03739d660f0066364343e226e437bf2555d56",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
+            }
+          ]
+        },
+        {
+          "name": "Etapa 3 - Bad Ragaz › Bad Ragaz (120.8 km)",
+          "info": "09:10 - Ciclismo - Tour de Suiza Femenino",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
             {
@@ -74,151 +111,8 @@
           ]
         },
         {
-          "name": "Stage 1 - Sondrio › Sondrio (109.3 km)",
-          "info": "08:05 - Tour de Suiza Femenino",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fnsw23YC%2Fcycling.png",
-          "stations": [
-            {
-              "name": "Tour de Suiza Femenino - Etapa 1 - Sondrio › Sondrio",
-              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2Fd%2Fdf%2FLogo_Primera_RFEF_2021.png%2Frevision%2Flatest%3Fcb%3D20230620215900%26path-prefix%3Des"
-            },
-            {
-              "name": "Tour de Suiza Femenino - Etapa 1 - Sondrio › Sondrio",
-              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2Fd%2Fdf%2FLogo_Primera_RFEF_2021.png%2Frevision%2Flatest%3Fcb%3D20230620215900%26path-prefix%3Des"
-            },
-            {
-              "name": "Tour de Suiza Femenino - Etapa 1 - Sondrio › Sondrio",
-              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2Fd%2Fdf%2FLogo_Primera_RFEF_2021.png%2Frevision%2Flatest%3Fcb%3D20230620215900%26path-prefix%3Des"
-            },
-            {
-              "name": "Tour de Suiza Femenino - Etapa 1 - Sondrio › Sondrio",
-              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2Fd%2Fdf%2FLogo_Primera_RFEF_2021.png%2Frevision%2Flatest%3Fcb%3D20230620215900%26path-prefix%3Des"
-            },
-            {
-              "name": "Tour de Suiza Femenino - Etapa 1 - Sondrio › Sondrio",
-              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2Fd%2Fdf%2FLogo_Primera_RFEF_2021.png%2Frevision%2Flatest%3Fcb%3D20230620215900%26path-prefix%3Des"
-            },
-            {
-              "name": "Tour de Suiza Femenino - Etapa 1 - Sondrio › Sondrio",
-              "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2Fd%2Fdf%2FLogo_Primera_RFEF_2021.png%2Frevision%2Flatest%3Fcb%3D20230620215900%26path-prefix%3Des"
-            },
-            {
-              "name": "Tour de Suiza Femenino - Etapa 1 - Sondrio › Sondrio",
-              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
-            }
-          ]
-        },
-        {
-          "name": "Group phase D. Vekic - A. Eala",
-          "info": "09:00 - FIFA Copa Mundial 2026",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "FIFA Copa Mundial 2026 - Fase de grupos D. Vekic - A. Eala",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Fase de grupos D. Vekic - A. Eala",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "2a Ronda - WTA 500",
-          "info": "09:30 - Tenis - WTA Torneo de Berlín",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
-          "stations": [
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            },
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            }
-          ]
-        },
-        {
-          "name": "1a Ronda Z. Bergs - T. Fritz",
-          "info": "09:30 - Torneo de Halle",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "Torneo de Halle - 1ª Ronda Z. Bergs - T. Fritz",
-              "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
-              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
-            },
-            {
-              "name": "Torneo de Halle - 1ª Ronda Z. Bergs - T. Fritz",
-              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 1ª Ronda Z. Bergs - T. Fritz",
-              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
-            },
-            {
-              "name": "Torneo de Halle - 1ª Ronda Z. Bergs - T. Fritz",
-              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 1ª Ronda Z. Bergs - T. Fritz",
-              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Torneo de Halle - 1ª Ronda Z. Bergs - T. Fritz",
-              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 1ª Ronda Z. Bergs - T. Fritz",
-              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 1ª Ronda Z. Bergs - T. Fritz",
-              "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Torneo de Halle - 1ª Ronda Z. Bergs - T. Fritz",
-              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 1ª Ronda Z. Bergs - T. Fritz",
-              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Torneo de Halle - 1ª Ronda Z. Bergs - T. Fritz",
-              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 1ª Ronda Z. Bergs - T. Fritz",
-              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            }
-          ]
-        },
-        {
-          "name": "2a Ronda - ATP 500",
-          "info": "09:35 - Tenis - Torneo de Halle",
+          "name": "B. Shelton - T. Fritz",
+          "info": "09:30 - Tenis - Torneo de Halle: 1/4 de Final",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
@@ -264,71 +158,71 @@
           ]
         },
         {
-          "name": "Phase of groups J. Pegula - K. Siniakova",
-          "info": "10:30 - FIFA Copa Mundial 2026",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
+          "name": "1/4 Final - WTA 500",
+          "info": "09:30 - Tenis - WTA Torneo de Berlín",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
-              "name": "FIFA Copa Mundial 2026 - Fase de grupos J. Pegula - K. Siniakova",
+              "name": "Tennis Channel",
               "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": ""
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
             },
             {
-              "name": "FIFA Copa Mundial 2026 - Fase de grupos J. Pegula - K. Siniakova",
+              "name": "Tennis Channel",
               "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": ""
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
             }
           ]
         },
         {
-          "name": "2nd Ronda B. Nakashima - I. Dust",
-          "info": "10:30 - Torneo de Halle",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
+          "name": "1/4 Final",
+          "info": "11:00 - Tenis - Torneo de Halle",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
-              "name": "Torneo de Halle - 2ª Ronda B. Nakashima - I. Buse",
-              "url": "acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda B. Nakashima - I. Buse",
-              "url": "acestream://890901fa742b19d8808cf49f19db2d3016437c56",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda B. Nakashima - I. Buse",
-              "url": "acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee",
+              "name": "M+ Deportes",
+              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
               "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Torneo de Halle - 2ª Ronda B. Nakashima - I. Buse",
-              "url": "acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191",
-              "image": ""
+              "name": "M+ Deportes",
+              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "Torneo de Halle - 2ª Ronda B. Nakashima - I. Buse",
-              "url": "acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25",
+              "name": "M+ Deportes",
+              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
               "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Torneo de Halle - 2ª Ronda B. Nakashima - I. Buse",
-              "url": "acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539",
-              "image": ""
+              "name": "M+ Deportes",
+              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "Torneo de Halle - 2ª Ronda B. Nakashima - I. Buse",
-              "url": "acestream://6b15368775693c33c49fab02e7900c1976a5da90",
+              "name": "M+ Deportes",
+              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
               "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Torneo de Halle - 2ª Ronda B. Nakashima - I. Buse",
-              "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
-              "image": ""
+              "name": "MOVISTAR DEPORTES",
+              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+            },
+            {
+              "name": "M. Deportes",
+              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             }
           ]
         },
         {
-          "name": "2a Ronda - ATP 500",
+          "name": "1/4 de Final - ATP 500",
           "info": "11:00 - Tenis - Torneo de Queen's",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
@@ -375,96 +269,7 @@
           ]
         },
         {
-          "name": "1st Round B. Shelton - L. Sonego",
-          "info": "11:00 - Torneo de Halle",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "Torneo de Halle - 1ª Ronda B. Shelton - L. Sonego",
-              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Torneo de Halle - 1ª Ronda B. Shelton - L. Sonego",
-              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 1ª Ronda B. Shelton - L. Sonego",
-              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 1ª Ronda B. Shelton - L. Sonego",
-              "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Torneo de Halle - 1ª Ronda B. Shelton - L. Sonego",
-              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 1ª Ronda B. Shelton - L. Sonego",
-              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Torneo de Halle - 1ª Ronda B. Shelton - L. Sonego",
-              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 1ª Ronda B. Shelton - L. Sonego",
-              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            }
-          ]
-        },
-        {
-          "name": "Stage 2 - Radlje ob Drava › Ormož (181.8 km)",
-          "info": "11:30 - Ciclismo - Tour de Eslovenia",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
-          "stations": [
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "EUROSPORT 1",
-              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport",
-              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
-            }
-          ]
-        },
-        {
-          "name": "Day 1",
+          "name": "Day 2",
           "info": "11:30 - Golf - US Open",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fgolf.png",
           "stations": [
@@ -491,250 +296,92 @@
           ]
         },
         {
-          "name": "Stage 1 - Velenje › Rogaška Slatina (141.3 km)",
-          "info": "11:30 - Tour de Eslovenia",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fnsw23YC%2Fcycling.png",
+          "name": "D. Altmaier - D. Medvedev",
+          "info": "12:30 - Tenis - Torneo de Halle: 1/4 de Final",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
-              "name": "Tour de Eslovenia - Etapa 1 - Velenje › Rogaška Slatina",
-              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png"
-            },
-            {
-              "name": "Tour de Eslovenia - Etapa 1 - Velenje › Rogaška Slatina",
-              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
-              "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png"
-            },
-            {
-              "name": "Tour de Eslovenia - Etapa 1 - Velenje › Rogaška Slatina",
-              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png"
-            },
-            {
-              "name": "Tour de Eslovenia - Etapa 1 - Velenje › Rogaška Slatina",
-              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
-              "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png"
-            },
-            {
-              "name": "Tour de Eslovenia - Etapa 1 - Velenje › Rogaška Slatina",
-              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
-              "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png"
-            },
-            {
-              "name": "Tour de Eslovenia - Etapa 1 - Velenje › Rogaška Slatina",
-              "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
-              "image": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png"
-            },
-            {
-              "name": "Tour de Eslovenia - Etapa 1 - Velenje › Rogaška Slatina",
-              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
-            }
-          ]
-        },
-        {
-          "name": "2nd Round A. De Miñaur - D. Shapovalov",
-          "info": "12:00 - Torneo de Halle",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "Torneo de Halle - 2ª Ronda A. De Miñaur - D. Shapovalov",
-              "url": "acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda A. De Miñaur - D. Shapovalov",
-              "url": "acestream://890901fa742b19d8808cf49f19db2d3016437c56",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda A. De Miñaur - D. Shapovalov",
-              "url": "acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda A. De Miñaur - D. Shapovalov",
-              "url": "acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda A. De Miñaur - D. Shapovalov",
-              "url": "acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda A. De Miñaur - D. Shapovalov",
-              "url": "acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda A. De Miñaur - D. Shapovalov",
-              "url": "acestream://6b15368775693c33c49fab02e7900c1976a5da90",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda A. De Miñaur - D. Shapovalov",
-              "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "2nd Round L. Tien - F. Auger-Aliassime",
-          "info": "12:30 - Torneo de Halle",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "Torneo de Halle - 2ª Ronda L. Tien - F. Auger-Aliassime",
+              "name": "M+ Deportes",
               "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
               "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Torneo de Halle - 2ª Ronda L. Tien - F. Auger-Aliassime",
+              "name": "M+ Deportes",
               "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "Torneo de Halle - 2ª Ronda L. Tien - F. Auger-Aliassime",
+              "name": "M+ Deportes",
               "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "Torneo de Halle - 2ª Ronda L. Tien - F. Auger-Aliassime",
+              "name": "M+ Deportes",
               "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
               "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Torneo de Halle - 2ª Ronda L. Tien - F. Auger-Aliassime",
+              "name": "M+ Deportes",
               "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "Torneo de Halle - 2ª Ronda L. Tien - F. Auger-Aliassime",
+              "name": "M+ Deportes",
               "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
               "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Torneo de Halle - 2ª Ronda L. Tien - F. Auger-Aliassime",
+              "name": "MOVISTAR DEPORTES",
               "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             },
             {
-              "name": "Torneo de Halle - 2ª Ronda L. Tien - F. Auger-Aliassime",
+              "name": "M. Deportes",
               "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             }
           ]
         },
         {
-          "name": "Group stage P. Badosa - C. Gauff",
-          "info": "13:30 - FIFA Copa Mundial 2026",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
+          "name": "free",
+          "info": "13:00 - Motociclismo - MotoGP: G.P. República Checa (Brno)",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fmotociclismo.png",
           "stations": [
             {
-              "name": "FIFA Copa Mundial 2026 - Fase de grupos P. Badosa - C. Gauff",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": ""
+              "name": "Dazn MotoGP",
+              "url": "acestream://342ca6975a4884d81f9fec5c4085a47060bd2028",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
             },
             {
-              "name": "FIFA Copa Mundial 2026 - Fase de grupos P. Badosa - C. Gauff",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": ""
+              "name": "Dazn MotoGP",
+              "url": "acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
+            },
+            {
+              "name": "Dazn MotoGP",
+              "url": "acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
+            },
+            {
+              "name": "Dazn MotoGP",
+              "url": "acestream://129c707eb4854171d178a566f36d90b7f2b5e624",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
+            },
+            {
+              "name": "Dazn MotoGP",
+              "url": "acestream://ac33342ccf7d40d46174229085461d95000b9137",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
+            },
+            {
+              "name": "DAZN MOTOGP",
+              "url": "acestream://18b03739d660f0066364343e226e437bf2555d56",
+              "image": "https://i.postimg.cc/ZKTPyNjD/logo2-28-91831.png"
             }
           ]
         },
         {
-          "name": "2nd Round A. Mannarino - A. Fery",
-          "info": "13:30 - Torneo de Halle",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "Torneo de Halle - 2ª Ronda A. Mannarino - A. Fery",
-              "url": "acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda A. Mannarino - A. Fery",
-              "url": "acestream://890901fa742b19d8808cf49f19db2d3016437c56",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda A. Mannarino - A. Fery",
-              "url": "acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda A. Mannarino - A. Fery",
-              "url": "acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda A. Mannarino - A. Fery",
-              "url": "acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda A. Mannarino - A. Fery",
-              "url": "acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda A. Mannarino - A. Fery",
-              "url": "acestream://6b15368775693c33c49fab02e7900c1976a5da90",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda A. Mannarino - A. Fery",
-              "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Stage 1 - Sondrio › Sondrio (144 km)",
-          "info": "13:45 - Tour de Suiza",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fnsw23YC%2Fcycling.png",
-          "stations": [
-            {
-              "name": "Tour de Suiza - Etapa 1 - Sondrio › Sondrio",
-              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": ""
-            },
-            {
-              "name": "Tour de Suiza - Etapa 1 - Sondrio › Sondrio",
-              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
-              "image": ""
-            },
-            {
-              "name": "Tour de Suiza - Etapa 1 - Sondrio › Sondrio",
-              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": ""
-            },
-            {
-              "name": "Tour de Suiza - Etapa 1 - Sondrio › Sondrio",
-              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
-              "image": ""
-            },
-            {
-              "name": "Tour de Suiza - Etapa 1 - Sondrio › Sondrio",
-              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
-              "image": ""
-            },
-            {
-              "name": "Tour de Suiza - Etapa 1 - Sondrio › Sondrio",
-              "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
-              "image": ""
-            },
-            {
-              "name": "Tour de Suiza - Etapa 1 - Sondrio › Sondrio",
-              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
-            }
-          ]
-        },
-        {
-          "name": "Stage 2 - Locarno › Locarno (157.7 km)",
-          "info": "14:00 - Ciclismo - Tour de Suiza",
+          "name": "Etapa 3 - Bad Ragaz › Bad Ragaz (157.4 km)",
+          "info": "13:35 - Ciclismo - Tour de Suiza",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
             {
@@ -775,401 +422,56 @@
           ]
         },
         {
-          "name": "2a Ronda T. Atmane - D. Medvedev",
-          "info": "14:00 - Torneo de Halle",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
+          "name": "F. Tiafoe v. F. Auger-Aliassime",
+          "info": "14:00 - Tenis - Torneo de Halle: 1/4 de Final",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
-              "name": "Torneo de Halle - 2ª Ronda T. Atmane - D. Medvedev",
+              "name": "M+ Deportes",
               "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
               "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Torneo de Halle - 2ª Ronda T. Atmane - D. Medvedev",
+              "name": "M+ Deportes",
               "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "Torneo de Halle - 2ª Ronda T. Atmane - D. Medvedev",
+              "name": "M+ Deportes",
               "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "Torneo de Halle - 2ª Ronda T. Atmane - D. Medvedev",
+              "name": "M+ Deportes",
               "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
               "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Torneo de Halle - 2ª Ronda T. Atmane - D. Medvedev",
+              "name": "M+ Deportes",
               "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "Torneo de Halle - 2ª Ronda T. Atmane - D. Medvedev",
+              "name": "M+ Deportes",
               "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
               "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Torneo de Halle - 2ª Ronda T. Atmane - D. Medvedev",
+              "name": "MOVISTAR DEPORTES",
               "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             },
             {
-              "name": "Torneo de Halle - 2ª Ronda T. Atmane - D. Medvedev",
+              "name": "M. Deportes",
               "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             }
           ]
         },
         {
-          "name": "2nd Round J. Brooksby - F. Cerundolo",
-          "info": "15:00 - Torneo de Halle",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "Torneo de Halle - 2ª Ronda J. Brooksby - F. Cerúndolo",
-              "url": "acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda J. Brooksby - F. Cerúndolo",
-              "url": "acestream://890901fa742b19d8808cf49f19db2d3016437c56",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda J. Brooksby - F. Cerúndolo",
-              "url": "acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda J. Brooksby - F. Cerúndolo",
-              "url": "acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda J. Brooksby - F. Cerúndolo",
-              "url": "acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda J. Brooksby - F. Cerúndolo",
-              "url": "acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda J. Brooksby - F. Cerúndolo",
-              "url": "acestream://6b15368775693c33c49fab02e7900c1976a5da90",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Torneo de Halle - 2ª Ronda J. Brooksby - F. Cerúndolo",
-              "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Group stage A. Sabalenka - E. Alexandrova",
-          "info": "15:30 - FIFA Copa Mundial 2026",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "FIFA Copa Mundial 2026 - Fase de grupos A. Sabalenka - E. Alexandrova",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Fase de grupos A. Sabalenka - E. Alexandrova",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Czech Republic - South Africa",
-          "info": "16:00 - Fútbol - FIFA Copa Mundial 2026: Fase de grupos",
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/x3ynsy1775058377.jpg",
-          "stations": [
-            {
-              "name": "DAZN FIFA 1",
-              "url": "acestream://b2bf586e7ddc31352f120c9274c1441dea3f5418",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            },
-            {
-              "name": "Dazn Mundial 1",
-              "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            },
-            {
-              "name": "Dazn Mundial 1",
-              "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            }
-          ]
-        },
-        {
-          "name": "Day 1",
-          "info": "16:00 - Golf - US Open",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fgolf.png",
-          "stations": [
-            {
-              "name": "M+ Golf",
-              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
-              "image": ""
-            },
-            {
-              "name": "M+ Golf",
-              "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
-              "image": ""
-            },
-            {
-              "name": "M+ Golf",
-              "url": "acestream://f60535a458b3c114283e2f433379144345beddd6",
-              "image": ""
-            },
-            {
-              "name": "MOVISTAR GOLF",
-              "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
-              "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
-            }
-          ]
-        },
-        {
-          "name": "Group stage Portugal - D.R. Congo",
-          "info": "17:00 - FIFA Copa Mundial 2026",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2vhFM7h%2Fsoccer-ball-variant.png",
-          "stations": [
-            {
-              "name": "FIFA Copa Mundial 2026 - Fase de grupos Portugal - R.D. Congo",
-              "url": "acestream://b2bf586e7ddc31352f120c9274c1441dea3f5418",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Fase de grupos Portugal - R.D. Congo",
-              "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Fase de grupos Portugal - R.D. Congo",
-              "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Block F - Final",
-          "info": "17:30 - Escalada deportiva - Copa del mundo de escalada - Innsbruck",
-          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
-          "stations": [
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "EUROSPORT 1",
-              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport",
-              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
-            }
-          ]
-        },
-        {
-          "name": "Journey 3",
-          "info": "17:30 - Esgrima - Europeo de esgrima",
-          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
-          "stations": [
-            {
-              "name": "Eurosport 2",
-              "url": "acestream://c6180a86440004748e2abe34d6f31eed8a218a3a",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 2",
-              "url": "acestream://7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "EUROSPORT 2",
-              "url": "acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "EUROSPORT 2",
-              "url": "acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "EUROSPORT 2",
-              "url": "acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "EUROSPORT 2",
-              "url": "acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 2",
-              "url": "acestream://f5908690485ae2facecf3074446ba4315f07a193",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            }
-          ]
-        },
-        {
-          "name": "European Fencing - Day 2",
-          "info": "17:30",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fnsw23YC%2Fcycling.png",
-          "stations": [
-            {
-              "name": "Europeo de esgrima - Día 2",
-              "url": "acestream://c6180a86440004748e2abe34d6f31eed8a218a3a",
-              "image": ""
-            },
-            {
-              "name": "Europeo de esgrima - Día 2",
-              "url": "acestream://7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2",
-              "image": ""
-            },
-            {
-              "name": "Europeo de esgrima - Día 2",
-              "url": "acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd",
-              "image": ""
-            },
-            {
-              "name": "Europeo de esgrima - Día 2",
-              "url": "acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0",
-              "image": ""
-            },
-            {
-              "name": "Europeo de esgrima - Día 2",
-              "url": "acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8",
-              "image": ""
-            },
-            {
-              "name": "Europeo de esgrima - Día 2",
-              "url": "acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Europeo de esgrima - Día 2",
-              "url": "acestream://f5908690485ae2facecf3074446ba4315f07a193",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            }
-          ]
-        },
-        {
-          "name": "Valencia Basket - Barça Basket",
-          "info": "18:00 - Baloncesto - ACB: Final",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fbaloncesto.png",
-          "stations": [
-            {
-              "name": "DAZN Baloncesto",
-              "url": "acestream://6fbd92735502bdebbf1ea58f4298e49759c0cf07",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            },
-            {
-              "name": "DAZN Baloncesto",
-              "url": "acestream://9dd9cd78f0b08097a0ad290606dbbee999709fa5",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            },
-            {
-              "name": "ACB EVENTO 01",
-              "url": "acestream://0995b9b77ac6198dd92141369707fb99da09bdb2",
-              "image": ""
-            },
-            {
-              "name": "MOVISTAR PLUS",
-              "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
-              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
-            },
-            {
-              "name": "MOVISTAR PLUS",
-              "url": "acestream://fa931cbc87dc9d66fdd30a9644e054b403960056",
-              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
-            },
-            {
-              "name": "MOVISTAR +",
-              "url": "acestream://c1b7f54af0de256d1ac0fcac4c130e62660089f4",
-              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
-            }
-          ]
-        },
-        {
-          "name": "Switzerland - Bosnia",
-          "info": "19:00 - Fútbol - FIFA Copa Mundial 2026: Fase de grupos",
-          "image": "https://www.thesportsdb.com/images/media/event/thumb/ifij8n1781600006.jpg",
-          "stations": [
-            {
-              "name": "DAZN FIFA 1",
-              "url": "acestream://b2bf586e7ddc31352f120c9274c1441dea3f5418",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            },
-            {
-              "name": "Dazn Mundial 1",
-              "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            },
-            {
-              "name": "Dazn Mundial 1",
-              "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            },
-            {
-              "name": "La 1",
-              "url": "acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FswhGnw4%2FLa1.jpg"
-            },
-            {
-              "name": "La 1 TVE",
-              "url": "acestream://979d3b873871a5a9a56d3eb481ca77b707e01102",
-              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
-            },
-            {
-              "name": "La 1 TVE",
-              "url": "acestream://379192c3ee5a15570e2c685179bc53cb7133cc6c",
-              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
-            },
-            {
-              "name": "La 1 TVE 4K",
-              "url": "acestream://23c952c5b375715db822f2783803c6e28fab0e34",
-              "image": ""
-            },
-            {
-              "name": "La 1 TVE 4K",
-              "url": "acestream://da38a21a9509be8c03b0fdb539cb1485843330c3",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Barça FS - ElPozo Murcia",
-          "info": "19:00 - Fútbol Sala - 1RFEF Futsal: Playoff Final",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol-sala.png",
+          "name": "Stage 1 - Santa Susanna › Santa Susanna (92.1 km)",
+          "info": "14:30 - Ciclismo - Vuelta a Cataluña Femenina",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
             {
               "name": "Teledeporte",
@@ -1214,9 +516,394 @@
           ]
         },
         {
-          "name": "La Zarzuela Racecourse. 06/18/2026",
-          "info": "19:55 - Hípica - Las Carreras",
+          "name": "Professional Fighters League - Jeddah (Arabia Saudi)",
+          "info": "15:30 - MMA - Velada",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fmma.png",
+          "stations": [
+            {
+              "name": "M+ VAMOS 2",
+              "url": "acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M+ VAMOS 2",
+              "url": "acestream://f51674b1dd1ab5a668fa97a0f13a490632f0d7ca",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M+ Deportes 3",
+              "url": "acestream://f4d9011721fad5098febbe4d7c078a582e176a01",
+              "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 3",
+              "url": "acestream://84aed52c5deb78f58595d88250e7a2bd04dfd810",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes 3",
+              "url": "acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes 3",
+              "url": "acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d",
+              "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES 3",
+              "url": "acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+            }
+          ]
+        },
+        {
+          "name": "Journey 4",
+          "info": "15:40 - Esgrima - Europeo de esgrima",
+          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
+          "stations": [
+            {
+              "name": "Eurosport 2",
+              "url": "acestream://c6180a86440004748e2abe34d6f31eed8a218a3a",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2",
+              "url": "acestream://7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2",
+              "url": "acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2",
+              "url": "acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2",
+              "url": "acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2",
+              "url": "acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2",
+              "url": "acestream://f5908690485ae2facecf3074446ba4315f07a193",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            }
+          ]
+        },
+        {
+          "name": "cross country short track F",
+          "info": "15:45 - Ciclismo - Copa del mundo de bicicleta de montaña - Lenzerheide",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
+          "stations": [
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 1",
+              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport",
+              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
+            }
+          ]
+        },
+        {
+          "name": "Day 2",
+          "info": "16:00 - Golf - US Open",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fgolf.png",
+          "stations": [
+            {
+              "name": "M+ Golf",
+              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
+              "image": ""
+            },
+            {
+              "name": "M+ Golf",
+              "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
+              "image": ""
+            },
+            {
+              "name": "M+ Golf",
+              "url": "acestream://f60535a458b3c114283e2f433379144345beddd6",
+              "image": ""
+            },
+            {
+              "name": "MOVISTAR GOLF",
+              "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
+              "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
+            }
+          ]
+        },
+        {
+          "name": "cross country short track M",
+          "info": "16:45 - Ciclismo - Copa del mundo de bicicleta de montaña - Lenzerheide",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
+          "stations": [
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 1",
+              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport",
+              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
+            }
+          ]
+        },
+        {
+          "name": "Doha (Catar)",
+          "info": "17:00 - Atletismo - IAAF Diamond League",
+          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
+          "stations": [
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
+            },
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "MOVISTAR VAMOS",
+              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
+            }
+          ]
+        },
+        {
+          "name": "Igualada HC - Liceo",
+          "info": "17:00 - Hockey Patines - OK Liga: Final",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fhockey-patines.png",
+          "stations": [
+            {
+              "name": "Esport3",
+              "url": "acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3",
+              "url": "acestream://21bc11d195f5753c396e390c215952d21541d04d",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3",
+              "url": "acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3",
+              "url": "acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Rotterdam (NED)",
+          "info": "17:15 - Hípica - Liga ecuestre de Naciones",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fhipica.png",
+          "stations": [
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 1",
+              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport",
+              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
+            }
+          ]
+        },
+        {
+          "name": "United States - Australia",
+          "info": "19:00 - Fútbol - FIFA Copa Mundial 2026: Fase de grupos",
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/jsz07z1775058339.jpg",
+          "stations": [
+            {
+              "name": "DAZN FIFA 1",
+              "url": "acestream://b2bf586e7ddc31352f120c9274c1441dea3f5418",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "Dazn Mundial 1",
+              "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "Dazn Mundial 1",
+              "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "La 1",
+              "url": "acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FswhGnw4%2FLa1.jpg"
+            },
+            {
+              "name": "La 1 TVE",
+              "url": "acestream://979d3b873871a5a9a56d3eb481ca77b707e01102",
+              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
+            },
+            {
+              "name": "La 1 TVE",
+              "url": "acestream://379192c3ee5a15570e2c685179bc53cb7133cc6c",
+              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
+            },
+            {
+              "name": "La 1 TVE 4K",
+              "url": "acestream://23c952c5b375715db822f2783803c6e28fab0e34",
+              "image": ""
+            },
+            {
+              "name": "La 1 TVE 4K",
+              "url": "acestream://da38a21a9509be8c03b0fdb539cb1485843330c3",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "name": "Sabadell - Zamora",
+          "info": "19:00 - Fútbol - 1RFEF: Final Playoff Ascenso",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
+          "stations": [
+            {
+              "name": "RFEF TV",
+              "url": "acestream://7b742628b9f7e82902bdbc1ff92eba1988875cfc",
+              "image": ""
+            },
+            {
+              "name": "RFEF TV",
+              "url": "acestream://3fbc1b7dc316f19b77e7f7cfc775a0af67adcc7f",
+              "image": ""
+            },
+            {
+              "name": "RFEF TV",
+              "url": "acestream://854ff9c607101791346111cd2366a392c3b8c351",
+              "image": ""
+            },
+            {
+              "name": "RFEF TV",
+              "url": "acestream://177796041773be99b489dd3ce86144f243e7355f",
+              "image": ""
+            },
+            {
+              "name": "Esport3",
+              "url": "acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3",
+              "url": "acestream://21bc11d195f5753c396e390c215952d21541d04d",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3",
+              "url": "acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3",
+              "url": "acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Stade Toulouse - Racing 92",
+          "info": "19:05 - Rugby - Top 14",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Frugby.png",
           "stations": [
             {
               "name": "M+ Deportes 3",
@@ -1246,55 +933,8 @@
           ]
         },
         {
-          "name": "Group stage England - Croatia",
-          "info": "20:00 - FIFA Copa Mundial 2026",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2vhFM7h%2Fsoccer-ball-variant.png",
-          "stations": [
-            {
-              "name": "FIFA Copa Mundial 2026 - Fase de grupos Inglaterra - Croacia",
-              "url": "acestream://b2bf586e7ddc31352f120c9274c1441dea3f5418",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Fase de grupos Inglaterra - Croacia",
-              "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Fase de grupos Inglaterra - Croacia",
-              "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Fase de grupos Inglaterra - Croacia",
-              "url": "acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Fase de grupos Inglaterra - Croacia",
-              "url": "acestream://979d3b873871a5a9a56d3eb481ca77b707e01102",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Fase de grupos Inglaterra - Croacia",
-              "url": "acestream://379192c3ee5a15570e2c685179bc53cb7133cc6c",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Fase de grupos Inglaterra - Croacia",
-              "url": "acestream://23c952c5b375715db822f2783803c6e28fab0e34",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Fase de grupos Inglaterra - Croacia",
-              "url": "acestream://da38a21a9509be8c03b0fdb539cb1485843330c3",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Ghana - Panama",
-          "info": "23:00 - Fútbol - FIFA Copa Mundial 2026: Fase de grupos",
+          "name": "Canada - Qatar",
+          "info": "22:00 - Fútbol - FIFA Copa Mundial 2026: Fase de grupos",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
           "stations": [
             {
@@ -1311,6 +951,53 @@
               "name": "Dazn Mundial 1",
               "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "Day 1",
+          "info": "22:00 - Golf - US Open",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fgolf.png",
+          "stations": [
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
+            },
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "MOVISTAR VAMOS",
+              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
+            },
+            {
+              "name": "M+ Golf",
+              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
+              "image": ""
+            },
+            {
+              "name": "M+ Golf",
+              "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
+              "image": ""
+            },
+            {
+              "name": "M+ Golf",
+              "url": "acestream://f60535a458b3c114283e2f433379144345beddd6",
+              "image": ""
+            },
+            {
+              "name": "MOVISTAR GOLF",
+              "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
+              "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
             }
           ]
         }
@@ -2429,7 +2116,7 @@
             },
             {
               "name": "MOVISTAR COMEDIA",
-              "url": "acestream://28e3a4ee2f3d9876435c534a49e34e1a4ced0f12",
+              "url": "acestream://e8cd9088fee41413df360e4539c9e7184a63ffcb",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Ftv-logo%2Ftv-logos%2Frefs%2Fheads%2Fmain%2Fcountries%2Fspain%2Fcomedia-por-movistar-plus-es.png"
             },
             {
@@ -2449,7 +2136,7 @@
             },
             {
               "name": "ONETORO",
-              "url": "acestream://889db6c87a28fd5b3092333b63bcdddf05d26216",
+              "url": "acestream://536c879d8a914e43141d778b3567fa017c9f5eeb",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fdavidmuma%2Fpicons_dobleM%2Frefs%2Fheads%2Fmaster%2Ficon%2FOnetoro.png"
             },
             {
@@ -2464,7 +2151,7 @@
             },
             {
               "name": "MOVISTAR VAMOS",
-              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
+              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
             }
           ]
@@ -2501,7 +2188,7 @@
               "name": "Tennis Channel",
               "info": "[23ac]",
               "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg",
-              "url": "acestream://1b348443efc7f0cf4cdf349ac35bbe5d41be6220"
+              "url": "acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf"
             }
           ]
         },
@@ -3126,7 +2813,7 @@
           "stations": [
             {
               "name": "BEIN SPORTS 1",
-              "url": "acestream://ac033bf7bf6eb4efa5ca3f8070742093eab47685",
+              "url": "acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fdavidmuma%2Fpicons_dobleM%2Fmaster%2Ficon%2FbeIN%2520SPORTS%25201.png"
             },
             {
@@ -3155,7 +2842,7 @@
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Ftvprofil.com%2Fimg%2Fkanali-logo%2FSky_Sports_Football_GB_logo.png%3F1734015024"
             },
             {
-              "name": "ZIGGO SPORT",
+              "name": "ZIGGO SPORT 2",
               "url": "acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0e%2FZiggo_Sport_logo.svg%2F1200px-Ziggo_Sport_logo.svg.png"
             }
@@ -3194,12 +2881,12 @@
           "stations": [
             {
               "name": "CANAL MOTOR",
-              "url": "acestream://22b250ce7a16dce785b2e1ee6d4e13bdfa7354cc",
+              "url": "acestream://35e17cc84abc5e393b5acd688536a9681105f2d5",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fwww.cxtv.com.br%2Fimg%2FTvs%2FLogo%2Fwebp-l%2F3ee9eef4eb12ec1b3e26049e79a43606.webp"
             },
             {
               "name": "MOTORS TV",
-              "url": "acestream://a6044ffdb11c0349253f35386c23e994c28cf997",
+              "url": "acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fwww.mxgp.com%2Fsites%2Fdefault%2Ffiles%2Fnews%2Fimage%2Flogo%2520Motors%2520TV.jpg"
             },
             {
@@ -3245,28 +2932,18 @@
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FzVNFsy0F%2Flogo-otros.png",
           "stations": [
             {
-              "name": "Auto Motor und Sport Channel",
-              "url": "acestream://a211931dace9e4d8975a036b60836fac753e33de",
-              "image": ""
-            },
-            {
-              "name": "beIN Movies Turk",
-              "url": "acestream://cd243637855e2c5b2ce926f86032dfc430c79ebb",
-              "image": ""
-            },
-            {
               "name": "CALCIO EVENTOS",
               "url": "acestream://1e045b7e16a5c2c3e5a8c0c0176efa26b63d7955",
               "image": ""
             },
             {
-              "name": "CANAL 5 MX FHDp",
-              "url": "acestream://2f632f8996f1dc4ac00fe4e08e4f9ac90ea80fc9",
+              "name": "Canal+ Sport 3 PL",
+              "url": "acestream://b3f2b59e44fe70f45dca643107f88b6fcff80672",
               "image": ""
             },
             {
-              "name": "Canal+ action",
-              "url": "acestream://108b33a44b6ab295f6301d0a2c433a1ef330d5a4",
+              "name": "DAZN Baloncesto FHDp",
+              "url": "acestream://9dd9cd78f0b08097a0ad290606dbbee999709fa5",
               "image": ""
             },
             {
@@ -3280,68 +2957,33 @@
               "image": ""
             },
             {
-              "name": "Dazn Mundial 1",
-              "url": "acestream://aab0be9632ef2f53e99f2e596a8e6a30ed34a29c",
+              "name": "DAZN MotoGP Shickat | shickat.me | shickat.blog | https://ipfs.io/ipns/k51qzi5uqu5dgkcvogpofvprp6i8i2rtr6ej0li3ueqimgxw3803gjoqhar1uw",
+              "url": "acestream://e8135d829180a89ebd55ecf20c99566be5294072",
               "image": ""
             },
             {
-              "name": "Direct Sport 1 FHDp",
-              "url": "acestream://79e6e01eb3db42e3da2428895181c0d32e4abd1f",
+              "name": "Dazn Mundial 1",
+              "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
+              "image": ""
+            },
+            {
+              "name": "Direct Sport 2 FHDp",
+              "url": "acestream://0d780c1fb5fdf2121d9544f1a6892cb1053dd061",
+              "image": ""
+            },
+            {
+              "name": "Direct Sport+ FHDp",
+              "url": "acestream://e24b30556ad82c782bbfa003b384b85ecea8f647",
+              "image": ""
+            },
+            {
+              "name": "Disney Junior FHDp",
+              "url": "acestream://a722bc25dfa16d1112fde83cb79501b9756586d1",
               "image": ""
             },
             {
               "name": "Esport3 SDp",
               "url": "acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3",
-              "image": ""
-            },
-            {
-              "name": "Film+",
-              "url": "acestream://ec7aeef5723f654ee705a192bdcf4eff2fc7c311",
-              "image": ""
-            },
-            {
-              "name": "Fox Sport 4K",
-              "url": "acestream://91826b587ffc2a94dcb104928fca7a33ae6b4ce9",
-              "image": ""
-            },
-            {
-              "name": "M+ CINE ESPAnOL Spain",
-              "url": "acestream://812151e00822387172fb695f526415c45ad8cd1b",
-              "image": ""
-            },
-            {
-              "name": "M+ Documentales Spain",
-              "url": "acestream://fcfe83e9b75169730fedf7375127c0190443972e",
-              "image": ""
-            },
-            {
-              "name": "M+ DRAMA Spain",
-              "url": "acestream://acc20f3739d9eccd0539f0c62519f35b8750a245",
-              "image": ""
-            },
-            {
-              "name": "M+ Hits Spain",
-              "url": "acestream://e10ef7d45baba0ec10a1f237042dc633df947826",
-              "image": ""
-            },
-            {
-              "name": "M+ Indie Spain",
-              "url": "acestream://060f90e77ec1f3478ef81b58569c0158b7851af5",
-              "image": ""
-            },
-            {
-              "name": "M+ Romance Spain",
-              "url": "acestream://3e38995391f980d060508c93ab1783cc4d7c42b6",
-              "image": ""
-            },
-            {
-              "name": "M+ Terror Spain",
-              "url": "acestream://17ad42b190bd0327984ea7efee661564a61bfc5b",
-              "image": ""
-            },
-            {
-              "name": "M+ Wéstern Spain",
-              "url": "acestream://07473038aa16ed164f5989234fafd303eecf67dc",
               "image": ""
             },
             {
@@ -3355,18 +2997,13 @@
               "image": ""
             },
             {
-              "name": "noa4 Hamburg",
-              "url": "acestream://d6914c08d198edcfbac7562e3db75303bd8fde48",
-              "image": ""
-            },
-            {
-              "name": "Orange TV",
-              "url": "acestream://cfb04bd3d4ca8d661eee02ed734ac767d04a00f6",
+              "name": "Movistar+",
+              "url": "acestream://318c12f5f40d7bd9c0ab0c130bf9b96668098279",
               "image": ""
             },
             {
               "name": "Pluto TV Auto Motor Sport",
-              "url": "acestream://93780e4164ed775a9a7cd67c44716de58463fa0a",
+              "url": "acestream://ffa09e597804001f634dd1829f031823411a2595",
               "image": ""
             },
             {
@@ -3382,11 +3019,6 @@
             {
               "name": "Sky Sports LaLiga",
               "url": "acestream://2fab80a8445e31cb98169c0907600e1545ea8557",
-              "image": ""
-            },
-            {
-              "name": "SuperTennis",
-              "url": "acestream://7a57543cb6061648dc44c5d4321bd100bc8a47ca",
               "image": ""
             },
             {

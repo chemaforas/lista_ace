@@ -1,7 +1,7 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "last_update": "2026-06-19T10:47:31Z"
+    "last_update": "2026-06-19T11:18:14Z"
   },
   "eventos": [
     {
@@ -7017,6 +7017,39 @@
           "url": "https://dlhd.pk/stream/stream-409.php",
           "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
           "url_embed": "https://dlhd.pk/watch.php?id=409"
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "nombre": "US Open – Round 1",
+      "categoria": "",
+      "fecha_hora": "2026-06-19T11:30:00",
+      "url_flag": "https://api.ppv.to/assets/thumb/fcfaff510b50af223cbba10c2fb4e9f6-thumbnail.jpg",
+      "detalles": [
+        {
+          "tipo": "acestream",
+          "nombre_canal": "US Open - Jornada 1",
+          "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
+          "imagen_idiom": ""
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "US Open - Jornada 1",
+          "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
+          "imagen_idiom": ""
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "US Open - Jornada 1",
+          "url": "acestream://f60535a458b3c114283e2f433379144345beddd6",
+          "imagen_idiom": ""
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "US Open - Jornada 1",
+          "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
+          "imagen_idiom": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
         }
       ]
     },

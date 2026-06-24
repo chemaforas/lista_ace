@@ -1,14 +1,53 @@
 {
   "name": "ZabuluSports",
-  "author": "Actualizado: 2026-06-24 07:05:47",
+  "author": "Actualizado: 2026-06-24 11:29:20",
   "image": "https://i.postimg.cc/d3Zx14SS/goat.png",
-  "info": "Actualizado automáticamente: 2026-06-24 07:05",
+  "info": "Actualizado automáticamente: 2026-06-24 11:29",
   "groups": [
     {
       "name": "Eventos",
       "image": "https://i.postimg.cc/C1743dSB/live-streaming.png",
       "info": "Eventos del día 24/06/2026",
       "groups": [
+        {
+          "name": "Group stage South Africa - South Korea",
+          "info": "01:00 - FIFA Copa Mundial 2026",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2vhFM7h%2Fsoccer-ball-variant.png",
+          "stations": [
+            {
+              "name": "FIFA Copa Mundial 2026 - Fase de grupos Sudáfrica - Corea del Sur",
+              "url": "acestream://1b6ff4ead1ce4ae797dcb889dbd1fd5f5536128a",
+              "image": ""
+            },
+            {
+              "name": "FIFA Copa Mundial 2026 - Fase de grupos Sudáfrica - Corea del Sur",
+              "url": "acestream://63b1933154919d116f08e33ffcb31a23f9483989",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "name": "Group stage Czech Republic - Mexico",
+          "info": "01:00 - FIFA Copa Mundial 2026",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2vhFM7h%2Fsoccer-ball-variant.png",
+          "stations": [
+            {
+              "name": "FIFA Copa Mundial 2026 - Fase de grupos República Checa - México",
+              "url": "acestream://b2bf586e7ddc31352f120c9274c1441dea3f5418",
+              "image": ""
+            },
+            {
+              "name": "FIFA Copa Mundial 2026 - Fase de grupos República Checa - México",
+              "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
+              "image": ""
+            },
+            {
+              "name": "FIFA Copa Mundial 2026 - Fase de grupos República Checa - México",
+              "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
+              "image": ""
+            }
+          ]
+        },
         {
           "name": "Colombia - R.D. Congo",
           "info": "02:00 - Fútbol - FIFA Copa Mundial 2026: Fase de grupos",
@@ -96,6 +135,74 @@
               "name": "Tennis Channel",
               "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
               "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "2nd Ronda E. Alexandrova - M. Andreeva",
+          "info": "09:00 - WTA Torneo de Bad Homburg",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
+          "stations": [
+            {
+              "name": "WTA Torneo de Bad Homburg - 2ª Ronda E. Alexandrova - M. Andreeva",
+              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
+              "image": ""
+            },
+            {
+              "name": "WTA Torneo de Bad Homburg - 2ª Ronda E. Alexandrova - M. Andreeva",
+              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "name": "2a Ronda Q. Zheng - C. Tauson",
+          "info": "10:30 - WTA Torneo de Bad Homburg",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
+          "stations": [
+            {
+              "name": "WTA Torneo de Bad Homburg - 2ª Ronda Q. Zheng - C. Tauson",
+              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
+              "image": ""
+            },
+            {
+              "name": "WTA Torneo de Bad Homburg - 2ª Ronda Q. Zheng - C. Tauson",
+              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "name": "2nd Ronda I. Swiatek - E. Navarro",
+          "info": "13:30 - WTA Torneo de Bad Homburg",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
+          "stations": [
+            {
+              "name": "WTA Torneo de Bad Homburg - 2ª Ronda I. Swiatek - E. Navarro",
+              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
+              "image": ""
+            },
+            {
+              "name": "WTA Torneo de Bad Homburg - 2ª Ronda I. Swiatek - E. Navarro",
+              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "name": "2a Ronda K. Muchova - I. Begu",
+          "info": "15:00 - WTA Torneo de Bad Homburg",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
+          "stations": [
+            {
+              "name": "WTA Torneo de Bad Homburg - 2ª Ronda K. Muchova - I. Begu",
+              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
+              "image": ""
+            },
+            {
+              "name": "WTA Torneo de Bad Homburg - 2ª Ronda K. Muchova - I. Begu",
+              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
+              "image": ""
             }
           ]
         },
@@ -192,6 +299,70 @@
               "name": "Dazn Mundial 1",
               "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "Group stage Morocco - Haiti",
+          "info": "22:00 - FIFA Copa Mundial 2026",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2vhFM7h%2Fsoccer-ball-variant.png",
+          "stations": [
+            {
+              "name": "FIFA Copa Mundial 2026 - Fase de grupos Marruecos - Haití",
+              "url": "acestream://1b6ff4ead1ce4ae797dcb889dbd1fd5f5536128a",
+              "image": ""
+            },
+            {
+              "name": "FIFA Copa Mundial 2026 - Fase de grupos Marruecos - Haití",
+              "url": "acestream://63b1933154919d116f08e33ffcb31a23f9483989",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "name": "Group stage Scotland - Brazil",
+          "info": "22:00 - FIFA Copa Mundial 2026",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2vhFM7h%2Fsoccer-ball-variant.png",
+          "stations": [
+            {
+              "name": "FIFA Copa Mundial 2026 - Fase de grupos Escocia - Brasil",
+              "url": "acestream://b2bf586e7ddc31352f120c9274c1441dea3f5418",
+              "image": ""
+            },
+            {
+              "name": "FIFA Copa Mundial 2026 - Fase de grupos Escocia - Brasil",
+              "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
+              "image": ""
+            },
+            {
+              "name": "FIFA Copa Mundial 2026 - Fase de grupos Escocia - Brasil",
+              "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
+              "image": ""
+            },
+            {
+              "name": "FIFA Copa Mundial 2026 - Fase de grupos Escocia - Brasil",
+              "url": "acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e",
+              "image": ""
+            },
+            {
+              "name": "FIFA Copa Mundial 2026 - Fase de grupos Escocia - Brasil",
+              "url": "acestream://979d3b873871a5a9a56d3eb481ca77b707e01102",
+              "image": ""
+            },
+            {
+              "name": "FIFA Copa Mundial 2026 - Fase de grupos Escocia - Brasil",
+              "url": "acestream://379192c3ee5a15570e2c685179bc53cb7133cc6c",
+              "image": ""
+            },
+            {
+              "name": "FIFA Copa Mundial 2026 - Fase de grupos Escocia - Brasil",
+              "url": "acestream://23c952c5b375715db822f2783803c6e28fab0e34",
+              "image": ""
+            },
+            {
+              "name": "FIFA Copa Mundial 2026 - Fase de grupos Escocia - Brasil",
+              "url": "acestream://da38a21a9509be8c03b0fdb539cb1485843330c3",
+              "image": ""
             }
           ]
         },

@@ -1,7 +1,7 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "last_update": "2026-07-04T12:34:03Z"
+    "last_update": "2026-07-04T13:06:46Z"
   },
   "eventos": [
     {
@@ -118,10 +118,24 @@
         },
         {
           "tipo": "dlhd",
-          "nombre_canal": "FOXNY USA",
-          "url": "https://dlhd.pk/stream/stream-768.php",
+          "nombre_canal": "Backup Stream (Fox 4K)",
+          "url": "https://dlhd.pk/stream/stream-5061.php",
           "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=768"
+          "url_embed": "https://dlhd.pk/watch.php?id=5061"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (Fox USA)",
+          "url": "https://dlhd.pk/stream/stream-5060.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5060"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "FOX USA",
+          "url": "https://dlhd.pk/stream/stream-54.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/xr224l1603050047.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=54"
         },
         {
           "tipo": "dlhd",
@@ -150,6 +164,34 @@
           "url": "https://dlhd.pk/stream/stream-768.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=768"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "FOXNY USA",
+          "url": "https://dlhd.pk/stream/stream-768.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=768"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "FOXNY USA",
+          "url": "https://dlhd.pk/stream/stream-768.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=768"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "DSports 1 Argentina",
+          "url": "https://dlhd.pk/stream/stream-619.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=619"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TyC Sports Argentina",
+          "url": "https://dlhd.pk/stream/stream-746.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=746"
         },
         {
           "tipo": "dlhd",
@@ -3628,6 +3670,678 @@
           "url": "https://dlhd.pk/stream/stream-4003.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=4003"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "RTE 2 Ireland",
+          "url": "https://dlhd.pk/stream/stream-365.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=365"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "M6 France",
+          "url": "https://dlhd.pk/stream/stream-470.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=470"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports 1 France",
+          "url": "https://dlhd.pk/stream/stream-116.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_HD_1_France.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=116"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TSN1",
+          "url": "https://dlhd.pk/stream/stream-111.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=111"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TSN3",
+          "url": "https://dlhd.pk/stream/stream-113.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=113"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TSN4",
+          "url": "https://dlhd.pk/stream/stream-114.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=114"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "RDS CA",
+          "url": "https://dlhd.pk/stream/stream-839.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=839"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TVE La 1 Spain",
+          "url": "https://dlhd.pk/stream/stream-533.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=533"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "DAZN Mundial Spain",
+          "url": "https://dlhd.pk/stream/stream-918.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=918"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TRT 1 Turkey",
+          "url": "https://dlhd.pk/stream/stream-1012.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=1012"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "SRF zwei",
+          "url": "https://dlhd.pk/stream/stream-258.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/sxsrpp1450284576.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=258"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Das Erste DE",
+          "url": "https://dlhd.pk/stream/stream-739.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/a18sop1623522951.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=739"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "CTV Canada",
+          "url": "https://dlhd.pk/stream/stream-602.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/3z450i1665918661.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=602"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Servus TV Austria",
+          "url": "https://dlhd.pk/stream/stream-24.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=24"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ORF 1 Austria",
+          "url": "https://dlhd.pk/stream/stream-242.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=242"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Chilevision",
+          "url": "https://dlhd.pk/stream/stream-25.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=25"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport TV5 Portugal",
+          "url": "https://dlhd.pk/stream/stream-290.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=290"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TVP Sport Poland",
+          "url": "https://dlhd.pk/stream/stream-128.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=128"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TVP1 Poland",
+          "url": "https://dlhd.pk/stream/stream-560.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=560"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "RAI 1 IT",
+          "url": "https://dlhd.pk/stream/stream-850.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/qryuus1482034478.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=850"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Telemundo",
+          "url": "https://dlhd.pk/stream/stream-131.php",
+          "imagen_idiom": "https://i.postimg.cc/VkSJ40XJ/TELEMUNDO.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=131"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "RSI La 2 IT",
+          "url": "https://dlhd.pk/stream/stream-262.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/u133xd1774012843.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=262"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "M4 Sports Hungary",
+          "url": "https://dlhd.pk/stream/stream-265.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=265"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Arena Sport 1 Slovenia",
+          "url": "https://dlhd.pk/stream/stream-240.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=240"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Fussball.TV",
+          "url": "https://dlhd.pk/stream/stream-263.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=263"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Antena 1 Romania",
+          "url": "https://dlhd.pk/stream/stream-253.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=253"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Tipik Belgium",
+          "url": "https://dlhd.pk/stream/stream-244.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=244"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Fast Sports Armenia",
+          "url": "https://dlhd.pk/stream/stream-939.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=939"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "SBS Australia",
+          "url": "https://dlhd.pk/stream/stream-241.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=241"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Ictimai TV Azerbaijan",
+          "url": "https://dlhd.pk/stream/stream-243.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=243"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "T Sports Bangladesh",
+          "url": "https://dlhd.pk/stream/stream-270.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=270"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Match Premier Russia",
+          "url": "https://dlhd.pk/stream/stream-573.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=573"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Match TV Russia",
+          "url": "https://dlhd.pk/stream/stream-127.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=127"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Match! Football 1 Russia",
+          "url": "https://dlhd.pk/stream/stream-136.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=136"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Arena Sport 1 Bosnia",
+          "url": "https://dlhd.pk/stream/stream-579.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=579"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV 2 Direkte Norway",
+          "url": "https://dlhd.pk/stream/stream-204.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=204"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV Klan Albania",
+          "url": "https://dlhd.pk/stream/stream-237.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=237"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "PTV Sports Pakistan",
+          "url": "https://dlhd.pk/stream/stream-450.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=450"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "NPO 1 NL",
+          "url": "https://dlhd.pk/stream/stream-251.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=251"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "RTVS Sport Slovakia",
+          "url": "https://dlhd.pk/stream/stream-255.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=255"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "RTS 1 Serbia",
+          "url": "https://dlhd.pk/stream/stream-254.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=254"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Arena 1 Premium Serbia",
+          "url": "https://dlhd.pk/stream/stream-134.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=134"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "VIX Premium MX",
+          "url": "https://dlhd.pk/stream/stream-5.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Qazsport",
+          "url": "https://dlhd.pk/stream/stream-1.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=1"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ERT 2 Greece",
+          "url": "https://dlhd.pk/stream/stream-249.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=249"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "svt1 Sweden",
+          "url": "https://dlhd.pk/stream/stream-2.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=2"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "SuperSport PSL",
+          "url": "https://dlhd.pk/stream/stream-413.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/s6b35j1629404341.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=413"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Supersport Grandstand",
+          "url": "https://dlhd.pk/stream/stream-412.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/aitip41642604897.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=412"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "DR 1 Denmark",
+          "url": "https://dlhd.pk/stream/stream-801.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=801"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "HRT 2 Croatia",
+          "url": "https://dlhd.pk/stream/stream-247.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=247"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "BNT 1 Bulgaria",
+          "url": "https://dlhd.pk/stream/stream-476.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=476"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "BNT 3 Bulgaria",
+          "url": "https://dlhd.pk/stream/stream-478.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=478"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports MAX 2 Arabia",
+          "url": "https://dlhd.pk/stream/stream-967.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=967"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport 1 Israel",
+          "url": "https://dlhd.pk/stream/stream-140.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=140"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-5031.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5031"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-5032.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5032"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (ENG)",
+          "url": "https://dlhd.pk/stream/stream-5001.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5001"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (4K)",
+          "url": "https://dlhd.pk/stream/stream-5002.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5002"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (ENG)",
+          "url": "https://dlhd.pk/stream/stream-5003.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5003"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (ENG)",
+          "url": "https://dlhd.pk/stream/stream-5004.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5004"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (TSN 4K)",
+          "url": "https://dlhd.pk/stream/stream-5005.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5005"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (Bein AR)",
+          "url": "https://dlhd.pk/stream/stream-5006.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5006"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (ESP)",
+          "url": "https://dlhd.pk/stream/stream-5007.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5007"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (Telemundo)",
+          "url": "https://dlhd.pk/stream/stream-5062.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5062"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (TSN1)",
+          "url": "https://dlhd.pk/stream/stream-5063.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5063"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "(Bein Max Arabic)",
+          "url": "https://dlhd.pk/stream/stream-5064.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5064"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (FusballTV1)",
+          "url": "https://dlhd.pk/stream/stream-5065.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5065"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-2001.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=2001"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TSN1",
+          "url": "https://dlhd.pk/stream/stream-3031.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3031"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MagentaTV",
+          "url": "https://dlhd.pk/stream/stream-3011.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3011"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "DAZN Mundial ES",
+          "url": "https://dlhd.pk/stream/stream-4000.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4000"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "M6 France",
+          "url": "https://dlhd.pk/stream/stream-3056.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3056"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ITV",
+          "url": "https://dlhd.pk/stream/stream-3001.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/fy3hvo1678355466.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3001"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "HRT 2 Crotia",
+          "url": "https://dlhd.pk/stream/stream-3070.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3070"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "NPO 1 NL",
+          "url": "https://dlhd.pk/stream/stream-3088.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3088"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TVP Sport Poland",
+          "url": "https://dlhd.pk/stream/stream-3060.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3060"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport TV1 Portugal",
+          "url": "https://dlhd.pk/stream/stream-3021.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3021"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3074.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3074"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4001.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4001"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4002.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4002"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4003.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4003"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4001.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4001"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4002.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4002"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4003.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4003"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-5020.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5020"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (4K Quality)",
+          "url": "https://dlhd.pk/stream/stream-5021.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5021"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (ITV UK)",
+          "url": "https://dlhd.pk/stream/stream-5022.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5022"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (TSN)",
+          "url": "https://dlhd.pk/stream/stream-5023.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5023"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (TSN 4K)",
+          "url": "https://dlhd.pk/stream/stream-5024.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5024"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (Bein Max AR)",
+          "url": "https://dlhd.pk/stream/stream-5025.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5025"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (Bein Max 4K)",
+          "url": "https://dlhd.pk/stream/stream-5026.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5026"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-5027.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5027"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (Fussbaltv 4K)",
+          "url": "https://dlhd.pk/stream/stream-5028.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5028"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4001.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4001"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4002.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4002"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4003.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4003"
         }
       ]
     },
@@ -3745,10 +4459,24 @@
         },
         {
           "tipo": "dlhd",
-          "nombre_canal": "FOXNY USA",
-          "url": "https://dlhd.pk/stream/stream-768.php",
+          "nombre_canal": "Backup Stream (Fox 4K)",
+          "url": "https://dlhd.pk/stream/stream-5061.php",
           "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=768"
+          "url_embed": "https://dlhd.pk/watch.php?id=5061"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (Fox USA)",
+          "url": "https://dlhd.pk/stream/stream-5060.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5060"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "FOX USA",
+          "url": "https://dlhd.pk/stream/stream-54.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/xr224l1603050047.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=54"
         },
         {
           "tipo": "dlhd",
@@ -3777,6 +4505,27 @@
           "url": "https://dlhd.pk/stream/stream-768.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=768"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "FOXNY USA",
+          "url": "https://dlhd.pk/stream/stream-768.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=768"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "FOXNY USA",
+          "url": "https://dlhd.pk/stream/stream-768.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=768"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "DSports 1 Argentina",
+          "url": "https://dlhd.pk/stream/stream-619.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=619"
         },
         {
           "tipo": "dlhd",
@@ -3830,6 +4579,678 @@
           "nombre_canal": "Dazn Mundial 1",
           "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
           "imagen_idiom": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "RTE 2 Ireland",
+          "url": "https://dlhd.pk/stream/stream-365.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=365"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TSN1",
+          "url": "https://dlhd.pk/stream/stream-111.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=111"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TSN3",
+          "url": "https://dlhd.pk/stream/stream-113.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=113"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TSN4",
+          "url": "https://dlhd.pk/stream/stream-114.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=114"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "RDS CA",
+          "url": "https://dlhd.pk/stream/stream-839.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=839"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TRT 1 Turkey",
+          "url": "https://dlhd.pk/stream/stream-1012.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=1012"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "CTV Canada",
+          "url": "https://dlhd.pk/stream/stream-602.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/3z450i1665918661.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=602"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Servus TV Austria",
+          "url": "https://dlhd.pk/stream/stream-24.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=24"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Das Erste DE",
+          "url": "https://dlhd.pk/stream/stream-739.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/a18sop1623522951.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=739"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "SRF zwei",
+          "url": "https://dlhd.pk/stream/stream-258.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/sxsrpp1450284576.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=258"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "DAZN Mundial Spain",
+          "url": "https://dlhd.pk/stream/stream-918.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=918"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport TV5 Portugal",
+          "url": "https://dlhd.pk/stream/stream-290.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=290"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TVP Sport Poland",
+          "url": "https://dlhd.pk/stream/stream-128.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=128"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TVP1 Poland",
+          "url": "https://dlhd.pk/stream/stream-560.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=560"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ORF 1 Austria",
+          "url": "https://dlhd.pk/stream/stream-242.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=242"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "RSI La 2 IT",
+          "url": "https://dlhd.pk/stream/stream-262.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/u133xd1774012843.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=262"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Arryadia",
+          "url": "https://dlhd.pk/stream/stream-9.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=9"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "M6 France",
+          "url": "https://dlhd.pk/stream/stream-470.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=470"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports 1 France",
+          "url": "https://dlhd.pk/stream/stream-116.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_HD_1_France.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=116"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Telemundo",
+          "url": "https://dlhd.pk/stream/stream-131.php",
+          "imagen_idiom": "https://i.postimg.cc/VkSJ40XJ/TELEMUNDO.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=131"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Match Premier Russia",
+          "url": "https://dlhd.pk/stream/stream-573.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=573"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Match TV Russia",
+          "url": "https://dlhd.pk/stream/stream-127.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=127"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Match! Football 1 Russia",
+          "url": "https://dlhd.pk/stream/stream-136.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=136"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Antena 1 Romania",
+          "url": "https://dlhd.pk/stream/stream-253.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=253"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Arena Sport 1 Slovenia",
+          "url": "https://dlhd.pk/stream/stream-240.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=240"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "M4 Sports Hungary",
+          "url": "https://dlhd.pk/stream/stream-265.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=265"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "NRK1 Norway",
+          "url": "https://dlhd.pk/stream/stream-203.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=203"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "SBS Australia",
+          "url": "https://dlhd.pk/stream/stream-241.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=241"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Fussball.TV",
+          "url": "https://dlhd.pk/stream/stream-263.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=263"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Fast Sports Armenia",
+          "url": "https://dlhd.pk/stream/stream-939.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=939"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "PTV Sports Pakistan",
+          "url": "https://dlhd.pk/stream/stream-450.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=450"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Ictimai TV Azerbaijan",
+          "url": "https://dlhd.pk/stream/stream-243.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=243"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Arena Sport 1 Bosnia",
+          "url": "https://dlhd.pk/stream/stream-579.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=579"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Tipik Belgium",
+          "url": "https://dlhd.pk/stream/stream-244.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=244"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "T Sports Bangladesh",
+          "url": "https://dlhd.pk/stream/stream-270.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=270"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "VIX Premium MX",
+          "url": "https://dlhd.pk/stream/stream-5.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV Klan Albania",
+          "url": "https://dlhd.pk/stream/stream-237.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=237"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ČT Sport CZ",
+          "url": "https://dlhd.pk/stream/stream-1033.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/emke3z1616616067.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=1033"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "NPO 1 NL",
+          "url": "https://dlhd.pk/stream/stream-251.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=251"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ETV 2 Estonia",
+          "url": "https://dlhd.pk/stream/stream-4.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "RTVS Sport Slovakia",
+          "url": "https://dlhd.pk/stream/stream-255.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=255"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Qazsport",
+          "url": "https://dlhd.pk/stream/stream-1.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=1"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "RTS 1 Serbia",
+          "url": "https://dlhd.pk/stream/stream-254.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=254"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Arena 1 Premium Serbia",
+          "url": "https://dlhd.pk/stream/stream-134.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=134"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ERT 2 Greece",
+          "url": "https://dlhd.pk/stream/stream-249.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=249"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "HRT 2 Croatia",
+          "url": "https://dlhd.pk/stream/stream-247.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=247"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV2 Sport X Denmark",
+          "url": "https://dlhd.pk/stream/stream-808.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=808"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sweden",
+          "url": "https://dlhd.pk/stream/stream-257.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=257"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "BNT 1 Bulgaria",
+          "url": "https://dlhd.pk/stream/stream-476.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=476"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "BNT 3 Bulgaria",
+          "url": "https://dlhd.pk/stream/stream-478.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=478"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports MAX 1 Arabia",
+          "url": "https://dlhd.pk/stream/stream-966.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=966"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "SuperSport PSL",
+          "url": "https://dlhd.pk/stream/stream-413.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/s6b35j1629404341.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=413"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport 1 Israel",
+          "url": "https://dlhd.pk/stream/stream-140.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=140"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-5031.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5031"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-5032.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5032"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (ENG)",
+          "url": "https://dlhd.pk/stream/stream-5001.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5001"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (4K)",
+          "url": "https://dlhd.pk/stream/stream-5002.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5002"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (ENG)",
+          "url": "https://dlhd.pk/stream/stream-5003.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5003"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (ENG)",
+          "url": "https://dlhd.pk/stream/stream-5004.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5004"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (TSN 4K)",
+          "url": "https://dlhd.pk/stream/stream-5005.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5005"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (Bein AR)",
+          "url": "https://dlhd.pk/stream/stream-5006.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5006"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (ESP)",
+          "url": "https://dlhd.pk/stream/stream-5007.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5007"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (Telemundo)",
+          "url": "https://dlhd.pk/stream/stream-5062.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5062"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (TSN1)",
+          "url": "https://dlhd.pk/stream/stream-5063.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5063"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "(Bein Max Arabic)",
+          "url": "https://dlhd.pk/stream/stream-5064.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5064"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (FusballTV1)",
+          "url": "https://dlhd.pk/stream/stream-5065.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5065"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-2001.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=2001"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TSN1",
+          "url": "https://dlhd.pk/stream/stream-3031.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3031"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MagentaTV",
+          "url": "https://dlhd.pk/stream/stream-3011.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3011"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "DAZN Mundial ES",
+          "url": "https://dlhd.pk/stream/stream-4000.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4000"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "M6 France",
+          "url": "https://dlhd.pk/stream/stream-3056.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3056"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ITV",
+          "url": "https://dlhd.pk/stream/stream-3001.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/fy3hvo1678355466.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3001"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "HRT 2 Crotia",
+          "url": "https://dlhd.pk/stream/stream-3070.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3070"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "NPO 1 NL",
+          "url": "https://dlhd.pk/stream/stream-3088.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3088"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TVP Sport Poland",
+          "url": "https://dlhd.pk/stream/stream-3060.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3060"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport TV1 Portugal",
+          "url": "https://dlhd.pk/stream/stream-3021.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3021"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3074.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3074"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4001.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4001"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4002.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4002"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4003.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4003"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4001.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4001"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4002.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4002"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4003.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4003"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-5020.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5020"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (4K Quality)",
+          "url": "https://dlhd.pk/stream/stream-5021.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5021"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (ITV UK)",
+          "url": "https://dlhd.pk/stream/stream-5022.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5022"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (TSN)",
+          "url": "https://dlhd.pk/stream/stream-5023.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5023"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (TSN 4K)",
+          "url": "https://dlhd.pk/stream/stream-5024.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5024"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (Bein Max AR)",
+          "url": "https://dlhd.pk/stream/stream-5025.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5025"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (Bein Max 4K)",
+          "url": "https://dlhd.pk/stream/stream-5026.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5026"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-5027.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5027"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream (Fussbaltv 4K)",
+          "url": "https://dlhd.pk/stream/stream-5028.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5028"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4001.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4001"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4002.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4002"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4003.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4003"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-6014.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=6014"
         },
         {
           "tipo": "dlhd",
@@ -7258,6 +8679,216 @@
         },
         {
           "tipo": "dlhd",
+          "nombre_canal": "Fox Sports 1 MX",
+          "url": "https://dlhd.pk/stream/stream-929.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=929"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN Deportes",
+          "url": "https://dlhd.pk/stream/stream-375.php",
+          "imagen_idiom": "https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=375"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports F1 UK",
+          "url": "https://dlhd.pk/stream/stream-60.php",
+          "imagen_idiom": "https://i.postimg.cc/Hx1945X3/Sky-Sport-F1.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=60"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Channel 4 UK",
+          "url": "https://dlhd.pk/stream/stream-354.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=354"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TSN5",
+          "url": "https://dlhd.pk/stream/stream-115.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=115"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "RDS 2 CA",
+          "url": "https://dlhd.pk/stream/stream-840.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=840"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "France 4",
+          "url": "https://dlhd.pk/stream/stream-952.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=952"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sport F1 DE",
+          "url": "https://dlhd.pk/stream/stream-274.php",
+          "imagen_idiom": "https://i.postimg.cc/Hx1945X3/Sky-Sport-F1.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=274"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "DAZN F1 ES",
+          "url": "https://dlhd.pk/stream/stream-537.php",
+          "imagen_idiom": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=537"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Canal+ Sport France",
+          "url": "https://dlhd.pk/stream/stream-122.php",
+          "imagen_idiom": "https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=122"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports Main Event",
+          "url": "https://dlhd.pk/stream/stream-38.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ub8szd1780683863.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=38"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Canal+ Formula",
+          "url": "https://dlhd.pk/stream/stream-273.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=273"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "SRF zwei",
+          "url": "https://dlhd.pk/stream/stream-258.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/sxsrpp1450284576.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=258"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports 1 Malaysia",
+          "url": "https://dlhd.pk/stream/stream-712.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=712"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Eleven Sports 1 Poland",
+          "url": "https://dlhd.pk/stream/stream-71.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=71"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sport 2 NZ",
+          "url": "https://dlhd.pk/stream/stream-589.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/c1zmrr1642606833.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=589"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports F1 Italy",
+          "url": "https://dlhd.pk/stream/stream-577.php",
+          "imagen_idiom": "https://i.postimg.cc/Hx1945X3/Sky-Sport-F1.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=577"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ANT+ F1 Greece",
+          "url": "https://dlhd.pk/stream/stream-774.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=774"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Arena Adrenalin",
+          "url": "https://dlhd.pk/stream/stream-260.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=260"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportv3 Brazil",
+          "url": "https://dlhd.pk/stream/stream-80.php",
+          "imagen_idiom": "https://i.postimg.cc/NFfc0Df7/Logo-Sport-TV.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=80"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport Klub 1 Croatia",
+          "url": "https://dlhd.pk/stream/stream-101.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=101"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "M4 Sports Hungary",
+          "url": "https://dlhd.pk/stream/stream-265.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=265"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "V Sport Motor Sweden",
+          "url": "https://dlhd.pk/stream/stream-272.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=272"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV3 Sport Denmark",
+          "url": "https://dlhd.pk/stream/stream-809.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=809"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "5 Live Israel",
+          "url": "https://dlhd.pk/stream/stream-146.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=146"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sport F1 DE",
+          "url": "https://dlhd.pk/stream/stream-3013.php",
+          "imagen_idiom": "https://i.postimg.cc/Hx1945X3/Sky-Sport-F1.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3013"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Canal+ Sport France",
+          "url": "https://dlhd.pk/stream/stream-3055.php",
+          "imagen_idiom": "https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3055"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports F1 UK",
+          "url": "https://dlhd.pk/stream/stream-3007.php",
+          "imagen_idiom": "https://i.postimg.cc/Hx1945X3/Sky-Sport-F1.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3007"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "V Sport Motor Sweden",
+          "url": "https://dlhd.pk/stream/stream-3078.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3078"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-2013.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=2013"
+        },
+        {
+          "tipo": "dlhd",
           "nombre_canal": "Sky Sports F1 UK",
           "url": "https://dlhd.pk/stream/stream-60.php",
           "imagen_idiom": "https://i.postimg.cc/Hx1945X3/Sky-Sport-F1.png",
@@ -8632,6 +10263,118 @@
           "url": "https://dlhd.pk/stream/stream-3021.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=3021"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ITV 4 UK",
+          "url": "https://dlhd.pk/stream/stream-353.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/fy3hvo1678355466.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=353"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TF1 France",
+          "url": "https://dlhd.pk/stream/stream-469.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=469"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sport Max IT",
+          "url": "https://dlhd.pk/stream/stream-460.php",
+          "imagen_idiom": "https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg",
+          "url_embed": "https://dlhd.pk/watch.php?id=460"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sport 1 NZ",
+          "url": "https://dlhd.pk/stream/stream-588.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/c1zmrr1642606833.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=588"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport TV1 Portugal",
+          "url": "https://dlhd.pk/stream/stream-49.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=49"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "M+ Vamos Spain",
+          "url": "https://dlhd.pk/stream/stream-521.php",
+          "imagen_idiom": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=521"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Ziggo Sport 1 NL",
+          "url": "https://dlhd.pk/stream/stream-393.php",
+          "imagen_idiom": "https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg",
+          "url_embed": "https://dlhd.pk/watch.php?id=393"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Ziggo Sport 2 NL",
+          "url": "https://dlhd.pk/stream/stream-398.php",
+          "imagen_idiom": "https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg",
+          "url_embed": "https://dlhd.pk/watch.php?id=398"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "SuperSport Rugby",
+          "url": "https://dlhd.pk/stream/stream-421.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/scvqpc1642604954.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=421"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "SuperSport Grandstand",
+          "url": "https://dlhd.pk/stream/stream-412.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/aitip41642604897.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=412"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "M+ Vamos Spain",
+          "url": "https://dlhd.pk/stream/stream-3028.php",
+          "imagen_idiom": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3028"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TF1 France",
+          "url": "https://dlhd.pk/stream/stream-3050.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3050"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ITV 4 UK",
+          "url": "https://dlhd.pk/stream/stream-3004.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/fy3hvo1678355466.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3004"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sport Arena IT",
+          "url": "https://dlhd.pk/stream/stream-3047.php",
+          "imagen_idiom": "https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005",
+          "url_embed": "https://dlhd.pk/watch.php?id=3047"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sport 1 NZ",
+          "url": "https://dlhd.pk/stream/stream-3002.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/c1zmrr1642606833.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3002"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport TV1 Portugal",
+          "url": "https://dlhd.pk/stream/stream-3021.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3021"
         }
       ]
     },
@@ -8642,6 +10385,13 @@
       "fecha_hora": "2026-07-04T11:30:00",
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/iyhsps1758903341.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN4 Brazil",
+          "url": "https://dlhd.pk/stream/stream-85.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/n9lgac1660762960.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=85"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "ESPN4 Brazil",
@@ -8923,6 +10673,62 @@
           "url": "https://dlhd.pk/stream/stream-3014.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=3014"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Viaplay Sports 2 UK",
+          "url": "https://dlhd.pk/stream/stream-550.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/pjvmn31639053504.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=550"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "DAZN 1 Spain",
+          "url": "https://dlhd.pk/stream/stream-445.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ti96m01657045591.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=445"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports 3 Malaysia",
+          "url": "https://dlhd.pk/stream/stream-714.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=714"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Cosmote Sport 7 HD",
+          "url": "https://dlhd.pk/stream/stream-628.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=628"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "SuperSport Action",
+          "url": "https://dlhd.pk/stream/stream-420.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=420"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport Klub 3 Croatia",
+          "url": "https://dlhd.pk/stream/stream-103.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=103"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "5 Live Israel",
+          "url": "https://dlhd.pk/stream/stream-146.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=146"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Pro Sieben DE",
+          "url": "https://dlhd.pk/stream/stream-3014.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3014"
         }
       ]
     },
@@ -9002,6 +10808,48 @@
           "url": "https://dlhd.pk/stream/stream-756.php",
           "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/FOX_Soccer_Plus.png",
           "url_embed": "https://dlhd.pk/watch.php?id=756"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Fox Soccer Plus",
+          "url": "https://dlhd.pk/stream/stream-3083.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/FOX_Soccer_Plus.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3083"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Fox Soccer Plus",
+          "url": "https://dlhd.pk/stream/stream-756.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/FOX_Soccer_Plus.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=756"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports Action UK",
+          "url": "https://dlhd.pk/stream/stream-37.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/h64zau1780683949.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=37"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports Main Event",
+          "url": "https://dlhd.pk/stream/stream-38.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ub8szd1780683863.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=38"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportsnet World",
+          "url": "https://dlhd.pk/stream/stream-410.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=410"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportsnet World",
+          "url": "https://dlhd.pk/stream/stream-3035.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3035"
         },
         {
           "tipo": "dlhd",
@@ -9224,6 +11072,41 @@
         },
         {
           "tipo": "dlhd",
+          "nombre_canal": "FOX Sports 2 USA",
+          "url": "https://dlhd.pk/stream/stream-3082.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_2_US.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3082"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "FOX Sports 2 USA",
+          "url": "https://dlhd.pk/stream/stream-758.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_2_US.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=758"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sport 2 NZ",
+          "url": "https://dlhd.pk/stream/stream-589.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/c1zmrr1642606833.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=589"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports 4 Max France",
+          "url": "https://dlhd.pk/stream/stream-494.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_4.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=494"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-2015.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=2015"
+        },
+        {
+          "tipo": "dlhd",
           "nombre_canal": "Sky Sport 2 NZ",
           "url": "https://dlhd.pk/stream/stream-589.php",
           "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/c1zmrr1642606833.png",
@@ -9405,6 +11288,41 @@
           "url": "https://dlhd.pk/stream/stream-756.php",
           "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/FOX_Soccer_Plus.png",
           "url_embed": "https://dlhd.pk/watch.php?id=756"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Fox Soccer Plus",
+          "url": "https://dlhd.pk/stream/stream-3083.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/FOX_Soccer_Plus.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3083"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Fox Soccer Plus",
+          "url": "https://dlhd.pk/stream/stream-756.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/FOX_Soccer_Plus.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=756"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports Action UK",
+          "url": "https://dlhd.pk/stream/stream-37.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/h64zau1780683949.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=37"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports+ UK",
+          "url": "https://dlhd.pk/stream/stream-36.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=36"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportsnet World",
+          "url": "https://dlhd.pk/stream/stream-410.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=410"
         },
         {
           "tipo": "dlhd",
@@ -9687,155 +11605,48 @@
           "url": "https://dlhd.pk/stream/stream-4016.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=4016"
-        }
-      ]
-    },
-    {
-      "id": 251,
-      "nombre": "Huddersfield vs York City",
-      "categoria": "Rugby League 🏉 - Super League Rugby",
-      "fecha_hora": "2026-07-04T11:30:00",
-      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/uldkx41765883058.jpg",
-      "detalles": [
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Sky Sports Action UK",
-          "url": "https://dlhd.pk/stream/stream-37.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/h64zau1780683949.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=37"
         },
         {
           "tipo": "dlhd",
-          "nombre_canal": "Sky Sports+ UK",
-          "url": "https://dlhd.pk/stream/stream-36.php",
+          "nombre_canal": "MLB league pass",
+          "url": "https://dlhd.pk/stream/stream-8.php",
           "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=36"
+          "url_embed": "https://dlhd.pk/watch.php?id=8"
         },
         {
           "tipo": "dlhd",
-          "nombre_canal": "Sportsnet World",
-          "url": "https://dlhd.pk/stream/stream-410.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=410"
+          "nombre_canal": "TVA Sports",
+          "url": "https://dlhd.pk/stream/stream-833.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ebxfit1688767503.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=833"
         },
         {
           "tipo": "dlhd",
-          "nombre_canal": "Sportsnet World",
-          "url": "https://dlhd.pk/stream/stream-3035.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=3035"
+          "nombre_canal": "TNT Sports 4 UK",
+          "url": "https://dlhd.pk/stream/stream-34.php",
+          "imagen_idiom": "https://i.postimg.cc/MGPXxnY7/TNT-Sports.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=34"
         },
         {
           "tipo": "dlhd",
-          "nombre_canal": "Sky Sports Action UK",
-          "url": "https://dlhd.pk/stream/stream-37.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/h64zau1780683949.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=37"
+          "nombre_canal": "MLB Network",
+          "url": "https://dlhd.pk/stream/stream-399.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/stsxyv1475892891.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=399"
         },
         {
           "tipo": "dlhd",
-          "nombre_canal": "Sky Sports+ UK",
-          "url": "https://dlhd.pk/stream/stream-36.php",
+          "nombre_canal": "YES USA",
+          "url": "https://dlhd.pk/stream/stream-763.php",
           "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=36"
+          "url_embed": "https://dlhd.pk/watch.php?id=763"
         },
         {
           "tipo": "dlhd",
-          "nombre_canal": "Sportsnet World",
-          "url": "https://dlhd.pk/stream/stream-410.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=410"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Sportsnet World",
-          "url": "https://dlhd.pk/stream/stream-3035.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=3035"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Sky Sports Action UK",
-          "url": "https://dlhd.pk/stream/stream-37.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/h64zau1780683949.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=37"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Sky Sports+ UK",
-          "url": "https://dlhd.pk/stream/stream-36.php",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4016.php",
           "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=36"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Sportsnet World",
-          "url": "https://dlhd.pk/stream/stream-410.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=410"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Sportsnet World",
-          "url": "https://dlhd.pk/stream/stream-3035.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=3035"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Sky Sports Action UK",
-          "url": "https://dlhd.pk/stream/stream-37.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/h64zau1780683949.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=37"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Sky Sports+ UK",
-          "url": "https://dlhd.pk/stream/stream-36.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=36"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Sportsnet World",
-          "url": "https://dlhd.pk/stream/stream-410.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=410"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Sportsnet World",
-          "url": "https://dlhd.pk/stream/stream-3035.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=3035"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Sky Sports Action UK",
-          "url": "https://dlhd.pk/stream/stream-37.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/h64zau1780683949.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=37"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Sky Sports+ UK",
-          "url": "https://dlhd.pk/stream/stream-36.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=36"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Sportsnet World",
-          "url": "https://dlhd.pk/stream/stream-410.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=410"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Sportsnet World",
-          "url": "https://dlhd.pk/stream/stream-3035.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=3035"
+          "url_embed": "https://dlhd.pk/watch.php?id=4016"
         }
       ]
     },
@@ -9846,6 +11657,41 @@
       "fecha_hora": "2026-07-04T13:00:00",
       "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/ul9tgu1781685722.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Willow Cricket",
+          "url": "https://dlhd.pk/stream/stream-346.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=346"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports Cricket UK",
+          "url": "https://dlhd.pk/stream/stream-65.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/47d7os1502554865.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=65"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Astro Cricket",
+          "url": "https://dlhd.pk/stream/stream-370.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=370"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sport 3 NZ",
+          "url": "https://dlhd.pk/stream/stream-590.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/c1zmrr1642606833.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=590"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "SuperSport Variety 3",
+          "url": "https://dlhd.pk/stream/stream-418.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=418"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "Willow Cricket",
@@ -10134,6 +11980,41 @@
           "url": "https://dlhd.pk/stream/stream-38.php",
           "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ub8szd1780683863.png",
           "url_embed": "https://dlhd.pk/watch.php?id=38"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Willow Cricket",
+          "url": "https://dlhd.pk/stream/stream-346.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=346"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports Cricket UK",
+          "url": "https://dlhd.pk/stream/stream-65.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/47d7os1502554865.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=65"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Astro Cricket",
+          "url": "https://dlhd.pk/stream/stream-370.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=370"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sport Select NZ",
+          "url": "https://dlhd.pk/stream/stream-587.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/c1zmrr1642606833.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=587"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports Main Event",
+          "url": "https://dlhd.pk/stream/stream-38.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ub8szd1780683863.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=38"
         }
       ]
     },
@@ -10144,6 +12025,41 @@
       "fecha_hora": "2026-07-04T15:05:00",
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/10tong1780299926.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB league pass",
+          "url": "https://dlhd.pk/stream/stream-7.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=7"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "SportsNet Pittsburgh",
+          "url": "https://dlhd.pk/stream/stream-922.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=922"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB Network",
+          "url": "https://dlhd.pk/stream/stream-399.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/stsxyv1475892891.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=399"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Arena Sport 2 Croatia",
+          "url": "https://dlhd.pk/stream/stream-433.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=433"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4015.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4015"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "MLB league pass",
@@ -10432,6 +12348,41 @@
           "url": "https://dlhd.pk/stream/stream-4018.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=4018"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB league pass",
+          "url": "https://dlhd.pk/stream/stream-6.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=6"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TNT Sports 1 UK",
+          "url": "https://dlhd.pk/stream/stream-31.php",
+          "imagen_idiom": "https://i.postimg.cc/MGPXxnY7/TNT-Sports.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=31"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TVA Sports CA",
+          "url": "https://dlhd.pk/stream/stream-833.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=833"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB Network",
+          "url": "https://dlhd.pk/stream/stream-399.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/stsxyv1475892891.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=399"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4018.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4018"
         }
       ]
     },
@@ -10581,6 +12532,218 @@
           "url": "https://dlhd.pk/stream/stream-4019.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=4019"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB league pass",
+          "url": "https://dlhd.pk/stream/stream-9.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=9"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MASN USA",
+          "url": "https://dlhd.pk/stream/stream-829.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=829"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TVA Sports CA",
+          "url": "https://dlhd.pk/stream/stream-833.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=833"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports 4 Max France",
+          "url": "https://dlhd.pk/stream/stream-494.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_4.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=494"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4019.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4019"
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "nombre": "Huddersfield vs York City",
+      "categoria": "Rugby League 🏉 - Super League Rugby",
+      "fecha_hora": "2026-07-04T11:30:00",
+      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/uldkx41765883058.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports Action UK",
+          "url": "https://dlhd.pk/stream/stream-37.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/h64zau1780683949.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=37"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports+ UK",
+          "url": "https://dlhd.pk/stream/stream-36.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=36"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportsnet World",
+          "url": "https://dlhd.pk/stream/stream-410.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=410"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportsnet World",
+          "url": "https://dlhd.pk/stream/stream-3035.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3035"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports Action UK",
+          "url": "https://dlhd.pk/stream/stream-37.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/h64zau1780683949.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=37"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports+ UK",
+          "url": "https://dlhd.pk/stream/stream-36.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=36"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportsnet World",
+          "url": "https://dlhd.pk/stream/stream-410.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=410"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportsnet World",
+          "url": "https://dlhd.pk/stream/stream-3035.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3035"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports Action UK",
+          "url": "https://dlhd.pk/stream/stream-37.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/h64zau1780683949.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=37"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports+ UK",
+          "url": "https://dlhd.pk/stream/stream-36.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=36"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportsnet World",
+          "url": "https://dlhd.pk/stream/stream-410.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=410"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportsnet World",
+          "url": "https://dlhd.pk/stream/stream-3035.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3035"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports Action UK",
+          "url": "https://dlhd.pk/stream/stream-37.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/h64zau1780683949.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=37"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports+ UK",
+          "url": "https://dlhd.pk/stream/stream-36.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=36"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportsnet World",
+          "url": "https://dlhd.pk/stream/stream-410.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=410"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportsnet World",
+          "url": "https://dlhd.pk/stream/stream-3035.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3035"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports Action UK",
+          "url": "https://dlhd.pk/stream/stream-37.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/h64zau1780683949.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=37"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports+ UK",
+          "url": "https://dlhd.pk/stream/stream-36.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=36"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportsnet World",
+          "url": "https://dlhd.pk/stream/stream-410.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=410"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportsnet World",
+          "url": "https://dlhd.pk/stream/stream-3035.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3035"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports Action UK",
+          "url": "https://dlhd.pk/stream/stream-37.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/h64zau1780683949.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=37"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports+ UK",
+          "url": "https://dlhd.pk/stream/stream-36.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=36"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportsnet World",
+          "url": "https://dlhd.pk/stream/stream-410.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=410"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportsnet World",
+          "url": "https://dlhd.pk/stream/stream-3035.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_World.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3035"
         }
       ]
     },
@@ -10646,6 +12809,34 @@
           "url": "https://dlhd.pk/stream/stream-756.php",
           "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/FOX_Soccer_Plus.png",
           "url_embed": "https://dlhd.pk/watch.php?id=756"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Fox Soccer Plus",
+          "url": "https://dlhd.pk/stream/stream-3083.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/FOX_Soccer_Plus.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3083"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Fox Soccer Plus",
+          "url": "https://dlhd.pk/stream/stream-756.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/FOX_Soccer_Plus.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=756"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TNT Sports 2 UK",
+          "url": "https://dlhd.pk/stream/stream-32.php",
+          "imagen_idiom": "https://i.postimg.cc/MGPXxnY7/TNT-Sports.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=32"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sport 7 NZ",
+          "url": "https://dlhd.pk/stream/stream-594.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/aziu4p1642607095.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=594"
         },
         {
           "tipo": "dlhd",
@@ -10802,6 +12993,34 @@
           "url": "https://dlhd.pk/stream/stream-446.php",
           "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ti96m01657045591.png",
           "url_embed": "https://dlhd.pk/watch.php?id=446"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "DAZN PPV",
+          "url": "https://dlhd.pk/stream/stream-26.php",
+          "imagen_idiom": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=26"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TNT USA",
+          "url": "https://dlhd.pk/stream/stream-338.php",
+          "imagen_idiom": "https://i.postimg.cc/MGPXxnY7/TNT-Sports.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=338"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "truTV USA",
+          "url": "https://dlhd.pk/stream/stream-341.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=341"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "DAZN2 Spain",
+          "url": "https://dlhd.pk/stream/stream-446.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ti96m01657045591.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=446"
         }
       ]
     },
@@ -10812,6 +13031,27 @@
       "fecha_hora": "2026-07-04T09:00:00",
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/iyhsps1758903341.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports 3 Malaysia",
+          "url": "https://dlhd.pk/stream/stream-714.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=714"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport Klub 3 Croatia",
+          "url": "https://dlhd.pk/stream/stream-103.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=103"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "5 Live Israel",
+          "url": "https://dlhd.pk/stream/stream-146.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=146"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "beIN Sports 3 Malaysia",
@@ -10988,6 +13228,27 @@
           "url": "https://dlhd.pk/stream/stream-4017.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=4017"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB league pass",
+          "url": "https://dlhd.pk/stream/stream-3.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "CBS Sports Network USA",
+          "url": "https://dlhd.pk/stream/stream-308.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/77gqjl1624103918.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=308"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4017.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4017"
         }
       ]
     },
@@ -10998,6 +13259,27 @@
       "fecha_hora": "2026-07-04T23:10:00",
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/0p7qgl1780299932.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB league pass",
+          "url": "https://dlhd.pk/stream/stream-10.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=10"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Chicago Sports Network",
+          "url": "https://dlhd.pk/stream/stream-776.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=776"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4020.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4020"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "MLB league pass",
@@ -11174,6 +13456,27 @@
           "url": "https://dlhd.pk/stream/stream-4021.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=4021"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB league pass",
+          "url": "https://dlhd.pk/stream/stream-11.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=11"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Space City Home Network",
+          "url": "https://dlhd.pk/stream/stream-921.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=921"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4021.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4021"
         }
       ]
     },
@@ -11184,6 +13487,27 @@
       "fecha_hora": "2026-07-05T00:10:00",
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/pnrqzm1780299918.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB league pass",
+          "url": "https://dlhd.pk/stream/stream-13.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=13"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "NBCS Bay Area USA",
+          "url": "https://dlhd.pk/stream/stream-753.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=753"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4025.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4025"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "MLB league pass",
@@ -11360,6 +13684,27 @@
           "url": "https://dlhd.pk/stream/stream-4026.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=4026"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB league pass",
+          "url": "https://dlhd.pk/stream/stream-14.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=14"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "NESN USA",
+          "url": "https://dlhd.pk/stream/stream-762.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/fgpc641717509628.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=762"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4026.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4026"
         }
       ]
     },
@@ -11370,6 +13715,27 @@
       "fecha_hora": "2026-07-05T01:40:00",
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/fwze5y1780299923.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB league pass",
+          "url": "https://dlhd.pk/stream/stream-15.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=15"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "NBCS California USA",
+          "url": "https://dlhd.pk/stream/stream-755.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=755"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4027.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4027"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "MLB league pass",
@@ -11546,6 +13912,27 @@
           "url": "https://dlhd.pk/stream/stream-4028.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=4028"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB league pass",
+          "url": "https://dlhd.pk/stream/stream-16.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=16"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB Network",
+          "url": "https://dlhd.pk/stream/stream-399.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/stsxyv1475892891.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=399"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4028.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4028"
         }
       ]
     },
@@ -11556,6 +13943,27 @@
       "fecha_hora": "2026-07-05T02:10:00",
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/7a5s2h1780299916.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB league pass",
+          "url": "https://dlhd.pk/stream/stream-17.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=17"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Spectrum Sportsnet LA",
+          "url": "https://dlhd.pk/stream/stream-764.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=764"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4029.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4029"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "MLB league pass",
@@ -11718,6 +14126,20 @@
           "url": "https://dlhd.pk/stream/stream-6016.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=6016"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-6015.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=6015"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-6016.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=6016"
         }
       ]
     },
@@ -11762,6 +14184,20 @@
           "url": "https://dlhd.pk/stream/stream-23.php",
           "imagen_idiom": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
           "url_embed": "https://dlhd.pk/watch.php?id=23"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN+ USA",
+          "url": "https://dlhd.pk/stream/stream-23.php",
+          "imagen_idiom": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=23"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPNU USA",
+          "url": "https://dlhd.pk/stream/stream-316.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=316"
         },
         {
           "tipo": "dlhd",
@@ -11837,6 +14273,20 @@
         },
         {
           "tipo": "dlhd",
+          "nombre_canal": "ESPN+ USA",
+          "url": "https://dlhd.pk/stream/stream-76.php",
+          "imagen_idiom": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=76"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "SportsNet Pittsburgh",
+          "url": "https://dlhd.pk/stream/stream-922.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=922"
+        },
+        {
+          "tipo": "dlhd",
           "nombre_canal": "SportsNet Pittsburgh",
           "url": "https://dlhd.pk/stream/stream-922.php",
           "imagen_idiom": "",
@@ -11872,6 +14322,20 @@
       "fecha_hora": "2026-07-04T18:00:00",
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/fodx0g1681365045.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports Cricket UK",
+          "url": "https://dlhd.pk/stream/stream-65.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/47d7os1502554865.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=65"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sport 9 NZ",
+          "url": "https://dlhd.pk/stream/stream-596.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/c1zmrr1642606833.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=596"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "Sky Sports Cricket UK",
@@ -11992,6 +14456,20 @@
           "url": "https://dlhd.pk/stream/stream-103.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=103"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports 3 Malaysia",
+          "url": "https://dlhd.pk/stream/stream-714.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=714"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport Klub 3 Croatia",
+          "url": "https://dlhd.pk/stream/stream-103.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=103"
         }
       ]
     },
@@ -12007,6 +14485,13 @@
           "nombre_canal": "ESPN4 Brazil",
           "url": "https://dlhd.pk/stream/stream-85.php",
           "imagen_idiom": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=85"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN4 Brazil",
+          "url": "https://dlhd.pk/stream/stream-85.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/n9lgac1660762960.png",
           "url_embed": "https://dlhd.pk/watch.php?id=85"
         },
         {
@@ -12073,6 +14558,13 @@
           "url": "https://dlhd.pk/stream/stream-76.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=76"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "LOITV",
+          "url": "https://dlhd.pk/stream/stream-76.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=76"
         }
       ]
     },
@@ -12083,6 +14575,13 @@
       "fecha_hora": "2026-07-04T12:00:00",
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/888z1h1773132814.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-6006.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=6006"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "Backup Stream",
@@ -12147,6 +14646,13 @@
           "url": "https://dlhd.pk/stream/stream-2.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=2"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Latvia",
+          "url": "https://dlhd.pk/stream/stream-2.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=2"
         }
       ]
     },
@@ -12157,6 +14663,13 @@
       "fecha_hora": "2026-07-04T16:00:00",
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/qrx70m1773132813.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-6010.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=6010"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "Backup Stream",
@@ -12221,6 +14734,13 @@
           "url": "https://dlhd.pk/stream/stream-3.php",
           "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/iq25nh1627494674.png",
           "url_embed": "https://dlhd.pk/watch.php?id=3"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Belarus 5",
+          "url": "https://dlhd.pk/stream/stream-3.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/iq25nh1627494674.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3"
         }
       ]
     },
@@ -12231,6 +14751,13 @@
       "fecha_hora": "2026-07-04T22:00:00",
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/aoke3i1779595986.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TNT SPORTS Premium HD Chile",
+          "url": "https://dlhd.pk/stream/stream-642.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=642"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "TNT SPORTS Premium HD Chile",
@@ -12295,6 +14822,13 @@
           "url": "https://dlhd.pk/stream/stream-68.php",
           "imagen_idiom": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
           "url_embed": "https://dlhd.pk/watch.php?id=68"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN+ USA",
+          "url": "https://dlhd.pk/stream/stream-68.php",
+          "imagen_idiom": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=68"
         }
       ]
     },
@@ -12305,6 +14839,13 @@
       "fecha_hora": "2026-07-04T22:00:00",
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/elmqrt1773257723.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN+ USA",
+          "url": "https://dlhd.pk/stream/stream-69.php",
+          "imagen_idiom": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=69"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "ESPN+ USA",
@@ -12369,6 +14910,13 @@
           "url": "https://dlhd.pk/stream/stream-77.php",
           "imagen_idiom": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
           "url_embed": "https://dlhd.pk/watch.php?id=77"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN+ USA",
+          "url": "https://dlhd.pk/stream/stream-77.php",
+          "imagen_idiom": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=77"
         }
       ]
     },
@@ -12379,6 +14927,13 @@
       "fecha_hora": "2026-07-05T07:30:00",
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/4ppimb1715842413.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sport 3 NZ",
+          "url": "https://dlhd.pk/stream/stream-590.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/c1zmrr1642606833.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=590"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "Sky Sport 3 NZ",
@@ -12443,6 +14998,13 @@
           "url": "https://dlhd.pk/stream/stream-6011.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=6011"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-6011.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=6011"
         }
       ]
     },
@@ -12453,6 +15015,13 @@
       "fecha_hora": "2026-07-04T15:00:00",
       "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/bzkw191782076232.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-6013.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=6013"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "Backup Stream",

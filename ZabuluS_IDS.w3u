@@ -1,67 +1,18 @@
 {
   "name": "ZabuluSports",
-  "author": "Actualizado: 2026-07-03 11:27:04",
+  "author": "Actualizado: 2026-07-04 07:15:29",
   "image": "https://i.postimg.cc/d3Zx14SS/goat.png",
-  "info": "Actualizado automáticamente: 2026-07-03 11:27",
+  "info": "Actualizado automáticamente: 2026-07-04 07:15",
   "groups": [
     {
       "name": "Eventos",
       "image": "https://i.postimg.cc/C1743dSB/live-streaming.png",
-      "info": "Eventos del día 03/07/2026",
+      "info": "Eventos del día 04/07/2026",
       "groups": [
         {
-          "name": "1/16 Final Colombia - Ghana",
-          "info": "01:30 - FIFA Copa Mundial 2026",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2vhFM7h%2Fsoccer-ball-variant.png",
-          "stations": [
-            {
-              "name": "FIFA Copa Mundial 2026 - 1/16 de Final Colombia - Ghana",
-              "url": "acestream://b2bf586e7ddc31352f120c9274c1441dea3f5418",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - 1/16 de Final Colombia - Ghana",
-              "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - 1/16 de Final Colombia - Ghana",
-              "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "FIBA World Cup - Qualification Phase Qualification",
-          "info": "02:40",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FFwVCsyW%2Fsport-car.png",
-          "stations": [
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
-              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
-              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
-              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
-              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Switzerland - Algeria",
-          "info": "03:00 - Fútbol - FIFA Copa Mundial 2026: 1/16 de Final",
-          "image": "https://www.thesportsdb.com/images/media/event/thumb/vlynac1782634402.jpg",
+          "name": "Colombia - Ghana",
+          "info": "01:30 - Fútbol - FIFA Copa Mundial 2026: 1/16 de Final",
+          "image": "https://www.thesportsdb.com/images/media/event/thumb/b6sdmo1782634401.jpg",
           "stations": [
             {
               "name": "DAZN FIFA 1",
@@ -81,42 +32,62 @@
           ]
         },
         {
-          "name": "FIBA World Cup - Qualification Phase Race 1",
-          "info": "07:05",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FFwVCsyW%2Fsport-car.png",
+          "name": "Carrera 1",
+          "info": "04:05 - Automovilismo - FIA Fórmula E: Shanghai (China)",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
           "stations": [
             {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Carrera 1",
+              "name": "Teledeporte",
+              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Eurosport 1",
               "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": ""
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Carrera 1",
+              "name": "Eurosport 1",
               "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
-              "image": ""
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Carrera 1",
+              "name": "Eurosport 1",
               "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": ""
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Carrera 1",
+              "name": "EUROSPORT 1",
               "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
-              "image": ""
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Carrera 1",
+              "name": "Eurosport 1",
               "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
-              "image": ""
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Carrera 1",
+              "name": "Eurosport 1",
               "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
-              "image": ""
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Carrera 1",
+              "name": "Eurosport",
               "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
             }
@@ -124,211 +95,204 @@
         },
         {
           "name": "New Zealand - France",
-          "info": "07:10 - Nations Championship",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FFwVCsyW%2Fsport-car.png",
+          "info": "07:10 - Rugby - Nations Championship",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Frugby.png",
           "stations": [
             {
-              "name": "Nations Championship - Nueva Zelanda - Francia",
+              "name": "MOVISTAR PLUS",
               "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
               "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
             },
             {
-              "name": "Nations Championship - Nueva Zelanda - Francia",
+              "name": "MOVISTAR PLUS",
               "url": "acestream://fa931cbc87dc9d66fdd30a9644e054b403960056",
-              "image": ""
+              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
             },
             {
-              "name": "Nations Championship - Nueva Zelanda - Francia",
+              "name": "MOVISTAR +",
               "url": "acestream://c1b7f54af0de256d1ac0fcac4c130e62660089f4",
-              "image": ""
+              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
             },
             {
-              "name": "Nations Championship - Nueva Zelanda - Francia",
+              "name": "M+ Deportes",
               "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
               "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Nations Championship - Nueva Zelanda - Francia",
+              "name": "M+ Deportes",
               "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "Nations Championship - Nueva Zelanda - Francia",
+              "name": "M+ Deportes",
               "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "Nations Championship - Nueva Zelanda - Francia",
+              "name": "M+ Deportes",
               "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
               "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Nations Championship - Nueva Zelanda - Francia",
+              "name": "M+ Deportes",
               "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "Nations Championship - Nueva Zelanda - Francia",
+              "name": "M+ Deportes",
               "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
               "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Nations Championship - Nueva Zelanda - Francia",
+              "name": "MOVISTAR DEPORTES",
               "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             },
             {
-              "name": "Nations Championship - Nueva Zelanda - Francia",
+              "name": "M. Deportes",
               "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             }
           ]
         },
         {
-          "name": "Men's 1/4 final - Premier Padel Tour",
-          "info": "08:00 - Pádel - Burdeos Open",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fpadel.png",
+          "name": "Carrera 1",
+          "info": "08:35 - Automovilismo - FIA Fórmula 3: G.P. Gran Bretaña (Silverstone)",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
           "stations": [
             {
-              "name": "M+ Vamos",
-              "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
-              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+              "name": "DAZN F1",
+              "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "M+ Vamos",
-              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
-              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+              "name": "DAZN F1",
+              "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "M+ Vamos",
-              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
-              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+              "name": "DAZN F1",
+              "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "MOVISTAR VAMOS",
-              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
+              "name": "DAZN F1",
+              "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "M+ Deportes 4",
-              "url": "acestream://4abe06c5cce7cb3c6bef2c3bccaafefd3299794f",
-              "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png"
+              "name": "DAZN F1",
+              "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "M+ Deportes 4",
-              "url": "acestream://7bede102385c65a545db531af476ef18c31f6258",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+              "name": "DAZN F1",
+              "url": "acestream://88d7cdd80be237ae21314f7f1b6582991498e8ba",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "M+ Deportes 4",
-              "url": "acestream://2a5d90651e212106434edea5bfbba1a843b7b97c",
-              "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png"
+              "name": "DAZN F1",
+              "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "MOVISTAR DEPORTES 4",
-              "url": "acestream://8b5f9d967384afab226dd759e6e9dfaee9993869",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+              "name": "DAZN F1",
+              "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "M+ Deportes 4",
-              "url": "acestream://590a1f4546e3a0d5d419b62b8177b44d6ce0339f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+              "name": "DAZN F1",
+              "url": "acestream://27d11bbeb3026231d52de16b1fac48da7a099247",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://724f9b252b11064e3f16220717fd52bd3a510b5f",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2Ndmtbp%2Ff1.png"
             }
           ]
         },
         {
-          "name": "Men's 1/4 final - Premier Padel Tour",
-          "info": "10:00 - Pádel - Burdeos Open",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fpadel.png",
+          "name": "Galicia - Catalonia",
+          "info": "09:30 - Fútbol Sala - Amistoso Femenino",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol-sala.png",
           "stations": [
             {
-              "name": "M+ Vamos",
-              "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
-              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+              "name": "Esport3",
+              "url": "acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FEsport%25203.png%3Fraw%3Dtrue"
             },
             {
-              "name": "M+ Vamos",
-              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
-              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+              "name": "Esport3",
+              "url": "acestream://21bc11d195f5753c396e390c215952d21541d04d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FEsport%25203.png%3Fraw%3Dtrue"
             },
             {
-              "name": "M+ Vamos",
-              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
-              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+              "name": "Esport3",
+              "url": "acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FEsport%25203.png%3Fraw%3Dtrue"
             },
             {
-              "name": "MOVISTAR VAMOS",
-              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
-            },
-            {
-              "name": "M+ Deportes 4",
-              "url": "acestream://4abe06c5cce7cb3c6bef2c3bccaafefd3299794f",
-              "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png"
-            },
-            {
-              "name": "M+ Deportes 4",
-              "url": "acestream://7bede102385c65a545db531af476ef18c31f6258",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes 4",
-              "url": "acestream://2a5d90651e212106434edea5bfbba1a843b7b97c",
-              "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png"
-            },
-            {
-              "name": "MOVISTAR DEPORTES 4",
-              "url": "acestream://8b5f9d967384afab226dd759e6e9dfaee9993869",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes 4",
-              "url": "acestream://590a1f4546e3a0d5d419b62b8177b44d6ce0339f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+              "name": "Esport3",
+              "url": "acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FEsport%25203.png%3Fraw%3Dtrue"
             }
           ]
         },
         {
-          "name": "3rd Ronda R. Safiullin - J. Fonseca",
-          "info": "10:00 - Wimbledon",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
+          "name": "Speed ​​- Finals",
+          "info": "10:00 - Escalada deportiva - Copa del mundo de escalada - Cracovia",
+          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
           "stations": [
             {
-              "name": "Wimbledon - 3ª Ronda R. Safiullin - J. Fonseca",
-              "url": "acestream://765f6a743bcfde948418aaf0de6e66de6a9fbaa6",
-              "image": ""
+              "name": "Eurosport 2",
+              "url": "acestream://c6180a86440004748e2abe34d6f31eed8a218a3a",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "Wimbledon - 3ª Ronda R. Safiullin - J. Fonseca",
-              "url": "acestream://e6cd9205e26b3b6680f607030c702e911272524a",
-              "image": "https://i.postimg.cc/wMRp572F/Deportes-por-Movistar-5-2022-logo.png"
+              "name": "Eurosport 2",
+              "url": "acestream://7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "Wimbledon - 3ª Ronda R. Safiullin - J. Fonseca",
-              "url": "acestream://8f982a0d6e3196c12d0034142b65008321150f7c",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "3a Ronda B. Bencic - A. Kalinskaya",
-          "info": "10:00 - Wimbledon WTA",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "Wimbledon WTA - 3ª Ronda B. Bencic - A. Kalinskaya",
-              "url": "acestream://2d549bbcd898b09c4b736e6e3e83e8e8c19fcbda",
-              "image": ""
+              "name": "EUROSPORT 2",
+              "url": "acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "Wimbledon WTA - 3ª Ronda B. Bencic - A. Kalinskaya",
-              "url": "acestream://9b38816906198580dbeb35b68673e1d060668e05",
-              "image": ""
+              "name": "EUROSPORT 2",
+              "url": "acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "Wimbledon WTA - 3ª Ronda B. Bencic - A. Kalinskaya",
-              "url": "acestream://216bdeb54d18a06e8c9e2e337c5dc3f13f69bad4",
-              "image": ""
+              "name": "EUROSPORT 2",
+              "url": "acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2",
+              "url": "acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2",
+              "url": "acestream://f5908690485ae2facecf3074446ba4315f07a193",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             }
           ]
         },
@@ -550,8 +514,122 @@
           ]
         },
         {
-          "name": "Day 2",
-          "info": "10:30 - Golf - BMW International Open",
+          "name": "The descent of F",
+          "info": "10:45 - Ciclismo - Copa del mundo de bicicleta de montaña - La Thuile",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
+          "stations": [
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 1",
+              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport",
+              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
+            }
+          ]
+        },
+        {
+          "name": "Sprint",
+          "info": "11:00 - Automovilismo - Fórmula 1: G.P. Gran Bretaña (Silverstone)",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
+          "stations": [
+            {
+              "name": "DAZN F1",
+              "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://88d7cdd80be237ae21314f7f1b6582991498e8ba",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://27d11bbeb3026231d52de16b1fac48da7a099247",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://724f9b252b11064e3f16220717fd52bd3a510b5f",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2Ndmtbp%2Ff1.png"
+            }
+          ]
+        },
+        {
+          "name": "Day 3",
+          "info": "11:00 - Golf - BMW International Open",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fgolf.png",
           "stations": [
             {
@@ -577,737 +655,183 @@
           ]
         },
         {
-          "name": "BMW International Open -  Jornada 2",
-          "info": "10:30",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgVt4bNf%2Fgolf.png",
-          "stations": [
-            {
-              "name": "BMW International Open - Jornada 2",
-              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
-              "image": ""
-            },
-            {
-              "name": "BMW International Open - Jornada 2",
-              "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
-              "image": ""
-            },
-            {
-              "name": "BMW International Open - Jornada 2",
-              "url": "acestream://f60535a458b3c114283e2f433379144345beddd6",
-              "image": ""
-            },
-            {
-              "name": "BMW International Open - Jornada 2",
-              "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
-              "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
-            }
-          ]
-        },
-        {
-          "name": "Free 1",
-          "info": "11:30 - Automovilismo - Fórmula 1: G.P. Gran Bretaña (Silverstone)",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
-          "stations": [
-            {
-              "name": "DAZN F1",
-              "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://88d7cdd80be237ae21314f7f1b6582991498e8ba",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://27d11bbeb3026231d52de16b1fac48da7a099247",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://724f9b252b11064e3f16220717fd52bd3a510b5f",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2Ndmtbp%2Ff1.png"
-            }
-          ]
-        },
-        {
-          "name": "FIBA World Cup - Free Qualification Phase 1",
-          "info": "11:30",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FFwVCsyW%2Fsport-car.png",
-          "stations": [
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Libres 1",
-              "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Libres 1",
-              "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Libres 1",
-              "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Libres 1",
-              "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Libres 1",
-              "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Libres 1",
-              "url": "acestream://88d7cdd80be237ae21314f7f1b6582991498e8ba",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Libres 1",
-              "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Libres 1",
-              "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Libres 1",
-              "url": "acestream://27d11bbeb3026231d52de16b1fac48da7a099247",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Libres 1",
-              "url": "acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Libres 1",
-              "url": "acestream://724f9b252b11064e3f16220717fd52bd3a510b5f",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Libres 1",
-              "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Libres 1",
-              "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2Ndmtbp%2Ff1.png"
-            }
-          ]
-        },
-        {
-          "name": "3rd Round JL. Struff - D. Medvedev",
-          "info": "11:30 - Wimbledon",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "Wimbledon - 3ª Ronda JL. Struff - D. Medvedev",
-              "url": "acestream://2d549bbcd898b09c4b736e6e3e83e8e8c19fcbda",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda JL. Struff - D. Medvedev",
-              "url": "acestream://9b38816906198580dbeb35b68673e1d060668e05",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda JL. Struff - D. Medvedev",
-              "url": "acestream://216bdeb54d18a06e8c9e2e337c5dc3f13f69bad4",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "3a Ronda R. Jodar - S. Mochizuki",
-          "info": "11:30 - Wimbledon",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "Wimbledon - 3ª Ronda R. Jódar - S. Mochizuki",
-              "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
-              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda R. Jódar - S. Mochizuki",
-              "url": "acestream://fa931cbc87dc9d66fdd30a9644e054b403960056",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda R. Jódar - S. Mochizuki",
-              "url": "acestream://c1b7f54af0de256d1ac0fcac4c130e62660089f4",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda R. Jódar - S. Mochizuki",
-              "url": "acestream://f4d9011721fad5098febbe4d7c078a582e176a01",
-              "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda R. Jódar - S. Mochizuki",
-              "url": "acestream://84aed52c5deb78f58595d88250e7a2bd04dfd810",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda R. Jódar - S. Mochizuki",
-              "url": "acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda R. Jódar - S. Mochizuki",
-              "url": "acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d",
-              "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda R. Jódar - S. Mochizuki",
-              "url": "acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "3rd Round E. Alexandrova - I. Jovic",
-          "info": "11:30 - Wimbledon WTA",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "Wimbledon WTA - 3ª Ronda E. Alexandrova - I. Jovic",
-              "url": "acestream://15ec214bb10925dadd16a1716bb2042af6008a93",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda E. Alexandrova - I. Jovic",
-              "url": "acestream://646a1ed4ece843de1979f7888cbdd4d937506a28",
-              "image": "https://i.postimg.cc/wMRp572F/Deportes-por-Movistar-5-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda E. Alexandrova - I. Jovic",
-              "url": "acestream://3230cdca852a10325222e3c546e499e31d547a90",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda E. Alexandrova - I. Jovic",
-              "url": "acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Men's 1/4 final - Premier Padel Tour",
-          "info": "12:00 - Pádel - Burdeos Open",
+          "name": "Women's Semifinal - Premier Padel Tour",
+          "info": "11:00 - Pádel - Burdeos Open",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fpadel.png",
           "stations": [
             {
-              "name": "M+ Deportes 4",
-              "url": "acestream://4abe06c5cce7cb3c6bef2c3bccaafefd3299794f",
-              "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png"
-            },
-            {
-              "name": "M+ Deportes 4",
-              "url": "acestream://7bede102385c65a545db531af476ef18c31f6258",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes 4",
-              "url": "acestream://2a5d90651e212106434edea5bfbba1a843b7b97c",
-              "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png"
-            },
-            {
-              "name": "MOVISTAR DEPORTES 4",
-              "url": "acestream://8b5f9d967384afab226dd759e6e9dfaee9993869",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes 4",
-              "url": "acestream://590a1f4546e3a0d5d419b62b8177b44d6ce0339f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            }
-          ]
-        },
-        {
-          "name": "3a Ronda D. Kasatkina - N. Osaka",
-          "info": "12:00 - Wimbledon WTA",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "Wimbledon WTA - 3ª Ronda D. Kasatkina - N. Osaka",
-              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda D. Kasatkina - N. Osaka",
-              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda D. Kasatkina - N. Osaka",
-              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda D. Kasatkina - N. Osaka",
-              "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda D. Kasatkina - N. Osaka",
-              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda D. Kasatkina - N. Osaka",
-              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda D. Kasatkina - N. Osaka",
-              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda D. Kasatkina - N. Osaka",
-              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            }
-          ]
-        },
-        {
-          "name": "3a Ronda J. Pegula - J. Bouzas",
-          "info": "12:00 - Wimbledon WTA",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "Wimbledon WTA - 3ª Ronda J. Pegula - J. Bouzas",
+              "name": "M+ Vamos",
               "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
               "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
             },
             {
-              "name": "Wimbledon WTA - 3ª Ronda J. Pegula - J. Bouzas",
+              "name": "M+ Vamos",
               "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
-              "image": ""
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
             },
             {
-              "name": "Wimbledon WTA - 3ª Ronda J. Pegula - J. Bouzas",
+              "name": "M+ Vamos",
               "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
-              "image": ""
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
             },
             {
-              "name": "Wimbledon WTA - 3ª Ronda J. Pegula - J. Bouzas",
+              "name": "MOVISTAR VAMOS",
               "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
             },
             {
-              "name": "Wimbledon WTA - 3ª Ronda J. Pegula - J. Bouzas",
-              "url": "acestream://765f6a743bcfde948418aaf0de6e66de6a9fbaa6",
-              "image": ""
+              "name": "M+ Deportes 4",
+              "url": "acestream://4abe06c5cce7cb3c6bef2c3bccaafefd3299794f",
+              "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png"
             },
             {
-              "name": "Wimbledon WTA - 3ª Ronda J. Pegula - J. Bouzas",
-              "url": "acestream://e6cd9205e26b3b6680f607030c702e911272524a",
-              "image": "https://i.postimg.cc/wMRp572F/Deportes-por-Movistar-5-2022-logo.png"
+              "name": "M+ Deportes 4",
+              "url": "acestream://7bede102385c65a545db531af476ef18c31f6258",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "Wimbledon WTA - 3ª Ronda J. Pegula - J. Bouzas",
-              "url": "acestream://8f982a0d6e3196c12d0034142b65008321150f7c",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "3a Ronda A. Rinderknech - N. Djokovic",
-          "info": "12:30 - Wimbledon",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "Wimbledon - 3ª Ronda A. Rinderknech - N. Djokovic",
-              "url": "acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0",
-              "image": ""
+              "name": "M+ Deportes 4",
+              "url": "acestream://2a5d90651e212106434edea5bfbba1a843b7b97c",
+              "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png"
             },
             {
-              "name": "Wimbledon - 3ª Ronda A. Rinderknech - N. Djokovic",
-              "url": "acestream://890901fa742b19d8808cf49f19db2d3016437c56",
-              "image": ""
+              "name": "MOVISTAR DEPORTES 4",
+              "url": "acestream://8b5f9d967384afab226dd759e6e9dfaee9993869",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             },
             {
-              "name": "Wimbledon - 3ª Ronda A. Rinderknech - N. Djokovic",
-              "url": "acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda A. Rinderknech - N. Djokovic",
-              "url": "acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda A. Rinderknech - N. Djokovic",
-              "url": "acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda A. Rinderknech - N. Djokovic",
-              "url": "acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda A. Rinderknech - N. Djokovic",
-              "url": "acestream://6b15368775693c33c49fab02e7900c1976a5da90",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda A. Rinderknech - N. Djokovic",
-              "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Classification",
-          "info": "13:00 - Automovilismo - FIA Fórmula 3: G.P. Gran Bretaña (Silverstone)",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
-          "stations": [
-            {
-              "name": "DAZN F1",
-              "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://88d7cdd80be237ae21314f7f1b6582991498e8ba",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://27d11bbeb3026231d52de16b1fac48da7a099247",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://724f9b252b11064e3f16220717fd52bd3a510b5f",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2Ndmtbp%2Ff1.png"
-            }
-          ]
-        },
-        {
-          "name": "FIBA World Cup - Qualification Phase Qualification",
-          "info": "13:00",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FFwVCsyW%2Fsport-car.png",
-          "stations": [
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
-              "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
-              "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
-              "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
-              "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
-              "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
-              "url": "acestream://88d7cdd80be237ae21314f7f1b6582991498e8ba",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
-              "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
-              "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
-              "url": "acestream://27d11bbeb3026231d52de16b1fac48da7a099247",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
-              "url": "acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
-              "url": "acestream://724f9b252b11064e3f16220717fd52bd3a510b5f",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
-              "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
-              "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2Ndmtbp%2Ff1.png"
-            }
-          ]
-        },
-        {
-          "name": "3a Ronda A. Davidovich - M. Fucsovics",
-          "info": "13:00 - Wimbledon",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "Wimbledon - 3ª Ronda A. Davidovich - M. Fucsovics",
-              "url": "acestream://15ec214bb10925dadd16a1716bb2042af6008a93",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda A. Davidovich - M. Fucsovics",
-              "url": "acestream://646a1ed4ece843de1979f7888cbdd4d937506a28",
-              "image": "https://i.postimg.cc/wMRp572F/Deportes-por-Movistar-5-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda A. Davidovich - M. Fucsovics",
-              "url": "acestream://3230cdca852a10325222e3c546e499e31d547a90",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda A. Davidovich - M. Fucsovics",
-              "url": "acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "3a Ronda H. Hurkacz - T. Paul",
-          "info": "13:30 - Wimbledon",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "Wimbledon - 3ª Ronda H. Hurkacz - T. Paul",
-              "url": "acestream://765f6a743bcfde948418aaf0de6e66de6a9fbaa6",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda H. Hurkacz - T. Paul",
-              "url": "acestream://e6cd9205e26b3b6680f607030c702e911272524a",
-              "image": "https://i.postimg.cc/wMRp572F/Deportes-por-Movistar-5-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda H. Hurkacz - T. Paul",
-              "url": "acestream://8f982a0d6e3196c12d0034142b65008321150f7c",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "3a Ronda J. Sinner - J. Brooksby",
-          "info": "13:30 - Wimbledon",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "Wimbledon - 3ª Ronda J. Sinner - J. Brooksby",
-              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda J. Sinner - J. Brooksby",
-              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda J. Sinner - J. Brooksby",
-              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda J. Sinner - J. Brooksby",
-              "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda J. Sinner - J. Brooksby",
-              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda J. Sinner - J. Brooksby",
-              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda J. Sinner - J. Brooksby",
-              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda J. Sinner - J. Brooksby",
-              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+              "name": "M+ Deportes 4",
+              "url": "acestream://590a1f4546e3a0d5d419b62b8177b44d6ce0339f",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             }
           ]
         },
         {
-          "name": "3rd Round K. Muchova - M. Sawangkaew",
-          "info": "13:30 - Wimbledon WTA",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
+          "name": "Norisring - Race 1",
+          "info": "11:30 - Automovilismo - DTM",
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/iyhsps1758903341.jpg",
           "stations": [
             {
-              "name": "Wimbledon WTA - 3ª Ronda K. Muchova - M. Sawangkaew",
-              "url": "acestream://2d549bbcd898b09c4b736e6e3e83e8e8c19fcbda",
+              "name": "DAZN 1",
+              "url": "acestream://78124d96a1a4601e7910f50e36a16e35efcfb398",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "DAZN 1",
+              "url": "acestream://dddff67edfa7061f643ec5ae0be110169850363d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "DAZN 1",
+              "url": "acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "DAZN 1",
+              "url": "acestream://a116ce3ff95c41c60e987e2b1aa247007f707884",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "DAZN 1",
+              "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "Beijing Guoan - Shandong Taishan",
+          "info": "11:35 - Fútbol - Liga China",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
+          "stations": [
+            {
+              "name": "Gol TV",
+              "url": "acestream://9bc65384425e92f3a28f977508db3df62d037300",
               "image": ""
             },
             {
-              "name": "Wimbledon WTA - 3ª Ronda K. Muchova - M. Sawangkaew",
-              "url": "acestream://9b38816906198580dbeb35b68673e1d060668e05",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda K. Muchova - M. Sawangkaew",
-              "url": "acestream://216bdeb54d18a06e8c9e2e337c5dc3f13f69bad4",
+              "name": "Gol TV",
+              "url": "acestream://42d3724b275c8029cef0b4d9ce4c59add5cd3ec1",
               "image": ""
             }
           ]
         },
         {
-          "name": "3a Ronda N. Bartunkova - B. Krejcikova",
-          "info": "13:30 - Wimbledon WTA",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
+          "name": "Descending M",
+          "info": "12:00 - Ciclismo - Copa del mundo de bicicleta de montaña - La Thuile",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
             {
-              "name": "Wimbledon WTA - 3ª Ronda N. Bartunkova - B. Krejcikova",
-              "url": "acestream://f4d9011721fad5098febbe4d7c078a582e176a01",
-              "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png"
+              "name": "Eurosport 1",
+              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "Wimbledon WTA - 3ª Ronda N. Bartunkova - B. Krejcikova",
-              "url": "acestream://84aed52c5deb78f58595d88250e7a2bd04dfd810",
-              "image": ""
+              "name": "Eurosport 1",
+              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "Wimbledon WTA - 3ª Ronda N. Bartunkova - B. Krejcikova",
-              "url": "acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534",
-              "image": ""
+              "name": "Eurosport 1",
+              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "Wimbledon WTA - 3ª Ronda N. Bartunkova - B. Krejcikova",
-              "url": "acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d",
-              "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png"
+              "name": "EUROSPORT 1",
+              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "Wimbledon WTA - 3ª Ronda N. Bartunkova - B. Krejcikova",
-              "url": "acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0",
-              "image": ""
+              "name": "Eurosport 1",
+              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport",
+              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
             }
           ]
         },
         {
-          "name": "Classification",
-          "info": "13:55 - Automovilismo - FIA Fórmula 2: G.P. Gran Bretaña (Silverstone)",
+          "name": "Women's Semifinal - Premier Padel Tour",
+          "info": "12:30 - Pádel - Burdeos Open",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fpadel.png",
+          "stations": [
+            {
+              "name": "M+ Deportes 4",
+              "url": "acestream://4abe06c5cce7cb3c6bef2c3bccaafefd3299794f",
+              "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 4",
+              "url": "acestream://7bede102385c65a545db531af476ef18c31f6258",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes 4",
+              "url": "acestream://2a5d90651e212106434edea5bfbba1a843b7b97c",
+              "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES 4",
+              "url": "acestream://8b5f9d967384afab226dd759e6e9dfaee9993869",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes 4",
+              "url": "acestream://590a1f4546e3a0d5d419b62b8177b44d6ce0339f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            }
+          ]
+        },
+        {
+          "name": "Carrera 1",
+          "info": "12:45 - Automovilismo - FIA Fórmula 2: G.P. Gran Bretaña (Silverstone)",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
           "stations": [
             {
@@ -1378,130 +902,189 @@
           ]
         },
         {
-          "name": "FIBA World Cup - Qualification Phase Qualification",
-          "info": "13:55",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FFwVCsyW%2Fsport-car.png",
+          "name": "Spain - Germany",
+          "info": "13:00 - Fútbol - Europeo Sub-19: Fase de grupos",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
           "stations": [
             {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
+              "name": "Teledeporte",
+              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Catalan Dragons - Toulouse Olympique",
+          "info": "14:00 - Rugby L - Betfred Super League",
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/aqe0lc1765883052.jpg",
+          "stations": [
+            {
+              "name": "Esport3",
+              "url": "acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FEsport%25203.png%3Fraw%3Dtrue"
+            },
+            {
+              "name": "Esport3",
+              "url": "acestream://21bc11d195f5753c396e390c215952d21541d04d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FEsport%25203.png%3Fraw%3Dtrue"
+            },
+            {
+              "name": "Esport3",
+              "url": "acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FEsport%25203.png%3Fraw%3Dtrue"
+            },
+            {
+              "name": "Esport3",
+              "url": "acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FEsport%25203.png%3Fraw%3Dtrue"
+            }
+          ]
+        },
+        {
+          "name": "Speed ​​- Mixed relay final",
+          "info": "14:00 - Escalada deportiva - Copa del mundo de escalada - Cracovia",
+          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
+          "stations": [
+            {
+              "name": "Eurosport 2",
+              "url": "acestream://c6180a86440004748e2abe34d6f31eed8a218a3a",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2",
+              "url": "acestream://7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2",
+              "url": "acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2",
+              "url": "acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2",
+              "url": "acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 2",
+              "url": "acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 2",
+              "url": "acestream://f5908690485ae2facecf3074446ba4315f07a193",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            }
+          ]
+        },
+        {
+          "name": "Classification",
+          "info": "15:00 - Automovilismo - Fórmula 1: G.P. Gran Bretaña (Silverstone)",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
+          "stations": [
+            {
+              "name": "DAZN F1",
               "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
               "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
+              "name": "DAZN F1",
               "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c",
-              "image": ""
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
+              "name": "DAZN F1",
               "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4",
-              "image": ""
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
+              "name": "DAZN F1",
               "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e",
-              "image": ""
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
+              "name": "DAZN F1",
               "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4",
               "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
+              "name": "DAZN F1",
               "url": "acestream://88d7cdd80be237ae21314f7f1b6582991498e8ba",
-              "image": ""
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
+              "name": "DAZN F1",
               "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a",
-              "image": ""
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
+              "name": "DAZN F1",
               "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
-              "image": ""
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
+              "name": "DAZN F1",
               "url": "acestream://27d11bbeb3026231d52de16b1fac48da7a099247",
-              "image": ""
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
+              "name": "DAZN F1",
               "url": "acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19",
-              "image": ""
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
+              "name": "DAZN F1",
               "url": "acestream://724f9b252b11064e3f16220717fd52bd3a510b5f",
-              "image": ""
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
+              "name": "DAZN F1",
               "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
-              "image": ""
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación",
+              "name": "DAZN F1",
               "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2Ndmtbp%2Ff1.png"
             }
           ]
         },
         {
-          "name": "3a Ronda A. Sabalenka - J. Ostapenko",
-          "info": "14:30 - Wimbledon WTA",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "Wimbledon WTA - 3ª Ronda A. Sabalenka - J. Ostapenko",
-              "url": "acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda A. Sabalenka - J. Ostapenko",
-              "url": "acestream://890901fa742b19d8808cf49f19db2d3016437c56",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda A. Sabalenka - J. Ostapenko",
-              "url": "acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda A. Sabalenka - J. Ostapenko",
-              "url": "acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda A. Sabalenka - J. Ostapenko",
-              "url": "acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda A. Sabalenka - J. Ostapenko",
-              "url": "acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda A. Sabalenka - J. Ostapenko",
-              "url": "acestream://6b15368775693c33c49fab02e7900c1976a5da90",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda A. Sabalenka - J. Ostapenko",
-              "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Men's 1/4 final - Premier Padel Tour",
+          "name": "Semifinal Masculina - Premier Padel Tour",
           "info": "15:00 - Pádel - Burdeos Open",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fpadel.png",
           "stations": [
             {
+              "name": "M+ VAMOS 2",
+              "url": "acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M+ VAMOS 2",
+              "url": "acestream://f51674b1dd1ab5a668fa97a0f13a490632f0d7ca",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
               "name": "M+ Deportes 4",
               "url": "acestream://4abe06c5cce7cb3c6bef2c3bccaafefd3299794f",
               "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png"
@@ -1529,10 +1112,30 @@
           ]
         },
         {
-          "name": "cross country short track F",
-          "info": "15:15 - Ciclismo - Copa del mundo de bicicleta de montaña - La Thuile",
+          "name": "Stage 1 - Barcelona › Barcelona (19 km)",
+          "info": "15:05 - Ciclismo - Tour de Francia",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
+            {
+              "name": "Teledeporte",
+              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
             {
               "name": "Eurosport 1",
               "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
@@ -1571,646 +1174,35 @@
           ]
         },
         {
-          "name": "Wimbledon WTA - 3rd Round Cross Country Short Court F",
-          "info": "15:15",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fnsw23YC%2Fcycling.png",
+          "name": "South Africa - England",
+          "info": "15:40 - Rugby - Nations Championship",
+          "image": "https://www.thesportsdb.com/images/media/event/thumb/ul9tgu1781685722.jpg",
           "stations": [
             {
-              "name": "Wimbledon WTA - 3ª Ronda Campo a través pista corta F",
-              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": ""
+              "name": "M+ Vamos",
+              "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
             },
             {
-              "name": "Wimbledon WTA - 3ª Ronda Campo a través pista corta F",
-              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
-              "image": ""
+              "name": "M+ Vamos",
+              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
             },
             {
-              "name": "Wimbledon WTA - 3ª Ronda Campo a través pista corta F",
-              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": ""
+              "name": "M+ Vamos",
+              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
             },
             {
-              "name": "Wimbledon WTA - 3ª Ronda Campo a través pista corta F",
-              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda Campo a través pista corta F",
-              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda Campo a través pista corta F",
-              "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda Campo a través pista corta F",
-              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
+              "name": "MOVISTAR VAMOS",
+              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
             }
           ]
         },
         {
-          "name": "Finland - Hungary",
-          "info": "15:30 - Baloncesto - FIBA Copa Mundial: Fase de Clasificación",
-          "image": "https://www.thesportsdb.com/images/media/event/thumb/xh8x6q1782076938.jpg",
-          "stations": [
-            {
-              "name": "M+ Baloncesto",
-              "url": "acestream://1b9bb80c83f7b3b7a6604973194cad3eac2f5654",
-              "image": ""
-            },
-            {
-              "name": "M+ Baloncesto",
-              "url": "acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1",
-              "image": ""
-            },
-            {
-              "name": "M+ Baloncesto",
-              "url": "acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0",
-              "image": ""
-            },
-            {
-              "name": "M+ Baloncesto",
-              "url": "acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Sprint classification",
-          "info": "15:30 - Automovilismo - Fórmula 1: G.P. Gran Bretaña (Silverstone)",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
-          "stations": [
-            {
-              "name": "DAZN F1",
-              "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://88d7cdd80be237ae21314f7f1b6582991498e8ba",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://27d11bbeb3026231d52de16b1fac48da7a099247",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://724f9b252b11064e3f16220717fd52bd3a510b5f",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2Ndmtbp%2Ff1.png"
-            }
-          ]
-        },
-        {
-          "name": "Qualifying Phase Finland - Hungary",
-          "info": "15:30 - FIBA Copa Mundial",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fkmrq8QQ%2Fbasketball.png",
-          "stations": [
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Finlandia - Hungría",
-              "url": "acestream://1b9bb80c83f7b3b7a6604973194cad3eac2f5654",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Finlandia - Hungría",
-              "url": "acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Finlandia - Hungría",
-              "url": "acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Finlandia - Hungría",
-              "url": "acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "FIBA World Cup - Qualification Phase Sprint Qualification",
-          "info": "15:30",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FFwVCsyW%2Fsport-car.png",
-          "stations": [
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación al sprint",
-              "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación al sprint",
-              "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación al sprint",
-              "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación al sprint",
-              "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación al sprint",
-              "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación al sprint",
-              "url": "acestream://88d7cdd80be237ae21314f7f1b6582991498e8ba",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación al sprint",
-              "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación al sprint",
-              "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación al sprint",
-              "url": "acestream://27d11bbeb3026231d52de16b1fac48da7a099247",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación al sprint",
-              "url": "acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación al sprint",
-              "url": "acestream://724f9b252b11064e3f16220717fd52bd3a510b5f",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación al sprint",
-              "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Clasificación al sprint",
-              "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2Ndmtbp%2Ff1.png"
-            }
-          ]
-        },
-        {
-          "name": "3a Ronda C. Liu - C. Gauff",
-          "info": "15:30 - Wimbledon WTA",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "Wimbledon WTA - 3ª Ronda C. Liu - C. Gauff",
-              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda C. Liu - C. Gauff",
-              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda C. Liu - C. Gauff",
-              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda C. Liu - C. Gauff",
-              "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda C. Liu - C. Gauff",
-              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda C. Liu - C. Gauff",
-              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda C. Liu - C. Gauff",
-              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda C. Liu - C. Gauff",
-              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            }
-          ]
-        },
-        {
-          "name": "3a Ronda F. Auger-Aliassime - M. Zheng",
-          "info": "16:00 - Wimbledon",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "Wimbledon - 3ª Ronda F. Auger-Aliassime - M. Zheng",
-              "url": "acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda F. Auger-Aliassime - M. Zheng",
-              "url": "acestream://890901fa742b19d8808cf49f19db2d3016437c56",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda F. Auger-Aliassime - M. Zheng",
-              "url": "acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda F. Auger-Aliassime - M. Zheng",
-              "url": "acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda F. Auger-Aliassime - M. Zheng",
-              "url": "acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda F. Auger-Aliassime - M. Zheng",
-              "url": "acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda F. Auger-Aliassime - M. Zheng",
-              "url": "acestream://6b15368775693c33c49fab02e7900c1976a5da90",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Wimbledon - 3ª Ronda F. Auger-Aliassime - M. Zheng",
-              "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "cross country short track M",
-          "info": "16:05 - Ciclismo - Copa del mundo de bicicleta de montaña - La Thuile",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
-          "stations": [
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "EUROSPORT 1",
-              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport",
-              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
-            }
-          ]
-        },
-        {
-          "name": "Wimbledon WTA - 3rd Round Cross Country Short Track M",
-          "info": "16:05",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fnsw23YC%2Fcycling.png",
-          "stations": [
-            {
-              "name": "Wimbledon WTA - 3ª Ronda Campo a través pista corta M",
-              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda Campo a través pista corta M",
-              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda Campo a través pista corta M",
-              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda Campo a través pista corta M",
-              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda Campo a través pista corta M",
-              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda Campo a través pista corta M",
-              "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
-              "image": ""
-            },
-            {
-              "name": "Wimbledon WTA - 3ª Ronda Campo a través pista corta M",
-              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
-            }
-          ]
-        },
-        {
-          "name": "Classification",
-          "info": "17:00 - Automovilismo - F1 Academy: G.P. Gran Bretaña (Silverstone)",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
-          "stations": [
-            {
-              "name": "DAZN F1",
-              "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://88d7cdd80be237ae21314f7f1b6582991498e8ba",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://27d11bbeb3026231d52de16b1fac48da7a099247",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://724f9b252b11064e3f16220717fd52bd3a510b5f",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "DAZN F1",
-              "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2Ndmtbp%2Ff1.png"
-            }
-          ]
-        },
-        {
-          "name": "Men's 1/4 final - Premier Padel Tour",
-          "info": "17:00 - Pádel - Burdeos Open",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fpadel.png",
-          "stations": [
-            {
-              "name": "M+ Deportes 4",
-              "url": "acestream://4abe06c5cce7cb3c6bef2c3bccaafefd3299794f",
-              "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png"
-            },
-            {
-              "name": "M+ Deportes 4",
-              "url": "acestream://7bede102385c65a545db531af476ef18c31f6258",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes 4",
-              "url": "acestream://2a5d90651e212106434edea5bfbba1a843b7b97c",
-              "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png"
-            },
-            {
-              "name": "MOVISTAR DEPORTES 4",
-              "url": "acestream://8b5f9d967384afab226dd759e6e9dfaee9993869",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes 4",
-              "url": "acestream://590a1f4546e3a0d5d419b62b8177b44d6ce0339f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            }
-          ]
-        },
-        {
-          "name": "F1 Academy - G.P. Great Britain (Silverstone) Qualifying",
-          "info": "17:00",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FFwVCsyW%2Fsport-car.png",
-          "stations": [
-            {
-              "name": "F1 Academy - G.P. Gran Bretaña Clasificación",
-              "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "F1 Academy - G.P. Gran Bretaña Clasificación",
-              "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c",
-              "image": ""
-            },
-            {
-              "name": "F1 Academy - G.P. Gran Bretaña Clasificación",
-              "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4",
-              "image": ""
-            },
-            {
-              "name": "F1 Academy - G.P. Gran Bretaña Clasificación",
-              "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e",
-              "image": ""
-            },
-            {
-              "name": "F1 Academy - G.P. Gran Bretaña Clasificación",
-              "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4",
-              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
-            },
-            {
-              "name": "F1 Academy - G.P. Gran Bretaña Clasificación",
-              "url": "acestream://88d7cdd80be237ae21314f7f1b6582991498e8ba",
-              "image": ""
-            },
-            {
-              "name": "F1 Academy - G.P. Gran Bretaña Clasificación",
-              "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a",
-              "image": ""
-            },
-            {
-              "name": "F1 Academy - G.P. Gran Bretaña Clasificación",
-              "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
-              "image": ""
-            },
-            {
-              "name": "F1 Academy - G.P. Gran Bretaña Clasificación",
-              "url": "acestream://27d11bbeb3026231d52de16b1fac48da7a099247",
-              "image": ""
-            },
-            {
-              "name": "F1 Academy - G.P. Gran Bretaña Clasificación",
-              "url": "acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19",
-              "image": ""
-            },
-            {
-              "name": "F1 Academy - G.P. Gran Bretaña Clasificación",
-              "url": "acestream://724f9b252b11064e3f16220717fd52bd3a510b5f",
-              "image": ""
-            },
-            {
-              "name": "F1 Academy - G.P. Gran Bretaña Clasificación",
-              "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
-              "image": ""
-            },
-            {
-              "name": "F1 Academy - G.P. Gran Bretaña Clasificación",
-              "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2Ndmtbp%2Ff1.png"
-            }
-          ]
-        },
-        {
-          "name": "Australia - Egypt",
-          "info": "18:00 - Fútbol - FIFA Copa Mundial 2026: 1/16 de Final",
-          "image": "https://www.thesportsdb.com/images/media/event/thumb/pev9n51782546621.jpg",
-          "stations": [
-            {
-              "name": "DAZN FIFA 1",
-              "url": "acestream://b2bf586e7ddc31352f120c9274c1441dea3f5418",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            },
-            {
-              "name": "Dazn Mundial 1",
-              "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            },
-            {
-              "name": "Dazn Mundial 1",
-              "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            }
-          ]
-        },
-        {
-          "name": "1/16 Final Australia - Egypt",
-          "info": "18:00 - FIFA Copa Mundial 2026",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2vhFM7h%2Fsoccer-ball-variant.png",
-          "stations": [
-            {
-              "name": "FIFA Copa Mundial 2026 - 1/16 de Final Australia - Egipto",
-              "url": "acestream://b2bf586e7ddc31352f120c9274c1441dea3f5418",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - 1/16 de Final Australia - Egipto",
-              "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - 1/16 de Final Australia - Egipto",
-              "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Belgica - France",
-          "info": "18:30 - Baloncesto - FIBA Copa Mundial: Fase de Clasificación",
+          "name": "Semifinals",
+          "info": "16:00 - Baloncesto - FIBA Mundial Sub-17",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fbaloncesto.png",
           "stations": [
             {
@@ -2236,62 +1228,75 @@
           ]
         },
         {
-          "name": "Galicia - Catalonia",
-          "info": "18:30 - Fútbol Sala - Amistoso",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol-sala.png",
+          "name": "Stage 1 - Barcelona › Barcelona (19 km)",
+          "info": "16:15 - Ciclismo - Tour de Francia",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
             {
-              "name": "Esport3",
-              "url": "acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FEsport%25203.png%3Fraw%3Dtrue"
+              "name": "La 1",
+              "url": "acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FswhGnw4%2FLa1.jpg"
             },
             {
-              "name": "Esport3",
-              "url": "acestream://21bc11d195f5753c396e390c215952d21541d04d",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FEsport%25203.png%3Fraw%3Dtrue"
+              "name": "La 1 TVE",
+              "url": "acestream://979d3b873871a5a9a56d3eb481ca77b707e01102",
+              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
             },
             {
-              "name": "Esport3",
-              "url": "acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FEsport%25203.png%3Fraw%3Dtrue"
+              "name": "La 1 TVE",
+              "url": "acestream://379192c3ee5a15570e2c685179bc53cb7133cc6c",
+              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
             },
             {
-              "name": "Esport3",
-              "url": "acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FEsport%25203.png%3Fraw%3Dtrue"
+              "name": "La 1 TVE 4K",
+              "url": "acestream://23c952c5b375715db822f2783803c6e28fab0e34",
+              "image": ""
+            },
+            {
+              "name": "La 1 TVE 4K",
+              "url": "acestream://da38a21a9509be8c03b0fdb539cb1485843330c3",
+              "image": ""
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "EUROSPORT 1",
+              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport",
+              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
             }
           ]
         },
         {
-          "name": "Belgium - France Qualification Phase",
-          "info": "18:30 - FIBA Copa Mundial",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fkmrq8QQ%2Fbasketball.png",
-          "stations": [
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Bélgica - Francia",
-              "url": "acestream://1b9bb80c83f7b3b7a6604973194cad3eac2f5654",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Bélgica - Francia",
-              "url": "acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Bélgica - Francia",
-              "url": "acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0",
-              "image": ""
-            },
-            {
-              "name": "FIBA Copa Mundial - Fase de Clasificación Bélgica - Francia",
-              "url": "acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Men's 1/4 final - Premier Padel Tour",
-          "info": "19:00 - Pádel - Burdeos Open",
+          "name": "Semifinal Masculina - Premier Padel Tour",
+          "info": "16:30 - Pádel - Burdeos Open",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fpadel.png",
           "stations": [
             {
@@ -2322,8 +1327,129 @@
           ]
         },
         {
-          "name": "Day 2",
-          "info": "20:00 - Golf - PGA Tour",
+          "name": "Canada - Morocco",
+          "info": "17:00 - Fútbol - FIFA Copa Mundial 2026: 1/8 de Final",
+          "image": "https://www.thesportsdb.com/images/media/event/thumb/z8ewjr1782798427.jpg",
+          "stations": [
+            {
+              "name": "DAZN FIFA 1",
+              "url": "acestream://b2bf586e7ddc31352f120c9274c1441dea3f5418",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "Dazn Mundial 1",
+              "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "Dazn Mundial 1",
+              "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "Carrera 1",
+          "info": "17:05 - Automovilismo - F1 Academy: G.P. Gran Bretaña (Silverstone)",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
+          "stations": [
+            {
+              "name": "DAZN F1",
+              "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://88d7cdd80be237ae21314f7f1b6582991498e8ba",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://27d11bbeb3026231d52de16b1fac48da7a099247",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://724f9b252b11064e3f16220717fd52bd3a510b5f",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2Ndmtbp%2Ff1.png"
+            }
+          ]
+        },
+        {
+          "name": "Semifinals",
+          "info": "18:00 - Baloncesto - FIBA Mundial Sub-17",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fbaloncesto.png",
+          "stations": [
+            {
+              "name": "M+ Baloncesto",
+              "url": "acestream://1b9bb80c83f7b3b7a6604973194cad3eac2f5654",
+              "image": ""
+            },
+            {
+              "name": "M+ Baloncesto",
+              "url": "acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1",
+              "image": ""
+            },
+            {
+              "name": "M+ Baloncesto",
+              "url": "acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0",
+              "image": ""
+            },
+            {
+              "name": "M+ Baloncesto",
+              "url": "acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "name": "Day 3",
+          "info": "18:00 - Golf - PGA Tour",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fgolf.png",
           "stations": [
             {
@@ -2349,82 +1475,186 @@
           ]
         },
         {
-          "name": "PGA Tour -  Jornada 2",
-          "info": "20:00",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgVt4bNf%2Fgolf.png",
+          "name": "Grand Prix",
+          "info": "18:10 - Hípica - Global Champions Tour - Mónaco",
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/tmhk3v1774920281.jpg",
           "stations": [
             {
-              "name": "PGA Tour - Jornada 2",
-              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
-              "image": ""
+              "name": "Eurosport 1",
+              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "PGA Tour - Jornada 2",
-              "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
-              "image": ""
+              "name": "Eurosport 1",
+              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "PGA Tour - Jornada 2",
-              "url": "acestream://f60535a458b3c114283e2f433379144345beddd6",
-              "image": ""
+              "name": "Eurosport 1",
+              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "PGA Tour - Jornada 2",
-              "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
-              "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
+              "name": "EUROSPORT 1",
+              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport",
+              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
             }
           ]
         },
         {
-          "name": "1/16 Final Argentina - Cape Verde",
-          "info": "22:00 - FIFA Copa Mundial 2026",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2vhFM7h%2Fsoccer-ball-variant.png",
+          "name": "Grand Prix of Mid-Ohio - Classification",
+          "info": "18:30 - Automovilismo - IndyCar",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
           "stations": [
             {
-              "name": "FIFA Copa Mundial 2026 - 1/16 de Final Argentina - Cabo Verde",
+              "name": "M+ Deportes 8",
+              "url": "acestream://56820609907a5405f8fa4ddc06eb9af04f6e64d4",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes 8",
+              "url": "acestream://abe6834b6e2509d2ff5b5b04f7ecb1db6e81083a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes 8",
+              "url": "acestream://f5c100695175ba52099664ddb4c5fc4ae0ebe99a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            }
+          ]
+        },
+        {
+          "name": "Eugene (United States)",
+          "info": "20:00 - Atletismo - IAAF Diamond League",
+          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
+          "stations": [
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "MOVISTAR VAMOS",
+              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES",
+              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+            },
+            {
+              "name": "M. Deportes",
+              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            }
+          ]
+        },
+        {
+          "name": "Paraguay - France",
+          "info": "21:00 - Fútbol - FIFA Copa Mundial 2026: 1/8 de Final",
+          "image": "https://www.thesportsdb.com/images/media/event/thumb/90vkdc1782895937.jpg",
+          "stations": [
+            {
+              "name": "DAZN FIFA 1",
               "url": "acestream://b2bf586e7ddc31352f120c9274c1441dea3f5418",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
             },
             {
-              "name": "FIFA Copa Mundial 2026 - 1/16 de Final Argentina - Cabo Verde",
+              "name": "Dazn Mundial 1",
               "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
             },
             {
-              "name": "FIFA Copa Mundial 2026 - 1/16 de Final Argentina - Cabo Verde",
+              "name": "Dazn Mundial 1",
               "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
             },
             {
-              "name": "FIFA Copa Mundial 2026 - 1/16 de Final Argentina - Cabo Verde",
+              "name": "La 1",
               "url": "acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FswhGnw4%2FLa1.jpg"
             },
             {
-              "name": "FIFA Copa Mundial 2026 - 1/16 de Final Argentina - Cabo Verde",
+              "name": "La 1 TVE",
               "url": "acestream://979d3b873871a5a9a56d3eb481ca77b707e01102",
-              "image": ""
+              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
             },
             {
-              "name": "FIFA Copa Mundial 2026 - 1/16 de Final Argentina - Cabo Verde",
+              "name": "La 1 TVE",
               "url": "acestream://379192c3ee5a15570e2c685179bc53cb7133cc6c",
-              "image": ""
+              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
             },
             {
-              "name": "FIFA Copa Mundial 2026 - 1/16 de Final Argentina - Cabo Verde",
+              "name": "La 1 TVE 4K",
               "url": "acestream://23c952c5b375715db822f2783803c6e28fab0e34",
               "image": ""
             },
             {
-              "name": "FIFA Copa Mundial 2026 - 1/16 de Final Argentina - Cabo Verde",
+              "name": "La 1 TVE 4K",
               "url": "acestream://da38a21a9509be8c03b0fdb539cb1485843330c3",
               "image": ""
             }
           ]
         },
         {
-          "name": "Portugal - Croatia",
-          "info": "23:00 - Fútbol - FIFA Copa Mundial 2026: 1/16 de Final",
+          "name": "Argentina - Cape Verde",
+          "info": "22:00 - Fútbol - FIFA Copa Mundial 2026: 1/16 de Final",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
           "stations": [
             {
@@ -2441,6 +1671,31 @@
               "name": "Dazn Mundial 1",
               "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "La 1",
+              "url": "acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FswhGnw4%2FLa1.jpg"
+            },
+            {
+              "name": "La 1 TVE",
+              "url": "acestream://979d3b873871a5a9a56d3eb481ca77b707e01102",
+              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
+            },
+            {
+              "name": "La 1 TVE",
+              "url": "acestream://379192c3ee5a15570e2c685179bc53cb7133cc6c",
+              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
+            },
+            {
+              "name": "La 1 TVE 4K",
+              "url": "acestream://23c952c5b375715db822f2783803c6e28fab0e34",
+              "image": ""
+            },
+            {
+              "name": "La 1 TVE 4K",
+              "url": "acestream://da38a21a9509be8c03b0fdb539cb1485843330c3",
+              "image": ""
             }
           ]
         }
@@ -3574,7 +2829,7 @@
             },
             {
               "name": "MOVISTAR COMEDIA",
-              "url": "acestream://e8cd9088fee41413df360e4539c9e7184a63ffcb",
+              "url": "acestream://28e3a4ee2f3d9876435c534a49e34e1a4ced0f12",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Ftv-logo%2Ftv-logos%2Frefs%2Fheads%2Fmain%2Fcountries%2Fspain%2Fcomedia-por-movistar-plus-es.png"
             },
             {
@@ -3641,7 +2896,7 @@
               "name": "Tennis Channel",
               "info": "[23ac]",
               "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg",
-              "url": "acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf"
+              "url": "acestream://1b348443efc7f0cf4cdf349ac35bbe5d41be6220"
             }
           ]
         },
@@ -4250,7 +3505,7 @@
           "stations": [
             {
               "name": "BEIN SPORTS 1",
-              "url": "acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8",
+              "url": "acestream://ac033bf7bf6eb4efa5ca3f8070742093eab47685",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fdavidmuma%2Fpicons_dobleM%2Fmaster%2Ficon%2FbeIN%2520SPORTS%25201.png"
             },
             {
@@ -4279,7 +3534,7 @@
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Ftvprofil.com%2Fimg%2Fkanali-logo%2FSky_Sports_Football_GB_logo.png%3F1734015024"
             },
             {
-              "name": "ZIGGO SPORT 2",
+              "name": "ZIGGO SPORT",
               "url": "acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0e%2FZiggo_Sport_logo.svg%2F1200px-Ziggo_Sport_logo.svg.png"
             }
@@ -4318,18 +3573,23 @@
           "stations": [
             {
               "name": "CANAL MOTOR",
-              "url": "acestream://35e17cc84abc5e393b5acd688536a9681105f2d5",
+              "url": "acestream://22b250ce7a16dce785b2e1ee6d4e13bdfa7354cc",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fwww.cxtv.com.br%2Fimg%2FTvs%2FLogo%2Fwebp-l%2F3ee9eef4eb12ec1b3e26049e79a43606.webp"
             },
             {
               "name": "MOTORS TV",
-              "url": "acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98",
+              "url": "acestream://a6044ffdb11c0349253f35386c23e994c28cf997",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fwww.mxgp.com%2Fsites%2Fdefault%2Ffiles%2Fnews%2Fimage%2Flogo%2520Motors%2520TV.jpg"
             },
             {
               "name": "MOTORVISION",
               "url": "acestream://b8b8c4470d3d27c75302cf49ab6c4b52a660bff3",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fdavidmuma%2Fpicons_dobleM%2Fmaster%2Ficon%2FMotorvision%2520TV.png"
+            },
+            {
+              "name": "RALLY TV",
+              "url": "acestream://12404b00d2787995d639ccf71a80da5d39d153f9",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg%26s"
             }
           ]
         },
@@ -4380,18 +3640,18 @@
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FzVNFsy0F%2Flogo-otros.png",
           "stations": [
             {
-              "name": "Auto Motor und Sport Channel",
-              "url": "acestream://a211931dace9e4d8975a036b60836fac753e33de",
+              "name": "beIN Movies Turk",
+              "url": "acestream://cd243637855e2c5b2ce926f86032dfc430c79ebb",
               "image": ""
             },
             {
-              "name": "BEIN_GURME",
-              "url": "acestream://7f84bf796fd9df10b5d7672e746fd925fbfa83b5",
+              "name": "Canal+ action",
+              "url": "acestream://61b151415b92d386fc8c167214bf444248dca18a",
               "image": ""
             },
             {
-              "name": "CANAL+ SPORT 2",
-              "url": "acestream://068d51b3279fbb8513847881fd50cc42b93ab2fa",
+              "name": "Canal+ Sport 3 PL",
+              "url": "acestream://b3f2b59e44fe70f45dca643107f88b6fcff80672",
               "image": ""
             },
             {
@@ -4410,8 +3670,63 @@
               "image": ""
             },
             {
+              "name": "Direct Sport 1 FHDp",
+              "url": "acestream://abfb5236dee14625fe1b19ee27f3a89fb6767dcb",
+              "image": ""
+            },
+            {
+              "name": "Esport3 FHDp",
+              "url": "acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc",
+              "image": ""
+            },
+            {
+              "name": "Film+",
+              "url": "acestream://ec7aeef5723f654ee705a192bdcf4eff2fc7c311",
+              "image": ""
+            },
+            {
+              "name": "M+ CINE ESPAnOL Spain",
+              "url": "acestream://812151e00822387172fb695f526415c45ad8cd1b",
+              "image": ""
+            },
+            {
+              "name": "M+ Documentales Spain",
+              "url": "acestream://fcfe83e9b75169730fedf7375127c0190443972e",
+              "image": ""
+            },
+            {
+              "name": "M+ DRAMA Spain",
+              "url": "acestream://acc20f3739d9eccd0539f0c62519f35b8750a245",
+              "image": ""
+            },
+            {
               "name": "M+ Golf 2 FHDp",
               "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
+              "image": ""
+            },
+            {
+              "name": "M+ Hits Spain",
+              "url": "acestream://e10ef7d45baba0ec10a1f237042dc633df947826",
+              "image": ""
+            },
+            {
+              "name": "M+ Indie Spain",
+              "url": "acestream://060f90e77ec1f3478ef81b58569c0158b7851af5",
+              "image": ""
+            },
+            {
+              "name": "M+ Romance Spain",
+              "url": "acestream://3e38995391f980d060508c93ab1783cc4d7c42b6",
+              "image": ""
+            },
+            {
+              "name": "M+ Terror Spain",
+              "url": "acestream://17ad42b190bd0327984ea7efee661564a61bfc5b",
+              "image": ""
+            },
+            {
+              "name": "M+ Wéstern Spain",
+              "url": "acestream://07473038aa16ed164f5989234fafd303eecf67dc",
               "image": ""
             },
             {
@@ -4425,13 +3740,13 @@
               "image": ""
             },
             {
-              "name": "Movistar+",
-              "url": "acestream://318c12f5f40d7bd9c0ab0c130bf9b96668098279",
+              "name": "noa4 Hamburg",
+              "url": "acestream://d6914c08d198edcfbac7562e3db75303bd8fde48",
               "image": ""
             },
             {
               "name": "Pluto TV Auto Motor Sport",
-              "url": "acestream://ffa09e597804001f634dd1829f031823411a2595",
+              "url": "acestream://93780e4164ed775a9a7cd67c44716de58463fa0a",
               "image": ""
             },
             {
@@ -4442,6 +3757,11 @@
             {
               "name": "Setanta Live 1",
               "url": "acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c",
+              "image": ""
+            },
+            {
+              "name": "SuperTennis",
+              "url": "acestream://7a57543cb6061648dc44c5d4321bd100bc8a47ca",
               "image": ""
             },
             {

@@ -1,14 +1,41 @@
 {
   "name": "ZabuluSports",
-  "author": "Actualizado: 2026-07-08 07:16:44",
+  "author": "Actualizado: 2026-07-08 11:23:27",
   "image": "https://i.postimg.cc/d3Zx14SS/goat.png",
-  "info": "Actualizado automáticamente: 2026-07-08 07:16",
+  "info": "Actualizado automáticamente: 2026-07-08 11:23",
   "groups": [
     {
       "name": "Eventos",
       "image": "https://i.postimg.cc/C1743dSB/live-streaming.png",
       "info": "Eventos del día 08/07/2026",
       "groups": [
+        {
+          "name": "Scottish Open – Round 1",
+          "info": "07:30",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgVt4bNf%2Fgolf.png",
+          "stations": [
+            {
+              "name": "Scottish Open - Jornada 1",
+              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
+              "image": ""
+            },
+            {
+              "name": "Scottish Open - Jornada 1",
+              "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
+              "image": ""
+            },
+            {
+              "name": "Scottish Open - Jornada 1",
+              "url": "acestream://f60535a458b3c114283e2f433379144345beddd6",
+              "image": ""
+            },
+            {
+              "name": "Scottish Open - Jornada 1",
+              "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
+              "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
+            }
+          ]
+        },
         {
           "name": "L. Noskova - E. Mertens",
           "info": "12:00 - Tenis - Wimbledon WTA: 1/4 de Final",
@@ -328,6 +355,53 @@
               "name": "MOVISTAR DEPORTES 2",
               "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
               "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+            }
+          ]
+        },
+        {
+          "name": "1/4 Final F. Cobolli - A. Fery",
+          "info": "14:00 - Wimbledon",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
+          "stations": [
+            {
+              "name": "Wimbledon - 1/4 de Final F. Cobolli - A. Fery",
+              "url": "acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0",
+              "image": ""
+            },
+            {
+              "name": "Wimbledon - 1/4 de Final F. Cobolli - A. Fery",
+              "url": "acestream://890901fa742b19d8808cf49f19db2d3016437c56",
+              "image": ""
+            },
+            {
+              "name": "Wimbledon - 1/4 de Final F. Cobolli - A. Fery",
+              "url": "acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "Wimbledon - 1/4 de Final F. Cobolli - A. Fery",
+              "url": "acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191",
+              "image": ""
+            },
+            {
+              "name": "Wimbledon - 1/4 de Final F. Cobolli - A. Fery",
+              "url": "acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "Wimbledon - 1/4 de Final F. Cobolli - A. Fery",
+              "url": "acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539",
+              "image": ""
+            },
+            {
+              "name": "Wimbledon - 1/4 de Final F. Cobolli - A. Fery",
+              "url": "acestream://6b15368775693c33c49fab02e7900c1976a5da90",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "Wimbledon - 1/4 de Final F. Cobolli - A. Fery",
+              "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
+              "image": ""
             }
           ]
         },

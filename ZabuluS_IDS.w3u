@@ -1,34 +1,17 @@
 {
   "name": "ZabuluSports",
-  "author": "Actualizado: 2026-07-14 11:18:36",
+  "author": "Actualizado: 2026-07-15 07:12:39",
   "image": "https://i.postimg.cc/d3Zx14SS/goat.png",
-  "info": "Actualizado automáticamente: 2026-07-14 11:18",
+  "info": "Actualizado automáticamente: 2026-07-15 07:12",
   "groups": [
     {
       "name": "Eventos",
       "image": "https://i.postimg.cc/C1743dSB/live-streaming.png",
-      "info": "Eventos del día 14/07/2026",
+      "info": "Eventos del día 15/07/2026",
       "groups": [
         {
           "name": "2a Ronda - WTA 250",
-          "info": "07:30 - WTA Torneo de Iasi",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "WTA Torneo de Iasi - 2ª Ronda - WTA 250",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": ""
-            },
-            {
-              "name": "WTA Torneo de Iasi - 2ª Ronda - WTA 250",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "K. Quevedo - EG. Ruse",
-          "info": "09:00 - Tenis - WTA Torneo de Iasi: 1ª Ronda",
+          "info": "07:30 - Tenis - WTA Torneo de Iasi",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
@@ -44,25 +27,8 @@
           ]
         },
         {
-          "name": "Y. Putintseva - C. Liu",
-          "info": "10:30 - Tenis - WTA Torneo de Iasi: 1ª Ronda",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
-          "stations": [
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            },
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Etapa 10 - Aurillac › Le Lioran (167 km)",
-          "info": "11:25 - Ciclismo - Tour de Francia",
+          "name": "Etapa 11 - Vichy › Nevers (161 km)",
+          "info": "12:05 - Ciclismo - Tour de Francia",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
             {
@@ -103,51 +69,24 @@
           ]
         },
         {
-          "name": "M. Bulgaru - E. Pridankina",
-          "info": "12:00 - Tenis - WTA Torneo de Iasi: 1ª Ronda",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
-          "stations": [
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            },
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Etapa 10 - Aurillac › Le Lioran (167 km)",
-          "info": "12:40 - Ciclismo - Tour de Francia",
+          "name": "Etapa 11 - Vichy › Nevers (161 km)",
+          "info": "13:20 - Ciclismo - Tour de Francia",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
             {
-              "name": "La 1",
-              "url": "acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e",
+              "name": "La 2 TVE",
+              "url": "acestream://b80cd193286a7df788c07649667c1e6f64fc9dc7",
+              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
+            },
+            {
+              "name": "La 2 TVE",
+              "url": "acestream://1acd38e6176c782f5184c8736e0cf7127b65798b",
+              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
+            },
+            {
+              "name": "La 2",
+              "url": "acestream://e4414e69ccd4cd97f8662e69736c4027e9182e72",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FswhGnw4%2FLa1.jpg"
-            },
-            {
-              "name": "La 1 TVE",
-              "url": "acestream://979d3b873871a5a9a56d3eb481ca77b707e01102",
-              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
-            },
-            {
-              "name": "La 1 TVE",
-              "url": "acestream://379192c3ee5a15570e2c685179bc53cb7133cc6c",
-              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
-            },
-            {
-              "name": "La 1 TVE 4K",
-              "url": "acestream://23c952c5b375715db822f2783803c6e28fab0e34",
-              "image": ""
-            },
-            {
-              "name": "La 1 TVE 4K",
-              "url": "acestream://da38a21a9509be8c03b0fdb539cb1485843330c3",
-              "image": ""
             },
             {
               "name": "Teledeporte",
@@ -207,43 +146,9 @@
           ]
         },
         {
-          "name": "P. Badosa - A. Kalinina",
-          "info": "14:30 - Tenis - WTA Torneo de Iasi: 1ª Ronda",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
-          "stations": [
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            },
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            }
-          ]
-        },
-        {
-          "name": "I.D. Amariei - E. Jacquemot",
-          "info": "16:00 - Tenis - WTA Torneo de Iasi: 1ª Ronda",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
-          "stations": [
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            },
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            }
-          ]
-        },
-        {
-          "name": "France - Spain",
+          "name": "England - Argentina",
           "info": "19:00 - Fútbol - FIFA Copa Mundial 2026: Semifinales",
-          "image": "https://www.thesportsdb.com/images/media/event/thumb/1kp4vp1783751531.jpg",
+          "image": "https://www.thesportsdb.com/images/media/event/thumb/njzfqm1783849834.jpg",
           "stations": [
             {
               "name": "DAZN FIFA 1",
@@ -284,140 +189,6 @@
               "name": "La 1 TVE 4K",
               "url": "acestream://da38a21a9509be8c03b0fdb539cb1485843330c3",
               "image": ""
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Semifinals France - Spain",
-          "info": "19:00 - FIFA Copa Mundial 2026",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2vhFM7h%2Fsoccer-ball-variant.png",
-          "stations": [
-            {
-              "name": "FIFA Copa Mundial 2026 - Semifinales Francia - España",
-              "url": "acestream://b2bf586e7ddc31352f120c9274c1441dea3f5418",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Semifinales Francia - España",
-              "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Semifinales Francia - España",
-              "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Semifinales Francia - España",
-              "url": "acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Semifinales Francia - España",
-              "url": "acestream://979d3b873871a5a9a56d3eb481ca77b707e01102",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Semifinales Francia - España",
-              "url": "acestream://379192c3ee5a15570e2c685179bc53cb7133cc6c",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Semifinales Francia - España",
-              "url": "acestream://23c952c5b375715db822f2783803c6e28fab0e34",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Semifinales Francia - España",
-              "url": "acestream://da38a21a9509be8c03b0fdb539cb1485843330c3",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Semifinales Francia - España",
-              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Semifinales Francia - España",
-              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Semifinales Francia - España",
-              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
-              "image": ""
-            },
-            {
-              "name": "FIFA Copa Mundial 2026 - Semifinales Francia - España",
-              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            }
-          ]
-        },
-        {
-          "name": "MLB -  All Star Game",
-          "info": "23:25",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FxSmPRrx%2Fpelota.png",
-          "stations": [
-            {
-              "name": "MLB - All Star Game",
-              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "MLB - All Star Game",
-              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
-              "image": ""
-            },
-            {
-              "name": "MLB - All Star Game",
-              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
-              "image": ""
-            },
-            {
-              "name": "MLB - All Star Game",
-              "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "MLB - All Star Game",
-              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
-              "image": ""
-            },
-            {
-              "name": "MLB - All Star Game",
-              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "MLB - All Star Game",
-              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
-              "image": ""
-            },
-            {
-              "name": "MLB - All Star Game",
-              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             }
           ]
         }

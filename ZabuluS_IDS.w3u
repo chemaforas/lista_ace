@@ -1,44 +1,44 @@
 {
   "name": "ZabuluSports",
-  "author": "Actualizado: 2026-07-15 11:19:11",
+  "author": "Actualizado: 2026-07-16 07:13:39",
   "image": "https://i.postimg.cc/d3Zx14SS/goat.png",
-  "info": "Actualizado automáticamente: 2026-07-15 11:19",
+  "info": "Actualizado automáticamente: 2026-07-16 07:13",
   "groups": [
     {
       "name": "Eventos",
       "image": "https://i.postimg.cc/C1743dSB/live-streaming.png",
-      "info": "Eventos del día 15/07/2026",
+      "info": "Eventos del día 16/07/2026",
       "groups": [
         {
-          "name": "WTA Torneo de Iasi - Jornada 1",
-          "info": "05:30",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgVt4bNf%2Fgolf.png",
+          "name": "Day 1",
+          "info": "05:30 - Golf - Open Británico",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fgolf.png",
           "stations": [
             {
-              "name": "WTA Torneo de Iasi - Jornada 1",
+              "name": "M+ Golf",
               "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
               "image": ""
             },
             {
-              "name": "WTA Torneo de Iasi - Jornada 1",
+              "name": "M+ Golf",
               "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
               "image": ""
             },
             {
-              "name": "WTA Torneo de Iasi - Jornada 1",
+              "name": "M+ Golf",
               "url": "acestream://f60535a458b3c114283e2f433379144345beddd6",
               "image": ""
             },
             {
-              "name": "WTA Torneo de Iasi - Jornada 1",
+              "name": "MOVISTAR GOLF",
               "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
               "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
             }
           ]
         },
         {
-          "name": "2a Ronda - WTA 250",
-          "info": "07:30 - Tenis - WTA Torneo de Iasi",
+          "name": "M. Sherif - K. Quevedo",
+          "info": "10:00 - Tenis - WTA Torneo de Iasi: 2ª Ronda",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
@@ -54,8 +54,52 @@
           ]
         },
         {
-          "name": "Etapa 11 - Vichy › Nevers (161 km)",
-          "info": "12:05 - Ciclismo - Tour de Francia",
+          "name": "Day 1",
+          "info": "10:00 - Golf - Open Británico",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fgolf.png",
+          "stations": [
+            {
+              "name": "M+ Golf",
+              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
+              "image": ""
+            },
+            {
+              "name": "M+ Golf",
+              "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
+              "image": ""
+            },
+            {
+              "name": "M+ Golf",
+              "url": "acestream://f60535a458b3c114283e2f433379144345beddd6",
+              "image": ""
+            },
+            {
+              "name": "MOVISTAR GOLF",
+              "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
+              "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
+            }
+          ]
+        },
+        {
+          "name": "O. Oliynykova - E. Pridankina",
+          "info": "11:30 - Tenis - WTA Torneo de Iasi: 2ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            },
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Etapa 12 - Nevers Magny-Cours circuit › Chalon-sur-Saône (181 km)",
+          "info": "11:40 - Ciclismo - Tour de Francia",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
             {
@@ -96,8 +140,8 @@
           ]
         },
         {
-          "name": "Etapa 11 - Vichy › Nevers (161 km)",
-          "info": "13:20 - Ciclismo - Tour de Francia",
+          "name": "Etapa 12 - Nevers Magny-Cours circuit › Chalon-sur-Saône (181 km)",
+          "info": "12:55 - Ciclismo - Tour de Francia",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
             {
@@ -173,96 +217,157 @@
           ]
         },
         {
-          "name": "England - Argentina",
-          "info": "19:00 - Fútbol - FIFA Copa Mundial 2026: Semifinales",
-          "image": "https://www.thesportsdb.com/images/media/event/thumb/njzfqm1783849834.jpg",
+          "name": "A. Ibragimova - P. Badosa",
+          "info": "14:30 - Tenis - WTA Torneo de Iasi: 2ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
-              "name": "DAZN FIFA 1",
-              "url": "acestream://b2bf586e7ddc31352f120c9274c1441dea3f5418",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+              "name": "Tennis Channel",
+              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
             },
             {
-              "name": "Dazn Mundial 1",
-              "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            },
-            {
-              "name": "Dazn Mundial 1",
-              "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            },
-            {
-              "name": "La 1",
-              "url": "acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FswhGnw4%2FLa1.jpg"
-            },
-            {
-              "name": "La 1 TVE",
-              "url": "acestream://979d3b873871a5a9a56d3eb481ca77b707e01102",
-              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
-            },
-            {
-              "name": "La 1 TVE",
-              "url": "acestream://379192c3ee5a15570e2c685179bc53cb7133cc6c",
-              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
-            },
-            {
-              "name": "La 1 TVE 4K",
-              "url": "acestream://23c952c5b375715db822f2783803c6e28fab0e34",
-              "image": ""
-            },
-            {
-              "name": "La 1 TVE 4K",
-              "url": "acestream://da38a21a9509be8c03b0fdb539cb1485843330c3",
-              "image": ""
+              "name": "Tennis Channel",
+              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
             }
           ]
         },
         {
-          "name": "Semifinals England - Argentina",
-          "info": "19:00 - FIFA Copa Mundial 2026",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2vhFM7h%2Fsoccer-ball-variant.png",
+          "name": "P. Udvardy - K. Kawa",
+          "info": "16:00 - Tenis - WTA Torneo de Iasi: 2ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
-              "name": "FIFA Copa Mundial 2026 - Semifinales Inglaterra - Argentina",
-              "url": "acestream://b2bf586e7ddc31352f120c9274c1441dea3f5418",
+              "name": "Tennis Channel",
+              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            },
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Day 1",
+          "info": "17:30 - Golf - Open Británico",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fgolf.png",
+          "stations": [
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "MOVISTAR VAMOS",
+              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgWMRpFB%2Fvamos.png"
+            },
+            {
+              "name": "M+ Golf",
+              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
               "image": ""
             },
             {
-              "name": "FIFA Copa Mundial 2026 - Semifinales Inglaterra - Argentina",
-              "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
+              "name": "M+ Golf",
+              "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
               "image": ""
             },
             {
-              "name": "FIFA Copa Mundial 2026 - Semifinales Inglaterra - Argentina",
-              "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
+              "name": "M+ Golf",
+              "url": "acestream://f60535a458b3c114283e2f433379144345beddd6",
               "image": ""
             },
             {
-              "name": "FIFA Copa Mundial 2026 - Semifinales Inglaterra - Argentina",
-              "url": "acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e",
-              "image": ""
+              "name": "MOVISTAR GOLF",
+              "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
+              "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
+            }
+          ]
+        },
+        {
+          "name": "World Athletics Continental Tour - Vallehermoso Stadium (Madrid)",
+          "info": "18:15 - Atletismo - Madrid Meeting",
+          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
+          "stations": [
+            {
+              "name": "Teledeporte",
+              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             },
             {
-              "name": "FIFA Copa Mundial 2026 - Semifinales Inglaterra - Argentina",
-              "url": "acestream://979d3b873871a5a9a56d3eb481ca77b707e01102",
-              "image": ""
+              "name": "Teledeporte",
+              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             },
             {
-              "name": "FIFA Copa Mundial 2026 - Semifinales Inglaterra - Argentina",
-              "url": "acestream://379192c3ee5a15570e2c685179bc53cb7133cc6c",
-              "image": ""
+              "name": "Teledeporte",
+              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
             },
             {
-              "name": "FIFA Copa Mundial 2026 - Semifinales Inglaterra - Argentina",
-              "url": "acestream://23c952c5b375715db822f2783803c6e28fab0e34",
-              "image": ""
+              "name": "Teledeporte",
+              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            }
+          ]
+        },
+        {
+          "name": "La Zarzuela Racecourse 07/16/2026",
+          "info": "19:55 - Hípica - Las Carreras",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fhipica.png",
+          "stations": [
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "FIFA Copa Mundial 2026 - Semifinales Inglaterra - Argentina",
-              "url": "acestream://da38a21a9509be8c03b0fdb539cb1485843330c3",
-              "image": ""
+              "name": "M+ Deportes",
+              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES",
+              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
+            },
+            {
+              "name": "M. Deportes",
+              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             }
           ]
         }

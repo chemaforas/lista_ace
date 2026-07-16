@@ -1,7 +1,7 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "last_update": "2026-07-16T10:46:31Z"
+    "last_update": "2026-07-16T11:17:05Z"
   },
   "eventos": [
     {
@@ -1736,6 +1736,63 @@
       ]
     },
     {
+      "id": 176,
+      "nombre": "Tour de France - Round 1",
+      "categoria": "",
+      "fecha_hora": "2026-07-16T17:30:00",
+      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/rssscc1621154980.jpg",
+      "detalles": [
+        {
+          "tipo": "acestream",
+          "nombre_canal": "Tour de Francia - Jornada 1",
+          "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
+          "imagen_idiom": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "Tour de Francia - Jornada 1",
+          "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
+          "imagen_idiom": ""
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "Tour de Francia - Jornada 1",
+          "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
+          "imagen_idiom": ""
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "Tour de Francia - Jornada 1",
+          "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
+          "imagen_idiom": ""
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "Tour de Francia - Jornada 1",
+          "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
+          "imagen_idiom": ""
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "Tour de Francia - Jornada 1",
+          "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
+          "imagen_idiom": ""
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "Tour de Francia - Jornada 1",
+          "url": "acestream://f60535a458b3c114283e2f433379144345beddd6",
+          "imagen_idiom": ""
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "Tour de Francia - Jornada 1",
+          "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
+          "imagen_idiom": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
+        }
+      ]
+    },
+    {
       "id": 52,
       "nombre": "🇮🇪 Derry City vs 🇧🇬 CSKA Sofia",
       "categoria": "UEFA Europa League ⚽ - ⚽ UEFA Europa League",
@@ -2167,6 +2224,39 @@
           "url": "https://dlhd.pk/stream/stream-3061.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=3061"
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "nombre": "Tour de France - Round 1",
+      "categoria": "",
+      "fecha_hora": "2026-07-16T10:00:00",
+      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/rssscc1621154980.jpg",
+      "detalles": [
+        {
+          "tipo": "acestream",
+          "nombre_canal": "Tour de Francia - Jornada 1",
+          "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
+          "imagen_idiom": ""
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "Tour de Francia - Jornada 1",
+          "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
+          "imagen_idiom": ""
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "Tour de Francia - Jornada 1",
+          "url": "acestream://f60535a458b3c114283e2f433379144345beddd6",
+          "imagen_idiom": ""
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "Tour de Francia - Jornada 1",
+          "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
+          "imagen_idiom": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
         }
       ]
     },

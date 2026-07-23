@@ -1,52 +1,18 @@
 {
   "name": "ZabuluSports",
-  "author": "Actualizado: 2026-07-22 11:17:58",
+  "author": "Actualizado: 2026-07-23 07:09:57",
   "image": "https://i.postimg.cc/d3Zx14SS/goat.png",
-  "info": "Actualizado automáticamente: 2026-07-22 11:17",
+  "info": "Actualizado automáticamente: 2026-07-23 07:09",
   "groups": [
     {
       "name": "Eventos",
       "image": "https://i.postimg.cc/C1743dSB/live-streaming.png",
-      "info": "Eventos del día 22/07/2026",
+      "info": "Eventos del día 23/07/2026",
       "groups": [
         {
-          "name": "2a Ronda - WTA 250",
-          "info": "08:05 - Tenis - WTA Torneo de Hamburgo",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
-          "stations": [
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            },
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            }
-          ]
-        },
-        {
-          "name": "T.J. Brockmann - E. Jacquemot",
-          "info": "09:30 - Tenis - WTA Torneo de Hamburgo: 1ª Ronda",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
-          "stations": [
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            },
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Spain - Hungary",
-          "info": "10:10 - Deportes Acuáticos - Copa Mundial de Waterpolo F",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fnsw23YC%2Fcycling.png",
+          "name": "Spain - Australia",
+          "info": "08:25 - Deportes Acuáticos - FINA Men's Water Polo World Cup",
+          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
           "stations": [
             {
               "name": "Teledeporte",
@@ -71,8 +37,42 @@
           ]
         },
         {
-          "name": "Etapa 17 - Chambery › Voiron (174.7 km)",
-          "info": "10:35 - Ciclismo - Tour de Francia",
+          "name": "M. Sherif - E. Jacquemot",
+          "info": "09:00 - Tenis - WTA Torneo de Hamburgo: 2ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            },
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "O. Oliynykova - L. Romero",
+          "info": "10:30 - Tenis - WTA Torneo de Hamburgo: 2ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            },
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Etapa 18 - Voiron › Orcières-Merlette (185.2 km)",
+          "info": "10:50 - Ciclismo - Tour de Francia",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
             {
@@ -113,8 +113,79 @@
           ]
         },
         {
-          "name": "Etapa 17 - Chambery › Voiron (174.7 km)",
-          "info": "12:50 - Ciclismo - Tour de Francia",
+          "name": "Day 1",
+          "info": "11:45 - Golf - 3M Open",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fgolf.png",
+          "stations": [
+            {
+              "name": "M+ Golf",
+              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
+              "image": ""
+            },
+            {
+              "name": "M+ Golf",
+              "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
+              "image": ""
+            },
+            {
+              "name": "M+ Golf",
+              "url": "acestream://f60535a458b3c114283e2f433379144345beddd6",
+              "image": ""
+            },
+            {
+              "name": "MOVISTAR GOLF",
+              "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
+              "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
+            }
+          ]
+        },
+        {
+          "name": "P. Badosa - P. Udvardy",
+          "info": "12:00 - Tenis - WTA Torneo de Hamburgo: 2ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            },
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Not available",
+          "info": "12:00 - Golf - LIV Golf",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fgolf.png",
+          "stations": [
+            {
+              "name": "M+ Golf",
+              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
+              "image": ""
+            },
+            {
+              "name": "M+ Golf",
+              "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
+              "image": ""
+            },
+            {
+              "name": "M+ Golf",
+              "url": "acestream://f60535a458b3c114283e2f433379144345beddd6",
+              "image": ""
+            },
+            {
+              "name": "MOVISTAR GOLF",
+              "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
+              "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
+            }
+          ]
+        },
+        {
+          "name": "Etapa 18 - Voiron › Orcières-Merlette (185.2 km)",
+          "info": "12:05 - Ciclismo - Tour de Francia",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
             {
@@ -175,26 +246,36 @@
           ]
         },
         {
-          "name": "Etapa 17 - Chambery › Voiron (174.7 km)",
-          "info": "14:15 - Ciclismo - Tour de Francia",
+          "name": "Etapa 18 - Voiron › Orcières-Merlette (185.2 km)",
+          "info": "13:50 - Ciclismo - Tour de Francia",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
             {
-              "name": "La 2 TVE",
-              "url": "acestream://b80cd193286a7df788c07649667c1e6f64fc9dc7",
-              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
-            },
-            {
-              "name": "La 2 TVE",
-              "url": "acestream://1acd38e6176c782f5184c8736e0cf7127b65798b",
-              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
-            },
-            {
-              "name": "La 2",
-              "url": "acestream://e4414e69ccd4cd97f8662e69736c4027e9182e72",
+              "name": "La 1",
+              "url": "acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FswhGnw4%2FLa1.jpg"
             },
             {
+              "name": "La 1 TVE",
+              "url": "acestream://979d3b873871a5a9a56d3eb481ca77b707e01102",
+              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
+            },
+            {
+              "name": "La 1 TVE",
+              "url": "acestream://379192c3ee5a15570e2c685179bc53cb7133cc6c",
+              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
+            },
+            {
+              "name": "La 1 TVE 4K",
+              "url": "acestream://23c952c5b375715db822f2783803c6e28fab0e34",
+              "image": ""
+            },
+            {
+              "name": "La 1 TVE 4K",
+              "url": "acestream://da38a21a9509be8c03b0fdb539cb1485843330c3",
+              "image": ""
+            },
+            {
               "name": "Eurosport 1",
               "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
               "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
@@ -232,113 +313,120 @@
           ]
         },
         {
-          "name": "Valencia CF - Eldense",
-          "info": "18:00 - Fútbol - Amistoso",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
+          "name": "E. Avanesyan - Y. Putintseva",
+          "info": "15:00 - Tenis - WTA Torneo de Hamburgo: 2ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
-              "name": "Gol TV",
-              "url": "acestream://9bc65384425e92f3a28f977508db3df62d037300",
-              "image": ""
+              "name": "Tennis Channel",
+              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
             },
             {
-              "name": "Gol TV",
-              "url": "acestream://42d3724b275c8029cef0b4d9ce4c59add5cd3ec1",
-              "image": ""
+              "name": "Tennis Channel",
+              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
             }
           ]
         },
         {
-          "name": "UE Olot - Girona",
-          "info": "18:00 - Fútbol - Amistoso",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
+          "name": "Kayak semi-finals",
+          "info": "15:00 - Deportes Acuáticos - Mundial de piragüismo en eslalon",
+          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
           "stations": [
             {
-              "name": "Esport3",
-              "url": "acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FEsport%25203.png%3Fraw%3Dtrue"
+              "name": "Teledeporte",
+              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             },
             {
-              "name": "Esport3",
-              "url": "acestream://21bc11d195f5753c396e390c215952d21541d04d",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FEsport%25203.png%3Fraw%3Dtrue"
+              "name": "Teledeporte",
+              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             },
             {
-              "name": "Esport3",
-              "url": "acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FEsport%25203.png%3Fraw%3Dtrue"
+              "name": "Teledeporte",
+              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
             },
             {
-              "name": "Esport3",
-              "url": "acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fgithub.com%2Fdavidmuma%2Fpicons_dobleM%2Fblob%2Fmaster%2Ficon%2FEsport%25203.png%3Fraw%3Dtrue"
+              "name": "Teledeporte",
+              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             }
           ]
         },
         {
-          "name": "Playoffs Medellin - Vasco da Gama",
-          "info": "22:00 - Copa Sudamericana",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2vhFM7h%2Fsoccer-ball-variant.png",
+          "name": "kayak finals",
+          "info": "19:05 - Deportes Acuáticos - Mundial de piragüismo en eslalon",
+          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
           "stations": [
             {
-              "name": "Copa Sudamericana - Playoffs Medellín - Vasco da Gama",
-              "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
-              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+              "name": "Teledeporte",
+              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             },
             {
-              "name": "Copa Sudamericana - Playoffs Medellín - Vasco da Gama",
-              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
-              "image": ""
+              "name": "Teledeporte",
+              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             },
             {
-              "name": "Copa Sudamericana - Playoffs Medellín - Vasco da Gama",
-              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
-              "image": ""
+              "name": "Teledeporte",
+              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
             },
             {
-              "name": "Copa Sudamericana - Playoffs Medellín - Vasco da Gama",
-              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
-              "image": ""
+              "name": "Teledeporte",
+              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            }
+          ]
+        },
+        {
+          "name": "La Zarzuela Racecourse 07/23/2026",
+          "info": "19:55 - Hípica - Las Carreras",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fhipica.png",
+          "stations": [
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Copa Sudamericana - Playoffs Medellín - Vasco da Gama",
-              "url": "acestream://2c7043173b83cd5c55a34dc066b63e3997bdede8",
-              "image": ""
+              "name": "M+ Deportes",
+              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "Copa Sudamericana - Playoffs Medellín - Vasco da Gama",
-              "url": "acestream://91af434b0bb521189286f8cbbab1aed39d7536fe",
-              "image": ""
+              "name": "M+ Deportes",
+              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "Copa Sudamericana - Playoffs Medellín - Vasco da Gama",
-              "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9",
-              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+              "name": "M+ Deportes",
+              "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Copa Sudamericana - Playoffs Medellín - Vasco da Gama",
-              "url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920",
-              "image": ""
+              "name": "M+ Deportes",
+              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "Copa Sudamericana - Playoffs Medellín - Vasco da Gama",
-              "url": "acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22",
-              "image": ""
+              "name": "M+ Deportes",
+              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Copa Sudamericana - Playoffs Medellín - Vasco da Gama",
-              "url": "acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439",
-              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+              "name": "MOVISTAR DEPORTES",
+              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             },
             {
-              "name": "Copa Sudamericana - Playoffs Medellín - Vasco da Gama",
-              "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
-              "image": ""
-            },
-            {
-              "name": "Copa Sudamericana - Playoffs Medellín - Vasco da Gama",
-              "url": "acestream://a3197f5fa9d42f199d5bbe5a5c47ec4cfbf248cb",
-              "image": ""
+              "name": "M. Deportes",
+              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             }
           ]
         }

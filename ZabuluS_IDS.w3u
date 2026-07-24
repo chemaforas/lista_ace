@@ -1,18 +1,18 @@
 {
   "name": "ZabuluSports",
-  "author": "Actualizado: 2026-07-23 11:17:01",
+  "author": "Actualizado: 2026-07-24 07:09:55",
   "image": "https://i.postimg.cc/d3Zx14SS/goat.png",
-  "info": "Actualizado automáticamente: 2026-07-23 11:17",
+  "info": "Actualizado automáticamente: 2026-07-24 07:09",
   "groups": [
     {
       "name": "Eventos",
       "image": "https://i.postimg.cc/C1743dSB/live-streaming.png",
-      "info": "Eventos del día 23/07/2026",
+      "info": "Eventos del día 24/07/2026",
       "groups": [
         {
-          "name": "Spain - Australia",
-          "info": "08:25 - Deportes Acuáticos - FINA Men's Water Polo World Cup",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgVt4bNf%2Fgolf.png",
+          "name": "Spain - Croatia",
+          "info": "04:55 - Deportes Acuáticos - FINA Men's Water Polo World Cup",
+          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
           "stations": [
             {
               "name": "Teledeporte",
@@ -37,8 +37,35 @@
           ]
         },
         {
-          "name": "M. Sherif - E. Jacquemot",
-          "info": "09:00 - Tenis - WTA Torneo de Hamburgo: 2ª Ronda",
+          "name": "Morning Session - Ciudad de Malaga Stadium",
+          "info": "07:30 - Atletismo - Campeonato de España",
+          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
+          "stations": [
+            {
+              "name": "Teledeporte",
+              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            }
+          ]
+        },
+        {
+          "name": "1/4 Final - WTA 250",
+          "info": "09:05 - Tenis - WTA Torneo de Hamburgo",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
@@ -54,66 +81,153 @@
           ]
         },
         {
-          "name": "O. Oliynykova - L. Romero",
-          "info": "10:30 - Tenis - WTA Torneo de Hamburgo: 2ª Ronda",
+          "name": "2nd semi-final Russia - Spain",
+          "info": "10:13 - Deportes Acuáticos - Copa Mundial de Waterpolo F",
+          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
+          "stations": [
+            {
+              "name": "Teledeporte",
+              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Y. Hanfmann - Q. Halys",
+          "info": "10:30 - Tenis - Torneo de Kitzbühel: Semifinal 1",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
-              "name": "Tennis Channel",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+              "name": "M+ Deportes 2",
+              "url": "acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "Tennis Channel",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+              "name": "M+ Deportes 2",
+              "url": "acestream://890901fa742b19d8808cf49f19db2d3016437c56",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://6b15368775693c33c49fab02e7900c1976a5da90",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES 2",
+              "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             }
           ]
         },
         {
-          "name": "Etapa 18 - Voiron › Orcières-Merlette (185.2 km)",
-          "info": "10:50 - Ciclismo - Tour de Francia",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
+          "name": "Free 1",
+          "info": "11:30 - Automovilismo - Fórmula 1: G.P. Hungría (Hungaroring)",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
           "stations": [
             {
-              "name": "Eurosport 1",
-              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+              "name": "DAZN F1",
+              "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "Eurosport 1",
-              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+              "name": "DAZN F1",
+              "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "Eurosport 1",
-              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+              "name": "DAZN F1",
+              "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "EUROSPORT 1",
-              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+              "name": "DAZN F1",
+              "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "Eurosport 1",
-              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+              "name": "DAZN F1",
+              "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "Eurosport 1",
-              "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+              "name": "DAZN F1",
+              "url": "acestream://88d7cdd80be237ae21314f7f1b6582991498e8ba",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "Eurosport",
-              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
+              "name": "DAZN F1",
+              "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://27d11bbeb3026231d52de16b1fac48da7a099247",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://724f9b252b11064e3f16220717fd52bd3a510b5f",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2Ndmtbp%2Ff1.png"
             }
           ]
         },
         {
-          "name": "Day 1",
+          "name": "Day 2",
           "info": "11:45 - Golf - 3M Open",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fgolf.png",
           "stations": [
@@ -140,46 +254,49 @@
           ]
         },
         {
-          "name": "3M Open – Round 1",
-          "info": "11:45",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgVt4bNf%2Fgolf.png",
-          "stations": [
-            {
-              "name": "3M Open - Jornada 1",
-              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
-              "image": ""
-            },
-            {
-              "name": "3M Open - Jornada 1",
-              "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
-              "image": ""
-            },
-            {
-              "name": "3M Open - Jornada 1",
-              "url": "acestream://f60535a458b3c114283e2f433379144345beddd6",
-              "image": ""
-            },
-            {
-              "name": "3M Open - Jornada 1",
-              "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
-              "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
-            }
-          ]
-        },
-        {
-          "name": "P. Badosa - P. Udvardy",
-          "info": "12:00 - Tenis - WTA Torneo de Hamburgo: 2ª Ronda",
+          "name": "A. Bublik - TM. Etcheverry",
+          "info": "12:00 - Tenis - Torneo de Kitzbühel: Semifinal 2",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
-              "name": "Tennis Channel",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+              "name": "M+ Deportes 2",
+              "url": "acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
             },
             {
-              "name": "Tennis Channel",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+              "name": "M+ Deportes 2",
+              "url": "acestream://890901fa742b19d8808cf49f19db2d3016437c56",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://6b15368775693c33c49fab02e7900c1976a5da90",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "MOVISTAR DEPORTES 2",
+              "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
             }
           ]
         },
@@ -211,57 +328,10 @@
           ]
         },
         {
-          "name": "LIV Golf - Not available",
-          "info": "12:00",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgVt4bNf%2Fgolf.png",
-          "stations": [
-            {
-              "name": "LIV Golf - No disponible",
-              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
-              "image": ""
-            },
-            {
-              "name": "LIV Golf - No disponible",
-              "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
-              "image": ""
-            },
-            {
-              "name": "LIV Golf - No disponible",
-              "url": "acestream://f60535a458b3c114283e2f433379144345beddd6",
-              "image": ""
-            },
-            {
-              "name": "LIV Golf - No disponible",
-              "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
-              "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
-            }
-          ]
-        },
-        {
-          "name": "Etapa 18 - Voiron › Orcières-Merlette (185.2 km)",
-          "info": "12:05 - Ciclismo - Tour de Francia",
+          "name": "Stage 19 - Gap › Alpe d'Huez (127.9 km)",
+          "info": "12:15 - Ciclismo - Tour de Francia",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
-            {
-              "name": "Teledeporte",
-              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
             {
               "name": "Eurosport 1",
               "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
@@ -300,8 +370,80 @@
           ]
         },
         {
-          "name": "Etapa 18 - Voiron › Orcières-Merlette (185.2 km)",
-          "info": "13:50 - Ciclismo - Tour de Francia",
+          "name": "Classification",
+          "info": "13:00 - Automovilismo - FIA Fórmula 3: G.P. Hungría (Hungaroring)",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
+          "stations": [
+            {
+              "name": "DAZN F1",
+              "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://88d7cdd80be237ae21314f7f1b6582991498e8ba",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://27d11bbeb3026231d52de16b1fac48da7a099247",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://724f9b252b11064e3f16220717fd52bd3a510b5f",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2Ndmtbp%2Ff1.png"
+            }
+          ]
+        },
+        {
+          "name": "Stage 19 - Gap › Alpe d'Huez (127.9 km)",
+          "info": "13:30 - Ciclismo - Tour de Francia",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
             {
@@ -330,6 +472,26 @@
               "image": ""
             },
             {
+              "name": "Teledeporte",
+              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Ffb9dbDW%2Ftdp.png"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
               "name": "Eurosport 1",
               "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
               "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
@@ -367,24 +529,151 @@
           ]
         },
         {
-          "name": "E. Avanesyan - Y. Putintseva",
-          "info": "15:00 - Tenis - WTA Torneo de Hamburgo: 2ª Ronda",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "name": "Classification",
+          "info": "14:05 - Automovilismo - FIA Fórmula 2: G.P. Hungría (Hungaroring)",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
           "stations": [
             {
-              "name": "Tennis Channel",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+              "name": "DAZN F1",
+              "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
             },
             {
-              "name": "Tennis Channel",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+              "name": "DAZN F1",
+              "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://88d7cdd80be237ae21314f7f1b6582991498e8ba",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://27d11bbeb3026231d52de16b1fac48da7a099247",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://724f9b252b11064e3f16220717fd52bd3a510b5f",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2Ndmtbp%2Ff1.png"
             }
           ]
         },
         {
-          "name": "Kayak semi-finals",
+          "name": "Free 2",
+          "info": "15:00 - Automovilismo - Fórmula 1: G.P. Hungría (Hungaroring)",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
+          "stations": [
+            {
+              "name": "DAZN F1",
+              "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://88d7cdd80be237ae21314f7f1b6582991498e8ba",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://27d11bbeb3026231d52de16b1fac48da7a099247",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://724f9b252b11064e3f16220717fd52bd3a510b5f",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2Ndmtbp%2Ff1.png"
+            }
+          ]
+        },
+        {
+          "name": "Canoe semi-finals",
           "info": "15:00 - Deportes Acuáticos - Mundial de piragüismo en eslalon",
           "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
           "stations": [
@@ -411,35 +700,8 @@
           ]
         },
         {
-          "name": "The Senior Open Championship -  Semifinales kayak",
-          "info": "15:00",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgVt4bNf%2Fgolf.png",
-          "stations": [
-            {
-              "name": "The Senior Open Championship - Semifinales kayak",
-              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "The Senior Open Championship - Semifinales kayak",
-              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "The Senior Open Championship - Semifinales kayak",
-              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
-              "image": ""
-            },
-            {
-              "name": "The Senior Open Championship - Semifinales kayak",
-              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            }
-          ]
-        },
-        {
-          "name": "kayak finals",
-          "info": "19:05 - Deportes Acuáticos - Mundial de piragüismo en eslalon",
+          "name": "Afternoon Session - Malaga City Stadium",
+          "info": "18:00 - Atletismo - Campeonato de España",
           "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
           "stations": [
             {
@@ -461,132 +723,6 @@
               "name": "Teledeporte",
               "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            }
-          ]
-        },
-        {
-          "name": "The Senior Open Championship -  Finales kayak",
-          "info": "19:05",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgVt4bNf%2Fgolf.png",
-          "stations": [
-            {
-              "name": "The Senior Open Championship - Finales kayak",
-              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "The Senior Open Championship - Finales kayak",
-              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "The Senior Open Championship - Finales kayak",
-              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
-              "image": ""
-            },
-            {
-              "name": "The Senior Open Championship - Finales kayak",
-              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            }
-          ]
-        },
-        {
-          "name": "La Zarzuela Racecourse 07/23/2026",
-          "info": "19:55 - Hípica - Las Carreras",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fhipica.png",
-          "stations": [
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            },
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "MOVISTAR DEPORTES",
-              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FCV4CLjz%2Fdeportes.png"
-            },
-            {
-              "name": "M. Deportes",
-              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fq95fBKV%2Fdeportes.png"
-            }
-          ]
-        },
-        {
-          "name": "Corinthians - Remo",
-          "info": "22:30 - Serie A Brasil",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2vhFM7h%2Fsoccer-ball-variant.png",
-          "stations": [
-            {
-              "name": "Serie A Brasil - Corinthians - Remo",
-              "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
-              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
-            },
-            {
-              "name": "Serie A Brasil - Corinthians - Remo",
-              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
-              "image": ""
-            },
-            {
-              "name": "Serie A Brasil - Corinthians - Remo",
-              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
-              "image": ""
-            },
-            {
-              "name": "Serie A Brasil - Corinthians - Remo",
-              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
-              "image": ""
-            },
-            {
-              "name": "Serie A Brasil - Corinthians - Remo",
-              "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5",
-              "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Serie A Brasil - Corinthians - Remo",
-              "url": "acestream://8156912ae14f6174a19c8a4efcf36a06e847f632",
-              "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Serie A Brasil - Corinthians - Remo",
-              "url": "acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e",
-              "image": ""
-            },
-            {
-              "name": "Serie A Brasil - Corinthians - Remo",
-              "url": "acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea",
-              "image": ""
-            },
-            {
-              "name": "Serie A Brasil - Corinthians - Remo",
-              "url": "acestream://f00b018faa7d17cc2fb27f34f567a69ca0d1081f",
-              "image": ""
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "last_update": "2026-08-01T11:20:13Z"
+    "last_update": "2026-08-01T11:58:33Z"
   },
   "eventos": [
     {
@@ -29,6 +29,52 @@
           "url": "https://dlhd.pk/stream/stream-530.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=530"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "GOL PLAY Spain",
+          "url": "https://dlhd.pk/stream/stream-530.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=530"
+        }
+      ]
+    },
+    {
+      "id": 513,
+      "nombre": "🇺🇸 Las Vegas Aces vs 🇺🇸 Chicago Sky",
+      "categoria": "WNBA 🏀 - 🏀 WNBA",
+      "fecha_hora": "2026-08-01T17:00:00",
+      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/o4u5jz1651998399.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "CBS USA",
+          "url": "https://dlhd.pk/stream/stream-52.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/77gqjl1624103918.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=52"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "CBS NY USA",
+          "url": "https://dlhd.pk/stream/stream-767.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=767"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "nombre": "Inter Miami Vs Columbus Crew",
+      "categoria": "Club Friendly 🤝⚽ - ⚽ 🤝 Club Friendly",
+      "fecha_hora": "2026-08-01T23:30:00",
+      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/e4gsht1706713260.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLS Season Pass",
+          "url": "https://dlhd.pk/stream/stream-108.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/wccp2r1678873461.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=108"
         }
       ]
     }

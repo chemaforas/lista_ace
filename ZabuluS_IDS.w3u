@@ -1,8 +1,8 @@
 {
   "name": "ZabuluSports",
-  "author": "Actualizado: 2026-08-11 07:09:32",
+  "author": "Actualizado: 2026-08-11 11:16:25",
   "image": "https://i.postimg.cc/d3Zx14SS/goat.png",
-  "info": "Actualizado automáticamente: 2026-08-11 07:09",
+  "info": "Actualizado automáticamente: 2026-08-11 11:16",
   "groups": [
     {
       "name": "Eventos",
@@ -52,9 +52,51 @@
           ]
         },
         {
+          "name": "Snooker - Open the China",
+          "info": "06:00",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F7nxY26w%2Fmma.png",
+          "stations": [
+            {
+              "name": "Snooker - Open de China",
+              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
+              "image": ""
+            },
+            {
+              "name": "Snooker - Open de China",
+              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
+              "image": ""
+            },
+            {
+              "name": "Snooker - Open de China",
+              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
+              "image": ""
+            },
+            {
+              "name": "Snooker - Open de China",
+              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
+              "image": ""
+            },
+            {
+              "name": "Snooker - Open de China",
+              "url": "acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
+              "image": ""
+            },
+            {
+              "name": "Snooker - Open de China",
+              "url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62",
+              "image": ""
+            },
+            {
+              "name": "Snooker - Open de China",
+              "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
+            }
+          ]
+        },
+        {
           "name": "Swimming (Morning Session) - Paris 2026",
           "info": "07:30 - Natación - Campeonato de Europa",
-          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F7nxY26w%2Fmma.png",
           "stations": [
             {
               "name": "Teledeporte",
@@ -81,7 +123,7 @@
         {
           "name": "Sesion Matinal - Birmingham 2026",
           "info": "09:30 - Atletismo - Campeonato de Europa",
-          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
           "stations": [
             {
               "name": "Eurosport 1",
@@ -132,6 +174,23 @@
             },
             {
               "name": "Real Madrid TV",
+              "url": "acestream://ac353757b626cedc6461d8eb73bfffa15fbb7be7",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "name": "Champions Fem - Sorteo Play-off",
+          "info": "10:00",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2vhFM7h%2Fsoccer-ball-variant.png",
+          "stations": [
+            {
+              "name": "Champions Fem - Sorteo Play-off",
+              "url": "acestream://44ea3d00ee2abfd5d89792a32851d7af61f16f0a",
+              "image": ""
+            },
+            {
+              "name": "Champions Fem - Sorteo Play-off",
               "url": "acestream://ac353757b626cedc6461d8eb73bfffa15fbb7be7",
               "image": ""
             }
@@ -283,7 +342,7 @@
         {
           "name": "Swimming (Morning Session) - Paris 2026",
           "info": "16:30 - Natación - Campeonato de Europa",
-          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
           "stations": [
             {
               "name": "Teledeporte",
@@ -310,7 +369,7 @@
         {
           "name": "Afternoon Session - Birmingham 2026",
           "info": "17:30 - Atletismo - Campeonato de Europa",
-          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
           "stations": [
             {
               "name": "Eurosport 1",
@@ -346,6 +405,73 @@
               "name": "Eurosport",
               "url": "acestream://314eb626864faf52e01624361bd6906b5406127f",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Flinuxsat-support.com%2Fimages%2Fimported%2F2016%2F01%2F82.png"
+            }
+          ]
+        },
+        {
+          "name": "1/8 final Boca Juniors - Deportivo Recoleta",
+          "info": "22:00 - Copa Sudamericana",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2vhFM7h%2Fsoccer-ball-variant.png",
+          "stations": [
+            {
+              "name": "Copa Sudamericana - 1/8 de final Boca Juniors - Deportivo Recoleta",
+              "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "Copa Sudamericana - 1/8 de final Boca Juniors - Deportivo Recoleta",
+              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
+              "image": ""
+            },
+            {
+              "name": "Copa Sudamericana - 1/8 de final Boca Juniors - Deportivo Recoleta",
+              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
+              "image": ""
+            },
+            {
+              "name": "Copa Sudamericana - 1/8 de final Boca Juniors - Deportivo Recoleta",
+              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
+              "image": ""
+            },
+            {
+              "name": "Copa Sudamericana - 1/8 de final Boca Juniors - Deportivo Recoleta",
+              "url": "acestream://2c7043173b83cd5c55a34dc066b63e3997bdede8",
+              "image": ""
+            },
+            {
+              "name": "Copa Sudamericana - 1/8 de final Boca Juniors - Deportivo Recoleta",
+              "url": "acestream://91af434b0bb521189286f8cbbab1aed39d7536fe",
+              "image": ""
+            },
+            {
+              "name": "Copa Sudamericana - 1/8 de final Boca Juniors - Deportivo Recoleta",
+              "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9",
+              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "Copa Sudamericana - 1/8 de final Boca Juniors - Deportivo Recoleta",
+              "url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920",
+              "image": ""
+            },
+            {
+              "name": "Copa Sudamericana - 1/8 de final Boca Juniors - Deportivo Recoleta",
+              "url": "acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22",
+              "image": ""
+            },
+            {
+              "name": "Copa Sudamericana - 1/8 de final Boca Juniors - Deportivo Recoleta",
+              "url": "acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439",
+              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "Copa Sudamericana - 1/8 de final Boca Juniors - Deportivo Recoleta",
+              "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
+              "image": ""
+            },
+            {
+              "name": "Copa Sudamericana - 1/8 de final Boca Juniors - Deportivo Recoleta",
+              "url": "acestream://a3197f5fa9d42f199d5bbe5a5c47ec4cfbf248cb",
+              "image": ""
             }
           ]
         }

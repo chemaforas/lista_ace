@@ -1,9 +1,744 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "last_update": "2026-08-15T09:43:37Z"
+    "last_update": "2026-08-15T10:17:56Z"
   },
   "eventos": [
+    {
+      "id": 22,
+      "nombre": "Alaves Vs Getafe",
+      "categoria": "Football | First",
+      "fecha_hora": "2026-08-15T17:30:00",
+      "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/41j9zu1784904401.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN Deportes",
+          "url": "https://dlhd.pk/stream/stream-3086.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ESPN_Deportes.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3086"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN Deportes",
+          "url": "https://dlhd.pk/stream/stream-375.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ESPN_Deportes.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=375"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "DAZN LaLiga",
+          "url": "acestream://7f9857c45764ef2c7cdfb619b89db3056a57a51f",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "DAZN LaLiga",
+          "url": "acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "DAZN LaLiga",
+          "url": "acestream://9c588ac92554746c489bc553773d959f6d2dfd8e",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "DAZN LaLiga",
+          "url": "acestream://385abcf801b787eec6ed6624908758bb165c0a55",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "DAZN LALIGA",
+          "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "DAZN LA LIGA 1",
+          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "DAZN LaLiga",
+          "url": "acestream://99171f30c83bf7ab5df28b39607c91334cc60e4b",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "DAZN LaLiga",
+          "url": "acestream://9c75f1d190c518cfe0f236415b8dccc1f676ef3b",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "SKY Sports LaLiga",
+          "url": "acestream://e9975d38aaa4475ac0b1fa0faa541bbadd85a662",
+          "imagen_idiom": ""
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "SKY Sports LaLiga SD",
+          "url": "acestream://a9bddffdff085cdc18b34218d5dc1093b88e3c0a",
+          "imagen_idiom": ""
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "DAZN LaLiga",
+          "url": "https://dlhd.pk/stream/stream-538.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=538"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Viaplay Sports 2 UK",
+          "url": "https://dlhd.pk/stream/stream-550.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/kxyaqo1678871855.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=550"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Premier Sports 2 Ireland",
+          "url": "https://dlhd.pk/stream/stream-799.php",
+          "imagen_idiom": "https://i.ibb.co/10xGrD4/Premier1.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=799"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "DAZN2 DE",
+          "url": "https://dlhd.pk/stream/stream-427.php",
+          "imagen_idiom": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=427"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "DAZN Eleven 1 Portugal",
+          "url": "https://dlhd.pk/stream/stream-455.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/olj2cb1657045831.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=455"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Canal+ Sport Poland",
+          "url": "https://dlhd.pk/stream/stream-48.php",
+          "imagen_idiom": "https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=48"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Digi Sport 2 Romania",
+          "url": "https://dlhd.pk/stream/stream-401.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/vqqrrq1436105445.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=401"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Prima Sport 2 Romania",
+          "url": "https://dlhd.pk/stream/stream-584.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=584"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Ziggo Sport 1 NL",
+          "url": "https://dlhd.pk/stream/stream-393.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/rj16081728726778.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=393"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Nova Sport 3 CZ",
+          "url": "https://dlhd.pk/stream/stream-1023.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/tcj7gr1649341445.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=1023"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports Malaysia",
+          "url": "https://dlhd.pk/stream/stream-712.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=712"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Match! Football 2 Russia",
+          "url": "https://dlhd.pk/stream/stream-137.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=137"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Arena 2 Premium Serbia",
+          "url": "https://dlhd.pk/stream/stream-135.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=135"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Cosmote Sport 7 Greece",
+          "url": "https://dlhd.pk/stream/stream-628.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=628"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MAX Sport 4 Bulgaria",
+          "url": "https://dlhd.pk/stream/stream-475.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=475"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "SuperSport Laliga",
+          "url": "https://dlhd.pk/stream/stream-415.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/dv7v9w1719404547.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=415"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports MENA 3",
+          "url": "https://dlhd.pk/stream/stream-93.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=93"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportklub 3 Croatia",
+          "url": "https://dlhd.pk/stream/stream-103.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=103"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "DAZN2 DE",
+          "url": "https://dlhd.pk/stream/stream-3017.php",
+          "imagen_idiom": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3017"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Viaplay Sports 2 UK",
+          "url": "https://dlhd.pk/stream/stream-3002.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/kxyaqo1678871855.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3002"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-2017.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=2017"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4106.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4106"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4116.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4116"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "nombre": "Al Nasr Vs Al Fateh",
+      "categoria": "Football | Saudi Pro League",
+      "fecha_hora": "2026-08-15T18:00:00",
+      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/rnb7t01758291787.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "FOX Deportes",
+          "url": "https://dlhd.pk/stream/stream-3087.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/aebosn1641133426.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3087"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "FOX Deportes",
+          "url": "https://dlhd.pk/stream/stream-643.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/aebosn1641133426.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=643"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Fox Soccer Plus",
+          "url": "https://dlhd.pk/stream/stream-756.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/FOX_Soccer_Plus.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=756"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "M+ VAMOS 2",
+          "url": "acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884",
+          "imagen_idiom": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "M+ VAMOS 2",
+          "url": "acestream://f51674b1dd1ab5a668fa97a0f13a490632f0d7ca",
+          "imagen_idiom": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "M+ Liga de Campeones 2",
+          "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5",
+          "imagen_idiom": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "M+ Liga de Campeones 2",
+          "url": "acestream://8156912ae14f6174a19c8a4efcf36a06e847f632",
+          "imagen_idiom": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "M+ Liga de Campeones 2",
+          "url": "acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e",
+          "imagen_idiom": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "LIGA DE CAMPEONES 2",
+          "url": "acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/mngo1u1726843207.png"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "M+ Liga de Campeones 2",
+          "url": "acestream://f00b018faa7d17cc2fb27f34f567a69ca0d1081f",
+          "imagen_idiom": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Thmanyah",
+          "url": "https://dlhd.pk/stream/stream-15.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=15"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Movistar Liga de Campeones 2",
+          "url": "https://dlhd.pk/stream/stream-19.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/mngo1u1726843207.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=19"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport TV3 Portugal",
+          "url": "https://dlhd.pk/stream/stream-454.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=454"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Polsat Sport Extra 1 Poland",
+          "url": "https://dlhd.pk/stream/stream-993.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/padw0k1655540397.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=993"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MAX Sport 2 Bulgaria",
+          "url": "https://dlhd.pk/stream/stream-473.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=473"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportklub 7 Croatia",
+          "url": "https://dlhd.pk/stream/stream-186.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=186"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4120.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4120"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4113.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4113"
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "nombre": "Sheffield United Vs Birmingham City",
+      "categoria": "",
+      "fecha_hora": "2026-08-15T16:30:00",
+      "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/7ib1hf1782467889.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN Brazil",
+          "url": "https://dlhd.pk/stream/stream-81.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/b0n0mh1660763068.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=81"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports Main Event UK",
+          "url": "https://dlhd.pk/stream/stream-38.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ub8szd1780683863.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=38"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports Football UK",
+          "url": "https://dlhd.pk/stream/stream-35.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/lnd1p01502554851.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=35"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "CBS Sports Golazo USA",
+          "url": "https://dlhd.pk/stream/stream-910.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=910"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports MAX 4 France",
+          "url": "https://dlhd.pk/stream/stream-494.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_8.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=494"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Nova Sport 6 CZ",
+          "url": "https://dlhd.pk/stream/stream-1026.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/tcj7gr1649341445.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=1026"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Arena 3 Premium Serbia",
+          "url": "https://dlhd.pk/stream/stream-139.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=139"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Arena Sport 2 Croatia",
+          "url": "https://dlhd.pk/stream/stream-433.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=433"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Diema Sport 2 Bulgaria",
+          "url": "https://dlhd.pk/stream/stream-466.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=466"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Cosmote Sport 3 Greece",
+          "url": "https://dlhd.pk/stream/stream-624.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=624"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports MENA",
+          "url": "https://dlhd.pk/stream/stream-91.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=91"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports MENA English 2",
+          "url": "https://dlhd.pk/stream/stream-90.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=90"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport 1 Israel",
+          "url": "https://dlhd.pk/stream/stream-140.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=140"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports Football UK",
+          "url": "https://dlhd.pk/stream/stream-3009.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/lnd1p01502554851.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3009"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "CBS Sports Golazo USA",
+          "url": "https://dlhd.pk/stream/stream-3007.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3007"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4110.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4110"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4113.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4113"
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "nombre": "Kasimpasa Vs Trabzonspor",
+      "categoria": "",
+      "fecha_hora": "2026-08-15T16:00:00",
+      "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/kvehgd1786706357.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Fox Sports 1 Argentina",
+          "url": "https://dlhd.pk/stream/stream-787.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/cyfsdc1707916479.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=787"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports 1 Turkey",
+          "url": "https://dlhd.pk/stream/stream-62.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=62"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN SPORTS USA",
+          "url": "https://dlhd.pk/stream/stream-425.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_2_Australia.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=425"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN SPORTS en Español",
+          "url": "https://dlhd.pk/stream/stream-372.php",
+          "imagen_idiom": "https://i.postimg.cc/rwqxzDCJ/logo1-17-10114-removebg-preview.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=372"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport TV6 Portugal",
+          "url": "https://dlhd.pk/stream/stream-291.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=291"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports 2 France",
+          "url": "https://dlhd.pk/stream/stream-117.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_HD_2_France.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=117"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports 3 Malaysia",
+          "url": "https://dlhd.pk/stream/stream-714.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=714"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Match! Football 3 Russia",
+          "url": "https://dlhd.pk/stream/stream-138.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=138"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Prima Sport 3 Romania",
+          "url": "https://dlhd.pk/stream/stream-585.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=585"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Arena 1 Premium Serbia",
+          "url": "https://dlhd.pk/stream/stream-134.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=134"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportklub 4 Croatia",
+          "url": "https://dlhd.pk/stream/stream-104.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=104"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports HD 2",
+          "url": "https://dlhd.pk/stream/stream-92.php",
+          "imagen_idiom": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=92"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports English",
+          "url": "https://dlhd.pk/stream/stream-61.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_HD_2_France.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=61"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport 3 Israel",
+          "url": "https://dlhd.pk/stream/stream-142.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=142"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports 1 Turkey",
+          "url": "https://dlhd.pk/stream/stream-3091.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3091"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4111.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4111"
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "nombre": "Kaiserslautern vs Karlsruher SC",
+      "categoria": "",
+      "fecha_hora": "2026-08-15T18:30:00",
+      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/mcuypf1754042989.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Fox Sports 1 Argentina",
+          "url": "https://dlhd.pk/stream/stream-787.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/cyfsdc1707916479.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=787"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sport Bundesliga",
+          "url": "https://dlhd.pk/stream/stream-558.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=558"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "RTL DE",
+          "url": "https://dlhd.pk/stream/stream-740.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=740"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sport Top Event DE",
+          "url": "https://dlhd.pk/stream/stream-556.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/r14o5i1658662835.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=556"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "DAZN Eleven 3 Portugal",
+          "url": "https://dlhd.pk/stream/stream-457.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/olj2cb1657045831.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=457"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Eleven Sports 2 Poland",
+          "url": "https://dlhd.pk/stream/stream-72.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=72"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports MAX 8 France",
+          "url": "https://dlhd.pk/stream/stream-498.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_8.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=498"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Nova Sport 5 SK",
+          "url": "https://dlhd.pk/stream/stream-1062.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/xyyytr1444741576.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=1062"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Nova Sport 5 CZ",
+          "url": "https://dlhd.pk/stream/stream-1025.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/tcj7gr1649341445.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=1025"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Arena Sport 1x2 Serbia",
+          "url": "https://dlhd.pk/stream/stream-612.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=612"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Diema Sport 3 Bulgaria",
+          "url": "https://dlhd.pk/stream/stream-467.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=467"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportklub 6 Croatia",
+          "url": "https://dlhd.pk/stream/stream-185.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=185"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport 3 Israel",
+          "url": "https://dlhd.pk/stream/stream-142.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=142"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sport News DE",
+          "url": "https://dlhd.pk/stream/stream-3011.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/uktf611723321885.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3011"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4103.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4103"
+        }
+      ]
+    },
     {
       "id": 27,
       "nombre": "Sevilla FC Vs Rayo Vallecano",
@@ -92,6 +827,106 @@
       ]
     },
     {
+      "id": 193,
+      "nombre": "Udinese Vs Calcio Padova",
+      "categoria": "",
+      "fecha_hora": "2026-08-15T16:30:00",
+      "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/oi7hp61786689846.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Italia 1 IT",
+          "url": "https://dlhd.pk/stream/stream-854.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=854"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport TV5 Portugal",
+          "url": "https://dlhd.pk/stream/stream-290.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=290"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Polsat Sport 3 Poland",
+          "url": "https://dlhd.pk/stream/stream-129.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/padw0k1655540397.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=129"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Match! Football 1 Russia",
+          "url": "https://dlhd.pk/stream/stream-136.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=136"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Cytavision Sports 6 Cyprus",
+          "url": "https://dlhd.pk/stream/stream-916.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=916"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Polsat Sport Extra 2 Poland",
+          "url": "https://dlhd.pk/stream/stream-994.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/padw0k1655540397.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=994"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Arena Sport 3 Serbia",
+          "url": "https://dlhd.pk/stream/stream-431.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=431"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Arena Sport 1 Croatia",
+          "url": "https://dlhd.pk/stream/stream-432.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=432"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MAX Sport 3 Bulgaria",
+          "url": "https://dlhd.pk/stream/stream-474.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=474"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport 4 Israel",
+          "url": "https://dlhd.pk/stream/stream-143.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=143"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Italia 1 IT",
+          "url": "https://dlhd.pk/stream/stream-3045.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3045"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4107.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4107"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4122.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4122"
+        }
+      ]
+    },
+    {
       "id": 29,
       "nombre": "Fluminense vs Palmeiras",
       "categoria": "Football | Serie A Brazil",
@@ -173,122 +1008,232 @@
       ]
     },
     {
-      "id": 22,
-      "nombre": "Alaves Vs Getafe",
-      "categoria": "Football | First",
-      "fecha_hora": "2026-08-15T17:30:00",
-      "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/41j9zu1784904401.jpg",
+      "id": 198,
+      "nombre": "Gençlerbirliği Vs Fenerbahçe",
+      "categoria": "",
+      "fecha_hora": "2026-08-15T18:30:00",
+      "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/txdg051786706357.jpg",
       "detalles": [
         {
-          "tipo": "acestream",
-          "nombre_canal": "DAZN LaLiga",
-          "url": "acestream://7f9857c45764ef2c7cdfb619b89db3056a57a51f",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png"
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN4 Brazil",
+          "url": "https://dlhd.pk/stream/stream-85.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/b0n0mh1660763068.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=85"
         },
         {
-          "tipo": "acestream",
-          "nombre_canal": "DAZN LaLiga",
-          "url": "acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png"
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports 1 Turkey",
+          "url": "https://dlhd.pk/stream/stream-62.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=62"
         },
         {
-          "tipo": "acestream",
-          "nombre_canal": "DAZN LaLiga",
-          "url": "acestream://9c588ac92554746c489bc553773d959f6d2dfd8e",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png"
+          "tipo": "dlhd",
+          "nombre_canal": "Sport TV6 Portugal",
+          "url": "https://dlhd.pk/stream/stream-291.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=291"
         },
         {
-          "tipo": "acestream",
-          "nombre_canal": "DAZN LaLiga",
-          "url": "acestream://385abcf801b787eec6ed6624908758bb165c0a55",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png"
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports MAX 6 France",
+          "url": "https://dlhd.pk/stream/stream-496.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_8.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=496"
         },
         {
-          "tipo": "acestream",
-          "nombre_canal": "DAZN LALIGA",
-          "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png"
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports 3 Malaysia",
+          "url": "https://dlhd.pk/stream/stream-714.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=714"
         },
         {
-          "tipo": "acestream",
-          "nombre_canal": "DAZN LA LIGA 1",
-          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png"
+          "tipo": "dlhd",
+          "nombre_canal": "Arena Sport 3 Serbia",
+          "url": "https://dlhd.pk/stream/stream-431.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=431"
         },
         {
-          "tipo": "acestream",
-          "nombre_canal": "DAZN LaLiga",
-          "url": "acestream://99171f30c83bf7ab5df28b39607c91334cc60e4b",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png"
+          "tipo": "dlhd",
+          "nombre_canal": "Sportklub 4 Croatia",
+          "url": "https://dlhd.pk/stream/stream-104.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=104"
         },
         {
-          "tipo": "acestream",
-          "nombre_canal": "DAZN LaLiga",
-          "url": "acestream://9c75f1d190c518cfe0f236415b8dccc1f676ef3b",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png"
+          "tipo": "dlhd",
+          "nombre_canal": "Sport 1 Hungary",
+          "url": "https://dlhd.pk/stream/stream-195.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=195"
         },
         {
-          "tipo": "acestream",
-          "nombre_canal": "SKY Sports LaLiga",
-          "url": "acestream://e9975d38aaa4475ac0b1fa0faa541bbadd85a662",
-          "imagen_idiom": ""
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports HD 4",
+          "url": "https://dlhd.pk/stream/stream-94.php",
+          "imagen_idiom": "https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=94"
         },
         {
-          "tipo": "acestream",
-          "nombre_canal": "SKY Sports LaLiga SD",
-          "url": "acestream://a9bddffdff085cdc18b34218d5dc1093b88e3c0a",
-          "imagen_idiom": ""
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports 1 Turkey",
+          "url": "https://dlhd.pk/stream/stream-3091.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3091"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4111.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4111"
         }
       ]
     },
     {
-      "id": 23,
-      "nombre": "Al Nasr Vs Al Fateh",
-      "categoria": "Football | Saudi Pro League",
-      "fecha_hora": "2026-08-15T18:00:00",
-      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/rnb7t01758291787.jpg",
+      "id": 180,
+      "nombre": "Notts County Vs Leicester City",
+      "categoria": "",
+      "fecha_hora": "2026-08-15T11:30:00",
+      "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/0q8nos1782465667.jpg",
       "detalles": [
         {
-          "tipo": "acestream",
-          "nombre_canal": "M+ VAMOS 2",
-          "url": "acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884",
-          "imagen_idiom": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+          "tipo": "dlhd",
+          "nombre_canal": "CBS Sports Network",
+          "url": "https://dlhd.pk/stream/stream-308.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/77gqjl1624103918.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=308"
         },
         {
-          "tipo": "acestream",
-          "nombre_canal": "M+ VAMOS 2",
-          "url": "acestream://f51674b1dd1ab5a668fa97a0f13a490632f0d7ca",
-          "imagen_idiom": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports Main Event UK",
+          "url": "https://dlhd.pk/stream/stream-38.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ub8szd1780683863.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=38"
         },
         {
-          "tipo": "acestream",
-          "nombre_canal": "M+ Liga de Campeones 2",
-          "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5",
-          "imagen_idiom": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png"
+          "tipo": "dlhd",
+          "nombre_canal": "Sky Sports Football UK",
+          "url": "https://dlhd.pk/stream/stream-35.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/lnd1p01502554851.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=35"
         },
         {
-          "tipo": "acestream",
-          "nombre_canal": "M+ Liga de Campeones 2",
-          "url": "acestream://8156912ae14f6174a19c8a4efcf36a06e847f632",
-          "imagen_idiom": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png"
+          "tipo": "dlhd",
+          "nombre_canal": "Nova Sport 6 CZ",
+          "url": "https://dlhd.pk/stream/stream-1026.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/tcj7gr1649341445.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=1026"
         },
         {
-          "tipo": "acestream",
-          "nombre_canal": "M+ Liga de Campeones 2",
-          "url": "acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e",
-          "imagen_idiom": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+          "tipo": "dlhd",
+          "nombre_canal": "Arena 1 Premium Serbia",
+          "url": "https://dlhd.pk/stream/stream-134.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=134"
         },
         {
-          "tipo": "acestream",
-          "nombre_canal": "LIGA DE CAMPEONES 2",
-          "url": "acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/mngo1u1726843207.png"
+          "tipo": "dlhd",
+          "nombre_canal": "Cosmote Sport 3 Greece",
+          "url": "https://dlhd.pk/stream/stream-624.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=624"
         },
         {
-          "tipo": "acestream",
-          "nombre_canal": "M+ Liga de Campeones 2",
-          "url": "acestream://f00b018faa7d17cc2fb27f34f567a69ca0d1081f",
-          "imagen_idiom": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+          "tipo": "dlhd",
+          "nombre_canal": "Arena Sport 1 Croatia",
+          "url": "https://dlhd.pk/stream/stream-432.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=432"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Diema Sport 2 Bulgaria",
+          "url": "https://dlhd.pk/stream/stream-466.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=466"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports MENA English",
+          "url": "https://dlhd.pk/stream/stream-61.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=61"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4110.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4110"
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "nombre": "Venezia Vs Modena",
+      "categoria": "",
+      "fecha_hora": "2026-08-15T18:45:00",
+      "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/ta3zt91786689846.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "DSports 2 Argentina",
+          "url": "https://dlhd.pk/stream/stream-620.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=620"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Mediaset 20 IT",
+          "url": "https://dlhd.pk/stream/stream-857.php",
+          "imagen_idiom": "https://www.thesportsdb.com/images/media/channel/logo/k246ra1786612502.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=857"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Cytavision Sports 4 Cyprus",
+          "url": "https://dlhd.pk/stream/stream-914.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=914"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Arena Sport 5 Serbia",
+          "url": "https://dlhd.pk/stream/stream-940.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=940"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Arena Sport 2 Croatia",
+          "url": "https://dlhd.pk/stream/stream-433.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=433"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MAX Sport 3 Bulgaria",
+          "url": "https://dlhd.pk/stream/stream-474.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=474"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Mediaset 20 IT",
+          "url": "https://dlhd.pk/stream/stream-3046.php",
+          "imagen_idiom": "https://www.thesportsdb.com/images/media/channel/logo/k246ra1786612502.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3046"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4109.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4109"
         }
       ]
     },
@@ -328,6 +1273,20 @@
           "nombre_canal": "LALIGA HYPERMOTION",
           "url": "acestream://fc129b39c253b887563c3f0dce5fca7e699c3047",
           "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "LALIGA TV Hypermotion",
+          "url": "https://dlhd.pk/stream/stream-539.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=539"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "LALIGA TV Hypermotion",
+          "url": "https://dlhd.pk/stream/stream-3026.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3026"
         }
       ]
     },
@@ -349,6 +1308,43 @@
           "nombre_canal": "Gol TV",
           "url": "acestream://42d3724b275c8029cef0b4d9ce4c59add5cd3ec1",
           "imagen_idiom": ""
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "GOL PLAY Spain",
+          "url": "https://dlhd.pk/stream/stream-530.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=530"
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "nombre": "Alverca Vs Estrela",
+      "categoria": "",
+      "fecha_hora": "2026-08-15T14:30:00",
+      "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/l7hy4u1786718916.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport TV1 Portugal",
+          "url": "https://dlhd.pk/stream/stream-49.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=49"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport TV1 Portugal",
+          "url": "https://dlhd.pk/stream/stream-3021.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3021"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Backup Stream",
+          "url": "https://dlhd.pk/stream/stream-4124.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4124"
         }
       ]
     },
@@ -359,6 +1355,13 @@
       "fecha_hora": "2026-08-15T11:00:00",
       "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/6rzdvb1782312276.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "svt 2 Sweden",
+          "url": "https://dlhd.pk/stream/stream-10.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=10"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "svt 2 Sweden",

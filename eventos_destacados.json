@@ -1,7 +1,7 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "last_update": "2026-08-18T10:40:33Z"
+    "last_update": "2026-08-18T11:11:02Z"
   },
   "eventos": [
     {
@@ -804,6 +804,12 @@
           "url": "https://dlhd.pk/stream/stream-3019.php",
           "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/m6qkm51712223494.png",
           "url_embed": "https://dlhd.pk/watch.php?id=3019"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "Copa Sudamericana - 1/8 de final Deportivo Recoleta - Boca Juniors",
+          "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
+          "imagen_idiom": ""
         }
       ]
     },

@@ -1,17 +1,71 @@
 {
   "name": "ZabuluSports",
-  "author": "Actualizado: 2026-08-28 14:33:30",
+  "author": "Actualizado: 2026-08-29 07:16:42",
   "image": "https://i.postimg.cc/d3Zx14SS/goat.png",
-  "info": "Actualizado automáticamente: 2026-08-28 14:33",
+  "info": "Actualizado automáticamente: 2026-08-29 07:16",
   "groups": [
     {
       "name": "Eventos",
       "image": "https://i.postimg.cc/C1743dSB/live-streaming.png",
-      "info": "Eventos del día 28/08/2026",
+      "info": "Eventos del día 29/08/2026",
       "groups": [
         {
-          "name": "C. Tauson - D. Parry",
-          "info": "01:30 - Tenis - WTA Torneo de Monterrey: 1/4 de Final",
+          "name": "C. Marksman - C. Barreto",
+          "info": "00:00 - Boxeo - Título Continental: Peso Ligero",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fboxeo.png",
+          "stations": [
+            {
+              "name": "DAZN2",
+              "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "Boca Juniors - Lanus",
+          "info": "00:30 - Fútbol - Liga Argentina: Torneo Clausura",
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/sm3jnf1769678634.jpg",
+          "stations": [
+            {
+              "name": "M+ VAMOS 2",
+              "url": "acestream://0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M. Liga de Campeones",
+              "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
+              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Liga de Campeones",
+              "url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920",
+              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Liga de Campeones",
+              "url": "acestream://91af434b0bb521189286f8cbbab1aed39d7536fe",
+              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Liga de Campeones",
+              "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9",
+              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Liga de Campeones",
+              "url": "acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439",
+              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Liga de Campeones",
+              "url": "acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22",
+              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "N. Bartunkova - E. Mertens",
+          "info": "01:00 - Tenis - WTA Torneo de Monterrey: Semifinal 2",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
@@ -27,59 +81,8 @@
           ]
         },
         {
-          "name": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "info": "01:30 - WTA Torneo de Monterrey",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final C. Tauson - D. Parry",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": ""
-            },
-            {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final C. Tauson - D. Parry",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Y. Starodubtseva - E. Mertens",
-          "info": "03:00 - Tenis - WTA Torneo de Monterrey: 1/4 de Final",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
-          "stations": [
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            },
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "info": "03:00 - WTA Torneo de Monterrey",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final Y. Starodubtseva - E. Mertens",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": ""
-            },
-            {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final Y. Starodubtseva - E. Mertens",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "China Open (T26/27)",
-          "info": "06:00 - Otros - Snooker",
+          "name": "Final",
+          "info": "06:00 - Otros - Abierto de Wuhan de snooker",
           "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
           "stations": [
             {
@@ -120,126 +123,15 @@
           ]
         },
         {
-          "name": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "info": "06:00",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fjf3PWRZ%2Famerican-football.png",
+          "name": "Deportivo Abanca - Sevilla FC Women",
+          "info": "10:00 - Fútbol - Liga Fem.",
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/5v3rwf1784904437.jpg",
           "stations": [
             {
-              "name": "Snooker - Open de China",
-              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+              "name": "DAZN2",
+              "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
             },
-            {
-              "name": "Snooker - Open de China",
-              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": ""
-            },
-            {
-              "name": "Snooker - Open de China",
-              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": ""
-            },
-            {
-              "name": "Snooker - Open de China",
-              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
-              "image": ""
-            },
-            {
-              "name": "Snooker - Open de China",
-              "url": "acestream://c6180a86440004748e2abe34d6f31eed8a218a3a",
-              "image": ""
-            },
-            {
-              "name": "Snooker - Open de China",
-              "url": "acestream://7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2",
-              "image": ""
-            },
-            {
-              "name": "Snooker - Open de China",
-              "url": "acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "League Phase Draw",
-          "info": "10:00 - Fútbol - Europa League",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
-          "stations": [
-            {
-              "name": "M. Liga de Campeones",
-              "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
-              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Liga de Campeones",
-              "url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920",
-              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Liga de Campeones",
-              "url": "acestream://91af434b0bb521189286f8cbbab1aed39d7536fe",
-              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Liga de Campeones",
-              "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9",
-              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Liga de Campeones",
-              "url": "acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439",
-              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Liga de Campeones",
-              "url": "acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22",
-              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
-            }
-          ]
-        },
-        {
-          "name": "League Phase Draw",
-          "info": "11:00 - Fútbol - Conference: Conference League",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
-          "stations": [
-            {
-              "name": "M. Liga de Campeones",
-              "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
-              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Liga de Campeones",
-              "url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920",
-              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Liga de Campeones",
-              "url": "acestream://91af434b0bb521189286f8cbbab1aed39d7536fe",
-              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Liga de Campeones",
-              "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9",
-              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Liga de Campeones",
-              "url": "acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439",
-              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Liga de Campeones",
-              "url": "acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22",
-              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
-            }
-          ]
-        },
-        {
-          "name": "Stage 7 - Vall d'Alba › Aramon Valdelinares (149.8 km)",
-          "info": "11:20 - Ciclismo - Vuelta a España",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
-          "stations": [
             {
               "name": "TELEDEPORTE Spain",
               "url": "acestream://4048be88f84250719e864868e537612f389df48e",
@@ -264,32 +156,12 @@
               "name": "Teledeporte",
               "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             }
           ]
         },
         {
-          "name": "Day 2",
-          "info": "11:30 - Golf - British Masters",
+          "name": "Day 3",
+          "info": "11:00 - Golf - British Masters",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fgolf.png",
           "stations": [
             {
@@ -310,9 +182,58 @@
           ]
         },
         {
-          "name": "Spain - Romania",
-          "info": "11:30 - Voleibol - Campeonato de Europa Femenino: Fase de grupos",
-          "image": "https://www.thesportsdb.com/images/media/event/thumb/bd6xnn1787851191.jpg",
+          "name": "The descent of F",
+          "info": "11:10 - Ciclismo - Mundial de mountain bike",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
+          "stations": [
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            }
+          ]
+        },
+        {
+          "name": "Liverpool - Nottingham Forest",
+          "info": "11:30 - Fútbol - Premier",
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/cd465r1784549295.jpg",
+          "stations": [
+            {
+              "name": "DAZN1",
+              "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "DAZN 1",
+              "url": "acestream://78124d96a1a4601e7910f50e36a16e35efcfb398",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "DAZN 1",
+              "url": "acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "Stage 8 - Puçol › Xeraco (171 km)",
+          "info": "12:45 - Ciclismo - Vuelta a España",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
             {
               "name": "TELEDEPORTE Spain",
@@ -338,188 +259,126 @@
               "name": "Teledeporte",
               "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "info": "11:30",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgVt4bNf%2Fgolf.png",
-          "stations": [
-            {
-              "name": "British Masters - Jornada 1",
-              "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
-              "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
             },
             {
-              "name": "British Masters - Jornada 1",
-              "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
-              "image": ""
-            },
-            {
-              "name": "British Masters - Jornada 1",
-              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "info": "12:40 - WTA Torneo de Monterrey",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fnsw23YC%2Fcycling.png",
-          "stations": [
-            {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final Etapa 6 - Alcossebre › Castelló",
-              "url": "acestream://4048be88f84250719e864868e537612f389df48e",
-              "image": ""
-            },
-            {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final Etapa 6 - Alcossebre › Castelló",
-              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
-              "image": ""
-            },
-            {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final Etapa 6 - Alcossebre › Castelló",
-              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final Etapa 6 - Alcossebre › Castelló",
-              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final Etapa 6 - Alcossebre › Castelló",
-              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final Etapa 6 - Alcossebre › Castelló",
+              "name": "Eurosport 1",
               "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
               "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final Etapa 6 - Alcossebre › Castelló",
+              "name": "Eurosport 1",
               "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": ""
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final Etapa 6 - Alcossebre › Castelló",
+              "name": "Eurosport 1",
               "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": ""
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final Etapa 6 - Alcossebre › Castelló",
+              "name": "Eurosport 1",
               "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
-              "image": ""
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             }
           ]
         },
         {
-          "name": "Stage 7 - Vall d'Alba › Aramon Valdelinares (149.8 km)",
-          "info": "13:50 - Ciclismo - Vuelta a España",
+          "name": "Bournemouth - Everton",
+          "info": "14:00 - Fútbol - Premier",
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/400hyc1784549294.jpg",
+          "stations": [
+            {
+              "name": "DAZN1",
+              "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "DAZN 1",
+              "url": "acestream://78124d96a1a4601e7910f50e36a16e35efcfb398",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "DAZN 1",
+              "url": "acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "Coventry City - Hull City",
+          "info": "14:00 - Fútbol - Premier",
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/xcjg311784549301.jpg",
+          "stations": [
+            {
+              "name": "DAZN2",
+              "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "Stage 8 - Puçol › Xeraco (171 km)",
+          "info": "14:15 - Ciclismo - Vuelta a España",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
             {
-              "name": "La 1",
-              "url": "acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FswhGnw4%2FLa1.jpg"
-            },
-            {
-              "name": "LA 1 Spain",
-              "url": "acestream://9c079e1bbd01814c107e89187b8c24ba0ac306dd",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FswhGnw4%2FLa1.jpg"
-            },
-            {
-              "name": "La 1 TVE",
-              "url": "acestream://02622fa2fab63847d88dc14fd9fa5c2fc35de8a8",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FswhGnw4%2FLa1.jpg"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            }
-          ]
-        },
-        {
-          "name": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "info": "14:15 - WTA Torneo de Monterrey",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fnsw23YC%2Fcycling.png",
-          "stations": [
-            {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final Etapa 6 - Alcossebre › Castelló",
+              "name": "La 2",
               "url": "acestream://e4414e69ccd4cd97f8662e69736c4027e9182e72",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FswhGnw4%2FLa1.jpg"
             },
             {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final Etapa 6 - Alcossebre › Castelló",
+              "name": "La 2 TVE",
               "url": "acestream://b80cd193286a7df788c07649667c1e6f64fc9dc7",
-              "image": ""
+              "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png"
             },
             {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final Etapa 6 - Alcossebre › Castelló",
+              "name": "Eurosport 1",
               "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
               "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final Etapa 6 - Alcossebre › Castelló",
+              "name": "Eurosport 1",
               "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": ""
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final Etapa 6 - Alcossebre › Castelló",
+              "name": "Eurosport 1",
               "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": ""
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final Etapa 6 - Alcossebre › Castelló",
+              "name": "Eurosport 1",
               "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
-              "image": ""
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             }
           ]
         },
         {
-          "name": "Day 2",
-          "info": "15:00 - Golf - The Tour Championship",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fgolf.png",
+          "name": "Descending M",
+          "info": "14:30 - Ciclismo - Mundial de mountain bike",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
             {
-              "name": "M. Golf",
-              "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
-              "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
+              "name": "Eurosport 2",
+              "url": "acestream://c6180a86440004748e2abe34d6f31eed8a218a3a",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "M+ Golf",
-              "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
-              "image": ""
+              "name": "Eurosport 2",
+              "url": "acestream://7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "M+ Golf",
-              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
-              "image": ""
+              "name": "Eurosport 2",
+              "url": "acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             }
           ]
         },
         {
-          "name": "Finales",
-          "info": "15:00 - Deportes Acuáticos - Mundial de remo",
-          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
+          "name": "Final",
+          "info": "14:35 - Hockey Hierba - FIH Copa Mundial Masculina",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fhockey-hierba.png",
           "stations": [
             {
               "name": "TELEDEPORTE Spain",
@@ -549,249 +408,35 @@
           ]
         },
         {
-          "name": "The Tour Championship -  Jornada 1",
-          "info": "15:00",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgVt4bNf%2Fgolf.png",
+          "name": "Sabadell - UD Almeria",
+          "info": "15:00 - Fútbol - Segunda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
           "stations": [
             {
-              "name": "The Tour Championship - Jornada 1",
-              "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
-              "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
+              "name": "LaLiga TV Hypermotion",
+              "url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
             },
             {
-              "name": "The Tour Championship - Jornada 1",
-              "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
-              "image": ""
+              "name": "LaLiga TV Hypermotion",
+              "url": "acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
             },
             {
-              "name": "The Tour Championship - Jornada 1",
-              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
-              "image": ""
+              "name": "LaLiga TV Hypermotion",
+              "url": "acestream://1f75d92098580443857caa95a719103cb83781b0",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "LaLiga TV Hypermotion",
+              "url": "acestream://2c54a4def58f41fc0d2163450a63f12955b656aa",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
             }
           ]
         },
         {
-          "name": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "info": "15:05 - FIH Copa Mundial Femenina",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgVt4bNf%2Fgolf.png",
-          "stations": [
-            {
-              "name": "FIH Copa Mundial Femenina - 7º Puesto España - China",
-              "url": "acestream://4048be88f84250719e864868e537612f389df48e",
-              "image": ""
-            },
-            {
-              "name": "FIH Copa Mundial Femenina - 7º Puesto España - China",
-              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
-              "image": ""
-            },
-            {
-              "name": "FIH Copa Mundial Femenina - 7º Puesto España - China",
-              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "FIH Copa Mundial Femenina - 7º Puesto España - China",
-              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "FIH Copa Mundial Femenina - 7º Puesto España - China",
-              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "info": "15:45",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fnsw23YC%2Fcycling.png",
-          "stations": [
-            {
-              "name": "Mundial de mountain bike - Campo a través pista corta F",
-              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Mundial de mountain bike - Campo a través pista corta F",
-              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": ""
-            },
-            {
-              "name": "Mundial de mountain bike - Campo a través pista corta F",
-              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": ""
-            },
-            {
-              "name": "Mundial de mountain bike - Campo a través pista corta F",
-              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Holland - Spain",
-          "info": "16:00 - Hockey Hierba - FIH Copa Mundial Masculina: Semifinales",
-          "image": "https://www.thesportsdb.com/images/media/event/thumb/bd6xnn1787851191.jpg",
-          "stations": [
-            {
-              "name": "TELEDEPORTE Spain",
-              "url": "acestream://4048be88f84250719e864868e537612f389df48e",
-              "image": ""
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Champions - League Phase Draw",
-          "info": "16:00",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2vhFM7h%2Fsoccer-ball-variant.png",
-          "stations": [
-            {
-              "name": "Champions - Sorteo de Fase Liga",
-              "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
-              "image": ""
-            },
-            {
-              "name": "Champions - Sorteo de Fase Liga",
-              "url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920",
-              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Champions - Sorteo de Fase Liga",
-              "url": "acestream://91af434b0bb521189286f8cbbab1aed39d7536fe",
-              "image": ""
-            },
-            {
-              "name": "Champions - Sorteo de Fase Liga",
-              "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9",
-              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Champions - Sorteo de Fase Liga",
-              "url": "acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439",
-              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Champions - Sorteo de Fase Liga",
-              "url": "acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "info": "16:00",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fnsw23YC%2Fcycling.png",
-          "stations": [
-            {
-              "name": "Mundial de mountain bike - Cross Country Carrera Corta F",
-              "url": "acestream://4048be88f84250719e864868e537612f389df48e",
-              "image": ""
-            },
-            {
-              "name": "Mundial de mountain bike - Cross Country Carrera Corta F",
-              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
-              "image": ""
-            },
-            {
-              "name": "Mundial de mountain bike - Cross Country Carrera Corta F",
-              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Mundial de mountain bike - Cross Country Carrera Corta F",
-              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Mundial de mountain bike - Cross Country Carrera Corta F",
-              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "info": "16:20",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fnsw23YC%2Fcycling.png",
-          "stations": [
-            {
-              "name": "Mundial de mountain bike - Campo a través pista corta M",
-              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Mundial de mountain bike - Campo a través pista corta M",
-              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": ""
-            },
-            {
-              "name": "Mundial de mountain bike - Campo a través pista corta M",
-              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": ""
-            },
-            {
-              "name": "Mundial de mountain bike - Campo a través pista corta M",
-              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Mountain Bike World Championship - Cross Country Short Race M",
-          "info": "16:20",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fnsw23YC%2Fcycling.png",
-          "stations": [
-            {
-              "name": "Mundial de mountain bike - Cross Country Carrera Corta M",
-              "url": "acestream://4048be88f84250719e864868e537612f389df48e",
-              "image": ""
-            },
-            {
-              "name": "Mundial de mountain bike - Cross Country Carrera Corta M",
-              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
-              "image": ""
-            },
-            {
-              "name": "Mundial de mountain bike - Cross Country Carrera Corta M",
-              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Mundial de mountain bike - Cross Country Carrera Corta M",
-              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Mundial de mountain bike - Cross Country Carrera Corta M",
-              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Real Aviles - Pontevedra",
-          "info": "17:00 - Fútbol - 1RFEF: Grupo 1",
+          "name": "UD Ourense - Ponferradina",
+          "info": "15:00 - Fútbol - 1RFEF: Grupo 1",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
           "stations": [
             {
@@ -802,26 +447,78 @@
           ]
         },
         {
-          "name": "Semifinal 1 - WTA 500",
-          "info": "17:00 - Tenis - WTA Torneo de Monterrey",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "name": "Grand Prix of Milwaukee - Ranking 1",
+          "info": "15:00 - Automovilismo - IndyCar",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
           "stations": [
             {
-              "name": "Tennis Channel",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+              "name": "M. Deportes 3",
+              "url": "acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Tennis Channel",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+              "name": "M+ Deportes 3",
+              "url": "acestream://84aed52c5deb78f58595d88250e7a2bd04dfd810",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 3",
+              "url": "acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d",
+              "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png"
             }
           ]
         },
         {
-          "name": "Al Nassr - Al Taawoun FC",
-          "info": "18:00 - Fútbol - Saudi Pro League",
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/m8lkt41758292302.jpg",
+          "name": "South Africa - New Zealand",
+          "info": "15:10 - Rugby - Test Match",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Frugby.png",
+          "stations": [
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "Vamos",
+              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M. Deportes",
+              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "Movistar Deportes",
+              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
+              "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+            }
+          ]
+        },
+        {
+          "name": "Al Kholood - Al Ahli",
+          "info": "16:05 - Fútbol - Saudi Pro League",
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/k3lfb81758292207.jpg",
           "stations": [
             {
               "name": "M+ VAMOS 2",
@@ -851,92 +548,89 @@
           ]
         },
         {
-          "name": "IAAF Diamond League -  Zurich (Suiza)",
-          "info": "18:00",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FgVt4bNf%2Fgolf.png",
+          "name": "Day 3",
+          "info": "16:15 - Golf - The Tour Championship",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fgolf.png",
           "stations": [
             {
-              "name": "IAAF Diamond League - Zurich",
-              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
+              "name": "M. Golf",
+              "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
+              "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
+            },
+            {
+              "name": "M+ Golf",
+              "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
               "image": ""
             },
             {
-              "name": "IAAF Diamond League - Zurich",
-              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
-              "image": ""
-            },
-            {
-              "name": "IAAF Diamond League - Zurich",
-              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
-              "image": ""
-            },
-            {
-              "name": "IAAF Diamond League - Zurich",
-              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
-              "image": ""
-            },
-            {
-              "name": "IAAF Diamond League - Zurich",
-              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
-              "image": ""
-            },
-            {
-              "name": "IAAF Diamond League - Zurich",
-              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "IAAF Diamond League - Zurich",
-              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
-              "image": ""
-            },
-            {
-              "name": "IAAF Diamond League - Zurich",
-              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
+              "name": "M+ Golf",
+              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
               "image": ""
             }
           ]
         },
         {
-          "name": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "info": "18:30 - Primera",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2vhFM7h%2Fsoccer-ball-variant.png",
+          "name": "Tottenham - Newcastle",
+          "info": "16:30 - Fútbol - Premier",
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/funyr61784549296.jpg",
           "stations": [
             {
-              "name": "Primera - Celta - Osasuna",
+              "name": "DAZN1",
+              "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "DAZN 1",
+              "url": "acestream://78124d96a1a4601e7910f50e36a16e35efcfb398",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            },
+            {
+              "name": "DAZN 1",
+              "url": "acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "Real Sociedad - Espanyol",
+          "info": "17:00 - Fútbol - Primera",
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/km0w781784904436.jpg",
+          "stations": [
+            {
+              "name": "M. LaLiga",
               "url": "acestream://cc9b7f5fe416069a2110da0909b0f915043c468b",
               "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png"
             },
             {
-              "name": "Primera - Celta - Osasuna",
+              "name": "M. LaLiga",
               "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
               "image": ""
             },
             {
-              "name": "Primera - Celta - Osasuna",
+              "name": "M+ LaLiga",
               "url": "acestream://d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8",
               "image": ""
             },
             {
-              "name": "Primera - Celta - Osasuna",
+              "name": "M+ LaLiga",
               "url": "acestream://a64e02a6d914f098cbe1b724ff4f7aef83419a4a",
               "image": ""
             },
             {
-              "name": "Primera - Celta - Osasuna",
+              "name": "M+ LaLiga",
               "url": "acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259",
               "image": ""
             },
             {
-              "name": "Primera - Celta - Osasuna",
+              "name": "M+ LaLiga",
               "url": "acestream://f863873de9f7b2996dde19a0657dd89835af3007",
               "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png"
             }
           ]
         },
         {
-          "name": "CD Tenerife - Sporting Gijon",
-          "info": "19:00 - Fútbol - Segunda",
+          "name": "Albacete - Real Oviedo",
+          "info": "17:00 - Fútbol - Segunda",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
           "stations": [
             {
@@ -962,25 +656,118 @@
           ]
         },
         {
-          "name": "Crystal Palace - Manchester City",
-          "info": "19:00 - Fútbol - Premier",
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/7v9jku1784549298.jpg",
+          "name": "Huesca - Sant Andreu",
+          "info": "17:15 - Fútbol - 1RFEF: Grupo 2",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
           "stations": [
             {
-              "name": "DAZN1",
-              "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+              "name": "RFEF TV",
+              "url": "acestream://177796041773be99b489dd3ce86144f243e7355f",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "name": "Al Fateh - Al-Ittihad Jeddah Club",
+          "info": "18:00 - Fútbol - Saudi Pro League",
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/bnitkx1758292357.jpg",
+          "stations": [
+            {
+              "name": "M. Liga de Campeones 3",
+              "url": "acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373",
+              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "DAZN 1",
-              "url": "acestream://78124d96a1a4601e7910f50e36a16e35efcfb398",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+              "name": "M+ Liga de Campeones 3",
+              "url": "acestream://320bee0fbdf2a168d47810236985a7c40b4f85c9",
+              "image": "https://i.postimg.cc/yY9bDhLr/Liga-de-Campeones-3-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "DAZN 1",
-              "url": "acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+              "name": "M+ Liga de Campeones 3",
+              "url": "acestream://85a8e0675bc27ddfd403b8f72953c606d07a8de8",
+              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
             },
+            {
+              "name": "M+ Liga de Campeones 3",
+              "url": "acestream://cfc371890bfb502737a26de5215e50929c52d0f9",
+              "image": "https://i.postimg.cc/yY9bDhLr/Liga-de-Campeones-3-por-Movistar-Plus-2022-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "Spain - Mali",
+          "info": "18:00 - Baloncesto - Amistoso Femenino",
+          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
+          "stations": [
+            {
+              "name": "TELEDEPORTE Spain",
+              "url": "acestream://4048be88f84250719e864868e537612f389df48e",
+              "image": ""
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Grand Prix of Milwaukee - Carrera 1",
+          "info": "18:30 - Automovilismo - IndyCar",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
+          "stations": [
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "Vamos",
+              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M. Deportes 3",
+              "url": "acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 3",
+              "url": "acestream://84aed52c5deb78f58595d88250e7a2bd04dfd810",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 3",
+              "url": "acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d",
+              "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "Juventus - Parma",
+          "info": "18:45 - Fútbol - Serie A",
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/4ws5hx1755933705.jpg",
+          "stations": [
             {
               "name": "M. Liga de Campeones",
               "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
@@ -1014,104 +801,30 @@
           ]
         },
         {
-          "name": "Spain - Portugal",
-          "info": "19:00 - Baloncesto - FIBA Copa Mundial: Fase de Clasificación",
-          "image": "https://www.thesportsdb.com/images/media/event/thumb/bd6xnn1787851191.jpg",
+          "name": "Madrid CFF - Granada Women",
+          "info": "19:00 - Fútbol - Liga Fem.",
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/6q95ok1756629912.jpg",
           "stations": [
             {
-              "name": "M+ Vamos",
-              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
-              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+              "name": "DAZN1",
+              "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
             },
             {
-              "name": "M+ Vamos",
-              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
-              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+              "name": "DAZN 1",
+              "url": "acestream://78124d96a1a4601e7910f50e36a16e35efcfb398",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
             },
             {
-              "name": "Vamos",
-              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
-              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
-            },
-            {
-              "name": "TELEDEPORTE Spain",
-              "url": "acestream://4048be88f84250719e864868e537612f389df48e",
-              "image": ""
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+              "name": "DAZN 1",
+              "url": "acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
             }
           ]
         },
         {
-          "name": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "info": "19:00 - Conference",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2vhFM7h%2Fsoccer-ball-variant.png",
-          "stations": [
-            {
-              "name": "Conference - Playoffs Partizan Beograd - Getafe",
-              "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
-              "image": ""
-            },
-            {
-              "name": "Conference - Playoffs Partizan Beograd - Getafe",
-              "url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920",
-              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Conference - Playoffs Partizan Beograd - Getafe",
-              "url": "acestream://91af434b0bb521189286f8cbbab1aed39d7536fe",
-              "image": ""
-            },
-            {
-              "name": "Conference - Playoffs Partizan Beograd - Getafe",
-              "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9",
-              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Conference - Playoffs Partizan Beograd - Getafe",
-              "url": "acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439",
-              "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Conference - Playoffs Partizan Beograd - Getafe",
-              "url": "acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Cacereño - Mirandes",
-          "info": "19:15 - Fútbol - 1RFEF: Grupo 1",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
-          "stations": [
-            {
-              "name": "RFEF TV",
-              "url": "acestream://177796041773be99b489dd3ce86144f243e7355f",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Semifinal 1 - ATP 250",
-          "info": "20:00 - Tenis - Torneo de Winston-Salem",
+          "name": "Final - ATP 250",
+          "info": "19:00 - Tenis - Torneo de Winston-Salem",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
@@ -1137,25 +850,187 @@
           ]
         },
         {
-          "name": "1/4 de Final A. Parks - A. Li",
-          "info": "21:00 - WTA Torneo de Monterrey",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
+          "name": "Argentina - Australia",
+          "info": "19:00 - Rugby - Test Match",
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/clfrhn1786455136.jpg",
           "stations": [
             {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final A. Parks - A. Li",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
+              "name": "M. Deportes",
+              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "Movistar Deportes",
+              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
+              "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+            }
+          ]
+        },
+        {
+          "name": "Sevilla FC - At. Madrid",
+          "info": "19:30 - Fútbol - Primera",
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/5v3rwf1784904437.jpg",
+          "stations": [
+            {
+              "name": "M. LaLiga",
+              "url": "acestream://cc9b7f5fe416069a2110da0909b0f915043c468b",
+              "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+            },
+            {
+              "name": "M. LaLiga",
+              "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
               "image": ""
             },
             {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final A. Parks - A. Li",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
+              "name": "M+ LaLiga",
+              "url": "acestream://d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8",
+              "image": ""
+            },
+            {
+              "name": "M+ LaLiga",
+              "url": "acestream://a64e02a6d914f098cbe1b724ff4f7aef83419a4a",
+              "image": ""
+            },
+            {
+              "name": "M+ LaLiga",
+              "url": "acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259",
+              "image": ""
+            },
+            {
+              "name": "M+ LaLiga",
+              "url": "acestream://f863873de9f7b2996dde19a0657dd89835af3007",
+              "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+            }
+          ]
+        },
+        {
+          "name": "Girona - UD Las Palmas",
+          "info": "19:30 - Fútbol - Segunda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
+          "stations": [
+            {
+              "name": "LaLiga TV Hypermotion",
+              "url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "LaLiga TV Hypermotion",
+              "url": "acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "LaLiga TV Hypermotion",
+              "url": "acestream://1f75d92098580443857caa95a719103cb83781b0",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            },
+            {
+              "name": "LaLiga TV Hypermotion",
+              "url": "acestream://2c54a4def58f41fc0d2163450a63f12955b656aa",
+              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
+            }
+          ]
+        },
+        {
+          "name": "Hercules - Real Murcia",
+          "info": "19:30 - Fútbol - 1RFEF: Grupo 2",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
+          "stations": [
+            {
+              "name": "RFEF TV",
+              "url": "acestream://177796041773be99b489dd3ce86144f243e7355f",
               "image": ""
             }
           ]
         },
         {
-          "name": "D. Vidmanova - N. Bartunkova",
-          "info": "22:30 - Tenis - WTA Torneo de Monterrey: 1/4 de Final",
+          "name": "World Athletics Label Road Races Elite",
+          "info": "20:00 - Atletismo - Maratón Sidney",
+          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
+          "stations": [
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            },
+            {
+              "name": "Eurosport 1",
+              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            }
+          ]
+        },
+        {
+          "name": "Final - WTA 500",
+          "info": "21:00 - Tenis - WTA Torneo de Monterrey",
+          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
+          "stations": [
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            },
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "J. Duckworth - A. Fery",
+          "info": "22:30 - Tenis - Torneo de Winston-Salem: Semifinal 2",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
+            {
+              "name": "M. Deportes 2",
+              "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "D. Parry - A. Li",
+          "info": "23:00 - Tenis - WTA Torneo de Monterrey: Semifinal 1",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
@@ -1167,23 +1042,6 @@
               "name": "Tennis Channel",
               "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
               "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "info": "22:30 - WTA Torneo de Monterrey",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final D. Vidmanova - N. Bartunkova",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": ""
-            },
-            {
-              "name": "WTA Torneo de Monterrey - 1/4 de Final D. Vidmanova - N. Bartunkova",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": ""
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "last_update": "2026-09-19T08:44:14Z"
+    "last_update": "2026-09-19T09:18:33Z"
   },
   "eventos": [
     {
@@ -40,6 +40,20 @@
           "nombre_canal": "LaLiga TV Hypermotion",
           "url": "acestream://2c54a4def58f41fc0d2163450a63f12955b656aa",
           "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "LALIGA TV Hypermotion",
+          "url": "https://dlhd.pk/stream/stream-539.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=539"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "LALIGA TV Hypermotion",
+          "url": "https://dlhd.pk/stream/stream-3026.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3026"
         }
       ]
     }

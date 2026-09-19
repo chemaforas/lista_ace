@@ -1,76 +1,9 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "last_update": "2026-09-19T10:23:20Z"
+    "last_update": "2026-09-19T10:57:41Z"
   },
   "eventos": [
-    {
-      "id": 33,
-      "nombre": "FC Andorra Vs Sporting Gijon",
-      "categoria": "Fútbol | Segunda",
-      "fecha_hora": "2026-09-19T14:15:00",
-      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/pmo79h1755421316.jpg",
-      "detalles": [
-        {
-          "tipo": "acestream",
-          "nombre_canal": "ES: LALIGA TV HYPERMOTION",
-          "url": "acestream://60952921b847a9c560741b0d8048a2d8ad194a7f",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png"
-        },
-        {
-          "tipo": "acestream",
-          "nombre_canal": "LaLiga TV Hypermotion",
-          "url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png"
-        },
-        {
-          "tipo": "acestream",
-          "nombre_canal": "LaLiga TV Hypermotion",
-          "url": "acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png"
-        },
-        {
-          "tipo": "acestream",
-          "nombre_canal": "LaLiga TV Hypermotion",
-          "url": "acestream://1f75d92098580443857caa95a719103cb83781b0",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png"
-        },
-        {
-          "tipo": "acestream",
-          "nombre_canal": "LaLiga TV Hypermotion",
-          "url": "acestream://2c54a4def58f41fc0d2163450a63f12955b656aa",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "LALIGA TV Hypermotion",
-          "url": "https://dlhd.pk/stream/stream-539.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=539"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "LALIGA TV Hypermotion",
-          "url": "https://dlhd.pk/stream/stream-3026.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=3026"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "LALIGA TV Hypermotion",
-          "url": "https://dlhd.pk/stream/stream-539.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=539"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "LALIGA TV Hypermotion",
-          "url": "https://dlhd.pk/stream/stream-3026.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=3026"
-        }
-      ]
-    },
     {
       "id": 158,
       "nombre": "Alverca Vs Rio Ave",
@@ -140,6 +73,180 @@
           "url": "https://dlhd.pk/stream/stream-4120.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=4120"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport TV3 Portugal",
+          "url": "https://dlhd.pk/stream/stream-454.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=454"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport TV1 Portugal",
+          "url": "https://dlhd.pk/stream/stream-49.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=49"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Eleven Sports 4 Poland",
+          "url": "https://dlhd.pk/stream/stream-999.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=999"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports 2 France",
+          "url": "https://dlhd.pk/stream/stream-117.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_HD_2_France.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=117"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Cytavision Sports 7 Cyprus",
+          "url": "https://dlhd.pk/stream/stream-917.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=917"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Digi Sport 4 Romania",
+          "url": "https://dlhd.pk/stream/stream-403.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/vqqrrq1436105445.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=403"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MagentaSport 2 Greece",
+          "url": "https://dlhd.pk/stream/stream-623.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=623"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport TV1 Portugal",
+          "url": "https://dlhd.pk/stream/stream-3021.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3021"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Event Stream",
+          "url": "https://dlhd.pk/stream/stream-4120.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4120"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "nombre": "FC Andorra Vs Sporting Gijon",
+      "categoria": "Fútbol | Segunda",
+      "fecha_hora": "2026-09-19T14:15:00",
+      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/pmo79h1755421316.jpg",
+      "detalles": [
+        {
+          "tipo": "acestream",
+          "nombre_canal": "ES: LALIGA TV HYPERMOTION",
+          "url": "acestream://60952921b847a9c560741b0d8048a2d8ad194a7f",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "LaLiga TV Hypermotion",
+          "url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "LaLiga TV Hypermotion",
+          "url": "acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "LaLiga TV Hypermotion",
+          "url": "acestream://1f75d92098580443857caa95a719103cb83781b0",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "LaLiga TV Hypermotion",
+          "url": "acestream://2c54a4def58f41fc0d2163450a63f12955b656aa",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "LALIGA TV Hypermotion",
+          "url": "https://dlhd.pk/stream/stream-539.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=539"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "LALIGA TV Hypermotion",
+          "url": "https://dlhd.pk/stream/stream-3026.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3026"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "LALIGA TV Hypermotion",
+          "url": "https://dlhd.pk/stream/stream-539.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=539"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "LALIGA TV Hypermotion",
+          "url": "https://dlhd.pk/stream/stream-3026.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3026"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "LALIGA TV Hypermotion",
+          "url": "https://dlhd.pk/stream/stream-539.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=539"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "LALIGA TV Hypermotion",
+          "url": "https://dlhd.pk/stream/stream-3026.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3026"
+        }
+      ]
+    },
+    {
+      "id": 681,
+      "nombre": "North Carolina 🇺🇸 vs Clemson 🇺🇸",
+      "categoria": "College Football 🏈 - 🏈 College Football",
+      "fecha_hora": "2026-09-19T17:00:00",
+      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/rr5pdi1694796012.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN USA",
+          "url": "https://dlhd.pk/stream/stream-44.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/6f5dkk1660762913.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=44"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Event Stream",
+          "url": "https://dlhd.pk/stream/stream-5156.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5156"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Event Stream",
+          "url": "https://dlhd.pk/stream/stream-4036.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4036"
         }
       ]
     }

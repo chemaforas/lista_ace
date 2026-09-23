@@ -1,7 +1,7 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "last_update": "2026-09-23T15:49:14Z"
+    "last_update": "2026-09-23T16:21:22Z"
   },
   "eventos": [
     {
@@ -11,6 +11,62 @@
       "fecha_hora": "2026-09-23T23:00:00",
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/70pjzm1760901767.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "NHL Gamecenter",
+          "url": "https://dlhd.pk/stream/stream-14.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=14"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "NHL Network",
+          "url": "https://dlhd.pk/stream/stream-663.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=663"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "RDS CA",
+          "url": "https://dlhd.pk/stream/stream-839.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=839"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TSN5",
+          "url": "https://dlhd.pk/stream/stream-115.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=115"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TSN4",
+          "url": "https://dlhd.pk/stream/stream-114.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=114"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportsnet One",
+          "url": "https://dlhd.pk/stream/stream-411.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_West.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=411"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MAX Sport 2 Bulgaria",
+          "url": "https://dlhd.pk/stream/stream-473.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=473"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "NHL Gamecenter",
+          "url": "https://dlhd.pk/stream/stream-15.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=15"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "NHL Gamecenter",
@@ -442,31 +498,17 @@
         },
         {
           "tipo": "dlhd",
-          "nombre_canal": "CBC Sport Azerbaijan",
-          "url": "https://dlhd.pk/stream/stream-1.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=1"
+          "nombre_canal": "Fox Soccer Plus",
+          "url": "https://dlhd.pk/stream/stream-3086.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/FOX_Soccer_Plus.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=3086"
         },
         {
           "tipo": "dlhd",
-          "nombre_canal": "TV2 Sport X Denmark",
-          "url": "https://dlhd.pk/stream/stream-808.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=808"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "SONY TEN 1 HD",
-          "url": "https://dlhd.pk/stream/stream-885.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/5woxs21643398862.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=885"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "Sportklub 5 Croatia",
-          "url": "https://dlhd.pk/stream/stream-28.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=28"
+          "nombre_canal": "Fox Soccer Plus",
+          "url": "https://dlhd.pk/stream/stream-756.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/FOX_Soccer_Plus.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=756"
         },
         {
           "tipo": "dlhd",
@@ -586,6 +628,69 @@
           "url": "https://dlhd.pk/stream/stream-1.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=1"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV2 Sport X Denmark",
+          "url": "https://dlhd.pk/stream/stream-808.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=808"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "SONY TEN 1 HD",
+          "url": "https://dlhd.pk/stream/stream-885.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/5woxs21643398862.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=885"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportklub 5 Croatia",
+          "url": "https://dlhd.pk/stream/stream-28.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=28"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "CBC Sport Azerbaijan",
+          "url": "https://dlhd.pk/stream/stream-1.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=1"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV2 Sport X Denmark",
+          "url": "https://dlhd.pk/stream/stream-808.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=808"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "SONY TEN 1 HD",
+          "url": "https://dlhd.pk/stream/stream-885.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/5woxs21643398862.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=885"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportklub 5 Croatia",
+          "url": "https://dlhd.pk/stream/stream-28.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=28"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "CBC Sport Azerbaijan",
+          "url": "https://dlhd.pk/stream/stream-1.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=1"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Event SD Stream",
+          "url": "https://dlhd.pk/stream/stream-1204.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=1204"
         },
         {
           "tipo": "dlhd",
@@ -703,10 +808,17 @@
         },
         {
           "tipo": "dlhd",
-          "nombre_canal": "ESPN2 Brazil",
-          "url": "https://dlhd.pk/stream/stream-82.php",
-          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/b0n0mh1660763068.png",
-          "url_embed": "https://dlhd.pk/watch.php?id=82"
+          "nombre_canal": "ESPN Deportes",
+          "url": "https://dlhd.pk/stream/stream-375.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ESPN_Deportes.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=375"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN USA",
+          "url": "https://dlhd.pk/stream/stream-44.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=44"
         },
         {
           "tipo": "dlhd",
@@ -742,6 +854,41 @@
           "url": "https://dlhd.pk/stream/stream-82.php",
           "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/b0n0mh1660763068.png",
           "url_embed": "https://dlhd.pk/watch.php?id=82"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN2 Brazil",
+          "url": "https://dlhd.pk/stream/stream-82.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/b0n0mh1660763068.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=82"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN2 Brazil",
+          "url": "https://dlhd.pk/stream/stream-82.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/b0n0mh1660763068.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=82"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-4.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TSN3",
+          "url": "https://dlhd.pk/stream/stream-113.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=113"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TSN1",
+          "url": "https://dlhd.pk/stream/stream-111.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=111"
         },
         {
           "tipo": "dlhd",
@@ -922,6 +1069,34 @@
         },
         {
           "tipo": "dlhd",
+          "nombre_canal": "Fox Sports 3 Argentina",
+          "url": "https://dlhd.pk/stream/stream-789.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=789"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-4.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=4"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TNT Sports 1 UK",
+          "url": "https://dlhd.pk/stream/stream-31.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=31"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sport 1 Hungary",
+          "url": "https://dlhd.pk/stream/stream-12.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=12"
+        },
+        {
+          "tipo": "dlhd",
           "nombre_canal": "MLB League Pass",
           "url": "https://dlhd.pk/stream/stream-4.php",
           "imagen_idiom": "",
@@ -1055,6 +1230,34 @@
       "fecha_hora": "2026-09-23T17:35:00",
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/6t05r21780299518.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-17.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=17"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MASN USA",
+          "url": "https://dlhd.pk/stream/stream-829.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=829"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportsnet East",
+          "url": "https://dlhd.pk/stream/stream-408.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_East.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=408"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TVA Sports CA",
+          "url": "https://dlhd.pk/stream/stream-833.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=833"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "MLB League Pass",
@@ -1399,6 +1602,34 @@
           "url": "https://dlhd.pk/stream/stream-833.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=833"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-1.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=1"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MASN USA",
+          "url": "https://dlhd.pk/stream/stream-829.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=829"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportsnet East",
+          "url": "https://dlhd.pk/stream/stream-408.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_East.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=408"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TVA Sports CA",
+          "url": "https://dlhd.pk/stream/stream-833.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=833"
         }
       ]
     },
@@ -1409,6 +1640,34 @@
       "fecha_hora": "2026-09-23T23:40:00",
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/aae4ie1775132293.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-8.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=8"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Chicago Sports Network",
+          "url": "https://dlhd.pk/stream/stream-776.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=776"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-9.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=9"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Marquee Sports Network",
+          "url": "https://dlhd.pk/stream/stream-770.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/iritvy1634997899.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=770"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "MLB League Pass",
@@ -1753,6 +2012,34 @@
           "url": "https://dlhd.pk/stream/stream-764.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=764"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-13.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=13"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TSN3",
+          "url": "https://dlhd.pk/stream/stream-113.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=113"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "RDS 2 CA",
+          "url": "https://dlhd.pk/stream/stream-840.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=840"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Spectrum Sportsnet LA",
+          "url": "https://dlhd.pk/stream/stream-764.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=764"
         }
       ]
     },
@@ -1763,6 +2050,27 @@
       "fecha_hora": "2026-09-23T22:40:00",
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/8jdwk21715849770.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-2.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=2"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "NBCS Philadelphia USA",
+          "url": "https://dlhd.pk/stream/stream-777.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=777"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "beIN Sports 4 Max France",
+          "url": "https://dlhd.pk/stream/stream-494.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_4.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=494"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "MLB League Pass",
@@ -2023,6 +2331,27 @@
           "url": "https://dlhd.pk/stream/stream-840.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=840"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-6.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=6"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TNT Sports 1 UK",
+          "url": "https://dlhd.pk/stream/stream-31.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=31"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "RDS 2 CA",
+          "url": "https://dlhd.pk/stream/stream-840.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=840"
         }
       ]
     },
@@ -2116,6 +2445,27 @@
           "url": "https://dlhd.pk/stream/stream-44.php",
           "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png",
           "url_embed": "https://dlhd.pk/watch.php?id=44"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN Deportes",
+          "url": "https://dlhd.pk/stream/stream-375.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/ESPN_Deportes.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=375"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN USA",
+          "url": "https://dlhd.pk/stream/stream-44.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/rexw5v1660760670.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=44"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-12.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=12"
         },
         {
           "tipo": "dlhd",
@@ -2265,6 +2615,483 @@
           "url": "https://dlhd.pk/stream/stream-3064.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=3064"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 4 Sweden",
+          "url": "https://dlhd.pk/stream/stream-706.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=706"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 4 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3064.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3064"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Event SD Stream",
+          "url": "https://dlhd.pk/stream/stream-1218.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=1218"
+        }
+      ]
+    },
+    {
+      "id": 456,
+      "nombre": "Vasteras 🇸🇪 vs Sodertalje 🇸🇪",
+      "categoria": "Ice Hockey 🏒 - 🏒 🇸🇪 HockeyAllsvenskan",
+      "fecha_hora": "2026-09-23T17:00:00",
+      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/pabmk81700857026.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sportkanalen Sweden",
+          "url": "https://dlhd.pk/stream/stream-707.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=707"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sportkanalen",
+          "url": "https://dlhd.pk/stream/stream-3065.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3065"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sportkanalen Sweden",
+          "url": "https://dlhd.pk/stream/stream-707.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=707"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sportkanalen",
+          "url": "https://dlhd.pk/stream/stream-3065.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3065"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sportkanalen Sweden",
+          "url": "https://dlhd.pk/stream/stream-707.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=707"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sportkanalen",
+          "url": "https://dlhd.pk/stream/stream-3065.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3065"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sportkanalen Sweden",
+          "url": "https://dlhd.pk/stream/stream-707.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=707"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sportkanalen",
+          "url": "https://dlhd.pk/stream/stream-3065.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3065"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sportkanalen Sweden",
+          "url": "https://dlhd.pk/stream/stream-707.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=707"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sportkanalen",
+          "url": "https://dlhd.pk/stream/stream-3065.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3065"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sportkanalen Sweden",
+          "url": "https://dlhd.pk/stream/stream-707.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=707"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sportkanalen",
+          "url": "https://dlhd.pk/stream/stream-3065.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3065"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sportkanalen Sweden",
+          "url": "https://dlhd.pk/stream/stream-707.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=707"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sportkanalen",
+          "url": "https://dlhd.pk/stream/stream-3065.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3065"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Event SD Stream",
+          "url": "https://dlhd.pk/stream/stream-1219.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=1219"
+        }
+      ]
+    },
+    {
+      "id": 457,
+      "nombre": "Nybro 🇸🇪 vs BIK Karlskoga 🇸🇪",
+      "categoria": "Ice Hockey 🏒 - 🏒 🇸🇪 HockeyAllsvenskan",
+      "fecha_hora": "2026-09-23T17:00:00",
+      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/3nmxhz1758274753.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 3 Sweden",
+          "url": "https://dlhd.pk/stream/stream-705.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=705"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 3 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3063.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3063"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 3 Sweden",
+          "url": "https://dlhd.pk/stream/stream-705.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=705"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 3 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3063.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3063"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 3 Sweden",
+          "url": "https://dlhd.pk/stream/stream-705.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=705"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 3 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3063.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3063"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 3 Sweden",
+          "url": "https://dlhd.pk/stream/stream-705.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=705"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 3 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3063.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3063"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 3 Sweden",
+          "url": "https://dlhd.pk/stream/stream-705.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=705"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 3 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3063.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3063"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 3 Sweden",
+          "url": "https://dlhd.pk/stream/stream-705.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=705"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 3 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3063.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3063"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 3 Sweden",
+          "url": "https://dlhd.pk/stream/stream-705.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=705"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 3 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3063.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3063"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Event SD Stream",
+          "url": "https://dlhd.pk/stream/stream-1221.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=1221"
+        }
+      ]
+    },
+    {
+      "id": 458,
+      "nombre": "Modo 🇸🇪 vs Mora 🇸🇪",
+      "categoria": "Ice Hockey 🏒 - 🏒 🇸🇪 HockeyAllsvenskan",
+      "fecha_hora": "2026-09-23T17:00:00",
+      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/gtgzjj1758274222.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 1 Sweden",
+          "url": "https://dlhd.pk/stream/stream-703.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=703"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 1 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3061.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3061"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 1 Sweden",
+          "url": "https://dlhd.pk/stream/stream-703.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=703"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 1 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3061.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3061"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 1 Sweden",
+          "url": "https://dlhd.pk/stream/stream-703.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=703"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 1 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3061.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3061"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 1 Sweden",
+          "url": "https://dlhd.pk/stream/stream-703.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=703"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 1 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3061.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3061"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 1 Sweden",
+          "url": "https://dlhd.pk/stream/stream-703.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=703"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 1 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3061.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3061"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 1 Sweden",
+          "url": "https://dlhd.pk/stream/stream-703.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=703"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 1 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3061.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3061"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 1 Sweden",
+          "url": "https://dlhd.pk/stream/stream-703.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=703"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 1 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3061.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3061"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Event SD Stream",
+          "url": "https://dlhd.pk/stream/stream-1222.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=1222"
+        }
+      ]
+    },
+    {
+      "id": 459,
+      "nombre": "Leksands 🇸🇪 vs Oskarshamn 🇸🇪",
+      "categoria": "Ice Hockey 🏒 - 🏒 🇸🇪 HockeyAllsvenskan",
+      "fecha_hora": "2026-09-23T17:00:00",
+      "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/zqjrpe1789805399.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 2 Sweden",
+          "url": "https://dlhd.pk/stream/stream-704.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=704"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 2 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3062.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3062"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 2 Sweden",
+          "url": "https://dlhd.pk/stream/stream-704.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=704"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 2 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3062.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3062"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 2 Sweden",
+          "url": "https://dlhd.pk/stream/stream-704.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=704"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 2 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3062.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3062"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 2 Sweden",
+          "url": "https://dlhd.pk/stream/stream-704.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=704"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 2 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3062.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3062"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 2 Sweden",
+          "url": "https://dlhd.pk/stream/stream-704.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=704"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 2 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3062.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3062"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 2 Sweden",
+          "url": "https://dlhd.pk/stream/stream-704.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=704"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 2 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3062.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3062"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 2 Sweden",
+          "url": "https://dlhd.pk/stream/stream-704.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=704"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TV4 Sport Live 2 Sweden",
+          "url": "https://dlhd.pk/stream/stream-3062.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3062"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Event SD Stream",
+          "url": "https://dlhd.pk/stream/stream-1223.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=1223"
         }
       ]
     },
@@ -2316,6 +3143,20 @@
           "url": "https://dlhd.pk/stream/stream-18.php",
           "imagen_idiom": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
           "url_embed": "https://dlhd.pk/watch.php?id=18"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN+ USA",
+          "url": "https://dlhd.pk/stream/stream-18.php",
+          "imagen_idiom": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=18"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TUDN USA",
+          "url": "https://dlhd.pk/stream/stream-66.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=66"
         },
         {
           "tipo": "dlhd",
@@ -2412,6 +3253,20 @@
         },
         {
           "tipo": "dlhd",
+          "nombre_canal": "ESPN2 Argentina",
+          "url": "https://dlhd.pk/stream/stream-150.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/b0n0mh1660763068.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=150"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "ESPN4 Brazil",
+          "url": "https://dlhd.pk/stream/stream-85.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/b0n0mh1660763068.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=85"
+        },
+        {
+          "tipo": "dlhd",
           "nombre_canal": "ESPN4 Brazil",
           "url": "https://dlhd.pk/stream/stream-85.php",
           "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/b0n0mh1660763068.png",
@@ -2455,12 +3310,133 @@
       ]
     },
     {
+      "id": 408,
+      "nombre": "Minnesota Twins 🇺🇸 vs San Francisco Giants 🇺🇸",
+      "categoria": "Baseball (MLB) ⚾ - ⚾ 🇺🇸 MLB",
+      "fecha_hora": "2026-09-23T19:45:00",
+      "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/6jdvss1790149083.jpg",
+      "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-5.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "NBCS Bay Area USA",
+          "url": "https://dlhd.pk/stream/stream-753.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=753"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-5.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "NBCS Bay Area USA",
+          "url": "https://dlhd.pk/stream/stream-753.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=753"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-5.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "NBCS Bay Area USA",
+          "url": "https://dlhd.pk/stream/stream-753.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=753"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-5.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "NBCS Bay Area USA",
+          "url": "https://dlhd.pk/stream/stream-753.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=753"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-5.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "NBCS Bay Area USA",
+          "url": "https://dlhd.pk/stream/stream-753.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=753"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-5.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "NBCS Bay Area USA",
+          "url": "https://dlhd.pk/stream/stream-753.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=753"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-5.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "NBCS Bay Area USA",
+          "url": "https://dlhd.pk/stream/stream-753.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=753"
+        }
+      ]
+    },
+    {
       "id": 411,
       "nombre": "St. Louis Cardinals 🇺🇸 vs Pittsburgh Pirates 🇺🇸",
       "categoria": "Baseball (MLB) ⚾ - ⚾ 🇺🇸 MLB",
       "fecha_hora": "2026-09-23T22:40:00",
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/a8botg1777546625.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-3.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=3"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "SportsNet Pittsburgh",
+          "url": "https://dlhd.pk/stream/stream-922.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=922"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "MLB League Pass",
@@ -2637,6 +3613,20 @@
           "url": "https://dlhd.pk/stream/stream-759.php",
           "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_West.png",
           "url_embed": "https://dlhd.pk/watch.php?id=759"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-5.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=5"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "SportsNet New York USA",
+          "url": "https://dlhd.pk/stream/stream-759.php",
+          "imagen_idiom": "https://r2.thesportsdb.com/images/media/channel/logo/SportsNet_West.png",
+          "url_embed": "https://dlhd.pk/watch.php?id=759"
         }
       ]
     },
@@ -2730,378 +3720,20 @@
           "url": "https://dlhd.pk/stream/stream-755.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=755"
-        }
-      ]
-    },
-    {
-      "id": 456,
-      "nombre": "Vasteras 🇸🇪 vs Sodertalje 🇸🇪",
-      "categoria": "Ice Hockey 🏒 - 🏒 🇸🇪 HockeyAllsvenskan",
-      "fecha_hora": "2026-09-23T17:00:00",
-      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/pabmk81700857026.jpg",
-      "detalles": [
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sportkanalen Sweden",
-          "url": "https://dlhd.pk/stream/stream-707.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=707"
         },
         {
           "tipo": "dlhd",
-          "nombre_canal": "TV4 Sportkanalen",
-          "url": "https://dlhd.pk/stream/stream-3065.php",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-11.php",
           "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3065"
+          "url_embed": "https://dlhd.pk/watch.php?id=11"
         },
         {
           "tipo": "dlhd",
-          "nombre_canal": "TV4 Sportkanalen Sweden",
-          "url": "https://dlhd.pk/stream/stream-707.php",
+          "nombre_canal": "NBCS California USA",
+          "url": "https://dlhd.pk/stream/stream-755.php",
           "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=707"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sportkanalen",
-          "url": "https://dlhd.pk/stream/stream-3065.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3065"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sportkanalen Sweden",
-          "url": "https://dlhd.pk/stream/stream-707.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=707"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sportkanalen",
-          "url": "https://dlhd.pk/stream/stream-3065.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3065"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sportkanalen Sweden",
-          "url": "https://dlhd.pk/stream/stream-707.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=707"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sportkanalen",
-          "url": "https://dlhd.pk/stream/stream-3065.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3065"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sportkanalen Sweden",
-          "url": "https://dlhd.pk/stream/stream-707.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=707"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sportkanalen",
-          "url": "https://dlhd.pk/stream/stream-3065.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3065"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sportkanalen Sweden",
-          "url": "https://dlhd.pk/stream/stream-707.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=707"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sportkanalen",
-          "url": "https://dlhd.pk/stream/stream-3065.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3065"
-        }
-      ]
-    },
-    {
-      "id": 457,
-      "nombre": "Nybro 🇸🇪 vs BIK Karlskoga 🇸🇪",
-      "categoria": "Ice Hockey 🏒 - 🏒 🇸🇪 HockeyAllsvenskan",
-      "fecha_hora": "2026-09-23T17:00:00",
-      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/3nmxhz1758274753.jpg",
-      "detalles": [
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 3 Sweden",
-          "url": "https://dlhd.pk/stream/stream-705.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=705"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 3 Sweden",
-          "url": "https://dlhd.pk/stream/stream-3063.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3063"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 3 Sweden",
-          "url": "https://dlhd.pk/stream/stream-705.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=705"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 3 Sweden",
-          "url": "https://dlhd.pk/stream/stream-3063.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3063"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 3 Sweden",
-          "url": "https://dlhd.pk/stream/stream-705.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=705"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 3 Sweden",
-          "url": "https://dlhd.pk/stream/stream-3063.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3063"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 3 Sweden",
-          "url": "https://dlhd.pk/stream/stream-705.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=705"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 3 Sweden",
-          "url": "https://dlhd.pk/stream/stream-3063.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3063"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 3 Sweden",
-          "url": "https://dlhd.pk/stream/stream-705.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=705"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 3 Sweden",
-          "url": "https://dlhd.pk/stream/stream-3063.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3063"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 3 Sweden",
-          "url": "https://dlhd.pk/stream/stream-705.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=705"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 3 Sweden",
-          "url": "https://dlhd.pk/stream/stream-3063.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3063"
-        }
-      ]
-    },
-    {
-      "id": 458,
-      "nombre": "Modo 🇸🇪 vs Mora 🇸🇪",
-      "categoria": "Ice Hockey 🏒 - 🏒 🇸🇪 HockeyAllsvenskan",
-      "fecha_hora": "2026-09-23T17:00:00",
-      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/gtgzjj1758274222.jpg",
-      "detalles": [
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 1 Sweden",
-          "url": "https://dlhd.pk/stream/stream-703.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=703"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 1 Sweden",
-          "url": "https://dlhd.pk/stream/stream-3061.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3061"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 1 Sweden",
-          "url": "https://dlhd.pk/stream/stream-703.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=703"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 1 Sweden",
-          "url": "https://dlhd.pk/stream/stream-3061.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3061"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 1 Sweden",
-          "url": "https://dlhd.pk/stream/stream-703.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=703"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 1 Sweden",
-          "url": "https://dlhd.pk/stream/stream-3061.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3061"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 1 Sweden",
-          "url": "https://dlhd.pk/stream/stream-703.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=703"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 1 Sweden",
-          "url": "https://dlhd.pk/stream/stream-3061.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3061"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 1 Sweden",
-          "url": "https://dlhd.pk/stream/stream-703.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=703"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 1 Sweden",
-          "url": "https://dlhd.pk/stream/stream-3061.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3061"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 1 Sweden",
-          "url": "https://dlhd.pk/stream/stream-703.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=703"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 1 Sweden",
-          "url": "https://dlhd.pk/stream/stream-3061.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3061"
-        }
-      ]
-    },
-    {
-      "id": 459,
-      "nombre": "Leksands 🇸🇪 vs Oskarshamn 🇸🇪",
-      "categoria": "Ice Hockey 🏒 - 🏒 🇸🇪 HockeyAllsvenskan",
-      "fecha_hora": "2026-09-23T17:00:00",
-      "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/zqjrpe1789805399.jpg",
-      "detalles": [
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 2 Sweden",
-          "url": "https://dlhd.pk/stream/stream-704.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=704"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 2 Sweden",
-          "url": "https://dlhd.pk/stream/stream-3062.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3062"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 2 Sweden",
-          "url": "https://dlhd.pk/stream/stream-704.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=704"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 2 Sweden",
-          "url": "https://dlhd.pk/stream/stream-3062.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3062"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 2 Sweden",
-          "url": "https://dlhd.pk/stream/stream-704.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=704"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 2 Sweden",
-          "url": "https://dlhd.pk/stream/stream-3062.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3062"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 2 Sweden",
-          "url": "https://dlhd.pk/stream/stream-704.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=704"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 2 Sweden",
-          "url": "https://dlhd.pk/stream/stream-3062.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3062"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 2 Sweden",
-          "url": "https://dlhd.pk/stream/stream-704.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=704"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 2 Sweden",
-          "url": "https://dlhd.pk/stream/stream-3062.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3062"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 2 Sweden",
-          "url": "https://dlhd.pk/stream/stream-704.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=704"
-        },
-        {
-          "tipo": "dlhd",
-          "nombre_canal": "TV4 Sport Live 2 Sweden",
-          "url": "https://dlhd.pk/stream/stream-3062.php",
-          "imagen_idiom": "",
-          "url_embed": "https://dlhd.pk/watch.php?id=3062"
+          "url_embed": "https://dlhd.pk/watch.php?id=755"
         }
       ]
     },
@@ -3112,6 +3744,13 @@
       "fecha_hora": "2026-09-23T20:00:00",
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/22y9tz1784358762.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Liga 1 Max Peru",
+          "url": "https://dlhd.pk/stream/stream-1.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=1"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "Liga 1 Max Peru",
@@ -3204,6 +3843,13 @@
           "url": "https://dlhd.pk/stream/stream-642.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=642"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TNT SPORTS Premium HD Chile",
+          "url": "https://dlhd.pk/stream/stream-642.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=642"
         }
       ]
     },
@@ -3214,6 +3860,13 @@
       "fecha_hora": "2026-09-23T23:30:00",
       "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/hxeg9x1789968447.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "TNT SPORTS Premium HD Chile",
+          "url": "https://dlhd.pk/stream/stream-642.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=642"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "TNT SPORTS Premium HD Chile",
@@ -3306,6 +3959,13 @@
           "url": "https://dlhd.pk/stream/stream-7.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=7"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-7.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=7"
         }
       ]
     },
@@ -3316,6 +3976,13 @@
       "fecha_hora": "2026-09-24T00:40:00",
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/6szm601777546878.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MLB League Pass",
+          "url": "https://dlhd.pk/stream/stream-10.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=10"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "MLB League Pass",
@@ -3408,6 +4075,13 @@
           "url": "https://dlhd.pk/stream/stream-103.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=103"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Sportklub 3 Croatia",
+          "url": "https://dlhd.pk/stream/stream-103.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=103"
         }
       ]
     },
@@ -3418,6 +4092,13 @@
       "fecha_hora": "2026-09-23T09:00:00",
       "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/kprybo1693639892.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "KHL Prime",
+          "url": "https://dlhd.pk/stream/stream-13.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=13"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "KHL Prime",
@@ -3510,6 +4191,13 @@
           "url": "https://dlhd.pk/stream/stream-127.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=127"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "Match TV Russia",
+          "url": "https://dlhd.pk/stream/stream-127.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=127"
         }
       ]
     },
@@ -3561,6 +4249,13 @@
           "url": "https://dlhd.pk/stream/stream-14.php",
           "imagen_idiom": "",
           "url_embed": "https://dlhd.pk/watch.php?id=14"
+        },
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "KHL TV",
+          "url": "https://dlhd.pk/stream/stream-14.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=14"
         }
       ]
     },
@@ -3571,6 +4266,13 @@
       "fecha_hora": "2026-09-23T16:00:00",
       "url_flag": "https://www.thesportsdb.com/images/media/event/thumb/rcyqox1789545947.jpg",
       "detalles": [
+        {
+          "tipo": "dlhd",
+          "nombre_canal": "MTV Urheilu",
+          "url": "https://dlhd.pk/stream/stream-15.php",
+          "imagen_idiom": "",
+          "url_embed": "https://dlhd.pk/watch.php?id=15"
+        },
         {
           "tipo": "dlhd",
           "nombre_canal": "MTV Urheilu",

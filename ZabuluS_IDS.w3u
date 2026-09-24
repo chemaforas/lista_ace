@@ -1,199 +1,256 @@
 {
   "name": "ZabuluSports",
-  "author": "Actualizado: 2026-09-23 11:38:15",
+  "author": "Actualizado: 2026-09-24 07:15:12",
   "image": "https://i.postimg.cc/d3Zx14SS/goat.png",
-  "info": "Actualizado automáticamente: 2026-09-23 11:38",
+  "info": "Actualizado automáticamente: 2026-09-24 07:15",
   "groups": [
     {
       "name": "Eventos",
       "image": "https://i.postimg.cc/C1743dSB/live-streaming.png",
-      "info": "Eventos del día 23/09/2026",
+      "info": "Eventos del día 24/09/2026",
       "groups": [
         {
-          "name": "E. Mertens - B. Krejcikova",
-          "info": "02:00 - Tenis - WTA Torneo de Singapur: 2ª Ronda",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
-          "stations": [
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            },
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            }
-          ]
-        },
-        {
-          "name": "A. Parks - L. Fernandez",
-          "info": "02:00 - Tenis - WTA Torneo de Singapur: 2ª Ronda",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
-          "stations": [
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            },
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            }
-          ]
-        },
-        {
-          "name": "M. Andreeva - A. Sasnovich",
-          "info": "02:00 - Tenis - WTA Torneo de Singapur: 2ª Ronda",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
-          "stations": [
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            },
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            }
-          ]
-        },
-        {
-          "name": "O. Oliynykova - M. Chwalinska",
-          "info": "02:00 - Tenis - WTA Torneo de Singapur: 2ª Ronda",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
-          "stations": [
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            },
-            {
-              "name": "Tennis Channel",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
-            }
-          ]
-        },
-        {
           "name": "2a Ronda - WTA 500",
-          "info": "03:00 - WTA Torneo de Singapur",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "WTA Torneo de Singapur - 2ª Ronda - WTA 500",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": ""
-            },
-            {
-              "name": "WTA Torneo de Singapur - 2ª Ronda - WTA 500",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Kazajistan - España",
-          "info": "09:00 - Tenis - Billie Jean King Cup: 1/4 de Final",
+          "info": "03:00 - Tenis - WTA Torneo de Singapur",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
-              "name": "TELEDEPORTE Spain",
-              "url": "acestream://4048be88f84250719e864868e537612f389df48e",
-              "image": ""
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Real Madrid Academy - Getafe Academy",
-          "info": "10:00 - Fútbol - División Honor Juvenil",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
-          "stations": [
-            {
-              "name": "Real Madrid TV",
-              "url": "acestream://44ea3d00ee2abfd5d89792a32851d7af61f16f0a",
-              "image": ""
-            },
-            {
-              "name": "Real Madrid TV",
-              "url": "acestream://ac353757b626cedc6461d8eb73bfffa15fbb7be7",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Kazajistan - España",
-          "info": "10:30 - Tenis - Billie Jean King Cup: 1/4 de Final",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
-          "stations": [
-            {
-              "name": "TELEDEPORTE Spain",
-              "url": "acestream://4048be88f84250719e864868e537612f389df48e",
-              "image": ""
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            }
-          ]
-        },
-        {
-          "name": "1a Ronda B. Krejcikova - A. Friedsam",
-          "info": "10:30 - WTA Torneo de Singapur",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "WTA Torneo de Singapur - 1ª Ronda B. Krejcikova - A. Friedsam",
+              "name": "Tennis Channel",
               "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            },
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Libres 1",
+          "info": "08:30 - Automovilismo - Fórmula 1: G.P. Azerbaiyán (Bakú)",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
+          "stations": [
+            {
+              "name": "DAZN F1",
+              "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "ES: DAZN FORMULA 1",
+              "url": "acestream://30b05bc885d7da9d8b333f9a0345dc9bd7069af8",
               "image": ""
             },
             {
-              "name": "WTA Torneo de Singapur - 1ª Ronda B. Krejcikova - A. Friedsam",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
+              "name": "DAZN F1",
+              "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://895d08633bb22c2573281655cf3ca44de476cc73",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://27d11bbeb3026231d52de16b1fac48da7a099247",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "Dazn F1",
+              "url": "acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            }
+          ]
+        },
+        {
+          "name": "Clasificacion",
+          "info": "10:00 - Automovilismo - FIA Fórmula 2: G.P. Azerbaiyán (Bakú)",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
+          "stations": [
+            {
+              "name": "DAZN F1",
+              "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "ES: DAZN FORMULA 1",
+              "url": "acestream://30b05bc885d7da9d8b333f9a0345dc9bd7069af8",
+              "image": ""
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://895d08633bb22c2573281655cf3ca44de476cc73",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://27d11bbeb3026231d52de16b1fac48da7a099247",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "Dazn F1",
+              "url": "acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            }
+          ]
+        },
+        {
+          "name": "Jornada 1",
+          "info": "11:30 - Golf - Open de France",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fgolf.png",
+          "stations": [
+            {
+              "name": "M+ Golf 2",
+              "url": "acestream://882074140fca664e119a43294afa2fb4a64917ef",
+              "image": ""
+            },
+            {
+              "name": "M+ Golf 2",
+              "url": "acestream://597cca4ef375529aaca0608b43187d99d26ca714",
+              "image": ""
+            },
+            {
+              "name": "M. Golf",
+              "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
+              "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
+            },
+            {
+              "name": "M+ Golf",
+              "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
+              "image": ""
+            },
+            {
+              "name": "M+ Golf",
+              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
+              "image": ""
+            },
+            {
+              "name": "M+ Golf",
+              "url": "acestream://f60535a458b3c114283e2f433379144345beddd6",
               "image": ""
             }
           ]
         },
         {
-          "name": "Etapa 2 - Biograd na Moru › Novalja (114,5 km)",
+          "name": "Libres 2",
+          "info": "12:00 - Automovilismo - Fórmula 1: G.P. Azerbaiyán (Bakú)",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fautomovilismo.png",
+          "stations": [
+            {
+              "name": "DAZN F1",
+              "url": "acestream://d65257bb934b73647374224fd62d836815804be2",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "ES: DAZN FORMULA 1",
+              "url": "acestream://30b05bc885d7da9d8b333f9a0345dc9bd7069af8",
+              "image": ""
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://895d08633bb22c2573281655cf3ca44de476cc73",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "DAZN F1",
+              "url": "acestream://27d11bbeb3026231d52de16b1fac48da7a099247",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            },
+            {
+              "name": "Dazn F1",
+              "url": "acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19",
+              "image": "https://i.postimg.cc/6Q926FwQ/logo1-17-101423-removebg-preview.png"
+            }
+          ]
+        },
+        {
+          "name": "Etapa 3 - Krk › Labin (174.5 km)",
           "info": "12:00 - Ciclismo - Tour de Croacia",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
@@ -220,342 +277,253 @@
           ]
         },
         {
-          "name": "1a Ronda M. Sakkari - L. Fruhvirtova",
-          "info": "12:00 - WTA Torneo de Singapur",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
+          "name": "Carrera Sub-23 Femenina - Montreal › Montreal (134 km)",
+          "info": "14:00 - Ciclismo - Mundial de Ciclismo en Ruta",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
           "stations": [
             {
-              "name": "WTA Torneo de Singapur - 1ª Ronda M. Sakkari - L. Fruhvirtova",
-              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
-              "image": ""
-            },
-            {
-              "name": "WTA Torneo de Singapur - 1ª Ronda M. Sakkari - L. Fruhvirtova",
-              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Etapa 1 - Split › Seget Donji (167 km)",
-          "info": "12:00 - Tour de Croacia",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fnsw23YC%2Fcycling.png",
-          "stations": [
-            {
-              "name": "Tour de Croacia - Etapa 1 - Split › Seget Donji",
+              "name": "Eurosport 1",
               "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
               "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "Tour de Croacia - Etapa 1 - Split › Seget Donji",
+              "name": "Eurosport 1",
               "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": ""
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "Tour de Croacia - Etapa 1 - Split › Seget Donji",
+              "name": "Eurosport 1",
               "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": ""
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "Tour de Croacia - Etapa 1 - Split › Seget Donji",
+              "name": "Eurosport 1",
               "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+            }
+          ]
+        },
+        {
+          "name": "Dubai Basketball - Real Madrid Baloncesto",
+          "info": "16:00 - Baloncesto - Euroliga: Liga Regular",
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/8kafrg1786182697.jpg",
+          "stations": [
+            {
+              "name": "M+ Baloncesto",
+              "url": "acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0",
+              "image": ""
+            },
+            {
+              "name": "M+ Baloncesto",
+              "url": "acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6",
               "image": ""
             }
           ]
         },
         {
-          "name": "Italia - España",
-          "info": "13:00 - Fútbol - FIFA Mundial Femenino Sub-20: Semifinales",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
+          "name": "Jornada 1",
+          "info": "16:30 - Golf - Presidents Cup",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fgolf.png",
           "stations": [
             {
-              "name": "TELEDEPORTE Spain",
-              "url": "acestream://4048be88f84250719e864868e537612f389df48e",
+              "name": "M. Golf",
+              "url": "acestream://872608e734992db636eb79426802cd08f4029afb",
+              "image": "https://i.postimg.cc/yx9c39GB/logo1-17-10417-removebg-preview.png"
+            },
+            {
+              "name": "M+ Golf",
+              "url": "acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530",
               "image": ""
             },
             {
-              "name": "Teledeporte",
-              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+              "name": "M+ Golf",
+              "url": "acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb",
+              "image": ""
             },
             {
-              "name": "Teledeporte",
-              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+              "name": "M+ Golf",
+              "url": "acestream://f60535a458b3c114283e2f433379144345beddd6",
+              "image": ""
             }
           ]
         },
         {
-          "name": "Contrarreloj por Equipos Mixtos - Montreal › Montreal (40,6 km)",
-          "info": "13:00 - Mundial de Ciclismo en Ruta",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fnsw23YC%2Fcycling.png",
+          "name": "Hipodromo de La Zarzuela 24/09/2026",
+          "info": "16:45 - Hípica - Las Carreras",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fhipica.png",
           "stations": [
             {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj por Equipos Mixtos - Montreal › Montreal",
-              "url": "acestream://4048be88f84250719e864868e537612f389df48e",
-              "image": ""
+              "name": "M. Deportes",
+              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj por Equipos Mixtos - Montreal › Montreal",
-              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
-              "image": ""
+              "name": "M+ Deportes",
+              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj por Equipos Mixtos - Montreal › Montreal",
-              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+              "name": "M+ Deportes",
+              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj por Equipos Mixtos - Montreal › Montreal",
-              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+              "name": "M+ Deportes",
+              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj por Equipos Mixtos - Montreal › Montreal",
-              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+              "name": "M+ Deportes",
+              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj por Equipos Mixtos - Montreal › Montreal",
+              "name": "Movistar Deportes",
+              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
+              "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+            }
+          ]
+        },
+        {
+          "name": "Carrera Junior Masculina - Montreal › Montreal (134 km)",
+          "info": "17:20 - Ciclismo - Mundial de Ciclismo en Ruta",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fciclismo.png",
+          "stations": [
+            {
+              "name": "Eurosport 1",
               "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
               "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj por Equipos Mixtos - Montreal › Montreal",
+              "name": "Eurosport 1",
               "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": ""
-            },
-            {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj por Equipos Mixtos - Montreal › Montreal",
-              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": ""
-            },
-            {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj por Equipos Mixtos - Montreal › Montreal",
-              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Contrarreloj Junior Masculina - Montreal › Montreal (20,3 km)",
-          "info": "16:05 - Mundial de Ciclismo en Ruta",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fnsw23YC%2Fcycling.png",
-          "stations": [
-            {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj Junior Masculina - Montreal › Montreal",
-              "url": "acestream://4048be88f84250719e864868e537612f389df48e",
-              "image": ""
-            },
-            {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj Junior Masculina - Montreal › Montreal",
-              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
-              "image": ""
-            },
-            {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj Junior Masculina - Montreal › Montreal",
-              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj Junior Masculina - Montreal › Montreal",
-              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj Junior Masculina - Montreal › Montreal",
-              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj Junior Masculina - Montreal › Montreal",
-              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
               "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj Junior Masculina - Montreal › Montreal",
-              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": ""
-            },
-            {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj Junior Masculina - Montreal › Montreal",
+              "name": "Eurosport 1",
               "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": ""
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             },
             {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj Junior Masculina - Montreal › Montreal",
+              "name": "Eurosport 1",
               "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
-              "image": ""
+              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
             }
           ]
         },
         {
-          "name": "Corea del Norte - Colombia",
-          "info": "16:30 - Fútbol - FIFA Mundial Femenino Sub-20: Semifinales",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
-          "stations": [
-            {
-              "name": "TELEDEPORTE Spain",
-              "url": "acestream://4048be88f84250719e864868e537612f389df48e",
-              "image": ""
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            },
-            {
-              "name": "Teledeporte",
-              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Spar Girona - Cadi La Seu",
-          "info": "18:30 - Baloncesto - Liga Catalana Femenina",
+          "name": "Barça Basket - Anadolu Efes Istanbul",
+          "info": "18:30 - Baloncesto - Euroliga: Liga Regular",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fbaloncesto.png",
           "stations": [
             {
-              "name": "Esport3",
-              "url": "acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc",
-              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+              "name": "Movistar Vamos 2",
+              "url": "acestream://8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8",
+              "image": "https://i.postimg.cc/SxMNs0m0/logo3-1-112224.png"
             },
             {
-              "name": "Esport3",
-              "url": "acestream://21bc11d195f5753c396e390c215952d21541d04d",
-              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+              "name": "M+ Vamos",
+              "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
             },
             {
-              "name": "Esport3",
-              "url": "acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3",
-              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Sant Andreu - RM Castilla",
-          "info": "19:00 - Fútbol - 1RFEF: Grupo 2",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
-          "stations": [
+              "name": "M+ Vamos",
+              "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
             {
-              "name": "RFEF TV",
-              "url": "acestream://177796041773be99b489dd3ce86144f243e7355f",
+              "name": "M+ Vamos",
+              "url": "acestream://26159ba451167e962f4f9236ab4c7626f7eb4e49",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://866a8af8faacf8fc9eb997ab5a68b4dfee4edc77",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M+ Vamos",
+              "url": "acestream://7a053fc56fc93f42ec656382408e647055110e3e",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "Vamos",
+              "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M+ Baloncesto",
+              "url": "acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0",
               "image": ""
             },
             {
-              "name": "RFEF TV",
-              "url": "acestream://3fbc1b7dc316f19b77e7f7cfc775a0af67adcc7f",
-              "image": ""
-            },
-            {
-              "name": "RFEF TV",
-              "url": "acestream://854ff9c607101791346111cd2366a392c3b8c351",
-              "image": ""
-            },
-            {
-              "name": "RFEF TV",
-              "url": "acestream://7b742628b9f7e82902bdbc1ff92eba1988875cfc",
-              "image": ""
-            },
-            {
-              "name": "1 Federacion",
-              "url": "acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Fase Liga Real Madrid Femenino - PSG Femenino",
-          "info": "19:00 - Champions Fem",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2vhFM7h%2Fsoccer-ball-variant.png",
-          "stations": [
-            {
-              "name": "Champions Fem - Fase Liga Real Madrid Femenino - PSG Femenino",
-              "url": "acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc",
-              "image": ""
-            },
-            {
-              "name": "Champions Fem - Fase Liga Real Madrid Femenino - PSG Femenino",
-              "url": "acestream://21bc11d195f5753c396e390c215952d21541d04d",
-              "image": ""
-            },
-            {
-              "name": "Champions Fem - Fase Liga Real Madrid Femenino - PSG Femenino",
-              "url": "acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3",
+              "name": "M+ Baloncesto",
+              "url": "acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6",
               "image": ""
             }
           ]
         },
         {
-          "name": "Contrarreloj Junior Femenina - Montreal › Montreal (10,7 km)",
-          "info": "19:05 - Mundial de Ciclismo en Ruta",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fnsw23YC%2Fcycling.png",
+          "name": "Brentford",
+          "info": "18:30 - Rugby a 7 - Ultimate Sevens",
+          "image": "https://i.postimg.cc/C1743dSB/live_streaming.png",
           "stations": [
             {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj Junior Femenina - Montreal › Montreal",
+              "name": "TELEDEPORTE Spain",
               "url": "acestream://4048be88f84250719e864868e537612f389df48e",
               "image": ""
             },
             {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj Junior Femenina - Montreal › Montreal",
+              "name": "Teledeporte",
               "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
-              "image": ""
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             },
             {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj Junior Femenina - Montreal › Montreal",
+              "name": "Teledeporte",
               "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             },
             {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj Junior Femenina - Montreal › Montreal",
+              "name": "Teledeporte",
               "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             },
             {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj Junior Femenina - Montreal › Montreal",
+              "name": "Teledeporte",
               "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
               "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Holanda - Alemania",
+          "info": "18:45 - Fútbol - UEFA Nations League: Fase de grupos",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
+          "stations": [
+            {
+              "name": "La 1",
+              "url": "acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FswhGnw4%2FLa1.jpg"
             },
             {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj Junior Femenina - Montreal › Montreal",
-              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
+              "name": "LA 1 Spain",
+              "url": "acestream://9c079e1bbd01814c107e89187b8c24ba0ac306dd",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FswhGnw4%2FLa1.jpg"
             },
             {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj Junior Femenina - Montreal › Montreal",
-              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
+              "name": "La 1 TVE 4K",
+              "url": "acestream://da38a21a9509be8c03b0fdb539cb1485843330c3",
               "image": ""
             },
             {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj Junior Femenina - Montreal › Montreal",
-              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": ""
-            },
-            {
-              "name": "Mundial de Ciclismo en Ruta - Contrarreloj Junior Femenina - Montreal › Montreal",
-              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
-              "image": ""
+              "name": "La 1 TVE",
+              "url": "acestream://02622fa2fab63847d88dc14fd9fa5c2fc35de8a8",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FswhGnw4%2FLa1.jpg"
             }
           ]
         }

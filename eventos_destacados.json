@@ -1,7 +1,7 @@
 {
   "stream_server": {
     "url": "http://hdports-stream.duckdns.org:8080",
-    "last_update": "2026-09-28T10:46:02Z"
+    "last_update": "2026-09-28T11:16:54Z"
   },
   "eventos": [
     {
@@ -1028,6 +1028,39 @@
           "nombre_canal": "DAZN 2",
           "url": "acestream://350bb4d726e2dd4dc4b2b17b59da783fdb07c11b",
           "imagen_idiom": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png"
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "nombre": "Liga Regular Denver Broncos - Los Angeles Rams",
+      "categoria": "NFL",
+      "fecha_hora": "2026-09-29T00:20:00",
+      "url_flag": "https://r2.thesportsdb.com/images/media/event/thumb/jknryh1784759768.jpg",
+      "detalles": [
+        {
+          "tipo": "acestream",
+          "nombre_canal": "NFL - Liga Regular Denver Broncos - Los Angeles Rams",
+          "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516",
+          "imagen_idiom": ""
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "NFL - Liga Regular Denver Broncos - Los Angeles Rams",
+          "url": "acestream://d60b8c154828cb990b7bb1570764b215bd979e74",
+          "imagen_idiom": ""
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "NFL - Liga Regular Denver Broncos - Los Angeles Rams",
+          "url": "acestream://01ce89b571b6c89bc19ccaafc913d483ac65c61d",
+          "imagen_idiom": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png"
+        },
+        {
+          "tipo": "acestream",
+          "nombre_canal": "NFL - Liga Regular Denver Broncos - Los Angeles Rams",
+          "url": "acestream://350bb4d726e2dd4dc4b2b17b59da783fdb07c11b",
+          "imagen_idiom": ""
         }
       ]
     },

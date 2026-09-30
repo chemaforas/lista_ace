@@ -1,266 +1,49 @@
 {
   "name": "ZabuluSports",
-  "author": "Actualizado: 2026-09-29 11:33:48",
+  "author": "Actualizado: 2026-09-30 07:11:50",
   "image": "https://i.postimg.cc/d3Zx14SS/goat.png",
-  "info": "Actualizado automáticamente: 2026-09-29 11:33",
+  "info": "Actualizado automáticamente: 2026-09-30 07:11",
   "groups": [
     {
       "name": "Eventos",
       "image": "https://i.postimg.cc/C1743dSB/live-streaming.png",
-      "info": "Eventos del día 29/09/2026",
+      "info": "Eventos del día 30/09/2026",
       "groups": [
         {
-          "name": "Chicago Bears - Philadelphia Eagles",
-          "info": "00:15 - Fútbol Americano - NFL: Liga Regular",
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/gtp0461784759769.jpg",
+          "name": "New York Liberty - Minnesota Lynx",
+          "info": "00:30 - Baloncesto - WNBA: Playoffs",
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/1srime1651998411.jpg",
           "stations": [
             {
-              "name": "DAZN2",
-              "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+              "name": "TELEDEPORTE Spain",
+              "url": "acestream://4048be88f84250719e864868e537612f389df48e",
+              "image": ""
             },
             {
-              "name": "DAZN 2",
-              "url": "acestream://d60b8c154828cb990b7bb1570764b215bd979e74",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+              "name": "Teledeporte",
+              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             },
             {
-              "name": "DAZN 2",
-              "url": "acestream://01ce89b571b6c89bc19ccaafc913d483ac65c61d",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+              "name": "Teledeporte",
+              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             },
             {
-              "name": "DAZN 2",
-              "url": "acestream://350bb4d726e2dd4dc4b2b17b59da783fdb07c11b",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
+              "name": "Teledeporte",
+              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
             }
           ]
         },
         {
-          "name": "Liga Regular Chicago Bears - Philadelphia Eagles",
-          "info": "00:15 - NFL",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fjf3PWRZ%2Famerican-football.png",
-          "stations": [
-            {
-              "name": "NFL - Liga Regular Chicago Bears - Philadelphia Eagles",
-              "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516",
-              "image": ""
-            },
-            {
-              "name": "NFL - Liga Regular Chicago Bears - Philadelphia Eagles",
-              "url": "acestream://d60b8c154828cb990b7bb1570764b215bd979e74",
-              "image": ""
-            },
-            {
-              "name": "NFL - Liga Regular Chicago Bears - Philadelphia Eagles",
-              "url": "acestream://01ce89b571b6c89bc19ccaafc913d483ac65c61d",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd6%2FDazn-logo.png"
-            },
-            {
-              "name": "NFL - Liga Regular Chicago Bears - Philadelphia Eagles",
-              "url": "acestream://350bb4d726e2dd4dc4b2b17b59da783fdb07c11b",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Dia 2 - Ronda 2",
-          "info": "06:00 - Snooker - Abierto de Shenzhen",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fsnooker.png",
-          "stations": [
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://48a589dbeab3544662fafd79888aada7d834cfe9",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            },
-            {
-              "name": "Eurosport 1",
-              "url": "acestream://62a5750be4d2218b1064f83afaac4770fd92350d",
-              "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png"
-            }
-          ]
-        },
-        {
-          "name": "Fase de grupos N. Basilashvili - A. Davidovich",
-          "info": "09:00 - UEFA Nations League",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "UEFA Nations League - Fase de grupos N. Basilashvili - A. Davidovich",
-              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
-              "image": ""
-            },
-            {
-              "name": "UEFA Nations League - Fase de grupos N. Basilashvili - A. Davidovich",
-              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
-              "image": ""
-            },
-            {
-              "name": "UEFA Nations League - Fase de grupos N. Basilashvili - A. Davidovich",
-              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
-              "image": ""
-            },
-            {
-              "name": "UEFA Nations League - Fase de grupos N. Basilashvili - A. Davidovich",
-              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "UEFA Nations League - Fase de grupos N. Basilashvili - A. Davidovich",
-              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
-              "image": ""
-            },
-            {
-              "name": "UEFA Nations League - Fase de grupos N. Basilashvili - A. Davidovich",
-              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Semifinal 1 K. Jacquet - A. Rublev",
-          "info": "09:30 - Torneo de Hangzhou",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "Torneo de Hangzhou - Semifinal 1 K. Jacquet - A. Rublev",
-              "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Hangzhou - Semifinal 1 K. Jacquet - A. Rublev",
-              "url": "acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Torneo de Hangzhou - Semifinal 1 K. Jacquet - A. Rublev",
-              "url": "acestream://3ee6a0b0e3cacea68107f61bf398f651d8159eed",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Hangzhou - Semifinal 1 K. Jacquet - A. Rublev",
-              "url": "acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Hangzhou - Semifinal 1 K. Jacquet - A. Rublev",
-              "url": "acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Hangzhou - Semifinal 1 K. Jacquet - A. Rublev",
-              "url": "acestream://6b15368775693c33c49fab02e7900c1976a5da90",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            }
-          ]
-        },
-        {
-          "name": "H. Hurkacz - A. Davidovich",
-          "info": "11:00 - Tenis - Torneo de Chengdú: Final",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
-          "stations": [
-            {
-              "name": "MOVISTAR PLUS",
-              "url": "acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb",
-              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
-            },
-            {
-              "name": "MOVISTAR PLUS",
-              "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
-              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
-            },
-            {
-              "name": "MOVISTAR PLUS",
-              "url": "acestream://d23497596720b47b096ec0f850d6d26a19d1a336",
-              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
-            },
-            {
-              "name": "Movistar+",
-              "url": "acestream://fa931cbc87dc9d66fdd30a9644e054b403960056",
-              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
-            },
-            {
-              "name": "M. Deportes",
-              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "M+ Deportes",
-              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "Movistar Deportes",
-              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
-              "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png"
-            }
-          ]
-        },
-        {
-          "name": "Fase de grupos H. Hurkacz - D. Shapovalov",
-          "info": "11:00 - UEFA Nations League",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
-          "stations": [
-            {
-              "name": "UEFA Nations League - Fase de grupos H. Hurkacz - D. Shapovalov",
-              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
-              "image": ""
-            },
-            {
-              "name": "UEFA Nations League - Fase de grupos H. Hurkacz - D. Shapovalov",
-              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
-              "image": ""
-            },
-            {
-              "name": "UEFA Nations League - Fase de grupos H. Hurkacz - D. Shapovalov",
-              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
-              "image": ""
-            },
-            {
-              "name": "UEFA Nations League - Fase de grupos H. Hurkacz - D. Shapovalov",
-              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
-              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
-            },
-            {
-              "name": "UEFA Nations League - Fase de grupos H. Hurkacz - D. Shapovalov",
-              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
-              "image": ""
-            },
-            {
-              "name": "UEFA Nations League - Fase de grupos H. Hurkacz - D. Shapovalov",
-              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "D. Medvedev - A. Rublev",
-          "info": "11:30 - Tenis - Torneo de Hangzhou: Final",
+          "name": "A. Tabilo - T. Paul",
+          "info": "01:00 - Tenis - Torneo de Tokio: 1ª Ronda",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
@@ -296,8 +79,224 @@
           ]
         },
         {
-          "name": "Dia 2 - Ronda 3",
-          "info": "11:30 - Snooker - Abierto de Shenzhen",
+          "name": "M. Arnaldi - R. Sakamoto",
+          "info": "01:00 - Tenis - Torneo de Tokio: 1ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
+            {
+              "name": "M. Deportes 2",
+              "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://3ee6a0b0e3cacea68107f61bf398f651d8159eed",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://6b15368775693c33c49fab02e7900c1976a5da90",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "A. Fils - L. Van Assche",
+          "info": "01:00 - Tenis - Torneo de Tokio: 1ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
+            {
+              "name": "M. Deportes 2",
+              "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://3ee6a0b0e3cacea68107f61bf398f651d8159eed",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://6b15368775693c33c49fab02e7900c1976a5da90",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "V. Vacherot - A. Blockx",
+          "info": "01:00 - Tenis - Torneo de Tokio: 1ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
+            {
+              "name": "M. Deportes 2",
+              "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://3ee6a0b0e3cacea68107f61bf398f651d8159eed",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 2",
+              "url": "acestream://6b15368775693c33c49fab02e7900c1976a5da90",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "K. Khachanov - F. Auger-Aliassime",
+          "info": "03:00 - Tenis - Torneo de Pekín: 1ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
+            {
+              "name": "M. Deportes 3",
+              "url": "acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 3",
+              "url": "acestream://84aed52c5deb78f58595d88250e7a2bd04dfd810",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 3",
+              "url": "acestream://f4d9011721fad5098febbe4d7c078a582e176a01",
+              "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 3",
+              "url": "acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d",
+              "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 3",
+              "url": "acestream://d448a45840bfd60678abb2a45dd6044c9c8d11f8",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "M. Joint - S. Kraus",
+          "info": "03:00 - Tenis - WTA Pekín: 1ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            },
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "M. Sherif - P. Kudermetova",
+          "info": "04:30 - Tenis - WTA Pekín: 1ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            },
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "JL. Struff - TA. Tirante",
+          "info": "05:00 - Tenis - Torneo de Pekín: 1ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
+            {
+              "name": "M. Deportes 4",
+              "url": "acestream://8b5f9d967384afab226dd759e6e9dfaee9993869",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 4",
+              "url": "acestream://7bede102385c65a545db531af476ef18c31f6258",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 4",
+              "url": "acestream://2a5d90651e212106434edea5bfbba1a843b7b97c",
+              "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "O. Oliynykova - Y. Yuan",
+          "info": "06:00 - Tenis - WTA Pekín: 1ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            },
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Dia 3 - Tercera ronda",
+          "info": "06:00 - Snooker - Abierto de Shenzhen",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fsnooker.png",
           "stations": [
             {
@@ -323,45 +322,175 @@
           ]
         },
         {
-          "name": "Semifinal 2 D. Medvedev - R. Safiullin",
-          "info": "11:30 - Torneo de Hangzhou",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FYjyrpmh%2Fball.png",
+          "name": "JM. Cerundolo - Y. Bu",
+          "info": "06:30 - Tenis - Torneo de Pekín: 1ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
           "stations": [
             {
-              "name": "Torneo de Hangzhou - Semifinal 2 D. Medvedev - R. Safiullin",
-              "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
-              "image": ""
-            },
-            {
-              "name": "Torneo de Hangzhou - Semifinal 2 D. Medvedev - R. Safiullin",
-              "url": "acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee",
+              "name": "M. Deportes 4",
+              "url": "acestream://8b5f9d967384afab226dd759e6e9dfaee9993869",
               "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Torneo de Hangzhou - Semifinal 2 D. Medvedev - R. Safiullin",
-              "url": "acestream://3ee6a0b0e3cacea68107f61bf398f651d8159eed",
-              "image": ""
+              "name": "M+ Deportes 4",
+              "url": "acestream://7bede102385c65a545db531af476ef18c31f6258",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Torneo de Hangzhou - Semifinal 2 D. Medvedev - R. Safiullin",
-              "url": "acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191",
-              "image": ""
+              "name": "M+ Deportes 4",
+              "url": "acestream://2a5d90651e212106434edea5bfbba1a843b7b97c",
+              "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "Zh. Zhang - A. Gea",
+          "info": "09:00 - Tenis - Torneo de Pekín: 1ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
+            {
+              "name": "M. Deportes 4",
+              "url": "acestream://8b5f9d967384afab226dd759e6e9dfaee9993869",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Torneo de Hangzhou - Semifinal 2 D. Medvedev - R. Safiullin",
-              "url": "acestream://fd2aea1aa8fcddebfda1644118c6806230a1d539",
-              "image": ""
+              "name": "M+ Deportes 4",
+              "url": "acestream://7bede102385c65a545db531af476ef18c31f6258",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             },
             {
-              "name": "Torneo de Hangzhou - Semifinal 2 D. Medvedev - R. Safiullin",
-              "url": "acestream://6b15368775693c33c49fab02e7900c1976a5da90",
+              "name": "M+ Deportes 4",
+              "url": "acestream://2a5d90651e212106434edea5bfbba1a843b7b97c",
+              "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png"
+            }
+          ]
+        },
+        {
+          "name": "Hipodromo de San Sebastian 30/09/2026",
+          "info": "09:45 - Hípica - Las Carreras",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fhipica.png",
+          "stations": [
+            {
+              "name": "M. Deportes",
+              "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes",
+              "url": "acestream://7f8b4f57bf234510d3f607492508d68167d4b0ab",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "Movistar Deportes",
+              "url": "acestream://af393f93814d03160d48d2730759593b7bea5b47",
+              "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png"
+            }
+          ]
+        },
+        {
+          "name": "N. Borges - N. Djokovic",
+          "info": "11:00 - Tenis - Torneo de Pekín: 1ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
+            {
+              "name": "MOVISTAR PLUS",
+              "url": "acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb",
+              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
+            },
+            {
+              "name": "MOVISTAR PLUS",
+              "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
+              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
+            },
+            {
+              "name": "MOVISTAR PLUS",
+              "url": "acestream://d23497596720b47b096ec0f850d6d26a19d1a336",
+              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
+            },
+            {
+              "name": "Movistar+",
+              "url": "acestream://fa931cbc87dc9d66fdd30a9644e054b403960056",
+              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
+            },
+            {
+              "name": "M. Deportes 3",
+              "url": "acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 3",
+              "url": "acestream://84aed52c5deb78f58595d88250e7a2bd04dfd810",
+              "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 3",
+              "url": "acestream://f4d9011721fad5098febbe4d7c078a582e176a01",
+              "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 3",
+              "url": "acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d",
+              "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png"
+            },
+            {
+              "name": "M+ Deportes 3",
+              "url": "acestream://d448a45840bfd60678abb2a45dd6044c9c8d11f8",
               "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png"
             }
           ]
         },
         {
-          "name": "Montada Derb Sultan - Barça BM",
-          "info": "12:30 - Balonmano - IHF Super Globe: Fase de grupos",
+          "name": "E. Jacquemot - M. Frech",
+          "info": "11:00 - Tenis - WTA Pekín: 1ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            },
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "A. Bondar - R. Zarazua",
+          "info": "12:30 - Tenis - WTA Pekín: 1ª Ronda",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ftenis.png",
+          "stations": [
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://a4cbadd19442b800727be713270fa9c917cc8582",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            },
+            {
+              "name": "Tennis Channel",
+              "url": "acestream://43c549e5781f5a923b76f8f29cde122b5be164eb",
+              "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Flensburg-Handewitt - BM Granollers",
+          "info": "16:45 - Balonmano - EHF European League",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fbalonmano.png",
           "stations": [
             {
@@ -387,8 +516,8 @@
           ]
         },
         {
-          "name": "Dubai Basketball - Barça Basket",
-          "info": "16:00 - Baloncesto - Euroliga: Liga Regular",
+          "name": "PAOK Salonica - Kids&Us Manresa",
+          "info": "17:00 - Baloncesto - Eurocup: Liga Regular",
           "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fbaloncesto.png",
           "stations": [
             {
@@ -434,9 +563,107 @@
           ]
         },
         {
-          "name": "Anadolu Efes Istanbul - Real Madrid Baloncesto",
-          "info": "17:00 - Baloncesto - Euroliga: Liga Regular",
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/v49h591786182714.jpg",
+          "name": "Spar Girona - Emlak Konut SK",
+          "info": "18:00 - Baloncesto - Euroliga Fem.: Fase de Clasificación",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fbaloncesto.png",
+          "stations": [
+            {
+              "name": "M+ VAMOS 2",
+              "url": "acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M+ VAMOS 2",
+              "url": "acestream://0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "M+ VAMOS 2",
+              "url": "acestream://f51674b1dd1ab5a668fa97a0f13a490632f0d7ca",
+              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
+            },
+            {
+              "name": "Esport3",
+              "url": "acestream://8f59ce96e4c902ba2f5193af07546d7ff17fc3bc",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3",
+              "url": "acestream://21bc11d195f5753c396e390c215952d21541d04d",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3",
+              "url": "acestream://739792a3225e5eb3056f4faa7b1137c7f161f23c",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            },
+            {
+              "name": "Esport3",
+              "url": "acestream://ed6524f8f73c30cf102fde66f2cb520f4b5842e3",
+              "image": "https://i.postimg.cc/0yL26PyR/Esport3.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Panathinaikos BC - ASVEL Lyon-Villeurbanne",
+          "info": "18:15 - Baloncesto - Euroliga: Liga Regular",
+          "image": "https://r2.thesportsdb.com/images/media/event/thumb/enw54j1786182726.jpg",
+          "stations": [
+            {
+              "name": "M+ Baloncesto 3",
+              "url": "acestream://7b0193004089d4d29821a5cdf17f407d0d192314",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "name": "España - Mexico",
+          "info": "18:30 - Fútbol - Amistoso Sub-20",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
+          "stations": [
+            {
+              "name": "TELEDEPORTE Spain",
+              "url": "acestream://4048be88f84250719e864868e537612f389df48e",
+              "image": ""
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b35b3eb8e22365bf3469efd6d1f3b82618a6e18a",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://3b50a1dca0977e3761d016edd79314ab797f74f6",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            },
+            {
+              "name": "Teledeporte",
+              "url": "acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae",
+              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2Fthh1tKH%2FTDP.jpg"
+            }
+          ]
+        },
+        {
+          "name": "San Pablo Burgos - Olimpija Ljubljana",
+          "info": "18:30 - Baloncesto - Eurocup: Liga Regular",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fbaloncesto.png",
+          "stations": [
+            {
+              "name": "M+ Baloncesto 2",
+              "url": "acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "name": "La Laguna Tenerife - Türk Telekom Ankara",
+          "info": "19:00 - Baloncesto - Eurocup: Liga Regular",
+          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fbaloncesto.png",
           "stations": [
             {
               "name": "M+ Baloncesto",
@@ -446,126 +673,6 @@
             {
               "name": "M+ Baloncesto",
               "url": "acestream://e3816fbc661fbc8b2b656aee9483d0a55a1608b6",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "AX Olimpia Milano - Virtus Bologna",
-          "info": "18:30 - Baloncesto - Euroliga: Liga Regular",
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/rdfcd61786182720.jpg",
-          "stations": [
-            {
-              "name": "M+ VAMOS 3",
-              "url": "acestream://a9299052e9a16e5e2924e1fdd00b877c374f9e96",
-              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
-            },
-            {
-              "name": "M+ VAMOS 3",
-              "url": "acestream://837883625d40e1eb5566eefaf74811046491f53a",
-              "image": "https://i.postimg.cc/wBRc6GSG/vamos.png"
-            }
-          ]
-        },
-        {
-          "name": "Valencia Basket - Baskonia",
-          "info": "18:30 - Baloncesto - Euroliga: Liga Regular",
-          "image": "https://r2.thesportsdb.com/images/media/event/thumb/xkwp4q1786182722.jpg",
-          "stations": [
-            {
-              "name": "MOVISTAR PLUS",
-              "url": "acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb",
-              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
-            },
-            {
-              "name": "MOVISTAR PLUS",
-              "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
-              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
-            },
-            {
-              "name": "MOVISTAR PLUS",
-              "url": "acestream://d23497596720b47b096ec0f850d6d26a19d1a336",
-              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
-            },
-            {
-              "name": "Movistar+",
-              "url": "acestream://fa931cbc87dc9d66fdd30a9644e054b403960056",
-              "image": "https://i.postimg.cc/YqJpfzfk/logo1-16-175117.png"
-            },
-            {
-              "name": "M+ Baloncesto 2",
-              "url": "acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "Leganes - CD Castellon",
-          "info": "18:30 - Segunda",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2F2vhFM7h%2Fsoccer-ball-variant.png",
-          "stations": [
-            {
-              "name": "Segunda - Leganés - CD Castellón",
-              "url": "acestream://60952921b847a9c560741b0d8048a2d8ad194a7f",
-              "image": ""
-            },
-            {
-              "name": "Segunda - Leganés - CD Castellón",
-              "url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
-            },
-            {
-              "name": "Segunda - Leganés - CD Castellón",
-              "url": "acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe",
-              "image": ""
-            },
-            {
-              "name": "Segunda - Leganés - CD Castellón",
-              "url": "acestream://1f75d92098580443857caa95a719103cb83781b0",
-              "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"
-            },
-            {
-              "name": "Segunda - Leganés - CD Castellón",
-              "url": "acestream://2c54a4def58f41fc0d2163450a63f12955b656aa",
-              "image": ""
-            }
-          ]
-        },
-        {
-          "name": "España - Croacia",
-          "info": "18:45 - Fútbol - UEFA Nations League: Fase de grupos",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Ffutbol.png",
-          "stations": [
-            {
-              "name": "La 1",
-              "url": "acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FswhGnw4%2FLa1.jpg"
-            },
-            {
-              "name": "LA 1 Spain",
-              "url": "acestream://9c079e1bbd01814c107e89187b8c24ba0ac306dd",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FswhGnw4%2FLa1.jpg"
-            },
-            {
-              "name": "La 1 TVE 4K",
-              "url": "acestream://da38a21a9509be8c03b0fdb539cb1485843330c3",
-              "image": ""
-            },
-            {
-              "name": "La 1 TVE",
-              "url": "acestream://02622fa2fab63847d88dc14fd9fa5c2fc35de8a8",
-              "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fi.ibb.co%2FswhGnw4%2FLa1.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Paris Basketball - BC Partizan Beograd",
-          "info": "18:45 - Baloncesto - Euroliga: Liga Regular",
-          "image": "https://shrill-unit-d8c2.naitsirczepol.workers.dev/proxy/https%3A%2F%2Fraw.githubusercontent.com%2Fchemaforas%2Flista_ace%2Fmain%2Ficons_png%2Fbaloncesto.png",
-          "stations": [
-            {
-              "name": "M+ Baloncesto 3",
-              "url": "acestream://7b0193004089d4d29821a5cdf17f407d0d192314",
               "image": ""
             }
           ]
